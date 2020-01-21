@@ -1,0 +1,16 @@
+{
+	"extends": [
+		"stylelint-config-standard",
+		"stylelint-config-rational-order"
+	],
+	"rules": {
+		"declaration-block-no-shorthand-property-overrides": true,
+		"declaration-empty-line-before": "never",
+		"font-family-name-quotes": "always-where-recommended",
+		"font-weight-notation": "numeric",
+		"function-url-no-scheme-relative": true,
+		"function-url-quotes": "always",
+		"indentation": "tab",
+		"string-quotes": "single"
+	}
+}
