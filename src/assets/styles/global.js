@@ -1,6 +1,8 @@
 import { createGlobalStyle } from 'styled-components';
 import Montserrat from 'assets/fonts/montserrat-v14-latin_latin-ext-regular.woff';
 import Montserrat2 from 'assets/fonts/montserrat-v14-latin_latin-ext-regular.woff2';
+import MontserratSemiBold from 'assets/fonts/montserrat-v14-latin-ext_latin-600.woff';
+import MontserratSemiBold2 from 'assets/fonts/montserrat-v14-latin-ext_latin-600.woff2';
 import MontserratExtraBold from 'assets/fonts/montserrat-v14-latin_latin-ext-800.woff';
 import MontserratExtraBold2 from 'assets/fonts/montserrat-v14-latin_latin-ext-800.woff2';
 
@@ -15,6 +17,17 @@ const GlobalStyle = createGlobalStyle`
 		local('Montserrat-Regular'),
 		url(${Montserrat}) format('woff2'),
 		url(${Montserrat2}) format('woff');
+}
+
+@font-face {
+	font-weight: 600;
+	font-family: Montserrat;
+	font-style: normal;
+	src:
+		local('Montserrat SemiBold'),
+		local('Montserrat-SemiBold'),
+		url(${MontserratSemiBold}) format('woff2'),
+		url(${MontserratSemiBold2}) format('woff');
 }
 
 @font-face {
