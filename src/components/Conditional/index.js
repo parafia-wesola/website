@@ -1,0 +1,46 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+import { Link } from 'gatsby';
+
+const ConditionalLink = ({ to, className, children }) => {
+	const firstChar = to && to.slice(0, 1);
+
+	// Gatsby Link
+	if (firstChar === '/') {
+		return (
+			<Link to={to} className={className}>
+				{children}
+			</Link>
+		);
+	}
+
+	// page scroll
+	if (firstChar === '#') {
+		return (
+			<a href={to} className={className}>
+				{children}
+			</a>
+		);
+	}
+
+	// default outer link
+	return (
+		<a href={to} className={className}>
+			{children}
+		</a>
+	);
+};
+
+ConditionalLink.propTypes = {
+	to: PropTypes.string,
+	className: PropTypes.string,
+	children: PropTypes.node,
+};
+
+ConditionalLink.defaultProps = {
+	to: null,
+	className: null,
+	children: null,
+};
+
+export default ConditionalLink;
