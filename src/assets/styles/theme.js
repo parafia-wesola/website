@@ -2,6 +2,9 @@ const theme = {
 	colors: {
 		bright: '#fff',
 		dark: '#000',
+		menu: '#28445C',
+		menuActive: '#1D3142',
+		menuColor: '#fff',
 	},
 	mq: {
 		tablet: '@media (min-width: 37.5rem)',
