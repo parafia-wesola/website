@@ -1,0 +1,31 @@
+{
+	"name": "kontakt",
+	"to": "",
+	"order": 7,
+	"sub": [
+		{
+			"name": "dane parafii",
+			"to": "/msze"
+		},
+		{
+			"name": "kancelaria parafialna",
+			"to": "/msze"
+		},
+		{
+			"name": "o. adam Strojny",
+			"to": "/msze"
+		},
+		{
+			"name": "o. krzysztof Charańczuk",
+			"to": "/msze"
+		},
+		{
+			"name": "ks. Artur Kasprzak",
+			"to": "/msze"
+		},
+		{
+			"name": "s. katarzyna Jackowska",
+			"to": "/msze"
+		}
+	]
+}

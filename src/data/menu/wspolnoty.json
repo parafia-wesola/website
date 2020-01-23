@@ -1,0 +1,43 @@
+{
+	"name": "wspólnoty i grupy",
+	"to": "",
+	"order": 3,
+	"sub": [
+		{
+			"name": "chemin neuf",
+			"to": "/msze"
+		},
+		{
+			"name": "zwiastowanie",
+			"to": "/msze"
+		},
+		{
+			"name": "służba liturgiczna ołtarza",
+			"to": "/msze"
+		},
+		{
+			"name": "chór dorosłych",
+			"to": "/msze"
+		},
+		{
+			"name": "zespół młodzieżowy",
+			"to": "/msze"
+		},
+		{
+			"name": "młodzi open",
+			"to": "/msze"
+		},
+		{
+			"name": "wiara i praca",
+			"to": "/msze"
+		},
+		{
+			"name": "nikodem",
+			"to": "/msze"
+		},
+		{
+			"name": "koło przyjaciół Radia Maryja",
+			"to": "/msze"
+		}
+	]
+}

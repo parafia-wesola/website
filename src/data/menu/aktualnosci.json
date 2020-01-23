@@ -1,0 +1,23 @@
+{
+	"name": "aktualności",
+	"to": "https://www.parafiawesola.pl/",
+	"order": 1,
+	"sub": [
+		{
+			"name": "nadchodzące wydarzenia",
+			"to": "/msze"
+		},
+		{
+			"name": "ogłoszenia",
+			"to": "/msze"
+		},
+		{
+			"name": "intencje mszalne",
+			"to": "/msze"
+		},
+		{
+			"name": "sakramenty",
+			"to": "/msze"
+		}
+	]
+}

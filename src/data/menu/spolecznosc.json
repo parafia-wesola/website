@@ -1,0 +1,19 @@
+{
+	"name": "społeczność",
+	"to": "",
+	"order": 5,
+	"sub": [
+		{
+			"name": "diecezja",
+			"to": "/msze"
+		},
+		{
+			"name": "dzielnica i okolica",
+			"to": "/msze"
+		},
+		{
+			"name": "inicjatywy społeczne",
+			"to": "/msze"
+		}
+	]
+}

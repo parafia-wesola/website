@@ -1,0 +1,51 @@
+{
+	"name": "wspólna modlitwa",
+	"to": "/",
+	"order": 0,
+	"sub": [
+		{
+			"name": "msze święte",
+			"to": "/msze"
+		},
+		{
+			"name": "adoracja",
+			"to": "/msze"
+		},
+		{
+			"name": "spowiedź",
+			"to": "/msze"
+		},
+		{
+			"name": "różaniec",
+			"to": "/msze"
+		},
+		{
+			"name": "nabożeństwa okresowe",
+			"to": "/msze"
+		},
+		{
+			"name": "uwielbienie chemin neuf",
+			"to": "/msze"
+		},
+		{
+			"name": "modlitwa wstawiennicza",
+			"to": "/msze"
+		},
+		{
+			"name": "nieszpory i spotkania ekumeniczne",
+			"to": "/msze"
+		},
+		{
+			"name": "spotkanie wspólnoty zwiastowanie",
+			"to": "/msze"
+		},
+		{
+			"name": "modlitwa ojców",
+			"to": "/msze"
+		},
+		{
+			"name": "msza święta z modlitwą o uzdrowienie",
+			"to": "/msze"
+		}
+	]
+}

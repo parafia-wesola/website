@@ -1,0 +1,23 @@
+{
+	"name": "nasza parafia",
+	"to": "",
+	"order": 2,
+	"sub": [
+		{
+			"name": "o nas",
+			"to": "/msze"
+		},
+		{
+			"name": "misja parafii",
+			"to": "/msze"
+		},
+		{
+			"name": "rada parafialna",
+			"to": "/msze"
+		},
+		{
+			"name": "kościół",
+			"to": "/msze"
+		}
+	]
+}
