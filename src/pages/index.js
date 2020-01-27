@@ -7,7 +7,6 @@ import EventList from '../components/Section/Event/index';
 const IndexPage = () => (
 	<Layout>
 		<SEO title="Strona główna" />
-		<h1>Witaj!</h1>
 		<EventList />
 	</Layout>
 );

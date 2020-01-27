@@ -1,16 +1,30 @@
 import React from 'react';
+import PropTypes from 'prop-types';
+import { Link } from 'gatsby';
 import { Wrapper, Date, Title, Content } from './styles';
 
-const EventItem = () => (
+const EventItem = ({ title, slug, eventDate, content }) => (
 	<Wrapper>
-		<Title>Święto Wniebowzięcia Najświętszej Maryi Panny</Title>
-		<Date>15 sierpnia</Date>
-		<Content>
-			Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-			Lorem Ipsum has been the industrys standard dummy text ever since the
-			1500s, when an unknown printer took a galley of type and scrambled{' '}
-		</Content>
+		<Title as={Link} to={`articles/${slug}`}>
+			{title}
+		</Title>
+		<Date>{eventDate}</Date>
+		<Content>{content}</Content>
 	</Wrapper>
 );
+
+EventItem.propTypes = {
+	title: PropTypes.string,
+	slug: PropTypes.string,
+	eventDate: PropTypes.string,
+	content: PropTypes.string,
+};
+
+EventItem.defaultProps = {
+	title: null,
+	slug: null,
+	eventDate: null,
+	content: null,
+};
 
 export default EventItem;
