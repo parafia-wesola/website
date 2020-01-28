@@ -5,6 +5,7 @@ const theme = {
 		menu: '#28445C',
 		menuActive: '#1D3142',
 		menuColor: '#fff',
+		newsFeedBorder: '#b4b2b2',
 		gold: '#F9A602',
 		gray: '#F8F8F8',
 	},
