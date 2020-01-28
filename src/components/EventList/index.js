@@ -8,7 +8,10 @@ const EventList = () => {
 		allMarkdownRemark: { events },
 	} = useStaticQuery(graphql`
 		query {
-			allMarkdownRemark(filter: { frontmatter: { eventDate: { gt: "0" } } }) {
+			allMarkdownRemark(
+				sort: { order: ASC, fields: frontmatter___eventDate }
+				filter: { frontmatter: { eventDate: { gt: "0" } } }
+			) {
 				events: edges {
 					node {
 						frontmatter {
@@ -26,9 +29,10 @@ const EventList = () => {
 
 	return (
 		<>
-			{events.map(({ node }) => (
+			{events.map(({ node }, index) => (
 				<EventItem
 					key={node.id}
+					index={index}
 					title={node.frontmatter.title}
 					reference={node.frontmatter.slug}
 					eventDate={node.frontmatter.eventDate}
