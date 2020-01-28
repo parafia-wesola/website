@@ -5,6 +5,7 @@ const theme = {
 		menu: '#28445C',
 		menuActive: '#1D3142',
 		menuColor: '#fff',
+		newsFeedBorder: '#b4b2b2',
 	},
 	mq: {
 		tablet: '@media (min-width: 37.5rem)',
