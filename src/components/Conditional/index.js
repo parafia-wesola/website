@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
+import Scroll from 'components/SmoothScroll';
 
 const ConditionalLink = ({ to, className, children }) => {
 	const firstChar = to && to.slice(0, 1);
@@ -17,9 +18,9 @@ const ConditionalLink = ({ to, className, children }) => {
 	// page scroll
 	if (firstChar === '#') {
 		return (
-			<a href={to} className={className}>
+			<Scroll to={to} className={className}>
 				{children}
-			</a>
+			</Scroll>
 		);
 	}
 

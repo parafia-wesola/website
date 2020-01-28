@@ -1,17 +1,34 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import { ThemeProvider } from 'styled-components';
 import GlobalStyle from 'assets/styles/global';
 import theme from 'assets/styles/theme';
 import Navbar from 'components/Sections/Navbar';
+import { SmoothScrollContext } from 'components/SmoothScroll';
 
-const Layout = ({ children }) => (
-	<ThemeProvider theme={theme}>
-		<GlobalStyle />
-		<Navbar />
-		<main>{children}</main>
-	</ThemeProvider>
-);
+const Layout = ({ children }) => {
+	const [navbarHeight, setNavbarHeight] = useState(0);
+
+	useEffect(() => {
+		const navbar = document.querySelector('#navbar');
+		setNavbarHeight(navbar.offsetHeight);
+		const handleResize = () => setNavbarHeight(navbar.offsetHeight);
+		window.addEventListener('resize', handleResize);
+		return () => {
+			window.removeEventListener('resize', handleResize);
+		};
+	}, []);
+
+	return (
+		<ThemeProvider theme={theme}>
+			<SmoothScrollContext.Provider value={navbarHeight}>
+				<GlobalStyle />
+				<Navbar />
+				<main>{children}</main>
+			</SmoothScrollContext.Provider>
+		</ThemeProvider>
+	);
+};
 
 Layout.propTypes = {
 	children: PropTypes.node.isRequired,
