@@ -43,7 +43,6 @@ export const Date = styled.div`
 
 	${({ reverse }) => reverse === 'reverse'
 	&& `
-	grid-row: 1/2;
 	grid-column: 2/3;
 	justify-self: end;
 	`}
@@ -63,23 +62,19 @@ export const Title = styled.h3`
 	grid-row: 1/2;
 	grid-column: 2/3;
 	align-self: center;
-	font-size: 1.4em;
 	font-weight: 600;
+	font-size: 1.4em;
 	line-height: 1.35;
 
+	${({ reverse }) => reverse === 'reverse'
+	&& `
+	grid-column: 1/2;
+	`}
 	${({ theme }) => theme.mq.tablet} {
-		grid-row: 1/2;
 		grid-column: 2/3;
 		align-self: end;
 		margin: 0.5em 0;
 	}
-
-	${({ theme, reverse }) => theme.mq.tablet
-		&& reverse === 'reverse'
-		&& `
-		grid-row: 1/2;
-		grid-column: 1/2;
-	`}
 `;
 
 export const Content = styled.p`
@@ -90,7 +85,6 @@ export const Content = styled.p`
 	text-justify: inter-word;
 
 	${({ theme }) => theme.mq.tablet} {
-		grid-row: 2/3;
 		grid-column: 2/3;
 		margin: 0;
 	}

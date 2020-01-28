@@ -15,7 +15,7 @@ const EventList = () => {
 				events: edges {
 					node {
 						frontmatter {
-							eventDate(formatString: "MM DD")
+							eventDate(formatString: "DD MM")
 							title
 							slug
 						}
@@ -34,7 +34,7 @@ const EventList = () => {
 					key={node.id}
 					index={index}
 					title={node.frontmatter.title}
-					reference={node.frontmatter.slug}
+					reference={`articles/${node.frontmatter.slug}`}
 					eventDate={node.frontmatter.eventDate}
 					content={node.excerpt}
 				/>
