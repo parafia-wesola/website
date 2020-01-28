@@ -5,6 +5,8 @@ const theme = {
 		menu: '#28445C',
 		menuActive: '#1D3142',
 		menuColor: '#fff',
+		gold: '#F9A602',
+		gray: '#F8F8F8',
 	},
 	mq: {
 		tablet: '@media (min-width: 37.5rem)',
