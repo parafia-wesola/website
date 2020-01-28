@@ -2,7 +2,6 @@ import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
 import EventItem from './Item/index';
-import SectionTitle from '../../Share/SectionTitle';
 
 const EventList = () => {
 	const {
@@ -13,27 +12,27 @@ const EventList = () => {
 				events: edges {
 					node {
 						frontmatter {
-							eventDate(formatString: "")
+							eventDate(formatString: "MM DD")
 							title
 							slug
 						}
-						excerpt
+						excerpt(pruneLength: 320)
 						id
 					}
 				}
 			}
 		}
 	`);
+
 	return (
 		<>
-			<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
-			{events.map(event => (
+			{events.map(({ node }) => (
 				<EventItem
-					key={event.node.id}
-					title={event.node.frontmatter.title}
-					slug={event.node.frontmatter.slug}
-					eventDate={event.node.frontmatter.eventDate}
-					content={event.node.excerpt}
+					key={node.id}
+					title={node.frontmatter.title}
+					reference={node.frontmatter.slug}
+					eventDate={node.frontmatter.eventDate}
+					content={node.excerpt}
 				/>
 			))}
 		</>
