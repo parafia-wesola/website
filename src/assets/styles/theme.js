@@ -6,6 +6,8 @@ const theme = {
 		menuActive: '#1D3142',
 		menuColor: '#fff',
 		newsFeedBorder: '#b4b2b2',
+		gold: '#F9A602',
+		gray: '#F8F8F8',
 	},
 	mq: {
 		tablet: '@media (min-width: 37.5rem)',
