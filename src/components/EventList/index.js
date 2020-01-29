@@ -10,7 +10,10 @@ const EventList = () => {
 		query {
 			allMarkdownRemark(
 				sort: { order: ASC, fields: frontmatter___eventDate }
-				filter: { frontmatter: { eventDate: { gt: "0" } } }
+				filter: {
+					frontmatter: { eventDate: { gt: "0" } }
+					fields: { directory: { eq: "articles" } }
+				}
 			) {
 				events: edges {
 					node {

@@ -1,11 +1,24 @@
 const path = require('path');
 
+exports.onCreateNode = ({ node, actions, getNode }) => {
+	const { createNodeField } = actions;
+
+	if (node.internal.type === 'MarkdownRemark') {
+		const fileNode = getNode(node.parent);
+		createNodeField({
+			node,
+			name: 'directory',
+			value: fileNode.relativeDirectory,
+		});
+	}
+};
+
 exports.createPages = async ({ graphql, actions }) => {
 	const { createPage } = actions;
 
 	const result = await graphql(`
 		{
-			allMarkdownRemark {
+			allMarkdownRemark(filter: { fields: { directory: { eq: "articles" } } }) {
 				edges {
 					node {
 						id
