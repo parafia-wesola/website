@@ -8,7 +8,10 @@ const NewsFeed = ({ className }) => {
 	const { allMarkdownRemark } = useStaticQuery(graphql`
 		{
 			allMarkdownRemark(
-				filter: { frontmatter: { order: { ne: null } } }
+				filter: {
+					frontmatter: { order: { ne: null } }
+					fields: { directory: { eq: "articles" } }
+				}
 				sort: { order: ASC, fields: frontmatter___order }
 			) {
 				edges {
