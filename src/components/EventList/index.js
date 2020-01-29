@@ -2,6 +2,7 @@ import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
 import EventItem from './Item/index';
+import List from './styles';
 
 const EventList = () => {
 	const {
@@ -32,16 +33,20 @@ const EventList = () => {
 
 	return (
 		<>
-			{events.map(({ node }, index) => (
-				<EventItem
-					key={node.id}
-					index={index}
-					title={node.frontmatter.title}
-					reference={`articles/${node.frontmatter.slug}`}
-					eventDate={node.frontmatter.eventDate}
-					content={node.excerpt}
-				/>
-			))}
+			<List>
+				{events.map(({ node }, index) => (
+					<li>
+						<EventItem
+							key={node.id}
+							index={index}
+							title={node.frontmatter.title}
+							reference={`articles/${node.frontmatter.slug}`}
+							eventDate={node.frontmatter.eventDate}
+							content={node.excerpt}
+						/>
+					</li>
+				))}
+			</List>
 		</>
 	);
 };
