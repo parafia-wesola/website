@@ -1,36 +1,42 @@
 {
-	"id": 1,
-	"title": "suggestions",
-	"image": "./images/doggobackground.png",
+	"id": "suggestions",
+	"title": "Propozycje",
+	"image": "./images/suggestions-background.jpeg",
 	"tiles": [
 		{
 			"id": "123",
-			"title": "tile1",
-			"image": "./images/doggo1.jpg",
+			"title": "Dzieci",
+			"image": "./images/dzieci.jpeg",
 			"to": "/"
 		},
 		{
 			"id": "124",
-			"title": "tile2",
-			"image": "./images/doggo2.jpeg",
+			"title": "Młodzież",
+			"image": "./images/młodzież.jpeg",
 			"to": "/"
 		},
 		{
 			"id": "125",
-			"title": "tile3",
-			"image": "./images/doggo3.jpg",
+			"title": "Dorośli",
+			"image": "./images/dorośli.jpeg",
 			"to": "/"
 		},
 		{
 			"id": "126",
-			"title": "tile4",
-			"image": "./images/doggo4.jpeg",
+			"title": "Narzeczeni",
+			"image": "./images/narzeczeni.jpeg",
 			"to": "/"
 		},
 		{
 			"id": "127",
-			"title": "tile5",
-			"image": "./images/doggo5.jpg",
+			"title": "Małżeństwa",
+			"image": "./images/małżeństwa.jpeg",
+			"to": "/"
+		},
+		{
+			"id": "129",
+			"title": "Rodzice",
+			"image": "./images/rodzice.jpeg",
 			"to": "/"
 		}
 	]

@@ -1,31 +1,48 @@
 {
-	"id": 2,
-	"title": "sacraments",
-	"image": "./images/doggobackground.png",
+	"id": "sacraments",
+	"title": "Sakramenty i sakramentalia",
+	"image": "./images/sacraments-background.jpeg",
 	"tiles": [
 		{
-			"title": "tile1",
-			"image": "./images/doggo1.jpg",
+			"id": "251",
+			"title": "Chrzest",
+			"image": "./images/chrzest.jpeg",
 			"to": "/"
 		},
 		{
-			"title": "tile2",
-			"image": "./images/doggo2.jpeg",
+			"id": "252",
+			"title": "Eucharystia",
+			"image": "./images/eucharystia.jpeg",
 			"to": "/"
 		},
 		{
-			"title": "tile3",
-			"image": "./images/doggo3.jpg",
+			"id": "253",
+			"title": "Bierzmowanie",
+			"image": "./images/bierzmowanie.jpeg",
 			"to": "/"
 		},
 		{
-			"title": "tile4",
-			"image": "./images/doggo4.jpeg",
+			"id": "254",
+			"title": "Spowiedź",
+			"image": "./images/spowiedź.jpeg",
 			"to": "/"
 		},
 		{
-			"title": "tile5",
-			"image": "./images/doggo5.jpg",
+			"id": "255",
+			"title": "Małżeństwo",
+			"image": "./images/małżeństwa.jpeg",
+			"to": "/"
+		},
+		{
+			"id": "256",
+			"title": "Posługa chorym",
+			"image": "./images/posługa-chorym.jpeg",
+			"to": "/"
+		},
+		{
+			"id": "257",
+			"title": "Pogrzeb",
+			"image": "./images/pogrzeb.jpeg",
 			"to": "/"
 		}
 	]
