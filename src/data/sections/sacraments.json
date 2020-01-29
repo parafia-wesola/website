@@ -1,0 +1,32 @@
+{
+	"id": 2,
+	"title": "sacraments",
+	"image": "./images/doggobackground.png",
+	"tiles": [
+		{
+			"title": "tile1",
+			"image": "./images/doggo1.jpg",
+			"to": "/"
+		},
+		{
+			"title": "tile2",
+			"image": "./images/doggo2.jpeg",
+			"to": "/"
+		},
+		{
+			"title": "tile3",
+			"image": "./images/doggo3.jpg",
+			"to": "/"
+		},
+		{
+			"title": "tile4",
+			"image": "./images/doggo4.jpeg",
+			"to": "/"
+		},
+		{
+			"title": "tile5",
+			"image": "./images/doggo5.jpg",
+			"to": "/"
+		}
+	]
+}

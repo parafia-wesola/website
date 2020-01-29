@@ -1,0 +1,37 @@
+{
+	"id": 1,
+	"title": "suggestions",
+	"image": "./images/doggobackground.png",
+	"tiles": [
+		{
+			"id": "123",
+			"title": "tile1",
+			"image": "./images/doggo1.jpg",
+			"to": "/"
+		},
+		{
+			"id": "124",
+			"title": "tile2",
+			"image": "./images/doggo2.jpeg",
+			"to": "/"
+		},
+		{
+			"id": "125",
+			"title": "tile3",
+			"image": "./images/doggo3.jpg",
+			"to": "/"
+		},
+		{
+			"id": "126",
+			"title": "tile4",
+			"image": "./images/doggo4.jpeg",
+			"to": "/"
+		},
+		{
+			"id": "127",
+			"title": "tile5",
+			"image": "./images/doggo5.jpg",
+			"to": "/"
+		}
+	]
+}
