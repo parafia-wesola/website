@@ -4,7 +4,7 @@ export const Wrapper = styled.div`
 	display: grid;
 	grid-template-columns: 7.5rem auto;
 	margin: 0 auto;
-	padding: 2em;
+	padding: 2em 0;
 	color: ${({ theme }) => theme.colors.dark};
 	text-decoration: none;
 	transition: all 0.2s ease-in-out;

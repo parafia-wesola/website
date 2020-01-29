@@ -13,7 +13,7 @@ export const Header = styled.header`
 	${({ theme }) => theme.mq.tabletMid} {
 		position: relative;
 		margin: 0 auto;
-		padding: 1.5em 0;
+		padding: 1.5em 0.75rem;
 	}
 `;
 
