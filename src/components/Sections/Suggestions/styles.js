@@ -1,9 +1,47 @@
 import styled from 'styled-components';
 
-const Wrapper = styled.section`
+export const Wrapper = styled.section`
+	position: relative;
 	max-width: 1360px;
 	margin: 0 auto;
-	padding: 6em 2rem;
+	padding: 4em 1.5rem;
+
+	${({ theme }) => theme.mq.tabletMid} {
+		padding: 6em 1.5rem;
+	}
 `;
 
-export default Wrapper;
+export const ImageWrapper = styled.div`
+	position: absolute !important;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	width: 100%;
+	max-width: 1360px;
+	height: 100%;
+
+	& img {
+		object-fit: cover !important;
+		object-position: 0 bottom !important;
+	}
+`;
+
+export const List = styled.ul`
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 0;
+	padding: 0 2rem;
+	${({ theme }) => theme.mq.desktop} {
+		padding: 0 4rem;
+	}
+	list-style-type: none;
+`;
+
+export const ListItem = styled.ul`
+	margin: 20px 2rem;
+	padding: 0;
+	${({ theme }) => theme.mq.desktop} {
+		margin: 20px 3rem;
+	}
+`;

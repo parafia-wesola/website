@@ -1,16 +1,15 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Link } from 'gatsby';
 import Img from 'gatsby-image';
 
-// import ImageWrapper from './styles';
+import ConditionalLink from 'components/Conditional';
+import { Wrapper, Title, ImageWrapper } from './styles';
 
 const TileItem = ({ title, to, image }) => (
-	<div>
-		<div>{title}</div>
-		<Link to={to}>im link</Link>
-		<Img fluid={image} />
-	</div>
+	<Wrapper as={ConditionalLink} to={to}>
+		<ImageWrapper as={Img} fluid={image} />
+		<Title>{title}</Title>
+	</Wrapper>
 );
 
 export default TileItem;
