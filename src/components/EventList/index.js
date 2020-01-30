@@ -35,9 +35,8 @@ const EventList = () => {
 		<>
 			<List>
 				{events.map(({ node }, index) => (
-					<li>
+					<li key={node.id}>
 						<EventItem
-							key={node.id}
 							index={index}
 							title={node.frontmatter.title}
 							reference={`articles/${node.frontmatter.slug}`}
