@@ -36,7 +36,7 @@ const SacramentsSection = () => {
 		}
 	`);
 	return (
-		<Wrapper>
+		<Wrapper id={sacraments.id}>
 			<ImageWrapper as={Img} fluid={sacraments.image.childImageSharp.fluid} />
 			<SectionTitle>{sacraments.title}</SectionTitle>
 			<List>

@@ -36,16 +36,16 @@ const SuggestionsSection = () => {
 		}
 	`);
 	return (
-		<Wrapper>
+		<Wrapper id={suggestions.id}>
 			<ImageWrapper as={Img} fluid={suggestions.image.childImageSharp.fluid} />
 			<SectionTitle>{suggestions.title}</SectionTitle>
 			<List>
-				{suggestions.tiles.map(node => (
-					<ListItem key={node.id}>
+				{suggestions.tiles.map(tile => (
+					<ListItem key={tile.id}>
 						<Tile
-							title={node.title}
-							to={node.to}
-							image={node.image.childImageSharp.fluid}
+							title={tile.title}
+							to={tile.to}
+							image={tile.image.childImageSharp.fluid}
 						/>
 					</ListItem>
 				))}
