@@ -4,6 +4,7 @@ import { ThemeProvider } from 'styled-components';
 import GlobalStyle from 'assets/styles/global';
 import theme from 'assets/styles/theme';
 import Navbar from 'components/Sections/Navbar';
+import Footer from 'components/Sections/Footer';
 import { SmoothScrollContext } from 'components/SmoothScroll';
 
 const Layout = ({ children }) => {
@@ -25,6 +26,7 @@ const Layout = ({ children }) => {
 				<GlobalStyle />
 				<Navbar />
 				<main>{children}</main>
+				<Footer />
 			</SmoothScrollContext.Provider>
 		</ThemeProvider>
 	);
