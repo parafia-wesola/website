@@ -8,6 +8,10 @@ const theme = {
 		newsFeedBorder: '#b4b2b2',
 		gold: '#F9A602',
 		gray: '#F8F8F8',
+		annoucementTitle: '#BE0F0F',
+		annoucementText: '#000',
+		annoucementBorder: '#707070',
+		annoucementBackground: '#FFF',
 	},
 	mq: {
 		tablet: '@media (min-width: 37.5rem)',
