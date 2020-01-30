@@ -5,14 +5,15 @@ import GlobalStyle from 'assets/styles/global';
 import theme from 'assets/styles/theme';
 import Navbar from 'components/Sections/Navbar';
 import { SmoothScrollContext } from 'components/SmoothScroll';
+import { heightOnMobile } from 'utils';
 
 const Layout = ({ children }) => {
 	const [navbarHeight, setNavbarHeight] = useState(0);
 
 	useEffect(() => {
 		const navbar = document.querySelector('#navbar');
-		setNavbarHeight(navbar.offsetHeight);
-		const handleResize = () => setNavbarHeight(navbar.offsetHeight);
+		setNavbarHeight(heightOnMobile(672, navbar));
+		const handleResize = () => setNavbarHeight(heightOnMobile(672, navbar));
 		window.addEventListener('resize', handleResize);
 		return () => {
 			window.removeEventListener('resize', handleResize);

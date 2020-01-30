@@ -12,8 +12,8 @@ const SmoothScroll = ({ to, duration, onClick, className, children }) => {
 		const easeInOutCubic = t => t < 0.5 ? 4 * t * t * t : (t - 1) * (2 * t - 2) * (2 * t - 2) + 1;
 
 		const position = (start, end, elapsed) => {
-			const path = start + (end - start);
-			return path * easeInOutCubic(elapsed / duration);
+			const speed = easeInOutCubic(elapsed / duration);
+			return start + (end - start) * speed;
 		};
 
 		const start = window.pageYOffset;
