@@ -20,6 +20,17 @@ export const ImageWrapper = styled.div`
 	max-width: 1360px;
 	height: 100%;
 
+	/* for darkening the background */
+	&::before {
+		position: absolute;
+		z-index: 1;
+		width: 100%;
+		height: 100%;
+		background: #000;
+		opacity: 0.15;
+		content: '';
+	}
+
 	& img {
 		object-fit: cover !important;
 		object-position: 0 bottom !important;
