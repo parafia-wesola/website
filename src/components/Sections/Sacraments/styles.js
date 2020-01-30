@@ -7,7 +7,7 @@ export const Wrapper = styled.section`
 	padding: 4em 1.5rem;
 
 	${({ theme }) => theme.mq.tabletMid} {
-		padding: 6em 1.5rem;
+		padding: 6em 0;
 	}
 `;
 
@@ -36,6 +36,6 @@ export const List = styled.ul`
 `;
 
 export const ListItem = styled.ul`
-	margin: 20px 2rem;
+	margin: 20px 3rem;
 	padding: 0;
 `;

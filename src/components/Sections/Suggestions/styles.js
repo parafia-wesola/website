@@ -7,7 +7,7 @@ export const Wrapper = styled.section`
 	padding: 4em 1.5rem;
 
 	${({ theme }) => theme.mq.tabletMid} {
-		padding: 6em 1.5rem;
+		padding: 6em 0;
 	}
 `;
 
@@ -30,18 +30,13 @@ export const List = styled.ul`
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	margin: 0;
-	padding: 0 2rem;
-	${({ theme }) => theme.mq.desktop} {
-		padding: 0 4rem;
-	}
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0;
 	list-style-type: none;
 `;
 
 export const ListItem = styled.ul`
-	margin: 20px 2rem;
+	margin: 20px 3rem;
 	padding: 0;
-	${({ theme }) => theme.mq.desktop} {
-		margin: 20px 3rem;
-	}
 `;
