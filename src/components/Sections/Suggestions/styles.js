@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Wrapper = styled.section`
 	position: relative;
 	max-width: 1360px;
-	margin: 0 auto;
+	margin: 6em auto 2em;
 	padding: 4em 1.5rem;
 
 	${({ theme }) => theme.mq.tabletMid} {

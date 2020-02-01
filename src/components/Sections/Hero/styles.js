@@ -6,7 +6,7 @@ export const HeroWrapper = styled.section`
 	margin: 0 auto;
 	padding: 8em 0 4em;
 	${({ theme }) => theme.mq.tabletMid} {
-		padding: 6em 0;
+		padding: 2em 0 6em;
 	}
 `;
 
