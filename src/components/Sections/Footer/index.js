@@ -1,13 +1,12 @@
 import React from 'react';
 
 import FooterList from 'components/FooterList';
-
 import Wrapper from './styles';
 
-const FooterSection = () => (
+const Footer = () => (
 	<Wrapper>
 		<FooterList />
 	</Wrapper>
 );
 
-export default FooterSection;
+export default Footer;
