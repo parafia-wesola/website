@@ -36,14 +36,17 @@ export const ImageWrapper = styled.div`
 	width: 200px;
 	height: 200px;
 
-	&::before {
-		position: absolute;
-		z-index: 1;
-		width: 100%;
-		height: 100%;
-		background: #000;
-		opacity: 0.4;
-		transition: opacity 0.5s ease-in-out;
-		content: '';
+	/* darker overlay */
+	${({ theme }) => theme.mq.desktop} {
+		&::before {
+			position: absolute;
+			z-index: 1;
+			width: 100%;
+			height: 100%;
+			background: #000;
+			opacity: 0.4;
+			transition: opacity 0.5s ease-in-out;
+			content: '';
+		}
 	}
 `;
