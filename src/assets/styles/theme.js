@@ -5,7 +5,7 @@ const theme = {
 		menu: '#28445C',
 		menuActive: '#1D3142',
 		menuColor: '#fff',
-		newsFeedBorder: '#b4b2b2',
+		newsFeedBorder: '#B4B2B2',
 		gold: '#F9A602',
 		gray: '#F8F8F8',
 		annoucementTitle: '#BE0F0F',
@@ -14,6 +14,9 @@ const theme = {
 		annoucementBackground: '#FFF',
 		overlapBackground: '#9E0B0F',
 		overlapColor: '#FFF',
+		footerBackground: '#B22222',
+		footerActiveLink: '#CCC',
+		footerCopyright: '#800000',
 	},
 	mq: {
 		mobileMid: '@media (min-width: 23.5rem)',
