@@ -36,7 +36,7 @@ const FooterSocialMedia = () => {
 		<>
 			<SocialMedia>
 				{socials.map(({ node }) => (
-					<SocialMedium mobile={node.mobile}>
+					<SocialMedium key={node.id} mobile={node.mobile}>
 						<ConditionalLink to={node.to}>
 							<Logo src={node.image.src.publicURL} alt={node.image.name} />
 						</ConditionalLink>
