@@ -3,9 +3,9 @@ import { graphql, useStaticQuery } from 'gatsby';
 
 import ConditionalLink from 'components/Conditional';
 
-import { SocialMedia, SocialMedium, Logo, Text } from './styles';
+import { Wrapper, SocialItem, SocialButton, Logo, Text } from './styles';
 
-const FooterSocialMedia = () => {
+const SocialMedia = () => {
 	const {
 		allSocialmediaJson: { socials },
 	} = useStaticQuery(graphql`
@@ -31,17 +31,17 @@ const FooterSocialMedia = () => {
 	`);
 
 	return (
-		<SocialMedia>
+		<Wrapper>
 			{socials.map(({ node }) => (
-				<SocialMedium key={node.id} mobile={node.mobile}>
-					<ConditionalLink to={node.to}>
+				<SocialItem key={node.id}>
+					<SocialButton as={ConditionalLink} to={node.to} mobile={node.mobile}>
 						<Logo src={node.image.src.publicURL} alt={node.image.name} />
-					</ConditionalLink>
-					<Text>{node.text}</Text>
-				</SocialMedium>
+						<Text>{node.text}</Text>
+					</SocialButton>
+				</SocialItem>
 			))}
-		</SocialMedia>
+		</Wrapper>
 	);
 };
 
-export default FooterSocialMedia;
+export default SocialMedia;

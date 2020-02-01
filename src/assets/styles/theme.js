@@ -9,6 +9,7 @@ const theme = {
 		gold: '#F9A602',
 		gray: '#F8F8F8',
 		footerBackground: '#B22222',
+		footerActiveLink: '#CCC',
 		footerCopyright: '#800000',
 	},
 	mq: {

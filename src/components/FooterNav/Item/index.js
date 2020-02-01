@@ -5,7 +5,7 @@ import ConditionalLink from 'components/Conditional';
 
 import { Wrapper, Title, List, ListItem, StyledLink } from './styles';
 
-const FooterItem = ({ title, to, sub }) => (
+const NavItem = ({ title, to, sub }) => (
 	<Wrapper>
 		<Title as={ConditionalLink} to={to}>
 			{title}
@@ -22,10 +22,10 @@ const FooterItem = ({ title, to, sub }) => (
 	</Wrapper>
 );
 
-FooterItem.propTypes = {
+NavItem.propTypes = {
 	title: PropTypes.string.isRequired,
 	to: PropTypes.string.isRequired,
 	sub: PropTypes.arrayOf(PropTypes.object).isRequired,
 };
 
-export default FooterItem;
+export default NavItem;

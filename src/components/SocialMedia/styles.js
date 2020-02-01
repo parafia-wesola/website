@@ -1,29 +1,45 @@
 import styled from 'styled-components';
 
-export const SocialMedia = styled.ul`
+export const Wrapper = styled.ul`
 	display: flex;
 	justify-content: space-around;
 	margin: 0;
-	padding: 1.5rem 0 0 0;
+	padding: 0;
 	list-style-type: none;
+
 	${({ theme }) => theme.mq.desktop} {
-		display: inline;
-		padding: 2rem 1rem 0 0;
+		flex-direction: column;
+		justify-content: flex-start;
 	}
 `;
 
-export const SocialMedium = styled.li`
-display: flex;
-flex-direction: column;
-align-items: center;
-margin: 1rem;
-text-align: center;
-${({ theme }) => theme.mq.desktop} {
-	${({ mobile }) => mobile === 'true'
+export const SocialItem = styled.li`
+	margin: 1rem;
+`;
+
+export const SocialButton = styled.a`
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	align-items: center;
+	color: inherit;
+	font: inherit;
+	text-align: center;
+	text-decoration: none;
+	transition: transform 0.2s ease-in-out;
+
+	:hover,
+	:active {
+		transform: scale(1.1);
+	}
+
+	${({ theme }) => theme.mq.desktop} {
+		flex: 0 1 auto;
+		${({ mobile }) => mobile === 'true'
 			&& `
-    display: none;
-`}
-}
+			display: none;
+	`}
+	}
 `;
 
 export const Logo = styled.img`
@@ -36,7 +52,7 @@ export const Logo = styled.img`
 `;
 
 export const Text = styled.p`
-font-size: 0.5em;
+font-size: 0.6em;
 
 ${({ theme }) => theme.mq.tabletMid} {
 	font-size: 0.8em;

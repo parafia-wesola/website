@@ -1,13 +1,33 @@
 import styled from 'styled-components';
 
-const Wrapper = styled.footer`
+export const Wrapper = styled.div`
 	max-width: 1360px;
 	margin: 0 auto;
-	padding: 4em 0 0;
+	padding: 2em 0;
 	color: ${({ theme }) => theme.colors.bright};
-	${({ theme }) => theme.mq.tabletMid} {
-		padding: 6em 0 0;
+	background: ${({ theme }) => theme.colors.footerBackground};
+	${({ theme }) => theme.mq.desktop} {
+		display: grid;
+		grid-template-columns: 90% 10%;
+		padding: 4em 1.5rem;
 	}
 `;
 
-export default Wrapper;
+export const StyledNav = styled.nav`
+	display: none;
+	${({ theme }) => theme.mq.desktop} {
+		display: flex;
+	}
+`;
+
+export const Copyright = styled.p`
+	width: 100%;
+	max-width: 1360px;
+	margin: 0 auto;
+	padding: 0.5em 0;
+	color: ${({ theme }) => theme.colors.bright};
+	font-size: 0.7em;
+	line-height: 2;
+	text-align: center;
+	background: ${({ theme }) => theme.colors.footerCopyright};
+`;
