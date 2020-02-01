@@ -33,6 +33,7 @@ export const Title = styled.h3`
 
 export const ImageWrapper = styled.div`
 	position: relative;
+	z-index: -1;
 	width: 200px;
 	height: 200px;
 

@@ -13,7 +13,6 @@ export const HeroWrapper = styled.section`
 export const MenuStyled = styled.div`
 	display: none;
 	${({ theme }) => theme.mq.tabletMid} {
-		z-index: 1;
 		display: block;
 		width: 30%;
 		min-width: 280px;

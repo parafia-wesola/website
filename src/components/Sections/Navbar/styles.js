@@ -12,6 +12,7 @@ export const Header = styled.header`
 	background: ${({ theme }) => theme.colors.bright};
 	${({ theme }) => theme.mq.tabletMid} {
 		position: relative;
+		z-index: auto;
 		margin: 0 auto;
 		padding: 1.5em 0.75rem;
 	}
