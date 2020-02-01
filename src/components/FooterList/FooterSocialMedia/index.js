@@ -3,11 +3,9 @@ import { graphql, useStaticQuery } from 'gatsby';
 
 import ConditionalLink from 'components/Conditional';
 
-import { SocialMedia, SocialMedium, Logo, Text, Copyright } from './styles';
+import { SocialMedia, SocialMedium, Logo, Text } from './styles';
 
 const FooterSocialMedia = () => {
-	const actualDate = new Date();
-
 	const {
 		allSocialmediaJson: { socials },
 	} = useStaticQuery(graphql`
@@ -33,22 +31,16 @@ const FooterSocialMedia = () => {
 	`);
 
 	return (
-		<>
-			<SocialMedia>
-				{socials.map(({ node }) => (
-					<SocialMedium key={node.id} mobile={node.mobile}>
-						<ConditionalLink to={node.to}>
-							<Logo src={node.image.src.publicURL} alt={node.image.name} />
-						</ConditionalLink>
-						<Text>{node.text}</Text>
-					</SocialMedium>
-				))}
-			</SocialMedia>
-			<Copyright>
-				copyright © Rzymskokatolicka Parafia Opatrzności Bożej Warszawa Wesoła
-				{` ${actualDate.getFullYear()}`} | developed by las media
-			</Copyright>
-		</>
+		<SocialMedia>
+			{socials.map(({ node }) => (
+				<SocialMedium key={node.id} mobile={node.mobile}>
+					<ConditionalLink to={node.to}>
+						<Logo src={node.image.src.publicURL} alt={node.image.name} />
+					</ConditionalLink>
+					<Text>{node.text}</Text>
+				</SocialMedium>
+			))}
+		</SocialMedia>
 	);
 };
 

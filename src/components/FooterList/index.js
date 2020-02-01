@@ -3,7 +3,7 @@ import { graphql, useStaticQuery } from 'gatsby';
 
 import FooterNavList from './FooterNavList/index';
 import FooterSocialMedia from './FooterSocialMedia/index';
-import { Wrapper, List, ListItem } from './styles';
+import { Wrapper, List, ListItem, Copyright } from './styles';
 
 const FooterList = () => {
 	const {
@@ -25,7 +25,7 @@ const FooterList = () => {
 			}
 		}
 	`);
-
+	const actualDate = new Date();
 	return (
 		<Wrapper>
 			<List>
@@ -37,6 +37,11 @@ const FooterList = () => {
 			</List>
 
 			<FooterSocialMedia />
+
+			<Copyright>
+				copyright © Rzymskokatolicka Parafia Opatrzności Bożej Warszawa Wesoła
+				{` ${actualDate.getFullYear()}`} | developed by las media
+			</Copyright>
 		</Wrapper>
 	);
 };

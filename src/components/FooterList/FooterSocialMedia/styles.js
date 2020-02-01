@@ -52,17 +52,3 @@ ${({ fullPage }) => fullPage === 'true'
     text-decoration: none;
 `}
 `;
-
-export const Copyright = styled.p`
-	position: relative;
-	grid-column: 1/3;
-	width: 100%;
-	margin: 0 auto;
-	font-size: 0.4em;
-	line-height: 2em;
-	text-align: center;
-	background: ${({ theme }) => theme.colors.footerCopyright};
-	${({ theme }) => theme.mq.tabletMid} {
-		font-size: 0.7em;
-	}
-`;

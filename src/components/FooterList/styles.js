@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Wrapper = styled.div`
+export const Wrapper = styled.nav`
 	background: ${({ theme }) => theme.colors.footerBackground};
 	${({ theme }) => theme.mq.desktop} {
 		display: grid;
@@ -23,4 +23,18 @@ export const List = styled.ul`
 
 export const ListItem = styled.li`
 	margin: 1rem 1.5rem;
+`;
+
+export const Copyright = styled.p`
+	position: relative;
+	grid-column: 1/3;
+	width: 100%;
+	margin: 0 auto;
+	font-size: 0.4em;
+	line-height: 2em;
+	text-align: center;
+	background: ${({ theme }) => theme.colors.footerCopyright};
+	${({ theme }) => theme.mq.tabletMid} {
+		font-size: 0.7em;
+	}
 `;
