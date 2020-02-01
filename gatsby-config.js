@@ -14,6 +14,7 @@ module.exports = {
 		'gatsby-plugin-styled-components',
 		'gatsby-transformer-json',
 		'gatsby-transformer-remark',
+		'gatsby-plugin-modal-routing',
 		{
 			resolve: 'gatsby-source-filesystem',
 			options: {
