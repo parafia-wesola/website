@@ -8,8 +8,6 @@ export const NewsWrapper = styled.div`
 	color: ${({ theme }) => theme.colors.dark};
 	text-decoration: none;
 	background: ${({ theme }) => theme.colors.bright};
-	border: 1px solid ${({ theme }) => theme.colors.newsFeedBorder};
-	border-radius: 5px;
 	box-shadow: 0 10px 6px -6px #777;
 	transition: transform 0.2s ease-in;
 
@@ -47,11 +45,17 @@ export const MediumBody = styled.div`
 	flex-direction: column;
 	max-width: ${textPercent};
 	padding: 0.85em;
+	border: 1px solid ${({ theme }) => theme.colors.newsFeedBorder};
+	border-left: none;
+	border-radius: 0 5px 5px 0;
 `;
 
 export const LargeBody = styled.div`
 	padding: 1em 0;
 	text-align: center;
+	border: 1px solid ${({ theme }) => theme.colors.newsFeedBorder};
+	border-bottom: none;
+	border-radius: 5px 5px 0 0;
 `;
 
 export const NewsTitle = styled.h2`
