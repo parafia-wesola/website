@@ -6,6 +6,7 @@ import theme from 'assets/styles/theme';
 import Navbar from 'components/Sections/Navbar';
 import { SmoothScrollContext } from 'components/SmoothScroll';
 import { heightOnMobile } from 'utils';
+import 'assets/styles/fonts.css';
 
 const Layout = ({ children }) => {
 	const [navbarHeight, setNavbarHeight] = useState(0);
