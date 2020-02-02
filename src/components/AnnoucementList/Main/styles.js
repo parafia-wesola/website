@@ -4,7 +4,6 @@ import arrow from 'assets/images/arrow.svg';
 export const Wrapper = styled.div`
 	position: relative;
 	padding: 2em 4.5rem 0 1.5rem;
-	overflow: hidden;
 	background: ${({ theme }) => theme.colors.annoucementBackground};
 
 	${({ theme }) => theme.mq.tabletMid} {
