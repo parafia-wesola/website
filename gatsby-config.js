@@ -15,6 +15,12 @@ module.exports = {
 		'gatsby-transformer-json',
 		'gatsby-transformer-remark',
 		{
+			resolve: 'gatsby-plugin-react-leaflet',
+			options: {
+				linkStyles: true, // (default: true) Enable/disable loading stylesheets via CDN
+			},
+		},
+		{
 			resolve: 'gatsby-source-filesystem',
 			options: {
 				name: 'data',
