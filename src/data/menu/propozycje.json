@@ -1,31 +1,31 @@
 {
 	"name": "propozycje",
-	"to": "",
+	"to": "#suggestions",
 	"order": 4,
 	"sub": [
 		{
 			"name": "dzieci",
-			"to": "/msze"
+			"to": "/dzieci"
 		},
 		{
 			"name": "młodzież",
-			"to": "/msze"
+			"to": "/mlodziez"
 		},
 		{
 			"name": "dorośli",
-			"to": "/msze"
+			"to": "/dorosli"
 		},
 		{
 			"name": "narzeczeni",
-			"to": "/msze"
+			"to": "/narzeczeni"
 		},
 		{
 			"name": "małżeństwa",
-			"to": "/msze"
+			"to": "/malzenstwa"
 		},
 		{
 			"name": "rodzice",
-			"to": "/msze"
+			"to": "/rodzice"
 		}
 	]
 }

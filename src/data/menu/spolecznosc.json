@@ -1,19 +1,19 @@
 {
 	"name": "społeczność",
 	"to": "",
-	"order": 5,
+	"order": 6,
 	"sub": [
 		{
 			"name": "diecezja",
-			"to": "/msze"
+			"to": "https://diecezja.waw.pl/"
 		},
 		{
 			"name": "dzielnica i okolica",
-			"to": "/msze"
+			"to": "/dzielnica"
 		},
 		{
 			"name": "inicjatywy społeczne",
-			"to": "/msze"
+			"to": "/inicjatywy_spoleczne"
 		}
 	]
 }

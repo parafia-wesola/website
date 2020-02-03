@@ -1,0 +1,35 @@
+{
+	"name": "sakramenty",
+	"to": "#sacraments",
+	"order": 5,
+	"sub": [
+		{
+			"name": "chrzest",
+			"to": "/chrzest"
+		},
+		{
+			"name": "eucharystia",
+			"to": "/eucharystia"
+		},
+		{
+			"name": "bierzmowanie",
+			"to": "/bierzmowanie"
+		},
+		{
+			"name": "spowiedź",
+			"to": "/spowiedz"
+		},
+		{
+			"name": "małżeństwo",
+			"to": "/malzenstwo"
+		},
+		{
+			"name": "posługa chorym",
+			"to": "/posluga_chorym"
+		},
+		{
+			"name": "pogrzeb",
+			"to": "/pogrzeb"
+		}
+	]
+}

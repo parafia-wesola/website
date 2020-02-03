@@ -1,23 +1,23 @@
 {
 	"name": "multimedia",
-	"to": "",
-	"order": 6,
+	"to": "/multimedia",
+	"order": 7,
 	"sub": [
 		{
 			"name": "zdjęcia",
-			"to": "/msze"
+			"to": "/multimedia#zdjecia"
 		},
 		{
 			"name": "filmy",
-			"to": "/msze"
+			"to": "https://youtube.com"
 		},
 		{
 			"name": "audio",
-			"to": "/msze"
+			"to": "/multimedia#/audio"
 		},
 		{
 			"name": "wirtualne zwiedzanie",
-			"to": "/msze"
+			"to": "/multimedia#wirtualne_zwiedzanie"
 		}
 	]
 }

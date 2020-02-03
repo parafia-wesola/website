@@ -5,7 +5,7 @@ import EventList from 'components/EventList';
 import Wrapper from './styles';
 
 const EventSection = () => (
-	<Wrapper>
+	<Wrapper id="events">
 		<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
 		<EventList />
 	</Wrapper>

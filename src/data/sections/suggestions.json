@@ -7,37 +7,37 @@
 			"id": "123",
 			"title": "Dzieci",
 			"image": "./images/dzieci.jpeg",
-			"to": "/"
+			"to": "/dzieci"
 		},
 		{
 			"id": "124",
 			"title": "Młodzież",
 			"image": "./images/mlodziez.jpeg",
-			"to": "/"
+			"to": "/mlodziez"
 		},
 		{
 			"id": "125",
 			"title": "Dorośli",
 			"image": "./images/dorośli.jpeg",
-			"to": "/"
+			"to": "/dorosli"
 		},
 		{
 			"id": "126",
 			"title": "Narzeczeni",
 			"image": "./images/narzeczeni.jpeg",
-			"to": "/"
+			"to": "/narzeczeni"
 		},
 		{
 			"id": "127",
 			"title": "Małżeństwa",
 			"image": "./images/małżeństwa.jpeg",
-			"to": "/"
+			"to": "/malzenstwa"
 		},
 		{
 			"id": "129",
 			"title": "Rodzice",
 			"image": "./images/rodzice.jpeg",
-			"to": "/"
+			"to": "/rodzice"
 		}
 	]
 }

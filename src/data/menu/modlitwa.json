@@ -5,47 +5,47 @@
 	"sub": [
 		{
 			"name": "msze święte",
-			"to": "/msze"
+			"to": "#annoucements"
 		},
 		{
 			"name": "adoracja",
-			"to": "/msze"
+			"to": "#annoucements"
 		},
 		{
 			"name": "spowiedź",
-			"to": "/msze"
+			"to": "#annoucements"
 		},
 		{
 			"name": "różaniec",
-			"to": "/msze"
+			"to": "#annoucements"
 		},
 		{
 			"name": "nabożeństwa okresowe",
-			"to": "/msze"
+			"to": "/nabozenstwa"
 		},
 		{
 			"name": "uwielbienie chemin neuf",
-			"to": "/msze"
+			"to": "/uwielbienie_ccn"
 		},
 		{
 			"name": "modlitwa wstawiennicza",
-			"to": "/msze"
+			"to": "/modlitwa_wstawiennicza"
 		},
 		{
 			"name": "nieszpory i spotkania ekumeniczne",
-			"to": "/msze"
+			"to": "/nieszpory"
 		},
 		{
 			"name": "spotkanie wspólnoty zwiastowanie",
-			"to": "/msze"
+			"to": "/zwiastowanie"
 		},
 		{
 			"name": "modlitwa ojców",
-			"to": "/msze"
+			"to": "/modlitwa_ojcow"
 		},
 		{
 			"name": "msza święta z modlitwą o uzdrowienie",
-			"to": "/msze"
+			"to": "/msza_o_uzdrowienie"
 		}
 	]
 }

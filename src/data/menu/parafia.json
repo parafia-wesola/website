@@ -1,23 +1,27 @@
 {
 	"name": "nasza parafia",
-	"to": "",
+	"to": "/o_nas",
 	"order": 2,
 	"sub": [
 		{
 			"name": "o nas",
-			"to": "/msze"
-		},
-		{
-			"name": "misja parafii",
-			"to": "/msze"
+			"to": "/o_nas"
 		},
 		{
 			"name": "rada parafialna",
-			"to": "/msze"
+			"to": "/rada_parafialna"
 		},
 		{
-			"name": "kościół",
-			"to": "/msze"
+			"name": "wizja parafii",
+			"to": "/wizja_parafii"
+		},
+		{
+			"name": "historia parafii",
+			"to": "/historia_parafii"
+		},
+		{
+			"name": "Jerzy Nowosielski o kościele",
+			"to": "/nowosielski"
 		}
 	]
 }
