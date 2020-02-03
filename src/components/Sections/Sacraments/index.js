@@ -26,7 +26,7 @@ const SacramentsSection = () => {
 					to
 					image {
 						childImageSharp {
-							fluid {
+							fluid(quality: 100, maxWidth: 300) {
 								...GatsbyImageSharpFluid
 							}
 						}
