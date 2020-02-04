@@ -15,6 +15,21 @@ const ConditionalLink = ({ to, className, children }) => {
 		);
 	}
 
+	// Modal Link
+	if (firstChar === '$') {
+		return (
+			<Link
+				to={`/${to.slice(1)}`}
+				className={className}
+				state={{
+					modal: true,
+				}}
+			>
+				{children}
+			</Link>
+		);
+	}
+
 	// page scroll
 	if (firstChar === '#') {
 		return (

@@ -18,7 +18,21 @@ exports.createPages = async ({ graphql, actions }) => {
 
 	const result = await graphql(`
 		{
-			allMarkdownRemark(filter: { fields: { directory: { eq: "articles" } } }) {
+			articles: allMarkdownRemark(
+				filter: { fields: { directory: { eq: "articles" } } }
+			) {
+				edges {
+					node {
+						id
+						frontmatter {
+							slug
+						}
+					}
+				}
+			}
+			modals: allMarkdownRemark(
+				filter: { fields: { directory: { eq: "modals" } } }
+			) {
 				edges {
 					node {
 						id
@@ -33,11 +47,22 @@ exports.createPages = async ({ graphql, actions }) => {
 
 	if (result.errors) throw result.errors;
 
-	result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+	result.data.articles.edges.forEach(({ node }) => {
 		const { slug } = node.frontmatter;
 		createPage({
 			path: `articles/${slug}`,
 			component: path.resolve('src/templates/Article/index.js'),
+			context: {
+				id: node.id,
+			},
+		});
+	});
+
+	result.data.modals.edges.forEach(({ node }) => {
+		const { slug } = node.frontmatter;
+		createPage({
+			path: `${slug}`,
+			component: path.resolve('src/templates/Modal/index.js'),
 			context: {
 				id: node.id,
 			},

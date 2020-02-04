@@ -4,6 +4,7 @@ export const DropdownList = styled.ul`
 	position: absolute;
 	top: 0;
 	left: 100%;
+	z-index: 1;
 	display: none;
 	width: 100%;
 	min-height: 100%;
