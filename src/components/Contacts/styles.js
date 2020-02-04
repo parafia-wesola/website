@@ -5,7 +5,7 @@ export const Wrapper = styled.ul`
 	flex-direction: column;
 	justify-content: center;
 	margin: 0 auto;
-	padding: 0 1.5rem;
+	padding: 0;
 	list-style: none;
 	${({ theme }) => theme.mq.tabletLandscape} {
 		padding: 4em 4rem;
@@ -19,7 +19,7 @@ export const ContactItem = styled.div`
 	:last-child {
 		margin: 0;
 	}
-	${({ theme }) => theme.mq.tabletMid} {
+	${({ theme }) => theme.mq.tabletLandscape} {
 		margin-bottom: 3em;
 	}
 `;
