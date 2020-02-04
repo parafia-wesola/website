@@ -1,13 +1,20 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import MapCard from './Card';
+
+import Annoucement from 'components/Annoucement';
 import MapChart from './MapChart';
-import { Wrapper } from './styles';
+import { Wrapper, Card } from './styles';
 
 const ContactMap = ({ data, className }) => (
 	<Wrapper className={className}>
 		<MapChart />
-		<MapCard data={data} />
+		<Card>
+			{data.map(({ node }) => (
+				<li key={node.id}>
+					<Annoucement title={node.frontmatter.title} text={node.html} />
+				</li>
+			))}
+		</Card>
 	</Wrapper>
 );
 
