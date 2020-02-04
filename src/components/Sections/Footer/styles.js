@@ -9,7 +9,7 @@ export const Wrapper = styled.div`
 	${({ theme }) => theme.mq.desktop} {
 		display: grid;
 		grid-template-columns: 90% 10%;
-		padding: 4em 1.5rem;
+		padding: 4em 1.5rem 0;
 	}
 `;
 

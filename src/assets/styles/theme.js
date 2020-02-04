@@ -14,9 +14,9 @@ const theme = {
 		annoucementBackground: '#FFF',
 		overlapBackground: '#9E0B0F',
 		overlapColor: '#FFF',
-		footerBackground: '#B22222',
+		footerBackground: '#780205',
 		footerActiveLink: '#CCC',
-		footerCopyright: '#800000',
+		footerCopyright: '#5b0404',
 	},
 	mq: {
 		mobileMid: '@media (min-width: 23.5rem)',
