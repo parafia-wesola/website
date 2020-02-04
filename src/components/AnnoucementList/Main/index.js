@@ -1,7 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
-import Annoucement from '../Annoucement';
+
+import Annoucement from 'components/Annoucement';
 import { Wrapper, Overlap, Content, Footer, ReadMore } from './styles';
 
 const Main = ({ className }) => {

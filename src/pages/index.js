@@ -5,8 +5,9 @@ import SEO from 'components/SEO';
 import Hero from 'components/Sections/Hero';
 import Annoucements from 'components/Sections/Annoucements';
 import EventSection from 'components/Sections/Events';
-import SuggestionsSection from '../components/Sections/Suggestions';
-import SacramentsSection from '../components/Sections/Sacraments';
+import SuggestionsSection from 'components/Sections/Suggestions';
+import SacramentsSection from 'components/Sections/Sacraments';
+import ContactsSection from 'components/Sections/Contacts';
 
 const IndexPage = () => (
 	<Layout>
@@ -16,6 +17,7 @@ const IndexPage = () => (
 		<SuggestionsSection />
 		<EventSection />
 		<SacramentsSection />
+		<ContactsSection />
 	</Layout>
 );
 
