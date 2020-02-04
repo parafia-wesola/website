@@ -72,7 +72,7 @@ const Contacts = () => {
 	`);
 
 	return (
-		<Wrapper>
+		<Wrapper id="contact">
 			<SectionTitle dark>Dane parafii</SectionTitle>
 			<WrapperContacts>
 				<StyledContactInfo as={ContactInfo} data={contactsFirstColumn.edges} />
