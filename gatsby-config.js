@@ -14,7 +14,17 @@ module.exports = {
 		'gatsby-plugin-styled-components',
 		'gatsby-transformer-json',
 		'gatsby-transformer-remark',
-		'gatsby-plugin-modal-routing',
+		{
+			resolve: 'gatsby-plugin-modal-routing',
+			options: {
+				modalProps: {
+					bodyOpenClassName: 'ReactModal__Body--open',
+					htmlOpenClassName: 'ReactModal__Html--open',
+					overlayClassName: 'ReactModal__Overlay',
+					className: 'ReactModal__Content',
+				},
+			},
+		},
 		{
 			resolve: 'gatsby-source-filesystem',
 			options: {
