@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
 
-import Annoucement from '../Annoucement';
+import Annoucement from 'components/Annoucement';
 import { Wrapper, Content } from './styles';
 
 const Horizontal = ({ className }) => {
