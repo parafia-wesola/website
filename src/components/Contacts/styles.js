@@ -5,17 +5,21 @@ export const Wrapper = styled.ul`
 	flex-direction: column;
 	justify-content: center;
 	margin: 0 auto;
-	padding: 0 1rem;
-	list-style-type: none;
+	padding: 0 1.5rem;
+	list-style: none;
 	${({ theme }) => theme.mq.tabletLandscape} {
-		padding: 4em 1.5rem;
+		padding: 4em 4rem;
 		border: 1px solid ${({ theme }) => theme.colors.annoucementBorder};
 	}
 `;
 
-export const StyledContactItem = styled.div`
+export const ContactItem = styled.div`
 	margin-bottom: 2em;
+
+	:last-child {
+		margin: 0;
+	}
 	${({ theme }) => theme.mq.tabletMid} {
-		margin-bottom: 0;
+		margin-bottom: 3em;
 	}
 `;

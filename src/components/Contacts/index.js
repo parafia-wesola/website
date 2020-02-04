@@ -1,18 +1,14 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ContactItem from './Item';
-import { Wrapper, StyledContactItem } from './styles';
+import Annoucement from 'components/Annoucement';
+import { Wrapper, ContactItem } from './styles';
 
 const ContactInfo = ({ data, className }) => (
 	<Wrapper className={className}>
 		{data.map(({ node }) => (
-			<li key={node.id}>
-				<StyledContactItem
-					as={ContactItem}
-					title={node.frontmatter.title}
-					text={node.html}
-				/>
-			</li>
+			<ContactItem key={node.id}>
+				<Annoucement title={node.frontmatter.title} text={node.html} />
+			</ContactItem>
 		))}
 	</Wrapper>
 );
