@@ -4,29 +4,32 @@ import * as React from 'react';
 import { Map, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
-
-delete L.Icon.Default.prototype._getIconUrl;
-
-L.Icon.Default.mergeOptions({
-	iconRetinaUrl: require('leaflet/dist/images/marker-icon-2x.png'),
-	iconUrl: require('leaflet/dist/images/marker-icon.png'),
-	shadowUrl: require('leaflet/dist/images/marker-shadow.png'),
-});
+import { StyledMap } from './styles';
 
 const MapChart = () => {
 	const positionOfChurch = [52.252167, 21.212835];
 	const positionOfMap = [52.252167, 21.22];
+	const iconPerson = new L.Icon({
+		iconUrl: require('assets/images/circle.png'),
+		iconAnchor: null,
+		popupAnchor: null,
+		shadowUrl: null,
+		shadowSize: null,
+		shadowAnchor: null,
+		iconSize: new L.Point(75, 75),
+	});
+
 	if (typeof window !== 'undefined') {
 		return (
-			<Map center={positionOfMap} zoom={14} style={{ height: '400px' }}>
+			<StyledMap as={Map} center={positionOfMap} zoom={14}>
 				<TileLayer
 					attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 					url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 				/>
-				<Marker position={positionOfChurch}>
+				<Marker position={positionOfChurch} icon={iconPerson}>
 					<Popup>Parafia Opatrzności Bożej Warszawa Wesoła</Popup>
 				</Marker>
-			</Map>
+			</StyledMap>
 		);
 	}
 

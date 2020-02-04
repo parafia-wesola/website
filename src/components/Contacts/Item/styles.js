@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const ContactTitle = styled.h3`
+	color: ${({ theme }) => theme.colors.annoucementTitle};
 	font-weight: 800;
 	font-size: 1em;
 	text-transform: uppercase;
