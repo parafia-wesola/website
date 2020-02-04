@@ -4,7 +4,12 @@ import ContactInfo from 'components/Contacts';
 import ContactMap from 'components/Map';
 import SectionTitle from 'components/Share/SectionTitle';
 
-import { Wrapper, WrapperContacts, StyledMap } from './styles';
+import {
+	Wrapper,
+	WrapperContacts,
+	StyledContactInfo,
+	StyledMap,
+} from './styles';
 
 const Contacts = () => {
 	const {
@@ -67,8 +72,8 @@ const Contacts = () => {
 		<Wrapper>
 			<SectionTitle dark>Dane parafii</SectionTitle>
 			<WrapperContacts>
-				<ContactInfo data={contactsFirstColumn.edges} />
-				<ContactInfo data={contactsSecondColumn.edges} />
+				<StyledContactInfo as={ContactInfo} data={contactsFirstColumn.edges} />
+				<StyledContactInfo as={ContactInfo} data={contactsSecondColumn.edges} />
 			</WrapperContacts>
 			<StyledMap as={ContactMap} data={mapsData.edges} />
 		</Wrapper>

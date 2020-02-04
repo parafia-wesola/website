@@ -10,11 +10,16 @@ export const Wrapper = styled.section`
 `;
 
 export const WrapperContacts = styled.div`
-	display: inline;
+	display: block;
+	padding: 2em 0;
 	${({ theme }) => theme.mq.tabletLandscape} {
 		display: flex;
 		justify-content: center;
 	}
+`;
+
+export const StyledContactInfo = styled.div`
+	margin: 2em 2em 0;
 `;
 
 export const StyledMap = styled.div`
