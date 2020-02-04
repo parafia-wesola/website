@@ -3,9 +3,9 @@ import PropTypes from 'prop-types';
 import EventItem from './Item/index';
 import { List } from './styles';
 
-const EventList = ({ events }) => (
+const EventList = ({ events, postsToShow }) => (
 	<List>
-		{events.map(({ node }, index) => (
+		{events.slice(0, postsToShow).map(({ node }, index) => (
 			<li key={node.id}>
 				<EventItem
 					index={index}
@@ -21,6 +21,11 @@ const EventList = ({ events }) => (
 
 EventList.propTypes = {
 	events: PropTypes.arrayOf(PropTypes.object).isRequired,
+	postsToShow: PropTypes.number,
+};
+
+EventList.defaultProps = {
+	postsToShow: undefined,
 };
 
 export default EventList;

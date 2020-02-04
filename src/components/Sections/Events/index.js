@@ -45,7 +45,7 @@ const EventSection = () => {
 			<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
 			<EventList events={events} />
 			{isReadMore && (
-				<ReadMore as={Link} to="articles/kurs_alpha" type="button">
+				<ReadMore as={Link} to="events" type="button">
 					Pokaż Więcej
 				</ReadMore>
 			)}
