@@ -9,15 +9,19 @@ import { StyledMap } from './styles';
 const MapChart = () => {
 	const positionOfChurch = [52.252167, 21.212835];
 	const positionOfMap = [52.252167, 21.22];
-	const iconPerson = new L.Icon({
-		iconUrl: require('assets/images/circle.png'),
-		iconAnchor: null,
-		popupAnchor: null,
-		shadowUrl: null,
-		shadowSize: null,
-		shadowAnchor: null,
-		iconSize: new L.Point(75, 75),
-	});
+
+	let iconPerson;
+	if (typeof window !== 'undefined') {
+		iconPerson = new L.Icon({
+			iconUrl: require('assets/images/circle.png'),
+			iconAnchor: null,
+			popupAnchor: null,
+			shadowUrl: null,
+			shadowSize: null,
+			shadowAnchor: null,
+			iconSize: new L.Point(75, 75),
+		});
+	}
 
 	if (typeof window !== 'undefined') {
 		return (
