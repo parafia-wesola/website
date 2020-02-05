@@ -3,11 +3,12 @@ import PropTypes from 'prop-types';
 import EventItem from './Item/index';
 import { List } from './styles';
 
-const EventList = ({ events, postsToShow }) => (
+const EventList = ({ events, scrollAnimation }) => (
 	<List>
-		{events.slice(0, postsToShow).map(({ node }, index) => (
+		{events.map(({ node }, index) => (
 			<li key={node.id}>
 				<EventItem
+					scrollAnimation={scrollAnimation}
 					index={index}
 					title={node.frontmatter.title}
 					reference={`articles/${node.frontmatter.slug}`}
@@ -21,11 +22,11 @@ const EventList = ({ events, postsToShow }) => (
 
 EventList.propTypes = {
 	events: PropTypes.arrayOf(PropTypes.object).isRequired,
-	postsToShow: PropTypes.number,
+	scrollAnimation: PropTypes.string,
 };
 
 EventList.defaultProps = {
-	postsToShow: undefined,
+	scrollAnimation: null,
 };
 
 export default EventList;

@@ -1,24 +1,41 @@
-/* eslint-disable react/button-has-type */
-/* eslint-disable comma-dangle */
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 import SectionTitle from 'components/Share/SectionTitle';
 import EventList from 'components/EventList';
-import { Wrapper } from './styles';
+import { Wrapper, ReadMore } from './styles';
 
 const EventSection = () => {
-	const {
-		allMarkdownRemark: { events },
-	} = useStaticQuery(graphql`
+	const { eventsFirst, eventsSecond } = useStaticQuery(graphql`
 		query {
-			allMarkdownRemark(
+			eventsFirst: allMarkdownRemark(
 				sort: { order: ASC, fields: frontmatter___eventDate }
 				filter: {
 					frontmatter: { eventDate: { gt: "0" } }
 					fields: { directory: { eq: "articles" } }
 				}
+				limit: 3
 			) {
-				events: edges {
+				edges {
+					node {
+						frontmatter {
+							eventDate(formatString: "DD MM")
+							title
+							slug
+						}
+						excerpt(pruneLength: 320)
+						id
+					}
+				}
+			}
+			eventsSecond: allMarkdownRemark(
+				sort: { order: ASC, fields: frontmatter___eventDate }
+				filter: {
+					frontmatter: { eventDate: { gt: "0" } }
+					fields: { directory: { eq: "articles" } }
+				}
+				skip: 3
+			) {
+				edges {
 					node {
 						frontmatter {
 							eventDate(formatString: "DD MM")
@@ -33,52 +50,25 @@ const EventSection = () => {
 		}
 	`);
 
-	const [postsToShow, setPostsToShow] = useState(3);
-	const [showingMore, setShowingMore] = useState(false);
-	const [lazyLoad, setLazyLoad] = useState(100);
+	const [isReadMore, setIsReadMore] = useState(false);
+	const [showRest, setShowRest] = useState(false);
 
 	const handleClick = () => {
-		setShowingMore(true);
+		setIsReadMore(true);
+		setShowRest(true);
 	};
-
-	const [bodyOffset, setBodyOffset] = useState(
-		document.body.getBoundingClientRect()
-	);
-	const [scrollY, setScrollY] = useState(bodyOffset.top);
-
-	const listener = e => {
-		e.preventDefault();
-		setBodyOffset(document.body.getBoundingClientRect());
-		setScrollY(-bodyOffset.top);
-	};
-
-	useEffect(() => {
-		window.addEventListener('scroll', listener);
-		return () => {
-			window.removeEventListener('scroll', listener);
-		};
-	});
-
-	useEffect(() => {
-		if (scrollY > lazyLoad && showingMore === true) {
-			setPostsToShow(postsToShow + 1);
-			setLazyLoad(lazyLoad + 100);
-		}
-		if (scrollY === 0 && showingMore === true) {
-			setPostsToShow(postsToShow + 1);
-		}
-	}, [scrollY, showingMore]);
 
 	return (
 		<Wrapper>
 			<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
-			<EventList events={events} postsToShow={postsToShow} />
-			{!showingMore && (
-				<div>
-					<button onClick={handleClick} onKeyPress={handleClick}>
-						Load more data
-					</button>
-				</div>
+			<EventList events={eventsFirst.edges} data="first" />
+			{!isReadMore && (
+				<ReadMore type="button" onClick={handleClick}>
+					Pokaż Więcej
+				</ReadMore>
+			)}
+			{showRest && (
+				<EventList events={eventsSecond.edges} scrollAnimation="zoom-out-up" />
 			)}
 		</Wrapper>
 	);
