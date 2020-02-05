@@ -15,7 +15,7 @@ export const Wrapper = styled.div`
 	`}
 
 	&:hover {
-		background: ${({ theme }) => theme.colors.gray};
+		background: ${({ theme }) => theme.colors.eventHoverBg};
 		transform: scale(1.05);
 	}
 
@@ -36,7 +36,7 @@ export const Date = styled.div`
 	font-weight: 600;
 	font-size: 0.9rem;
 	text-align: center;
-	border-color: ${({ theme }) => theme.colors.gold};
+	border-color: ${({ theme }) => theme.colors.eventCircle};
 	border-style: solid;
 	border-width: 10px;
 	border-radius: 50%;
