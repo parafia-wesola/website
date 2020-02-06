@@ -3,13 +3,13 @@ import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
 import { SectionWrapper } from 'components/Share';
-import { Wrapper, Background } from './styles';
+import { Wrapper, Background, Title } from './styles';
 
 const Hero = () => {
 	const { hero } = useStaticQuery(graphql`
 		{
 			hero: allImageSharp(
-				filter: { fluid: { originalName: { eq: "hero.JPG" } } }
+				filter: { fluid: { originalName: { eq: "hero.jpg" } } }
 			) {
 				edges {
 					node {
@@ -24,6 +24,9 @@ const Hero = () => {
 	return (
 		<Wrapper as={SectionWrapper}>
 			<Background as={Img} fluid={hero.edges[0].node.fluid} />
+			<Title>
+				Witaj na stronie parafii Opatrzności Bożej <br /> w Warszawie Wesołej
+			</Title>
 		</Wrapper>
 	);
 };
