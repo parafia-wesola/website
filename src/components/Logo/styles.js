@@ -18,6 +18,7 @@ export const LogoText = styled.h1`
 	margin: 0;
 	font-weight: 600;
 	font-size: 1em;
+	font-family: 'Josefin Sans', sans-serif;
 	line-height: 1.15;
 	white-space: pre;
 	pointer-events: none;
