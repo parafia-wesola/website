@@ -4,12 +4,7 @@ import { graphql, useStaticQuery } from 'gatsby';
 import ContactInfo from 'components/Contacts';
 import ContactMap from 'components/Map';
 import { SectionWrapper, SectionTitle } from 'components/Share';
-import {
-	Wrapper,
-	WrapperContacts,
-	StyledContactInfo,
-	StyledMap,
-} from './styles';
+import { ContactsWrapper, StyledContactInfo, StyledMap } from './styles';
 
 const Contacts = () => {
 	const {
@@ -72,14 +67,14 @@ const Contacts = () => {
 	`);
 
 	return (
-		<Wrapper as={SectionWrapper} id="contact">
+		<SectionWrapper id="contact">
 			<SectionTitle dark>Dane parafii</SectionTitle>
-			<WrapperContacts>
+			<ContactsWrapper>
 				<StyledContactInfo as={ContactInfo} data={contactsFirstColumn.edges} />
 				<StyledContactInfo as={ContactInfo} data={contactsSecondColumn.edges} />
-			</WrapperContacts>
+			</ContactsWrapper>
 			<StyledMap as={ContactMap} data={mapsData.edges} />
-		</Wrapper>
+		</SectionWrapper>
 	);
 };
 

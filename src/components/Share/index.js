@@ -4,6 +4,10 @@ export const SectionWrapper = styled.section`
 	position: relative;
 	max-width: 1360px;
 	margin: 0 auto;
+	padding: 4em 0;
+	${({ theme }) => theme.mq.tabletMid} {
+		padding: 6em 0;
+	}
 `;
 
 export const SectionTitle = styled.h2`

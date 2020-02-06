@@ -2,10 +2,6 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.section`
 	margin-bottom: 4em;
-	padding: 4em 1.5rem;
-	${({ theme }) => theme.mq.tabletMid} {
-		padding: 6em 0;
-	}
 `;
 
 export const ImageWrapper = styled.div`

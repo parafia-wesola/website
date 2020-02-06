@@ -1,10 +1,10 @@
 import styled from 'styled-components';
 
-export const HeroWrapper = styled.section`
+export const Wrapper = styled.section`
 	display: flex;
-	padding: 8em 0 4em;
+	margin-top: 2em;
 	${({ theme }) => theme.mq.tabletMid} {
-		padding: 2em 0 6em;
+		margin-top: 0;
 	}
 `;
 

@@ -3,13 +3,13 @@ import React from 'react';
 import Menu from 'components/Menu';
 import NewsFeed from 'components/Newsfeed';
 import { SectionWrapper } from '../../Share';
-import { HeroWrapper, NewsFeedStyled, MenuStyled } from './styles';
+import { Wrapper, NewsFeedStyled, MenuStyled } from './styles';
 
 const Hero = () => (
-	<HeroWrapper as={SectionWrapper}>
+	<Wrapper as={SectionWrapper}>
 		<MenuStyled as={Menu} />
 		<NewsFeedStyled as={NewsFeed} />
-	</HeroWrapper>
+	</Wrapper>
 );
 
 export default Hero;

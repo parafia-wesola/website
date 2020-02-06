@@ -3,7 +3,6 @@ import background from 'assets/images/coffers.png';
 
 export const Wrapper = styled.section`
 	margin-bottom: 4em;
-	padding: 4em 0;
 	background: url(${background});
 	background-repeat: repeat;
 
