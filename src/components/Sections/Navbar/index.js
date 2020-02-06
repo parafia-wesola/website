@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
+
 import Logo from 'components/Logo';
 import Burger from 'components/Burger';
-import { Header, BurgerStyled } from './styles';
+import MenuHorizontal from 'components/MenuHorizontal';
+import { Header, BurgerStyled, Menu } from './styles';
 
 const Navbar = () => {
 	const [isOpen, setIsOpen] = useState(false);
@@ -37,6 +39,9 @@ const Navbar = () => {
 				/>
 				<BurgerStyled as={Burger} click={burgerToggle} isOpen={isOpen} />
 			</Header>
+			<Menu>
+				<MenuHorizontal />
+			</Menu>
 		</>
 	);
 };

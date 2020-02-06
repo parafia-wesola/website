@@ -15,12 +15,21 @@ export const Header = styled.header`
 		position: relative;
 		z-index: auto;
 		margin: 0 auto;
-		padding: 1.5em 0.75rem;
+		padding: 1em 0.75rem;
 	}
 `;
 
 export const BurgerStyled = styled.div`
 	${({ theme }) => theme.mq.tabletMid} {
 		display: none;
+	}
+`;
+
+export const Menu = styled.nav`
+	display: none;
+	${({ theme }) => theme.mq.tabletMid} {
+		display: flex;
+		max-width: 1360px;
+		margin: 0 auto;
 	}
 `;
