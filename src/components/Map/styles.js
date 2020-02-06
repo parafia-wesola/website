@@ -7,7 +7,7 @@ export const Wrapper = styled.div`
 export const Card = styled.ul`
 	position: absolute;
 	top: 20%;
-	left: 70%;
+	right: 10%;
 	z-index: 1000;
 	display: none;
 	width: 200px;
