@@ -1,12 +1,10 @@
 import styled from 'styled-components';
 
-export const Wrapper = styled.section`
+export const NewsFeedWrapper = styled.div`
 	display: flex;
-	width: 100%;
 `;
 
 export const StyledNewsFeed = styled.div`
 	flex: 1;
-	width: 100%;
-	padding: 0;
+	padding: 0 0.75rem;
 `;
