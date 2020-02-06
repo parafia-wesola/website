@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.section`
-	padding: 4em 1rem;
+	padding: 4em 0;
 	${({ theme }) => theme.mq.tabletLandscape} {
 		padding: 6em 0;
 	}
@@ -10,16 +10,17 @@ export const Wrapper = styled.section`
 export const WrapperContacts = styled.div`
 	display: block;
 	padding: 2em 0;
+	background: ${({ theme }) => theme.colors.bright};
 	${({ theme }) => theme.mq.tabletLandscape} {
 		display: flex;
 		justify-content: center;
+		background: transparent;
 	}
 `;
 
 export const StyledContactInfo = styled.div`
-	margin: 2em 0 0;
 	${({ theme }) => theme.mq.tabletLandscape} {
-		margin: 2em 2em 0;
+		margin: 0 4em;
 	}
 `;
 
