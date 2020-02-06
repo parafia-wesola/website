@@ -1,15 +1,31 @@
 import React from 'react';
+import { graphql, useStaticQuery } from 'gatsby';
+import Img from 'gatsby-image';
 
-import Menu from 'components/Menu';
-import NewsFeed from 'components/Newsfeed';
-import { SectionWrapper } from '../../Share';
-import { Wrapper, NewsFeedStyled, MenuStyled } from './styles';
+import { SectionWrapper } from 'components/Share';
+import { Wrapper, Background } from './styles';
 
-const Hero = () => (
-	<Wrapper as={SectionWrapper}>
-		<MenuStyled as={Menu} />
-		<NewsFeedStyled as={NewsFeed} />
-	</Wrapper>
-);
+const Hero = () => {
+	const { hero } = useStaticQuery(graphql`
+		{
+			hero: allImageSharp(
+				filter: { fluid: { originalName: { eq: "hero.JPG" } } }
+			) {
+				edges {
+					node {
+						fluid(quality: 90, maxWidth: 1360) {
+							...GatsbyImageSharpFluid
+						}
+					}
+				}
+			}
+		}
+	`);
+	return (
+		<Wrapper as={SectionWrapper}>
+			<Background as={Img} fluid={hero.edges[0].node.fluid} />
+		</Wrapper>
+	);
+};
 
 export default Hero;

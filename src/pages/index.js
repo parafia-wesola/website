@@ -3,6 +3,7 @@ import Layout from 'layouts/Main';
 import SEO from 'components/SEO';
 
 import Hero from 'components/Sections/Hero';
+import News from 'components/Sections/News';
 import Annoucements from 'components/Sections/Annoucements';
 import EventSection from 'components/Sections/Events';
 import SuggestionsSection from 'components/Sections/Suggestions';
@@ -13,6 +14,7 @@ const IndexPage = () => (
 	<Layout>
 		<SEO title="Strona główna" />
 		<Hero />
+		<News />
 		<Annoucements />
 		<SuggestionsSection />
 		<EventSection />
