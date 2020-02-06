@@ -1,6 +1,12 @@
 import styled from 'styled-components';
 
-const SectionTitle = styled.h2`
+export const SectionWrapper = styled.section`
+	position: relative;
+	max-width: 1360px;
+	margin: 0 auto;
+`;
+
+export const SectionTitle = styled.h2`
 	margin: 0 auto 1em;
 	color:
 		${({ theme,
@@ -14,5 +20,3 @@ const SectionTitle = styled.h2`
 		left: -999em;
 	`}
 `;
-
-export default SectionTitle;

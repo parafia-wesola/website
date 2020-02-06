@@ -2,8 +2,8 @@ import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
-import SectionTitle from 'components/Share/SectionTitle';
 import Tile from 'components/Tile';
+import { SectionWrapper, SectionTitle } from 'components/Share';
 import { Wrapper, ImageWrapper, List, ListItem } from './styles';
 
 const SuggestionsSection = () => {
@@ -36,7 +36,7 @@ const SuggestionsSection = () => {
 		}
 	`);
 	return (
-		<Wrapper id={suggestions.id}>
+		<Wrapper as={SectionWrapper} id={suggestions.id}>
 			<ImageWrapper as={Img} fluid={suggestions.image.childImageSharp.fluid} />
 			<SectionTitle>{suggestions.title}</SectionTitle>
 			<List>

@@ -1,11 +1,11 @@
 import React from 'react';
 
-import SectionTitle from 'components/Share/SectionTitle';
+import { SectionWrapper, SectionTitle } from 'components/Share';
 import EventList from 'components/EventList';
 import Wrapper from './styles';
 
 const EventSection = () => (
-	<Wrapper id="events">
+	<Wrapper as={SectionWrapper} id="events">
 		<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
 		<EventList />
 	</Wrapper>

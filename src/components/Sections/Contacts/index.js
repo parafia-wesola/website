@@ -1,9 +1,9 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
+
 import ContactInfo from 'components/Contacts';
 import ContactMap from 'components/Map';
-import SectionTitle from 'components/Share/SectionTitle';
-
+import { SectionWrapper, SectionTitle } from 'components/Share';
 import {
 	Wrapper,
 	WrapperContacts,
@@ -72,7 +72,7 @@ const Contacts = () => {
 	`);
 
 	return (
-		<Wrapper id="contact">
+		<Wrapper as={SectionWrapper} id="contact">
 			<SectionTitle dark>Dane parafii</SectionTitle>
 			<WrapperContacts>
 				<StyledContactInfo as={ContactInfo} data={contactsFirstColumn.edges} />

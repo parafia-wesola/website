@@ -2,8 +2,6 @@ import styled from 'styled-components';
 
 export const HeroWrapper = styled.section`
 	display: flex;
-	max-width: 1360px;
-	margin: 0 auto;
 	padding: 8em 0 4em;
 	${({ theme }) => theme.mq.tabletMid} {
 		padding: 2em 0 6em;
