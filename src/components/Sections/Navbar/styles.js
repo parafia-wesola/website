@@ -31,5 +31,6 @@ export const Menu = styled.nav`
 		display: flex;
 		max-width: 1360px;
 		margin: 0 auto;
+		box-shadow: 0 10px 5px -5px #333;
 	}
 `;
