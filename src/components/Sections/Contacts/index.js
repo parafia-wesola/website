@@ -2,9 +2,10 @@ import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
 import ContactInfo from 'components/Contacts';
-import ContactMap from 'components/Map';
+import Map from 'components/Map';
+import Annoucement from 'components/Annoucement';
 import { SectionWrapper, SectionTitle } from 'components/Share';
-import { ContactsWrapper, StyledContactInfo, StyledMap } from './styles';
+import { ContactsWrapper, StyledContactInfo, MapWrapper, Card } from './styles';
 
 const Contacts = () => {
 	const {
@@ -73,7 +74,16 @@ const Contacts = () => {
 				<StyledContactInfo as={ContactInfo} data={contactsFirstColumn.edges} />
 				<StyledContactInfo as={ContactInfo} data={contactsSecondColumn.edges} />
 			</ContactsWrapper>
-			<StyledMap as={ContactMap} data={mapsData.edges} />
+			<MapWrapper>
+				<Map />
+				<Card>
+					{mapsData.edges.map(({ node }) => (
+						<li key={node.id}>
+							<Annoucement title={node.frontmatter.title} text={node.html} />
+						</li>
+					))}
+				</Card>
+			</MapWrapper>
 		</SectionWrapper>
 	);
 };
