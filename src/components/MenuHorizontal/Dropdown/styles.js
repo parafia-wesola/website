@@ -7,8 +7,7 @@ export const DropdownList = styled.ul`
 	z-index: 1;
 	display: none;
 	min-width: 100%;
-	min-height: 100%;
-	padding: 2em 0;
+	padding: 1em 0;
 	list-style: none;
 	background: ${({ theme }) => theme.colors.menuActive};
 	visibility: hidden;
