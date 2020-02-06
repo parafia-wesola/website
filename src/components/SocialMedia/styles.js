@@ -14,7 +14,11 @@ export const Wrapper = styled.ul`
 `;
 
 export const SocialItem = styled.li`
+	flex: 1;
 	margin: 1rem;
+	${({ theme }) => theme.mq.desktop} {
+		flex: 0 1 auto;
+	}
 `;
 
 export const SocialButton = styled.a`

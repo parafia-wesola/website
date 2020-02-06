@@ -1,8 +1,9 @@
 import React from 'react';
+
 import { Aside, Main, Horizontal } from 'components/AnnoucementList';
-import SectionTitle from 'components/Share/SectionTitle';
+import { SectionWrapper, SectionTitle } from 'components/Share';
 import {
-	SectionWrapper,
+	Wrapper,
 	AnnoucementsWrapper,
 	StyledAside,
 	StyledMain,
@@ -10,14 +11,14 @@ import {
 } from './styles';
 
 const Annoucements = () => (
-	<SectionWrapper id="annoucements">
+	<Wrapper as={SectionWrapper} id="annoucements">
 		<SectionTitle hidden>Ogłoszenia i informacje</SectionTitle>
 		<AnnoucementsWrapper>
 			<StyledAside as={Aside} />
 			<StyledMain as={Main} />
 			<StyledHorizontal as={Horizontal} />
 		</AnnoucementsWrapper>
-	</SectionWrapper>
+	</Wrapper>
 );
 
 export default Annoucements;

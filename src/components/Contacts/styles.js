@@ -5,11 +5,15 @@ export const Wrapper = styled.ul`
 	flex-direction: column;
 	justify-content: center;
 	margin: 0 auto;
-	padding: 0;
+	padding: 1.5em 1.5rem;
 	list-style: none;
+	background: ${({ theme }) => theme.colors.bright};
 	${({ theme }) => theme.mq.tabletLandscape} {
-		padding: 4em 4rem;
+		padding: 3em 1.5rem;
 		border: 1px solid ${({ theme }) => theme.colors.annoucementBorder};
+	}
+	${({ theme }) => theme.mq.desktop} {
+		padding: 3em 3rem;
 	}
 `;
 

@@ -1,30 +1,48 @@
 import styled from 'styled-components';
 
-export const Wrapper = styled.section`
-	max-width: 1360px;
-	margin: 0 auto;
-	padding: 4em 1rem;
-	${({ theme }) => theme.mq.tabletLandscape} {
-		padding: 6em 0;
-	}
-`;
-
-export const WrapperContacts = styled.div`
+export const ContactsWrapper = styled.div`
 	display: block;
 	padding: 2em 0;
+	background: ${({ theme }) => theme.colors.bright};
 	${({ theme }) => theme.mq.tabletLandscape} {
 		display: flex;
 		justify-content: center;
+		background: transparent;
 	}
 `;
 
 export const StyledContactInfo = styled.div`
-	margin: 2em 0 0;
-	${({ theme }) => theme.mq.tabletLandscape} {
-		margin: 2em 2em 0;
+	padding: 0 1.5rem ${({ theme }) => theme.mq.tabletLandscape} {
+		margin: 0 4em;
+		padding: 0;
 	}
 `;
 
-export const StyledMap = styled.div`
+export const MapWrapper = styled.div`
+	position: relative;
+	z-index: 1;
 	margin-top: 3em;
+	padding: 0 0.75rem;
+	${({ theme }) => theme.mq.tabletLandscape} {
+		padding: 0;
+	}
+`;
+
+export const Card = styled.ul`
+	position: absolute;
+	top: 20%;
+	right: 10%;
+	z-index: 1000;
+	display: none;
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 2em;
+	list-style: none;
+	background: ${({ theme }) => theme.colors.bright};
+	border-radius: 5px;
+	box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3), 0 16px 12px rgba(0, 0, 0, 0.25);
+	${({ theme }) => theme.mq.tabletMid} {
+		display: block;
+	}
 `;

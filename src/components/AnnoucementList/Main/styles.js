@@ -19,7 +19,6 @@ export const Overlap = styled.div`
 	position: absolute;
 	top: 30%;
 	right: 20px;
-	z-index: 99;
 	height: 40px;
 	padding: 10px 40px;
 	color: ${({ theme }) => theme.colors.overlapColor};

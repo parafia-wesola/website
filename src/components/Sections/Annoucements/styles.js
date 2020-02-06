@@ -1,11 +1,8 @@
 import styled from 'styled-components';
 import background from 'assets/images/coffers.png';
 
-export const SectionWrapper = styled.section`
-	position: relative;
-	max-width: 1360px;
-	margin: 0 auto;
-	padding: 4em 0;
+export const Wrapper = styled.section`
+	margin-bottom: 4em;
 	background: url(${background});
 	background-repeat: repeat;
 

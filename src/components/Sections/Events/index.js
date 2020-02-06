@@ -1,14 +1,14 @@
 import React from 'react';
 
-import SectionTitle from 'components/Share/SectionTitle';
+import { SectionWrapper, SectionTitle } from 'components/Share';
 import EventList from 'components/EventList';
-import Wrapper from './styles';
+import { StyledEvents } from './styles';
 
 const EventSection = () => (
-	<Wrapper id="events">
+	<SectionWrapper id="events">
 		<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
-		<EventList />
-	</Wrapper>
+		<StyledEvents as={EventList} />
+	</SectionWrapper>
 );
 
 export default EventSection;

@@ -1,15 +1,11 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
-import ContactInfo from 'components/Contacts';
-import ContactMap from 'components/Map';
-import SectionTitle from 'components/Share/SectionTitle';
 
-import {
-	Wrapper,
-	WrapperContacts,
-	StyledContactInfo,
-	StyledMap,
-} from './styles';
+import ContactInfo from 'components/Contacts';
+import Map from 'components/Map';
+import Annoucement from 'components/Annoucement';
+import { SectionWrapper, SectionTitle } from 'components/Share';
+import { ContactsWrapper, StyledContactInfo, MapWrapper, Card } from './styles';
 
 const Contacts = () => {
 	const {
@@ -72,14 +68,23 @@ const Contacts = () => {
 	`);
 
 	return (
-		<Wrapper id="contact">
+		<SectionWrapper id="contact">
 			<SectionTitle dark>Dane parafii</SectionTitle>
-			<WrapperContacts>
+			<ContactsWrapper>
 				<StyledContactInfo as={ContactInfo} data={contactsFirstColumn.edges} />
 				<StyledContactInfo as={ContactInfo} data={contactsSecondColumn.edges} />
-			</WrapperContacts>
-			<StyledMap as={ContactMap} data={mapsData.edges} />
-		</Wrapper>
+			</ContactsWrapper>
+			<MapWrapper>
+				<Map />
+				<Card>
+					{mapsData.edges.map(({ node }) => (
+						<li key={node.id}>
+							<Annoucement title={node.frontmatter.title} text={node.html} />
+						</li>
+					))}
+				</Card>
+			</MapWrapper>
+		</SectionWrapper>
 	);
 };
 

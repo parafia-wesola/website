@@ -10,17 +10,27 @@ export const Header = styled.header`
 	justify-content: space-between;
 	max-width: 1360px;
 	padding: 0.5em 0.75rem;
-	background: ${({ theme }) => theme.colors.bright};
+	background: ${({ theme }) => theme.colors.mainBg};
 	${({ theme }) => theme.mq.tabletMid} {
 		position: relative;
 		z-index: auto;
 		margin: 0 auto;
-		padding: 1.5em 0.75rem;
+		padding: 1em 0.75rem;
 	}
 `;
 
 export const BurgerStyled = styled.div`
 	${({ theme }) => theme.mq.tabletMid} {
 		display: none;
+	}
+`;
+
+export const Menu = styled.nav`
+	display: none;
+	${({ theme }) => theme.mq.tabletMid} {
+		display: flex;
+		max-width: 1360px;
+		margin: 0 auto;
+		box-shadow: 0 10px 5px -5px #333;
 	}
 `;

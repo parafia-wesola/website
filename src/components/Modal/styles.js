@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
-export const Wrapper = styled.div`
-	position: relative;
+export const Wrapper = styled.section`
 	min-height: 100%;
 	padding: 4em 1.5rem;
 

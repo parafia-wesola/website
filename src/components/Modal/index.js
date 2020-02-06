@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 
-import SectionTitle from 'components/Share/SectionTitle';
+import { SectionTitle } from 'components/Share';
 import { Wrapper, StyledTitle, Background, Content } from './styles';
 
 const Modal = ({ title, background, content, className }) => (
