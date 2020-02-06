@@ -1,6 +1,17 @@
 import styled from 'styled-components';
 
 export const Header = styled.header`
+	position: relative;
+	max-width: 1360px;
+	margin: 0 auto;
+	padding: 2em 0;
+	${({ theme }) => theme.mq.tabletMid} {
+		z-index: 1000;
+		padding: 0;
+	}
+`;
+
+export const Wrapper = styled.div`
 	position: fixed;
 	top: 0;
 	right: 0;
@@ -8,13 +19,11 @@ export const Header = styled.header`
 	z-index: 100;
 	display: flex;
 	justify-content: space-between;
-	max-width: 1360px;
-	padding: 0.5em 0.75rem;
+	padding: 0.5rem;
 	background: ${({ theme }) => theme.colors.mainBg};
 	${({ theme }) => theme.mq.tabletMid} {
 		position: relative;
 		z-index: auto;
-		margin: 0 auto;
 		padding: 1em 0.75rem;
 	}
 `;
@@ -28,9 +37,14 @@ export const BurgerStyled = styled.div`
 export const Menu = styled.nav`
 	display: none;
 	${({ theme }) => theme.mq.tabletMid} {
+		z-index: 100;
+		z-index: 1000;
 		display: flex;
 		max-width: 1360px;
 		margin: 0 auto;
-		box-shadow: 0 10px 5px -5px #333;
+
+		& ul {
+			box-shadow: 0 12px 23px -8px rgba(0, 0, 0, 1);
+		}
 	}
 `;

@@ -4,7 +4,7 @@ import { graphql, useStaticQuery } from 'gatsby';
 import Logo from 'components/Logo';
 import Burger from 'components/Burger';
 import MenuHorizontal from 'components/MenuHorizontal';
-import { Header, BurgerStyled, Menu } from './styles';
+import { Header, Wrapper, BurgerStyled, Menu } from './styles';
 
 const Navbar = () => {
 	const [isOpen, setIsOpen] = useState(false);
@@ -30,19 +30,19 @@ const Navbar = () => {
 	};
 
 	return (
-		<>
-			<Header id="navbar">
+		<Header>
+			<Wrapper id="navbar">
 				<Logo
 					to="/"
 					image={file.childImageSharp.fixed}
 					text={site.siteMetadata.title}
 				/>
 				<BurgerStyled as={Burger} click={burgerToggle} isOpen={isOpen} />
-			</Header>
+			</Wrapper>
 			<Menu>
 				<MenuHorizontal />
 			</Menu>
-		</>
+		</Header>
 	);
 };
 
