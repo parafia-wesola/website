@@ -10,7 +10,7 @@ export const Header = styled.header`
 	justify-content: space-between;
 	max-width: 1360px;
 	padding: 0.5em 0.75rem;
-	background: ${({ theme }) => theme.colors.bright};
+	background: ${({ theme }) => theme.colors.mainBg};
 	${({ theme }) => theme.mq.tabletMid} {
 		position: relative;
 		z-index: auto;

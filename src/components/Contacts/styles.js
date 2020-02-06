@@ -7,6 +7,7 @@ export const Wrapper = styled.ul`
 	margin: 0 auto;
 	padding: 0;
 	list-style: none;
+	background: ${({ theme }) => theme.colors.bright};
 	${({ theme }) => theme.mq.tabletLandscape} {
 		padding: 4em 4rem;
 		border: 1px solid ${({ theme }) => theme.colors.annoucementBorder};
