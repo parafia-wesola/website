@@ -2,11 +2,11 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 
-import { SectionTitle } from 'components/Share';
+import { SectionTitle, SectionWrapper } from 'components/Share';
 import { Wrapper, StyledTitle, Background, Content } from './styles';
 
 const Modal = ({ title, background, content, className }) => (
-	<Wrapper className={className}>
+	<Wrapper as={SectionWrapper} className={className}>
 		<Background as={Img} fluid={background} />
 		<StyledTitle as={SectionTitle} dark>
 			{title}
