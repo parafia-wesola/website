@@ -55,14 +55,14 @@ export const LargeBody = styled.div`
 `;
 
 export const NewsTitle = styled.h2`
-	margin: 0 0 0.2em;
+	margin: 0;
 	font-weight: 800;
 	font-size: 0.85em;
 	line-height: 1.25;
 `;
 
 export const NewsDate = styled.p`
-	margin: 0 0 0.4em;
+	margin: 0.5em 0 1em;
 	font-weight: 600;
 	font-size: 0.75em;
 	line-height: 1.25;
@@ -77,7 +77,7 @@ export const NewsText = styled.p`
 
 export const ReadMore = styled.p`
 	margin: auto 0 0;
-	padding: 0.75em 0 0;
+	padding: 0;
 	font-size: 0.625em;
 	text-align: right;
 	background: transparent;

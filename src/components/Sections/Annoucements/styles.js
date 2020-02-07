@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import background from 'assets/images/coffers.png';
 
 export const Wrapper = styled.section`
-	margin-bottom: 4em;
+	margin: 0 auto 4em;
 	background: url(${background});
 	background-repeat: repeat;
 

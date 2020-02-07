@@ -62,6 +62,7 @@ export const Title = styled.h3`
 	grid-row: 1/2;
 	grid-column: 2/3;
 	align-self: center;
+	margin: 0;
 	font-weight: 600;
 	font-size: 1.4em;
 	line-height: 1.35;

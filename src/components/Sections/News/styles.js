@@ -6,5 +6,5 @@ export const NewsFeedWrapper = styled.div`
 
 export const StyledNewsFeed = styled.div`
 	flex: 1;
-	padding: 0 0.75rem;
+	padding: 1em 0.75rem;
 `;
