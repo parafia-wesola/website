@@ -5,6 +5,7 @@
 	"version": "0.1.0",
 	"author": "misioq23",
 	"dependencies": {
+		"aos": "^3.0.0-beta.6",
 		"babel-plugin-styled-components": "^1.10.6",
 		"gatsby": "^2.18.25",
 		"gatsby-image": "^2.2.39",

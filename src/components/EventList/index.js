@@ -1,59 +1,34 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { graphql, useStaticQuery } from 'gatsby';
 
 import EventItem from './Item/index';
-import List from './styles';
+import { List } from './styles';
 
-const EventList = ({ className }) => {
-	const {
-		allMarkdownRemark: { events },
-	} = useStaticQuery(graphql`
-		query {
-			allMarkdownRemark(
-				sort: { order: ASC, fields: frontmatter___eventDate }
-				filter: {
-					frontmatter: { eventDate: { gt: "0" } }
-					fields: { directory: { eq: "articles" } }
-				}
-			) {
-				events: edges {
-					node {
-						frontmatter {
-							eventDate(formatString: "DD MM")
-							title
-							slug
-						}
-						excerpt(pruneLength: 320)
-						id
-					}
-				}
-			}
-		}
-	`);
-
-	return (
-		<List className={className}>
-			{events.map(({ node }, index) => (
-				<li key={node.id}>
-					<EventItem
-						index={index}
-						title={node.frontmatter.title}
-						reference={`articles/${node.frontmatter.slug}`}
-						eventDate={node.frontmatter.eventDate}
-						content={node.excerpt}
-					/>
-				</li>
-			))}
-		</List>
-	);
-};
+const EventList = ({ events, scrollAnimation, className }) => (
+	<List className={className}>
+		{events.map(({ node }, index) => (
+			<li key={node.id}>
+				<EventItem
+					scrollAnimation={scrollAnimation}
+					index={index}
+					title={node.frontmatter.title}
+					reference={`articles/${node.frontmatter.slug}`}
+					eventDate={node.frontmatter.eventDate}
+					content={node.excerpt}
+				/>
+			</li>
+		))}
+	</List>
+);
 
 EventList.propTypes = {
+	events: PropTypes.arrayOf(PropTypes.object).isRequired,
+	scrollAnimation: PropTypes.string,
 	className: PropTypes.string,
 };
 
 EventList.defaultProps = {
+	scrollAnimation: null,
 	className: null,
 };
 

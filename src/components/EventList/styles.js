@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
-const List = styled.ul`
+export const List = styled.ul`
 	margin: 0;
-	padding: 0;
+	padding: 0 1rem;
 	list-style-type: none;
 `;
 

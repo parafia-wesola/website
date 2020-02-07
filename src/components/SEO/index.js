@@ -45,7 +45,9 @@ const SEO = ({ title, description, lang, meta }) => {
 					content: 'website',
 				},
 			].concat(meta)}
-		/>
+		>
+			<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+		</Helmet>
 	);
 };
 
