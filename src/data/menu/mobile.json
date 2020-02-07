@@ -5,27 +5,27 @@
 	"sub": [
 		{
 			"name": "dzieje się",
-			"to": "#newsfeed"
+			"to": "/#newsfeed"
 		},
 		{
 			"name": "ogłoszenia",
-			"to": "#annoucements"
+			"to": "/#annoucements"
 		},
 		{
 			"name": "propozycje",
-			"to": "#suggestions"
+			"to": "/#suggestions"
 		},
 		{
 			"name": "nadchodzące wydarzenia",
-			"to": "#events"
+			"to": "/#events"
 		},
 		{
 			"name": "sakrameny i sakramentalia",
-			"to": "#sacraments"
+			"to": "/#sacraments"
 		},
 		{
 			"name": "kontakt",
-			"to": "#contact"
+			"to": "/#contact"
 		}
 	]
 }

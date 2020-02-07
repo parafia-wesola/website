@@ -5,11 +5,11 @@
 	"sub": [
 		{
 			"name": "dane parafii",
-			"to": "#contact"
+			"to": "/#contact"
 		},
 		{
 			"name": "kancelaria parafialna",
-			"to": "#contact"
+			"to": "/#contact"
 		},
 		{
 			"name": "o. adam Strojny",

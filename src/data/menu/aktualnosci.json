@@ -5,15 +5,15 @@
 	"sub": [
 		{
 			"name": "dzieje się",
-			"to": "#newsfeed"
+			"to": "/#newsfeed"
 		},
 		{
 			"name": "nadchodzące wydarzenia",
-			"to": "#events"
+			"to": "/#events"
 		},
 		{
 			"name": "ogłoszenia",
-			"to": "#annoucements"
+			"to": "/#annoucements"
 		},
 		{
 			"name": "intencje mszalne",
