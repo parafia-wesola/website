@@ -9,7 +9,7 @@ const Hero = () => {
 	const { hero } = useStaticQuery(graphql`
 		{
 			hero: allImageSharp(
-				filter: { fluid: { originalName: { eq: "hero.jpg" } } }
+				filter: { fluid: { originalName: { eq: "heroBg.jpg" } } }
 			) {
 				edges {
 					node {
