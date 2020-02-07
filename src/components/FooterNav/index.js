@@ -10,12 +10,11 @@ const FooterNav = ({ className }) => {
 		allMenuJson: { items },
 	} = useStaticQuery(graphql`
 		query MyQuery {
-			allMenuJson(sort: { fields: order }) {
+			allMenuJson(sort: { fields: order }, filter: { name: { ne: "mobile" } }) {
 				items: edges {
 					node {
 						id
 						name
-						to
 						sub {
 							name
 							to
@@ -31,7 +30,7 @@ const FooterNav = ({ className }) => {
 			<List>
 				{items.map(({ node }) => (
 					<ListItem key={node.id}>
-						<NavItem title={node.name} to={node.to} sub={node.sub} />
+						<NavItem title={node.name} sub={node.sub} />
 					</ListItem>
 				))}
 			</List>

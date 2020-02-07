@@ -1,0 +1,31 @@
+{
+	"name": "mobile",
+	"to": null,
+	"order": null,
+	"sub": [
+		{
+			"name": "dzieje się",
+			"to": "#newsfeed"
+		},
+		{
+			"name": "ogłoszenia",
+			"to": "#annoucements"
+		},
+		{
+			"name": "propozycje",
+			"to": "#suggestions"
+		},
+		{
+			"name": "nadchodzące wydarzenia",
+			"to": "#events"
+		},
+		{
+			"name": "sakrameny i sakramentalia",
+			"to": "#sacraments"
+		},
+		{
+			"name": "kontakt",
+			"to": "#contact"
+		}
+	]
+}

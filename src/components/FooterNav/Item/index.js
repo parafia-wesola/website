@@ -2,14 +2,11 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import ConditionalLink from 'components/Conditional';
-
 import { Wrapper, Title, List, ListItem, StyledLink } from './styles';
 
-const NavItem = ({ title, to, sub }) => (
+const NavItem = ({ title, sub }) => (
 	<Wrapper>
-		<Title as={ConditionalLink} to={to}>
-			{title}
-		</Title>
+		<Title>{title}</Title>
 		<List>
 			{sub.map(subItem => (
 				<ListItem key={subItem.name}>
@@ -24,7 +21,6 @@ const NavItem = ({ title, to, sub }) => (
 
 NavItem.propTypes = {
 	title: PropTypes.string.isRequired,
-	to: PropTypes.string.isRequired,
 	sub: PropTypes.arrayOf(PropTypes.object).isRequired,
 };
 

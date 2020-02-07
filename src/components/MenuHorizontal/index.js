@@ -9,12 +9,11 @@ const MenuHorizontal = ({ className }) => {
 		allMenuJson: { menu },
 	} = useStaticQuery(graphql`
 		query {
-			allMenuJson(sort: { fields: order }) {
+			allMenuJson(sort: { fields: order }, filter: { name: { ne: "mobile" } }) {
 				menu: edges {
 					node {
 						id
 						name
-						to
 						sub {
 							name
 							to

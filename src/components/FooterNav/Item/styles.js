@@ -12,11 +12,6 @@ export const Title = styled.h3`
 	font-size: 0.8em;
 	text-transform: lowercase;
 	text-decoration: none;
-
-	:hover,
-	:active {
-		color: ${({ theme }) => theme.colors.footerActiveLink};
-	}
 `;
 
 export const List = styled.ul`
