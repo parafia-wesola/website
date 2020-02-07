@@ -4,6 +4,10 @@
 	"order": 1,
 	"sub": [
 		{
+			"name": "dzieje się",
+			"to": "#newsfeed"
+		},
+		{
 			"name": "nadchodzące wydarzenia",
 			"to": "#events"
 		},

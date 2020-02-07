@@ -4,7 +4,7 @@ import { SectionWrapper, SectionTitle } from 'components/Share';
 import { NewsFeedWrapper, StyledNewsFeed } from './styles';
 
 const News = () => (
-	<SectionWrapper>
+	<SectionWrapper id="newsfeed">
 		<SectionTitle dark>Dzieje się</SectionTitle>
 		<NewsFeedWrapper>
 			<StyledNewsFeed as={NewsFeed} style={{ flex: '1' }} />
