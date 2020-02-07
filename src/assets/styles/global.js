@@ -20,6 +20,7 @@ const GlobalStyle = createGlobalStyle`
 		box-sizing: inherit;
 	}
 
+	.ReactBurger--open,
 	.ReactModal__Html--open,
 	.ReactModal__Body--open {
 		overflow-y: hidden;

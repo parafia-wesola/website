@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
 import Scroll from 'components/SmoothScroll';
 
-const ConditionalLink = ({ to, className, children }) => {
+const ConditionalLink = ({ to, className, children, click }) => {
 	// page scroll
 	if (to.includes('#')) {
 		const hashIndex = to.indexOf('#');
@@ -12,7 +12,7 @@ const ConditionalLink = ({ to, className, children }) => {
 		if (typeof window !== 'undefined') {
 			if (window.location.pathname === path) {
 				return (
-					<Scroll to={tail} className={className}>
+					<Scroll onClick={click} to={tail} className={className}>
 						{children}
 					</Scroll>
 				);
@@ -25,7 +25,7 @@ const ConditionalLink = ({ to, className, children }) => {
 	// Gatsby Link
 	if (firstChar === '/') {
 		return (
-			<Link to={to} className={className}>
+			<Link onClick={click} to={to} className={className}>
 				{children}
 			</Link>
 		);
@@ -35,6 +35,7 @@ const ConditionalLink = ({ to, className, children }) => {
 	if (firstChar === '$') {
 		return (
 			<Link
+				onClick={click}
 				to={`/${to.slice(1)}`}
 				className={className}
 				state={{
@@ -48,7 +49,7 @@ const ConditionalLink = ({ to, className, children }) => {
 
 	// default outer link
 	return (
-		<a href={to} className={className}>
+		<a onClick={click} href={to} className={className}>
 			{children}
 		</a>
 	);
@@ -56,12 +57,14 @@ const ConditionalLink = ({ to, className, children }) => {
 
 ConditionalLink.propTypes = {
 	to: PropTypes.string,
+	click: PropTypes.func,
 	className: PropTypes.string,
 	children: PropTypes.node,
 };
 
 ConditionalLink.defaultProps = {
 	to: null,
+	click: null,
 	className: null,
 	children: null,
 };

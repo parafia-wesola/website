@@ -34,6 +34,19 @@ export const BurgerStyled = styled.div`
 	}
 `;
 
+export const BurgerMenu = styled.nav`
+	position: absolute;
+	top: 100%;
+	right: 0;
+	left: 0;
+	z-index: 1000;
+	height: 100vh;
+	visibility: ${({ isOpen }) => (isOpen ? 'visible' : 'hidden')};
+	opacity: ${({ isOpen }) => (isOpen ? '1' : '0')};
+	transition: opacity 0.35s ease-out, visibility 0.35s;
+	will-change: opacity;
+`;
+
 export const Menu = styled.nav`
 	display: none;
 	${({ theme }) => theme.mq.tabletMid} {
