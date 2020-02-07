@@ -6,6 +6,8 @@ const theme = {
 		menu: '#28445C',
 		menuActive: '#1D3142',
 		menuColor: '#fff',
+		menuMobile: '#9E0B0FF9',
+		menuMobileActive: '#780205',
 		newsFeedBorder: '#B4B2B2',
 		eventCircle: '#fa0',
 		eventHoverBg: '#FFF',
