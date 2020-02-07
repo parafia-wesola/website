@@ -5,7 +5,7 @@ import EventPage from 'components/Sections/EventsPage';
 
 const EventsPage = () => (
 	<Layout>
-		<SEO title="Strona główna" />
+		<SEO title="Nadchodzące wydarzenia" />
 		<EventPage />
 	</Layout>
 );

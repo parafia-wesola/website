@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { graphql, useStaticQuery, Link } from 'gatsby';
 import SectionTitle from 'components/Share/SectionTitle';
 import EventList from 'components/EventList';
@@ -33,19 +33,14 @@ const EventSection = () => {
 		}
 	`);
 
-	const [isReadMore, setIsReadMore] = useState(false);
+	const isReadMore = total > 4;
 
-	useEffect(() => {
-		if (total > 4) {
-			setIsReadMore(true);
-		}
-	}, []);
 	return (
 		<Wrapper>
 			<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
 			<EventList events={events} />
 			{isReadMore && (
-				<ReadMore as={Link} to="events" type="button">
+				<ReadMore as={Link} to="/events">
 					Pokaż Więcej
 				</ReadMore>
 			)}

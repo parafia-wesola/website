@@ -10,7 +10,7 @@ export const Wrapper = styled.section`
 	}
 `;
 
-export const ReadMore = styled.button`
+export const ReadMore = styled.a`
 	position: relative;
 	display: flex;
 	justify-content: center;

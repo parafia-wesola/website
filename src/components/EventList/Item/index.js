@@ -28,17 +28,20 @@ const EventItem = ({
 	}, []);
 
 	return (
-		<div data-aos={scrollAnimation}>
-			<Wrapper as={Link} to={reference} reverse={reverse}>
-				<Title reverse={reverse}>{title}</Title>
-				<Date reverse={reverse}>
-					{eventDateDay}
-					<br />
-					{eventDateMonthFormatted}
-				</Date>
-				<Content>{content}</Content>
-			</Wrapper>
-		</div>
+		<Wrapper
+			as={Link}
+			to={reference}
+			reverse={reverse}
+			data-aos={scrollAnimation}
+		>
+			<Title reverse={reverse}>{title}</Title>
+			<Date reverse={reverse}>
+				{eventDateDay}
+				<br />
+				{eventDateMonthFormatted}
+			</Date>
+			<Content>{content}</Content>
+		</Wrapper>
 	);
 };
 

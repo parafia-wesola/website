@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 import SectionTitle from 'components/Share/SectionTitle';
 import EventList from 'components/EventList';
-import { Wrapper, ReadMore } from './styles';
+import { Wrapper } from './styles';
 
 const EventSection = () => {
 	const { eventsFirst, eventsSecond } = useStaticQuery(graphql`
@@ -50,26 +50,11 @@ const EventSection = () => {
 		}
 	`);
 
-	const [isReadMore, setIsReadMore] = useState(false);
-	const [showRest, setShowRest] = useState(false);
-
-	const handleClick = () => {
-		setIsReadMore(true);
-		setShowRest(true);
-	};
-
 	return (
 		<Wrapper>
 			<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
-			<EventList events={eventsFirst.edges} data="first" />
-			{!isReadMore && (
-				<ReadMore type="button" onClick={handleClick}>
-					Pokaż Więcej
-				</ReadMore>
-			)}
-			{showRest && (
-				<EventList events={eventsSecond.edges} scrollAnimation="zoom-out-up" />
-			)}
+			<EventList events={eventsFirst.edges} />
+			<EventList events={eventsSecond.edges} scrollAnimation="zoom-out-up" />
 		</Wrapper>
 	);
 };
