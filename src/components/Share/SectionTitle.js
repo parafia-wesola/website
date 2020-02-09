@@ -5,7 +5,7 @@ const SectionTitle = styled.h2`
 	color:
 		${({ theme,
 		dark }) => dark ? theme.colors.dark : theme.colors.bright};
-	font-size: 2em;
+	font-size: ${({ small }) => (small ? '1.2em' : '2em')};
 	text-align: center;
 	text-transform: uppercase;
 	${({ hidden }) => hidden
