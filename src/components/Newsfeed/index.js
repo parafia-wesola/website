@@ -67,7 +67,7 @@ const NewsFeed = ({ className }) => {
 						text={content}
 						cover={cover}
 						size={size}
-						reference={`articles/${slug}`}
+						reference={`/articles/${slug}`}
 					/>
 				);
 			})}
