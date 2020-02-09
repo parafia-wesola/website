@@ -1,5 +1,6 @@
 ---
 title: Kolęda 2019
+author: Gall Anonim
 cover: ./images/zelki.jpg
 date: 2020-01-19T18:00:00Z
 eventDate: null

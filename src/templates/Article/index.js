@@ -1,20 +1,38 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
-import Img from 'gatsby-image';
+
 import Layout from 'layouts/Main';
+import ArticleMain from 'components/ArticleMain';
+import ArticleAside from 'components/ArticleAside';
+import { Wrapper, StyledMain, StyledAside } from './styles';
 
 const ArticleTemplate = ({ data }) => {
-	const { title, date } = data.markdownRemark.frontmatter;
-	const cover = data.markdownRemark.frontmatter.cover.childImageSharp.fluid;
-	const content = data.markdownRemark.rawMarkdownBody;
-
+	const {
+		title,
+		date,
+		eventDate,
+		images,
+		cover,
+		author,
+	} = data.markdownRemark.frontmatter;
+	const content = data.markdownRemark.html;
+	const moreArticles = data.allMarkdownRemark.edges;
 	return (
 		<Layout>
-			<h1>{title}</h1>
-			<date>{date}</date>
-			<Img fluid={cover} />
-			<div>{content}</div>
+			<Wrapper>
+				<StyledMain
+					as={ArticleMain}
+					cover={cover.childImageSharp.fluid}
+					title={title}
+					date={date}
+					author={author}
+					eventDate={eventDate}
+					content={content}
+					images={images}
+				/>
+				<StyledAside as={ArticleAside} articles={moreArticles} />
+			</Wrapper>
 		</Layout>
 	);
 };
@@ -27,10 +45,38 @@ export default ArticleTemplate;
 
 export const query = graphql`
 	query ArticleTemplate($id: String!) {
+		allMarkdownRemark(
+			limit: 4
+			filter: { id: { ne: $id }, fields: { directory: { eq: "articles" } } }
+			sort: { order: DESC, fields: frontmatter___date }
+		) {
+			edges {
+				node {
+					id
+					excerpt(pruneLength: 90)
+					frontmatter {
+						slug
+						title
+						date(formatString: "DD.MM.YYYY")
+						eventDate(formatString: "DD.MM.YYYY")
+						cover {
+							childImageSharp {
+								fluid(maxWidth: 1360) {
+									...GatsbyImageSharpFluid
+								}
+							}
+						}
+					}
+				}
+			}
+		}
 		markdownRemark(id: { eq: $id }) {
+			id
 			frontmatter {
 				title
-				date
+				author
+				date(formatString: "DD.MM.YYYY")
+				eventDate(formatString: "DD.MM.YYYY")
 				cover {
 					childImageSharp {
 						fluid(maxWidth: 1360) {
@@ -38,8 +84,16 @@ export const query = graphql`
 						}
 					}
 				}
+				images {
+					id
+					childImageSharp {
+						fluid(maxWidth: 1360) {
+							...GatsbyImageSharpFluid
+						}
+					}
+				}
 			}
-			rawMarkdownBody
+			html
 		}
 	}
 `;
