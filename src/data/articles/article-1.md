@@ -1,11 +1,15 @@
 ---
 title: Kurs Alpha
+author: Gall Anonim
 cover: ./images/zorza.jpg
 date: 2020-01-19T18:00:00Z
 eventDate: 2020-05-23T18:00:00Z
 images: [
 	'./images/zorza.jpg',
-	'./images/zorza2.jpg'
+	'./images/zorza2.jpg',
+	'./images/zorza3.jpg',
+	'./images/zelki.jpg',
+	'./images/zelki2.jpg'
 ]
 slug: kurs_alpha
 order: 0

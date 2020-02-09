@@ -1,5 +1,6 @@
 ---
 title: Koncert uwielbienia
+author: Gall Anonim
 cover: ./images/zorza2.jpg
 date: 2020-01-19T18:00:00Z
 eventDate: 2020-10-10T18:00:00Z
