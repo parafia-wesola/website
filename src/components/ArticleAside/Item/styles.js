@@ -6,7 +6,7 @@ export const StyledLink = styled.a`
 	flex-direction: column;
 	color: ${({ theme }) => theme.colors.dark};
 	text-decoration: none;
-	background: ${({ theme }) => theme.colors.bright};
+	background: ${({ theme }) => theme.colors.mainBg};
 	transition: transform 0.2s ease-in;
 
 	:hover {
