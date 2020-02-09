@@ -21,7 +21,7 @@ Burger.propTypes = {
 };
 
 Burger.defaultProps = {
-	className: 'string',
+	className: null,
 };
 
 export default Burger;
