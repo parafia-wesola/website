@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 
 import Layout from 'layouts/Main';
+import { SectionWrapper } from 'components/Share';
 import ArticleMain from 'components/ArticleMain';
 import ArticleAside from 'components/ArticleAside';
 import { Wrapper, StyledMain, StyledAside } from './styles';
@@ -20,7 +21,7 @@ const ArticleTemplate = ({ data }) => {
 	const moreArticles = data.allMarkdownRemark.edges;
 	return (
 		<Layout>
-			<Wrapper>
+			<Wrapper as={SectionWrapper}>
 				<StyledMain
 					as={ArticleMain}
 					cover={cover.childImageSharp.fluid}

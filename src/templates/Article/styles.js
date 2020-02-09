@@ -3,8 +3,6 @@ import styled from 'styled-components';
 export const Wrapper = styled.section`
 	display: flex;
 	flex-direction: column;
-	max-width: 1360px;
-	margin: 0 auto;
 	padding: 4em 1rem;
 	${({ theme }) => theme.mq.desktop} {
 		flex-direction: row;

@@ -15,7 +15,7 @@ const EventSection = () => {
 					frontmatter: { eventDate: { gt: "0" } }
 					fields: { directory: { eq: "articles" } }
 				}
-				limit: 4
+				limit: 3
 			) {
 				events: edges {
 					node {
