@@ -50,7 +50,7 @@ export const MenuLink = styled.button`
 	text-align: center;
 	text-transform: lowercase;
 	text-decoration: none;
-	background: inherit;
+	background: transparent;
 	border: none;
 	cursor: pointer;
 `;
