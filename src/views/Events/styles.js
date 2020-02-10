@@ -9,7 +9,7 @@ export const ReadMore = styled.a`
 	position: relative;
 	display: flex;
 	justify-content: center;
-	margin: 0 auto;
+	margin: 2em auto 0;
 	padding: 1em 1.5em 1.5em;
 	color: ${({ theme }) => theme.colors.dark};
 	font: inherit;
@@ -23,9 +23,8 @@ export const ReadMore = styled.a`
 
 	::after {
 		position: absolute;
-		top: 80%;
-		bottom: 0.5em;
-		width: 2.5em;
+		bottom: -1em;
+		width: 2em;
 		height: 2.5em;
 		background-image: url(${arrow});
 		background-repeat: no-repeat;
@@ -40,7 +39,7 @@ export const ReadMore = styled.a`
 	:focus {
 		::after {
 			transform:
-				${({ open }) => open ? null : 'translateY(0.8em) rotate(90deg)'};
+				${({ open }) => open ? null : 'translateY(0.5em) rotate(90deg)'};
 		}
 	}
 `;
