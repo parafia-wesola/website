@@ -10,7 +10,8 @@ export const Wrapper = styled.ul`
 	background: ${({ theme }) => theme.colors.bright};
 	${({ theme }) => theme.mq.tabletLandscape} {
 		padding: 3em 1.5rem;
-		border: 1px solid ${({ theme }) => theme.colors.annoucementBorder};
+		border-radius: 5px;
+		box-shadow: 6px 8px 6px -6px #777;
 	}
 	${({ theme }) => theme.mq.desktop} {
 		padding: 3em 3rem;
