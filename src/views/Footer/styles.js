@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Wrapper = styled.div`
 	max-width: 1360px;
 	margin: 0 auto;
-	padding: 2em 0;
+	padding: 1em 0;
 	color: ${({ theme }) => theme.colors.bright};
 	background: ${({ theme }) => theme.colors.footerBackground};
 	${({ theme }) => theme.mq.desktop} {
@@ -24,7 +24,7 @@ export const Copyright = styled.p`
 	width: 100%;
 	max-width: 1360px;
 	margin: 0 auto;
-	padding: 0.5em 0;
+	padding: 0.5em 0.5rem;
 	color: ${({ theme }) => theme.colors.bright};
 	font-size: 0.7em;
 	line-height: 2;
