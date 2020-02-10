@@ -2,11 +2,11 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 import ConditionalLink from 'components/Conditional';
-import { LogoWrapper, LogoText } from './styles';
+import { LogoWrapper, LogoImg, LogoText } from './styles';
 
 const Logo = ({ to, image, text, className }) => (
 	<LogoWrapper as={ConditionalLink} to={to} className={className}>
-		{image && <Img fixed={image} />}
+		{image && <LogoImg as={Img} fluid={image} />}
 		<LogoText>{text}</LogoText>
 	</LogoWrapper>
 );

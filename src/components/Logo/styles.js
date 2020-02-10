@@ -14,6 +14,11 @@ export const LogoWrapper = styled.a`
 	border: none;
 `;
 
+export const LogoImg = styled.img`
+	display: block;
+	width: 3.125em;
+`;
+
 export const LogoText = styled.h1`
 	margin: 0;
 	font-weight: 600;

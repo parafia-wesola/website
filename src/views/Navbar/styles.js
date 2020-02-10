@@ -28,7 +28,13 @@ export const Wrapper = styled.div`
 	}
 `;
 
-export const BurgerStyled = styled.div`
+export const StyledLogo = styled.div`
+	${({ theme }) => theme.mq.tabletMid} {
+		font-size: 1.25em;
+	}
+`;
+
+export const StyledBurger = styled.div`
 	${({ theme }) => theme.mq.tabletMid} {
 		display: none;
 	}
@@ -47,7 +53,7 @@ export const BurgerMenu = styled.nav`
 	will-change: opacity;
 `;
 
-export const Menu = styled.nav`
+export const MenuWrapper = styled.nav`
 	display: none;
 	${({ theme }) => theme.mq.tabletMid} {
 		z-index: 100;
