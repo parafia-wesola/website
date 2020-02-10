@@ -3,8 +3,8 @@ import PropTypes from 'prop-types';
 import { ThemeProvider } from 'styled-components';
 import GlobalStyle from 'assets/styles/global';
 import theme from 'assets/styles/theme';
-import Navbar from 'components/Sections/Navbar';
-import Footer from 'components/Sections/Footer';
+import Navbar from 'views/Navbar';
+import Footer from 'views/Footer';
 import { SmoothScrollContext } from 'components/SmoothScroll';
 import { heightOnMobile } from 'utils';
 

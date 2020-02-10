@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from 'layouts/Main';
 import SEO from 'components/SEO';
-import EventPage from 'components/Sections/EventsPage';
+import EventPage from 'views/EventsPage';
 
 const EventsPage = () => (
 	<Layout>
