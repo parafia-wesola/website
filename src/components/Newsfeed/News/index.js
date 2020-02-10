@@ -31,8 +31,8 @@ const News = ({ title, date, text, size, cover, reference, className }) => {
 
 	return (
 		<NewsWrapper className={className} as={Link} to={reference} size={size}>
-			{size === 'large' && large}
 			<NewsImg as={Img} fluid={cover} size={size} draggable={false} />
+			{size === 'large' && large}
 			{size === 'medium' && medium}
 		</NewsWrapper>
 	);

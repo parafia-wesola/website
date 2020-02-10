@@ -9,7 +9,7 @@ export const NewsWrapper = styled.div`
 	text-decoration: none;
 	background: ${({ theme }) => theme.colors.bright};
 	border-radius:
-		${({ size }) => size === 'medium' ? '5px 0 0 5px' : '0 0 5px 5px'};
+		${({ size }) => size === 'medium' ? '5px 0 0 5px' : '5px 5px 0 0'};
 	box-shadow: 8px 10px 6px -6px #777;
 	transition: transform 0.2s ease-in;
 
@@ -38,7 +38,7 @@ export const NewsImg = styled.div`
 	align-items: center;
 	max-width: ${({ size }) => (size === 'medium' ? `${imgPercent}` : 'auto')};
 	border-radius:
-		${({ size }) => size === 'medium' ? '5px 0 0 5px' : '0 0 5px 5px'};
+		${({ size }) => size === 'medium' ? '5px 0 0 5px' : '5px 5px 0 0'};
 `;
 
 export const MediumBody = styled.div`
