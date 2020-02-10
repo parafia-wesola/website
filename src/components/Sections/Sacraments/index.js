@@ -9,7 +9,7 @@ import { Wrapper, ImageWrapper, List, ListItem } from './styles';
 const SacramentsSection = () => {
 	const { sacraments } = useStaticQuery(graphql`
 		query {
-			sacraments: sectionsJson(id: { eq: "sacraments" }) {
+			sacraments: sacramentsJson {
 				id
 				title
 				image {

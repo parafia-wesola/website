@@ -9,12 +9,9 @@ const Main = ({ className }) => {
 	const { allMarkdownRemark } = useStaticQuery(graphql`
 		{
 			allMarkdownRemark(
-				sort: { fields: frontmatter___startDate, order: DESC }
+				sort: { fields: frontmatter___date, order: DESC }
 				limit: 1
-				filter: {
-					fields: { directory: { eq: "annoucements" } }
-					frontmatter: { position: { eq: "main" } }
-				}
+				filter: { fields: { directory: { eq: "annoucements" } } }
 			) {
 				edges {
 					node {
@@ -22,7 +19,6 @@ const Main = ({ className }) => {
 						html
 						frontmatter {
 							title
-							position
 						}
 					}
 				}

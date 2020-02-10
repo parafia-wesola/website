@@ -1,9 +1,6 @@
 ---
 title: ogłoszenia parafialne i duszpasterskie
 date: 2020-01-29T18:00:00Z
-startDate: 2020-02-03T00:00:00Z
-position: main
-order: 0
 ---
 
 VII Niedziela Wielkanocna, 2 czerwca 2019 - Wniebowstąpienie Pańskie, Święto Dziękczynienia

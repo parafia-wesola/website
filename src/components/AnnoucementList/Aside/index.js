@@ -10,7 +10,7 @@ const Aside = ({ className }) => {
 		{
 			allMarkdownRemark(
 				filter: {
-					fields: { directory: { eq: "annoucements" } }
+					fields: { directory: { eq: "sections/annoucements" } }
 					frontmatter: { position: { eq: "aside" } }
 				}
 				sort: { order: ASC, fields: frontmatter___order }

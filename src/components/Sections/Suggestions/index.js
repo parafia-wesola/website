@@ -9,7 +9,7 @@ import { Wrapper, ImageWrapper, List, ListItem } from './styles';
 const SuggestionsSection = () => {
 	const { suggestions } = useStaticQuery(graphql`
 		query {
-			suggestions: sectionsJson(id: { eq: "suggestions" }) {
+			suggestions: suggestionsJson {
 				id
 				title
 				image {
