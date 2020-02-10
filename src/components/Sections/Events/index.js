@@ -33,7 +33,7 @@ const EventSection = () => {
 		}
 	`);
 
-	const isReadMore = total > 4;
+	const isReadMore = total > events.length;
 
 	return (
 		<SectionWrapper id="events">
