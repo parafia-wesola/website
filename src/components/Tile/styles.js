@@ -5,6 +5,8 @@ export const Wrapper = styled.div`
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+	max-width: 200px;
+	margin: 0 auto;
 	padding: 1em 1rem;
 	text-decoration: none;
 	transition: all 0.5s ease-in-out;
@@ -13,7 +15,9 @@ export const Wrapper = styled.div`
 		transform: scale(1.05);
 
 		h3 {
-			color: ${({ theme }) => theme.colors.bright};
+			color:
+				${({ theme,
+		dark }) => dark ? theme.colors.dark : theme.colors.bright};
 		}
 
 		div::before {
@@ -25,9 +29,10 @@ export const Wrapper = styled.div`
 export const Title = styled.h3`
 	margin: 0;
 	padding: 0.75em;
-	color: #ccc;
+	color: ${({ theme, dark }) => (dark ? theme.colors.dark : theme.colors.gray)};
 	font-weight: 600;
 	font-size: 1.15em;
+	text-align: center;
 	transition: color 0.5s ease-in-out;
 `;
 
