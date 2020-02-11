@@ -2,6 +2,7 @@ const theme = {
 	colors: {
 		bright: '#fff',
 		dark: '#000',
+		gray: '#ccc',
 		mainBg: '#F8F8F8',
 		menu: '#28445C',
 		menuActive: '#1D3142',
