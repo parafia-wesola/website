@@ -9,13 +9,13 @@ import 'slick-carousel/slick/slick-theme.css';
 import 'assets/styles/slick.css';
 
 const ArticleMain = ({
-	title,
-	date,
-	eventDate,
 	cover,
+	title,
 	content,
-	author,
 	images,
+	eventDate,
+	date,
+	author,
 	className,
 }) => {
 	const sliderSettings = {
@@ -41,9 +41,11 @@ const ArticleMain = ({
 			)}
 
 			<Text dangerouslySetInnerHTML={{ __html: content }} />
-			<Author>
-				{author} {date}
-			</Author>
+			{author && date && (
+				<Author>
+					{author} {date}
+				</Author>
+			)}
 
 			{images && (
 				<Slider
@@ -66,19 +68,21 @@ const ArticleMain = ({
 };
 
 ArticleMain.propTypes = {
-	title: PropTypes.string.isRequired,
-	date: PropTypes.string.isRequired,
-	author: PropTypes.string.isRequired,
 	cover: PropTypes.shape().isRequired,
+	title: PropTypes.string.isRequired,
 	content: PropTypes.string.isRequired,
-	eventDate: PropTypes.string,
 	images: PropTypes.arrayOf(PropTypes.object),
+	eventDate: PropTypes.string,
+	date: PropTypes.string,
+	author: PropTypes.string,
 	className: PropTypes.string,
 };
 
 ArticleMain.defaultProps = {
-	eventDate: null,
 	images: null,
+	eventDate: null,
+	date: null,
+	author: null,
 	className: null,
 };
 
