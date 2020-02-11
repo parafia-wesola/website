@@ -1,6 +1,6 @@
 ---
 title: Chrzest
-image: ./images/bierzmowanie.jpg
+cover: ./images/bierzmowanie.jpg
 slug: chrzest
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Eucharystia
-image: ./images/bierzmowanie.jpg
+cover: ./images/bierzmowanie.jpg
 slug: eucharystia
 ---
 

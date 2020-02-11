@@ -10,7 +10,7 @@ import Modal from 'components/Modal';
 import { StyledModal, Close, Cross } from './styles';
 
 const ModalTemplate = ({ data }) => {
-	const { title, image } = data.markdownRemark.frontmatter;
+	const { title, cover } = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
 
 	return (
@@ -25,7 +25,7 @@ const ModalTemplate = ({ data }) => {
 
 							<Modal
 								title={title}
-								background={image.childImageSharp.fluid}
+								background={cover.childImageSharp.fluid}
 								content={content}
 							/>
 						</ThemeProvider>
@@ -34,7 +34,7 @@ const ModalTemplate = ({ data }) => {
 							<StyledModal
 								as={Modal}
 								title={title}
-								background={image.childImageSharp.fluid}
+								background={cover.childImageSharp.fluid}
 								content={content}
 							/>
 						</Layout>
@@ -57,7 +57,7 @@ export const query = graphql`
 			html
 			frontmatter {
 				title
-				image {
+				cover {
 					childImageSharp {
 						fluid(maxWidth: 1360) {
 							...GatsbyImageSharpFluid

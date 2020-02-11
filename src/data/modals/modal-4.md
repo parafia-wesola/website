@@ -1,6 +1,6 @@
 ---
 title: Spowiedź
-image: ./images/bierzmowanie.jpg
+cover: ./images/bierzmowanie.jpg
 slug: spowiedz
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Pogrzeb
-image: ./images/bierzmowanie.jpg
+cover: ./images/bierzmowanie.jpg
 slug: pogrzeb
 ---
 

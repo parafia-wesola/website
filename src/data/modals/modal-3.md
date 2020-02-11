@@ -1,6 +1,6 @@
 ---
 title: Bierzmowanie
-image: ./images/bierzmowanie.jpg
+cover: ./images/bierzmowanie.jpg
 slug: bierzmowanie
 ---
 

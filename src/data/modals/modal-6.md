@@ -1,6 +1,6 @@
 ---
 title: Posługa chorym
-image: ./images/bierzmowanie.jpg
+cover: ./images/bierzmowanie.jpg
 slug: posluga_chorym
 ---
 
