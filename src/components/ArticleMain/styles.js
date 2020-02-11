@@ -56,3 +56,8 @@ export const GalleryImage = styled.div`
 		height: 56.25vh;
 	}
 `;
+
+export const TextWrapper = styled.div`
+	max-width: ${({ isPage }) => (isPage ? '1100px' : 'auto')};
+	margin: 0 auto;
+`;

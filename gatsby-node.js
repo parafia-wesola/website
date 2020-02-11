@@ -42,6 +42,18 @@ exports.createPages = async ({ graphql, actions }) => {
 					}
 				}
 			}
+			pages: allMarkdownRemark(
+				filter: { fields: { directory: { eq: "pages" } } }
+			) {
+				edges {
+					node {
+						id
+						frontmatter {
+							slug
+						}
+					}
+				}
+			}
 		}
 	`);
 
@@ -63,6 +75,17 @@ exports.createPages = async ({ graphql, actions }) => {
 		createPage({
 			path: `${slug}`,
 			component: path.resolve('src/templates/Modal/index.js'),
+			context: {
+				id: node.id,
+			},
+		});
+	});
+
+	result.data.pages.edges.forEach(({ node }) => {
+		const { slug } = node.frontmatter;
+		createPage({
+			path: `${slug}`,
+			component: path.resolve('src/templates/Pages/index.js'),
 			context: {
 				id: node.id,
 			},

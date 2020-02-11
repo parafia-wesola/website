@@ -3,7 +3,15 @@ import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
 import { SectionTitle } from 'components/Share';
 import Slider from 'react-slick';
-import { Wrapper, Cover, Date, Text, Author, GalleryImage } from './styles';
+import {
+	Wrapper,
+	Cover,
+	Date,
+	Text,
+	Author,
+	GalleryImage,
+	TextWrapper,
+} from './styles';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import 'assets/styles/slick.css';
@@ -17,6 +25,7 @@ const ArticleMain = ({
 	date,
 	author,
 	className,
+	isPage,
 }) => {
 	const sliderSettings = {
 		dots: true,
@@ -39,8 +48,9 @@ const ArticleMain = ({
 					{eventDate}
 				</Date>
 			)}
-
-			<Text dangerouslySetInnerHTML={{ __html: content }} />
+			<TextWrapper isPage={isPage}>
+				<Text dangerouslySetInnerHTML={{ __html: content }} />
+			</TextWrapper>
 			{author && date && (
 				<Author>
 					{author} {date}
@@ -76,6 +86,7 @@ ArticleMain.propTypes = {
 	date: PropTypes.string,
 	author: PropTypes.string,
 	className: PropTypes.string,
+	isPage: PropTypes.bool,
 };
 
 ArticleMain.defaultProps = {
@@ -84,6 +95,7 @@ ArticleMain.defaultProps = {
 	date: null,
 	author: null,
 	className: null,
+	isPage: false,
 };
 
 export default ArticleMain;
