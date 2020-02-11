@@ -40,7 +40,7 @@ export const List = styled.ul`
 	list-style-type: none;
 `;
 
-export const ListItem = styled.ul`
+export const ListItem = styled.li`
 	margin: 20px 3rem;
 	padding: 0;
 `;
