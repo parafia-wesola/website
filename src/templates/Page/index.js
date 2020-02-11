@@ -7,18 +7,17 @@ import { SectionWrapper } from 'components/Share';
 import ArticleMain from 'components/ArticleMain';
 
 const PagesTemplate = ({ data }) => {
-	const { title, slug, cover, images } = data.markdownRemark.frontmatter;
+	const { title, cover, images } = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
 	return (
 		<Layout>
 			<SectionWrapper>
 				<ArticleMain
 					isPage
-					title={title}
-					slug={slug}
 					cover={cover.childImageSharp.fluid}
-					images={images}
+					title={title}
 					content={content}
+					images={images}
 				/>
 			</SectionWrapper>
 		</Layout>
@@ -37,7 +36,6 @@ export const query = graphql`
 			id
 			frontmatter {
 				title
-				slug
 				cover {
 					childImageSharp {
 						fluid(maxWidth: 1360) {

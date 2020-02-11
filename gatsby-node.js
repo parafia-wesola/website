@@ -43,7 +43,7 @@ exports.createPages = async ({ graphql, actions }) => {
 				}
 			}
 			pages: allMarkdownRemark(
-				filter: { fields: { directory: { eq: "pages" } } }
+				filter: { fields: { directory: { regex: "/pages//" } } }
 			) {
 				edges {
 					node {
@@ -85,7 +85,7 @@ exports.createPages = async ({ graphql, actions }) => {
 		const { slug } = node.frontmatter;
 		createPage({
 			path: `${slug}`,
-			component: path.resolve('src/templates/Pages/index.js'),
+			component: path.resolve('src/templates/Page/index.js'),
 			context: {
 				id: node.id,
 			},
