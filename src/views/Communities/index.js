@@ -3,8 +3,13 @@ import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
 import Tile from 'components/Tile';
-import { SectionWrapper, SectionTitle } from 'components/Share';
-import { Wrapper, ImageWrapper, List, ListItem } from './styles';
+import {
+	SectionWrapper,
+	SectionTitle,
+	TileList,
+	TileItem,
+} from 'components/Share';
+import { Wrapper, Background } from './styles';
 
 const Communities = () => {
 	const { communities } = useStaticQuery(graphql`
@@ -38,20 +43,20 @@ const Communities = () => {
 
 	return (
 		<Wrapper as={SectionWrapper} id={communities.id}>
-			<ImageWrapper as={Img} fluid={communities.image.childImageSharp.fluid} />
+			<Background as={Img} fluid={communities.image.childImageSharp.fluid} />
 			<SectionTitle dark>{communities.title}</SectionTitle>
-			<List>
+			<TileList muzzle>
 				{communities.tiles.map(node => (
-					<ListItem key={node.id}>
+					<TileItem key={node.id}>
 						<Tile
 							dark
 							title={node.title}
 							to={node.to}
 							image={node.image.childImageSharp.fluid}
 						/>
-					</ListItem>
+					</TileItem>
 				))}
-			</List>
+			</TileList>
 		</Wrapper>
 	);
 };
