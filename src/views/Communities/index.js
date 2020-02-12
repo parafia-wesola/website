@@ -11,10 +11,10 @@ import {
 } from 'components/Share';
 import { Wrapper, Background } from './styles';
 
-const SuggestionsSection = () => {
-	const { suggestions } = useStaticQuery(graphql`
+const Communities = () => {
+	const { communities } = useStaticQuery(graphql`
 		query {
-			suggestions: suggestionsJson {
+			communities: communitiesJson {
 				id
 				title
 				image {
@@ -40,17 +40,19 @@ const SuggestionsSection = () => {
 			}
 		}
 	`);
+
 	return (
-		<Wrapper as={SectionWrapper} id={suggestions.id}>
-			<Background as={Img} fluid={suggestions.image.childImageSharp.fluid} />
-			<SectionTitle>{suggestions.title}</SectionTitle>
+		<Wrapper as={SectionWrapper} id={communities.id}>
+			<Background as={Img} fluid={communities.image.childImageSharp.fluid} />
+			<SectionTitle dark>{communities.title}</SectionTitle>
 			<TileList muzzle>
-				{suggestions.tiles.map(tile => (
-					<TileItem key={tile.id}>
+				{communities.tiles.map(node => (
+					<TileItem key={node.id}>
 						<Tile
-							title={tile.title}
-							to={tile.to}
-							image={tile.image.childImageSharp.fluid}
+							dark
+							title={node.title}
+							to={node.to}
+							image={node.image.childImageSharp.fluid}
 						/>
 					</TileItem>
 				))}
@@ -59,4 +61,4 @@ const SuggestionsSection = () => {
 	);
 };
 
-export default SuggestionsSection;
+export default Communities;

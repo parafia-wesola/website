@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.section`
-	margin-bottom: 4em;
+	margin: 3em auto;
 `;
 
 export const Background = styled.div`
@@ -13,14 +13,13 @@ export const Background = styled.div`
 	max-width: 1360px;
 	height: 100%;
 
-	/* for darkening the background */
 	&::before {
 		position: absolute;
 		z-index: 1;
 		width: 100%;
 		height: 100%;
-		background: #000;
-		opacity: 0.15;
+		background: #fff;
+		opacity: 0.8;
 		content: '';
 	}
 
