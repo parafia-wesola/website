@@ -27,7 +27,7 @@ const Today = ({ className }) => {
 	const isRow = readings.length > 3;
 
 	useEffect(() => {
-		if (typeof window !== 'undefined') {
+		if (typeof window !== 'undefined' && typeof window.fetch !== 'undefined') {
 			window
 				.fetch(
 					'https://cors-anywhere.herokuapp.com/http://www.edycja.pl/ext/dzien_json.php',
