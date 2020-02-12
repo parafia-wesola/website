@@ -12,14 +12,14 @@ const ArticleAside = ({ className, articles }) => (
 		</SectionTitle>
 		<List>
 			{articles.map(({ node }) => {
-				const { title, eventDate, cover, slug } = node.frontmatter;
+				const { title, eventDate, cover } = node.frontmatter;
 				return (
 					<ListItem key={node.id}>
 						<Item
 							title={title}
 							date={eventDate}
 							cover={cover.childImageSharp.fluid}
-							reference={slug}
+							reference={node.fields.slug}
 						/>
 					</ListItem>
 				);

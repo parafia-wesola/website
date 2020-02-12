@@ -13,7 +13,7 @@ const EventSection = () => {
 				sort: { order: ASC, fields: frontmatter___eventDate }
 				filter: {
 					frontmatter: { eventDate: { gt: "0" } }
-					fields: { directory: { eq: "articles" } }
+					fields: { directory: { regex: "/articles//" } }
 				}
 				limit: 3
 			) {
@@ -22,6 +22,8 @@ const EventSection = () => {
 						frontmatter {
 							eventDate(formatString: "DD MM")
 							title
+						}
+						fields {
 							slug
 						}
 						excerpt(pruneLength: 320)

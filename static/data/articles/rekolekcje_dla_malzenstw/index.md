@@ -1,12 +1,12 @@
 ---
 title: Rekolekcje dla małżeństw
 author: Gall Anonim
-cover: ./images/zelki2.jpg
+cover: zelki2.jpg
 date: 2020-01-19T18:00:00Z
 eventDate: 2020-02-28T18:00:00Z
 images: [
-	'./images/zorza.jpg',
-	'./images/zorza2.jpg'
+	'zorza.jpg',
+	'zorza2.jpg'
 ]
 slug: rekolekcje_dla_malzenstw
 order: 3

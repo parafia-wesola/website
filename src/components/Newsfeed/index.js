@@ -10,7 +10,7 @@ const NewsFeed = ({ className }) => {
 			allMarkdownRemark(
 				filter: {
 					frontmatter: { order: { ne: null } }
-					fields: { directory: { eq: "articles" } }
+					fields: { directory: { regex: "/articles//" } }
 				}
 				sort: { order: ASC, fields: frontmatter___order }
 			) {
@@ -18,12 +18,14 @@ const NewsFeed = ({ className }) => {
 					node {
 						id
 						excerpt(pruneLength: 90)
+						fields {
+							slug
+						}
 						frontmatter {
 							title
 							date: eventDate(formatString: "DD.MM.YYYY")
 							size
 							order
-							slug
 							medium: cover {
 								childImageSharp {
 									fluid(maxHeight: 200) {
@@ -53,8 +55,12 @@ const NewsFeed = ({ className }) => {
 	return (
 		<NewsFeedWrapper className={className}>
 			{allMarkdownRemark.edges.map(({ node }) => {
-				const { id, excerpt: content } = node;
-				const { title, date, size, slug } = node.frontmatter;
+				const {
+					id,
+					excerpt: content,
+					fields: { slug },
+				} = node;
+				const { title, date, size } = node.frontmatter;
 				const cover = node.frontmatter[size].childImageSharp.fluid;
 				const TagName = tags[size];
 
@@ -67,7 +73,7 @@ const NewsFeed = ({ className }) => {
 						text={content}
 						cover={cover}
 						size={size}
-						reference={`/articles/${slug}`}
+						reference={slug}
 					/>
 				);
 			})}

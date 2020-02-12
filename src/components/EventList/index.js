@@ -12,7 +12,7 @@ const EventList = ({ events, scrollAnimation, className }) => (
 					scrollAnimation={scrollAnimation}
 					index={index}
 					title={node.frontmatter.title}
-					reference={`/articles/${node.frontmatter.slug}`}
+					reference={node.fields.slug}
 					eventDate={node.frontmatter.eventDate}
 					content={node.excerpt}
 				/>

@@ -1,12 +1,12 @@
 ---
 title: Modlitwa o jedność chrześcijan
 author: Gall Anonim
-cover: ./images/zorza3.jpg
+cover: zorza3.jpg
 date: 2020-01-19T18:00:00Z
 eventDate: 2020-06-28T18:00:00Z
 images: [
-	'./images/zorza.jpg',
-	'./images/zorza2.jpg'
+	'zorza.jpg',
+	'zorza2.jpg'
 ]
 slug: modlitwa_o_jednosc_chrzescijan
 order: 4

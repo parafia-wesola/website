@@ -28,12 +28,12 @@ exports.createPages = async ({ graphql, actions }) => {
 	const result = await graphql(`
 		{
 			articles: allMarkdownRemark(
-				filter: { fields: { directory: { eq: "articles" } } }
+				filter: { fields: { directory: { regex: "/articles//" } } }
 			) {
 				edges {
 					node {
 						id
-						frontmatter {
+						fields {
 							slug
 						}
 					}
@@ -69,9 +69,9 @@ exports.createPages = async ({ graphql, actions }) => {
 	if (result.errors) throw result.errors;
 
 	result.data.articles.edges.forEach(({ node }) => {
-		const { slug } = node.frontmatter;
+		const { slug } = node.fields;
 		createPage({
-			path: `articles/${slug}`,
+			path: slug,
 			component: path.resolve('src/templates/Article/index.js'),
 			context: {
 				id: node.id,

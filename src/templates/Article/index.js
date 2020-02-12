@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 
 import Layout from 'layouts/Main';
+import SEO from 'components/SEO';
 import { SectionWrapper } from 'components/Share';
 import ArticleMain from 'components/ArticleMain';
 import ArticleAside from 'components/ArticleAside';
@@ -21,6 +22,7 @@ const ArticleTemplate = ({ data }) => {
 	const moreArticles = data.allMarkdownRemark.edges;
 	return (
 		<Layout>
+			<SEO title={title} />
 			<Wrapper as={SectionWrapper}>
 				<StyledMain
 					as={ArticleMain}
@@ -48,15 +50,20 @@ export const query = graphql`
 	query ArticleTemplate($id: String!) {
 		allMarkdownRemark(
 			limit: 4
-			filter: { id: { ne: $id }, fields: { directory: { eq: "articles" } } }
+			filter: {
+				id: { ne: $id }
+				fields: { directory: { regex: "/articles//" } }
+			}
 			sort: { order: DESC, fields: frontmatter___date }
 		) {
 			edges {
 				node {
 					id
 					excerpt(pruneLength: 90)
-					frontmatter {
+					fields {
 						slug
+					}
+					frontmatter {
 						title
 						date(formatString: "DD.MM.YYYY")
 						eventDate(formatString: "DD.MM.YYYY")

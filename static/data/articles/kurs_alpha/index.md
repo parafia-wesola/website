@@ -1,16 +1,19 @@
 ---
-title: Kolęda 2019
+title: Kurs Alpha
 author: Gall Anonim
-cover: ./images/zelki.jpg
+cover: zorza.jpg
 date: 2020-01-19T18:00:00Z
-eventDate: null
+eventDate: 2020-05-23T18:00:00Z
 images: [
-	'./images/zelki.jpg',
-	'./images/zelki2.jpg'
+	'zorza.jpg',
+	'zorza2.jpg',
+	'zorza3.jpg',
+	'zelki.jpg',
+	'zelki2.jpg'
 ]
-slug: koleda_2019
-order: 2
-size: medium
+slug: kurs_alpha
+order: 0
+size: large
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper mattis odio, et semper nisl dapibus ac. Morbi vitae eros eget dui placerat ultricies. Duis est dolor, rhoncus ac libero id, porttitor ultrices nulla. Donec vel eros vel odio imperdiet hendrerit quis in orci. Ut blandit turpis sit amet ligula imperdiet, et hendrerit nisi sollicitudin. Aliquam nunc urna, sagittis nec tellus eget, interdum viverra erat. Integer id sollicitudin diam, vitae viverra elit. In luctus magna a pulvinar gravida.

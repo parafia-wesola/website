@@ -6,7 +6,7 @@ import { Link } from 'gatsby';
 import { StyledLink, Image, Date, Title } from './styles';
 
 const SmallItem = ({ title, date, cover, reference, className }) => (
-	<StyledLink as={Link} to={`/articles/${reference}`} className={className}>
+	<StyledLink as={Link} to={reference} className={className}>
 		<Image as={Img} fluid={cover} />
 		<Title>{title}</Title>
 		<Date>{date}</Date>
