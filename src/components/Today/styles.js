@@ -4,18 +4,17 @@ import blobDark from 'assets/images/blob-shape-dark.svg';
 
 export const Wrapper = styled.div`
 	position: relative;
-	z-index: 1;
 	display: grid;
 	grid-template-rows: 25px 75px;
 	grid-template-columns: 250px 50px;
 	margin-top: 1em;
 	color: #fff;
 
-	/* &::before {
+	&::before {
 		position: absolute;
 		top: -200px;
 		right: -100px;
-		z-index: -1000000000;
+		z-index: -1;
 		display: block;
 		width: 490px;
 		max-width: 400px;
@@ -30,7 +29,7 @@ export const Wrapper = styled.div`
 		position: absolute;
 		top: -200px;
 		right: -90px;
-		z-index: -20000000000;
+		z-index: -2;
 		display: block;
 		width: 490px;
 		max-width: 400px;
@@ -39,9 +38,9 @@ export const Wrapper = styled.div`
 		background-image: url(${blobDark});
 		background-size: 490px 490px;
 		content: ' ';
-	} */
+	}
 
-	&::before {
+	/* &::before {
 		position: absolute;
 		top: -700px;
 		right: 0;
@@ -63,7 +62,7 @@ export const Wrapper = styled.div`
 		background-image: url(${blobDark});
 		background-size: 1000px 1000px;
 		content: ' ';
-	}
+	} */
 
 `;
 
@@ -75,12 +74,21 @@ export const Date = styled.p`
 	font-weight: 600;
 `;
 
-export const Reading = styled.p`
+export const Reading = styled.ul`
 	display: flex;
+	flex-direction: column;
 	flex-wrap: wrap;
 	grid-row: 2/3;
 	grid-column: 1/2;
 	align-self: center;
+	margin: 0;
+	padding: 0;
+	font-size: 0.8em;
+	line-height: 1.5;
+	list-style: none;
+`;
+
+export const ReadingItem = styled.li`
 	margin: 0;
 	padding: 0;
 	font-size: 0.8em;

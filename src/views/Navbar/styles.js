@@ -6,7 +6,6 @@ export const Header = styled.header`
 	margin: 0 auto;
 	padding: 2em 0;
 	${({ theme }) => theme.mq.tabletMid} {
-		z-index: 1000;
 		padding: 0;
 	}
 `;
@@ -23,8 +22,10 @@ export const Wrapper = styled.div`
 	background: ${({ theme }) => theme.colors.mainBg};
 	${({ theme }) => theme.mq.tabletMid} {
 		position: relative;
-		z-index: -1;
+		z-index: auto;
 		padding: 0;
+		overflow: hidden;
+		background: transparent;
 	}
 `;
 
@@ -46,7 +47,6 @@ export const BurgerMenu = styled.nav`
 	top: 100%;
 	right: 0;
 	left: 0;
-	z-index: 1000;
 	height: 100vh;
 	visibility: ${({ isOpen }) => (isOpen ? 'visible' : 'hidden')};
 	opacity: ${({ isOpen }) => (isOpen ? '1' : '0')};
@@ -57,8 +57,6 @@ export const BurgerMenu = styled.nav`
 export const MenuWrapper = styled.nav`
 	display: none;
 	${({ theme }) => theme.mq.tabletMid} {
-		z-index: 100;
-		z-index: 1000;
 		display: flex;
 		max-width: 1360px;
 		margin: 0 auto;
@@ -72,7 +70,7 @@ export const MenuWrapper = styled.nav`
 export const StyledToday = styled.div`
 	display: none;
 	visibility: hidden;
-	${({ theme }) => theme.mq.desktop} {
+	${({ theme }) => theme.mq.tabletMid} {
 		display: grid;
 		visibility: visible;
 	}

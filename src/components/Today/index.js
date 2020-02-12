@@ -3,7 +3,13 @@ import PropTypes from 'prop-types';
 
 import SocialMedia from 'components/SocialMedia';
 import polishMonths from './config';
-import { Wrapper, Date, Reading, StyledSocialMedia } from './styles';
+import {
+	Wrapper,
+	Date,
+	Reading,
+	StyledSocialMedia,
+	ReadingItem,
+} from './styles';
 
 const Today = ({ className }) => {
 	const actualDate = new window.Date();
@@ -28,7 +34,6 @@ const Today = ({ className }) => {
 			});
 	}, []);
 
-	console.log(readings);
 	return (
 		<Wrapper className={className}>
 			<Date>
@@ -37,7 +42,11 @@ const Today = ({ className }) => {
 			{loading ? (
 				<Reading>Ładuję czytania...</Reading>
 			) : (
-				<Reading>{readings}</Reading>
+				<Reading>
+					{readings.split(/\r?\n/).map(line => (
+						<ReadingItem>{line}</ReadingItem>
+					))}
+				</Reading>
 			)}
 			<StyledSocialMedia as={SocialMedia} today />
 		</Wrapper>
