@@ -15,7 +15,12 @@ export const Wrapper = styled.ul`
 
 export const SocialItem = styled.li`
 	flex: 1;
-	margin ${({ today }) => (today ? '0 0.5rem 1.2rem 0' : '1rem')};
+	margin: ${({ today }) => (today ? '0 3rem 1.2rem 0' : '1rem')};
+	${({ mobile, today }) => mobile === 'true'
+	&& today
+	&& `
+	display: none;
+	`}
 	${({ theme }) => theme.mq.desktop} {
 		flex: 0 1 auto;
 		${({ mobile }) => mobile === 'true'
@@ -51,8 +56,8 @@ export const Logo = styled.img`
 	width: 30px;
 	height: 30px;
 	${({ theme }) => theme.mq.tabletMid} {
-		width: ${({ today }) => (today ? '30px' : '60px')};
-		height: ${({ today }) => (today ? '30px' : '60px')};
+		width: ${({ today }) => (today ? '35px' : '60px')};
+		height: ${({ today }) => (today ? '35px' : '60px')};
 	}
 `;
 
@@ -60,6 +65,7 @@ export const Text = styled.p`
 font-size: 0.6em;
 
 ${({ theme }) => theme.mq.tabletMid} {
+	display: ${({ today }) => (today ? 'none' : 'block')};
 	font-size: 0.8em;
 }
 ${({ theme }) => theme.mq.desktop} {

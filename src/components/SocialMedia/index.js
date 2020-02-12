@@ -47,7 +47,7 @@ const SocialMedia = ({ today, className }) => {
 							{/* <Logo type="image/svg+xml" data={publicURL}>
 								Your browser does not support SVG
 							</Logo> */}
-							<Text>{node.text}</Text>
+							<Text today={today}>{node.text}</Text>
 						</SocialButton>
 					</SocialItem>
 				);
