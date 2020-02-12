@@ -3,15 +3,7 @@ import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
 import { SectionTitle } from 'components/Share';
 import Slider from 'react-slick';
-import {
-	Wrapper,
-	Cover,
-	Date,
-	Text,
-	Author,
-	GalleryImage,
-	TextWrapper,
-} from './styles';
+import { Wrapper, Cover, Date, Text, Author, SliderImg } from './styles';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import 'assets/styles/slick.css';
@@ -48,9 +40,7 @@ const ArticleMain = ({
 					{eventDate}
 				</Date>
 			)}
-			<TextWrapper isPage={isPage}>
-				<Text dangerouslySetInnerHTML={{ __html: content }} />
-			</TextWrapper>
+			<Text isPage={isPage} dangerouslySetInnerHTML={{ __html: content }} />
 			{author && date && (
 				<Author>
 					{author} {date}
@@ -65,7 +55,7 @@ const ArticleMain = ({
 					fade={sliderSettings.fade}
 				>
 					{images.map(image => (
-						<GalleryImage
+						<SliderImg
 							as={Img}
 							fluid={image.childImageSharp.fluid}
 							key={image.id}

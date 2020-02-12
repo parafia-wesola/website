@@ -25,7 +25,8 @@ export const Date = styled.div`
 `;
 
 export const Text = styled.div`
-	margin: 0;
+	max-width: ${({ isPage }) => isPage && '1100px'};
+	margin: 0 auto;
 	padding: 0;
 	font-weight: 400;
 	font-size: 1em;
@@ -41,7 +42,7 @@ export const Author = styled.p`
 	text-align: right;
 `;
 
-export const GalleryImage = styled.div`
+export const SliderImg = styled.div`
 	width: 100%;
 	height: 56.25vw;
 	margin: 3em 0 0;
@@ -55,9 +56,4 @@ export const GalleryImage = styled.div`
 	${({ theme }) => theme.mq.tabletMid} {
 		height: 56.25vh;
 	}
-`;
-
-export const TextWrapper = styled.div`
-	max-width: ${({ isPage }) => (isPage ? '1100px' : 'auto')};
-	margin: 0 auto;
 `;
