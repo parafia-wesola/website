@@ -5,6 +5,7 @@ import Logo from 'components/Logo';
 import Burger from 'components/Burger';
 import MenuMobile from 'components/MenuMobile';
 import MenuHorizontal from 'components/MenuHorizontal';
+import Today from 'components/Today';
 import {
 	Header,
 	Wrapper,
@@ -12,6 +13,7 @@ import {
 	StyledBurger,
 	MenuWrapper,
 	BurgerMenu,
+	StyledToday,
 } from './styles';
 
 const Navbar = () => {
@@ -59,6 +61,7 @@ const Navbar = () => {
 					image={file.childImageSharp.fluid}
 					text={site.siteMetadata.title}
 				/>
+				<StyledToday as={Today} />
 				<StyledBurger as={Burger} click={toggleBurger} isOpen={isOpen} />
 				<BurgerMenu isOpen={isOpen}>
 					<MenuMobile click={toggleBurger} />

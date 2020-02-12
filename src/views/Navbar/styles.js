@@ -23,13 +23,14 @@ export const Wrapper = styled.div`
 	background: ${({ theme }) => theme.colors.mainBg};
 	${({ theme }) => theme.mq.tabletMid} {
 		position: relative;
-		z-index: auto;
-		padding: 1em 0.75rem;
+		z-index: -1;
+		padding: 0;
 	}
 `;
 
 export const StyledLogo = styled.div`
 	${({ theme }) => theme.mq.tabletMid} {
+		padding: 1em 0.75rem;
 		font-size: 1.25em;
 	}
 `;
@@ -65,5 +66,14 @@ export const MenuWrapper = styled.nav`
 		& ul {
 			box-shadow: 0 12px 23px -8px rgba(0, 0, 0, 1);
 		}
+	}
+`;
+
+export const StyledToday = styled.div`
+	display: none;
+	visibility: hidden;
+	${({ theme }) => theme.mq.desktop} {
+		display: grid;
+		visibility: visible;
 	}
 `;
