@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 
 import Layout from 'layouts/Main';
+import SEO from 'components/SEO';
 import { SectionWrapper } from 'components/Share';
 import ArticleMain from 'components/ArticleMain';
 
@@ -11,6 +12,7 @@ const PagesTemplate = ({ data }) => {
 	const content = data.markdownRemark.html;
 	return (
 		<Layout>
+			<SEO title={title} />
 			<SectionWrapper>
 				<ArticleMain
 					isPage
