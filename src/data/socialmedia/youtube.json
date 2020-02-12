@@ -1,11 +1,7 @@
 {
-	"title": "youtube",
+	"name": "youtube",
 	"to": "https://www.youtube.com/",
+	"text": "Zasubskrybuj nasz kanał na Youtube",
 	"order": "3",
-	"mobile": "false",
-	"image": {
-		"src": "./images/youtube.svg",
-		"name": "youtube icon"
-	},
-	"text": "Zasubskrybuj nasz kanał na Youtube"
+	"mobile": "false"
 }

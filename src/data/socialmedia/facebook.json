@@ -1,11 +1,7 @@
 {
-	"title": "facebook",
+	"name": "facebook",
 	"to": "https://www.facebook.com/",
+	"text": "Polub nas na Facebooku",
 	"order": "2",
-	"mobile": "false",
-	"image": {
-		"src": "./images/facebook.svg",
-		"name": "facebook icon"
-	},
-	"text": "Polub nas na Facebooku"
+	"mobile": "false"
 }
