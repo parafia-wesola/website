@@ -1,52 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { useStaticQuery, graphql } from 'gatsby';
+
 import { NewsFeedWrapper, MediumItem, LargeItem } from './styles';
 import News from './News';
 
-const NewsFeed = ({ className }) => {
-	const { allMarkdownRemark } = useStaticQuery(graphql`
-		{
-			allMarkdownRemark(
-				filter: {
-					frontmatter: { order: { ne: null } }
-					fields: { directory: { regex: "/articles//" } }
-				}
-				sort: { order: ASC, fields: frontmatter___order }
-			) {
-				edges {
-					node {
-						id
-						excerpt(pruneLength: 90)
-						fields {
-							slug
-						}
-						frontmatter {
-							title
-							date: eventDate(formatString: "DD.MM.YYYY")
-							size
-							order
-							medium: cover {
-								childImageSharp {
-									fluid(maxHeight: 200) {
-										...GatsbyImageSharpFluid
-									}
-								}
-							}
-							large: cover {
-								childImageSharp {
-									fluid(maxHeight: 400) {
-										...GatsbyImageSharpFluid
-									}
-								}
-							}
-						}
-					}
-				}
-			}
-		}
-	`);
-
+const NewsFeed = ({ articles, className }) => {
 	const tags = {
 		medium: MediumItem,
 		large: LargeItem,
@@ -54,7 +12,7 @@ const NewsFeed = ({ className }) => {
 
 	return (
 		<NewsFeedWrapper className={className}>
-			{allMarkdownRemark.edges.map(({ node }) => {
+			{articles.map(({ node }) => {
 				const {
 					id,
 					excerpt: content,
@@ -83,6 +41,7 @@ const NewsFeed = ({ className }) => {
 
 NewsFeed.propTypes = {
 	className: PropTypes.string,
+	articles: PropTypes.arrayOf(PropTypes.object).isRequired,
 };
 
 NewsFeed.defaultProps = {
