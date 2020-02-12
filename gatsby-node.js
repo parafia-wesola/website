@@ -1,5 +1,7 @@
 const path = require('path');
 
+const { createFilePath } = require('gatsby-source-filesystem');
+
 exports.onCreateNode = ({ node, actions, getNode }) => {
 	const { createNodeField } = actions;
 
@@ -9,6 +11,13 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 			node,
 			name: 'directory',
 			value: fileNode.relativeDirectory,
+		});
+
+		const slug = createFilePath({ node, getNode, basePath: 'pages' });
+		createNodeField({
+			node,
+			name: 'slug',
+			value: slug,
 		});
 	}
 };
@@ -31,12 +40,12 @@ exports.createPages = async ({ graphql, actions }) => {
 				}
 			}
 			modals: allMarkdownRemark(
-				filter: { fields: { directory: { eq: "modals" } } }
+				filter: { fields: { directory: { regex: "/modals//" } } }
 			) {
 				edges {
 					node {
 						id
-						frontmatter {
+						fields {
 							slug
 						}
 					}
@@ -71,9 +80,9 @@ exports.createPages = async ({ graphql, actions }) => {
 	});
 
 	result.data.modals.edges.forEach(({ node }) => {
-		const { slug } = node.frontmatter;
+		const { slug } = node.fields;
 		createPage({
-			path: `${slug}`,
+			path: slug,
 			component: path.resolve('src/templates/Modal/index.js'),
 			context: {
 				id: node.id,

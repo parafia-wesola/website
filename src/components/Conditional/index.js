@@ -36,7 +36,7 @@ const ConditionalLink = ({ to, className, children, click }) => {
 		return (
 			<Link
 				onClick={click}
-				to={`/${to.slice(1)}`}
+				to={to.slice(1)}
 				className={className}
 				state={{
 					modal: true,

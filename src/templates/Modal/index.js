@@ -6,6 +6,7 @@ import { ThemeProvider } from 'styled-components';
 import theme from 'assets/styles/theme';
 
 import Layout from 'layouts/Main';
+import SEO from 'components/SEO';
 import Modal from 'components/Modal';
 import { StyledModal, Close, Cross } from './styles';
 
@@ -31,6 +32,7 @@ const ModalTemplate = ({ data }) => {
 						</ThemeProvider>
 					) : (
 						<Layout>
+							<SEO title={title} />
 							<StyledModal
 								as={Modal}
 								title={title}

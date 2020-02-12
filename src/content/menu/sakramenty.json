@@ -5,31 +5,31 @@
 	"sub": [
 		{
 			"name": "chrzest",
-			"to": "/chrzest"
+			"to": "/modals/chrzest"
 		},
 		{
 			"name": "eucharystia",
-			"to": "/eucharystia"
+			"to": "/modals/eucharystia"
 		},
 		{
 			"name": "bierzmowanie",
-			"to": "/bierzmowanie"
+			"to": "/modals/bierzmowanie"
 		},
 		{
 			"name": "spowiedź",
-			"to": "/spowiedz"
+			"to": "/modals/spowiedz"
 		},
 		{
 			"name": "małżeństwo",
-			"to": "/malzenstwo"
+			"to": "/modals/malzenstwo"
 		},
 		{
 			"name": "posługa chorym",
-			"to": "/posluga_chorym"
+			"to": "/modals/posluga_chorym"
 		},
 		{
 			"name": "pogrzeb",
-			"to": "/pogrzeb"
+			"to": "/modals/pogrzeb"
 		}
 	]
 }
