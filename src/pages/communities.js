@@ -2,13 +2,13 @@ import React from 'react';
 import Layout from 'layouts/Main';
 import SEO from 'components/SEO';
 
-import CommunitySection from 'views/Community';
+import Communities from 'views/Communities';
 
-const CommunityPage = () => (
+const CommunitiesPage = () => (
 	<Layout>
-		<SEO title="Strona główna" />
-		<CommunitySection />
+		<SEO title="Wspólnoty i grupy" />
+		<Communities />
 	</Layout>
 );
 
-export default CommunityPage;
+export default CommunitiesPage;

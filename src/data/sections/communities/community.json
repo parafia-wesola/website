@@ -1,7 +1,7 @@
 {
 	"id": "community",
 	"title": "Wspólnoty i grupy",
-	"image": "./images/background-wspolnoty-i-grupy.jpg",
+	"image": "./images/wspolnotyBg.jpg",
 	"tiles": [
 		{
 			"id": "251",

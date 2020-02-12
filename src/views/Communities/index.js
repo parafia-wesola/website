@@ -6,10 +6,10 @@ import Tile from 'components/Tile';
 import { SectionWrapper, SectionTitle } from 'components/Share';
 import { Wrapper, ImageWrapper, List, ListItem } from './styles';
 
-const Community = () => {
-	const { community } = useStaticQuery(graphql`
+const Communities = () => {
+	const { communities } = useStaticQuery(graphql`
 		query {
-			community: communityJson {
+			communities: communitiesJson {
 				id
 				title
 				image {
@@ -37,11 +37,11 @@ const Community = () => {
 	`);
 
 	return (
-		<Wrapper as={SectionWrapper} id={community.id}>
-			<ImageWrapper as={Img} fluid={community.image.childImageSharp.fluid} />
-			<SectionTitle dark>{community.title}</SectionTitle>
+		<Wrapper as={SectionWrapper} id={communities.id}>
+			<ImageWrapper as={Img} fluid={communities.image.childImageSharp.fluid} />
+			<SectionTitle dark>{communities.title}</SectionTitle>
 			<List>
-				{community.tiles.map(node => (
+				{communities.tiles.map(node => (
 					<ListItem key={node.id}>
 						<Tile
 							dark
@@ -56,4 +56,4 @@ const Community = () => {
 	);
 };
 
-export default Community;
+export default Communities;
