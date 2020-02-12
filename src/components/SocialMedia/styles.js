@@ -15,9 +15,13 @@ export const Wrapper = styled.ul`
 
 export const SocialItem = styled.li`
 	flex: 1;
-	margin: 1rem;
+	margin ${({ today }) => (today ? '0 0.5rem 1.2rem 0' : '1rem')};
 	${({ theme }) => theme.mq.desktop} {
 		flex: 0 1 auto;
+		${({ mobile }) => mobile === 'true'
+			&& `
+			display: none;
+	`}
 	}
 `;
 
@@ -26,6 +30,7 @@ export const SocialButton = styled.a`
 	flex: 1;
 	flex-direction: column;
 	align-items: center;
+	color: blue;
 	color: inherit;
 	font: inherit;
 	text-align: center;
@@ -39,10 +44,6 @@ export const SocialButton = styled.a`
 
 	${({ theme }) => theme.mq.desktop} {
 		flex: 0 1 auto;
-		${({ mobile }) => mobile === 'true'
-			&& `
-			display: none;
-	`}
 	}
 `;
 
@@ -50,8 +51,8 @@ export const Logo = styled.img`
 	width: 30px;
 	height: 30px;
 	${({ theme }) => theme.mq.tabletMid} {
-		width: 60px;
-		height: 60px;
+		width: ${({ today }) => (today ? '30px' : '60px')};
+		height: ${({ today }) => (today ? '30px' : '60px')};
 	}
 `;
 
