@@ -1,16 +1,16 @@
 const polishMonths = {
-	1: 'stycznia',
-	2: 'lutego',
-	3: 'marca',
-	4: 'kwietnia',
-	5: 'maja',
-	6: 'czerwca',
-	7: 'lipca',
-	8: 'sierpnia',
-	9: 'września',
-	10: 'października',
-	11: 'listopada',
-	12: 'grudnia',
+	0: 'stycznia',
+	1: 'lutego',
+	2: 'marca',
+	3: 'kwietnia',
+	4: 'maja',
+	5: 'czerwca',
+	6: 'lipca',
+	7: 'sierpnia',
+	8: 'września',
+	9: 'października',
+	10: 'listopada',
+	11: 'grudnia',
 };
 
 export default polishMonths;
