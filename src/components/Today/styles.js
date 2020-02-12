@@ -5,38 +5,36 @@ import blobDark from 'assets/images/blob-shape-dark.svg';
 export const Wrapper = styled.div`
 	position: relative;
 	display: grid;
-	grid-template-rows: 25px 75px;
-	grid-template-columns: 250px 50px;
-	margin-top: 1em;
-	color: #fff;
+	grid-template-rows: 1.5rem 4.5rem;
+	grid-template-columns: 12rem 4rem;
+	margin: 1rem 0 0 0;
+	color: ${({ theme }) => theme.colors.bright};
 
 	&::before {
 		position: absolute;
-		top: -200px;
-		right: -100px;
+		top: -12.5rem;
+		right: -6.25rem;
 		z-index: -1;
 		display: block;
-		width: 490px;
-		max-width: 400px;
-		height: 490px;
-		margin-right: 100px;
+		width: 25rem;
+		height: 30rem;
+		margin-right: 6.25rem;
 		background-image: url(${blob});
-		background-size: 490px 490px;
+		background-size: 32rem 32rem;
 		content: ' ';
 	}
 
 	&::after {
 		position: absolute;
-		top: -200px;
-		right: -90px;
+		top: -12.5rem;
+		right: -6.25rem;
 		z-index: -2;
 		display: block;
-		width: 490px;
-		max-width: 400px;
-		height: 490px;
-		margin-right: 100px;
+		width: 25rem;
+		height: 30rem;
+		margin-right: 6.75rem;
 		background-image: url(${blobDark});
-		background-size: 490px 490px;
+		background-size: 32rem 32rem;
 		content: ' ';
 	}
 
@@ -72,11 +70,12 @@ export const Date = styled.p`
 	margin: 0;
 	padding: 0;
 	font-weight: 600;
+	font-size: 0.9em;
 `;
 
 export const Reading = styled.ul`
 	display: flex;
-	flex-direction: column;
+	flex-direction: ${({ row }) => row};
 	flex-wrap: wrap;
 	grid-row: 2/3;
 	grid-column: 1/2;
@@ -89,13 +88,14 @@ export const Reading = styled.ul`
 `;
 
 export const ReadingItem = styled.li`
-	margin: 0;
+	margin: ${({ row }) => row};
 	padding: 0;
 	font-size: 0.8em;
 	list-style: none;
 `;
 
 export const StyledSocialMedia = styled.div`
+	flex-direction: column;
 	grid-row: 1/3;
 	grid-column: 2/3;
 `;

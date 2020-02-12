@@ -1,3 +1,4 @@
+/* eslint-disable no-nested-ternary */
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 
@@ -12,26 +13,30 @@ import {
 } from './styles';
 
 const Today = ({ className }) => {
-	const actualDate = new window.Date();
-	const day = actualDate.getDate();
-	const month = actualDate.getMonth();
-	const year = actualDate.getFullYear();
-	const formattedMonth = polishMonths[month];
-	const formattedDate = `${day} ${formattedMonth} ${year}`;
-
-	const [readings, setReadings] = useState();
-	const [loading, setLoading] = useState(true);
+	let actualDate;
+	let formattedDate;
+	if (typeof window !== 'undefined') {
+		actualDate = new window.Date();
+		const day = actualDate.getDate();
+		const month = actualDate.getMonth();
+		const year = actualDate.getFullYear();
+		const formattedMonth = polishMonths[month];
+		formattedDate = `${day} ${formattedMonth} ${year}`;
+	}
+	const [readings, setReadings] = useState([]);
+	const isRow = readings.length > 3;
 
 	useEffect(() => {
-		window
-			.fetch(
-				'https://cors-anywhere.herokuapp.com/http://www.edycja.pl/ext/dzien_json.php',
-			)
-			.then(response => response.json())
-			.then(data => {
-				setReadings(data.reading);
-				setLoading(false);
-			});
+		if (typeof window !== 'undefined') {
+			window
+				.fetch(
+					'https://cors-anywhere.herokuapp.com/http://www.edycja.pl/ext/dzien_json.php',
+				)
+				.then(response => response.json())
+				.then(data => {
+					setReadings(data.reading.split(/r?\n/));
+				});
+		}
 	}, []);
 
 	return (
@@ -39,12 +44,12 @@ const Today = ({ className }) => {
 			<Date>
 				<time dateTime={`${actualDate}`}>{formattedDate}</time>
 			</Date>
-			{loading ? (
+			{!readings.length ? (
 				<Reading>Ładuję czytania...</Reading>
 			) : (
-				<Reading>
-					{readings.split(/\r?\n/).map(line => (
-						<ReadingItem>{line}</ReadingItem>
+				<Reading row={isRow ? 'row' : 'column'}>
+					{readings.map(line => (
+						<ReadingItem row={isRow ? '0 1em 0 0' : '0'}>{line}</ReadingItem>
 					))}
 				</Reading>
 			)}
