@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import blob from 'assets/images/blob-shape.svg';
-import blobDark from 'assets/images/blob-shape-dark.svg';
 
 export const Wrapper = styled.div`
 	position: relative;
@@ -12,56 +11,16 @@ export const Wrapper = styled.div`
 
 	&::before {
 		position: absolute;
-		top: -12.5rem;
-		right: -6.25rem;
+		top: -40em;
+		right: -8rem;
 		z-index: -1;
-		display: block;
-		width: 25rem;
-		height: 30rem;
-		margin-right: 6.25rem;
+		width: 40em;
+		height: 62.5rem;
 		background-image: url(${blob});
-		background-size: 32rem 32rem;
+		background-size: 62.5rem 62.5rem;
+		filter: drop-shadow(0 1px 2px #000);
 		content: ' ';
 	}
-
-	&::after {
-		position: absolute;
-		top: -12.5rem;
-		right: -6.25rem;
-		z-index: -2;
-		display: block;
-		width: 25rem;
-		height: 30rem;
-		margin-right: 6.75rem;
-		background-image: url(${blobDark});
-		background-size: 32rem 32rem;
-		content: ' ';
-	}
-
-	/* &::before {
-		position: absolute;
-		top: -700px;
-		right: 0;
-		z-index: -1;
-		width: 625px;
-		height: 1000px;
-		background-image: url(${blob});
-		background-size: 1000px 1000px;
-		content: ' ';
-	}
-
-	&::after {
-		position: absolute;
-		top: -700px;
-		right: 0;
-		z-index: -2;
-		width: 640px;
-		height: 1000px;
-		background-image: url(${blobDark});
-		background-size: 1000px 1000px;
-		content: ' ';
-	} */
-
 `;
 
 export const Date = styled.p`
