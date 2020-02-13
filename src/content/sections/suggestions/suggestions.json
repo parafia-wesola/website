@@ -13,13 +13,13 @@
 			"id": "124",
 			"title": "Młodzież",
 			"image": "./images/mlodziez.jpeg",
-			"to": "/mlodziez"
+			"to": "/młodzież"
 		},
 		{
 			"id": "125",
 			"title": "Dorośli",
 			"image": "./images/dorośli.jpeg",
-			"to": "/dorosli"
+			"to": "/dorośli"
 		},
 		{
 			"id": "126",
@@ -31,7 +31,7 @@
 			"id": "127",
 			"title": "Małżeństwa",
 			"image": "./images/małżeństwa.jpeg",
-			"to": "/malzenstwa"
+			"to": "/małżeństwa"
 		},
 		{
 			"id": "129",
