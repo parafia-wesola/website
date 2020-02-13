@@ -5,7 +5,7 @@ import { graphql, useStaticQuery } from 'gatsby';
 import ConditionalLink from 'components/Conditional';
 import { Wrapper, SocialItem, SocialButton, Logo, Text } from './styles';
 
-const SocialMedia = ({ today, className }) => {
+const SocialMedia = ({ noText, className }) => {
 	const {
 		icons,
 		allSocialmediaJson: { socials },
@@ -41,13 +41,10 @@ const SocialMedia = ({ today, className }) => {
 				const { publicURL } = url[0].node;
 
 				return (
-					<SocialItem key={node.id} mobile={node.mobile} today={today}>
+					<SocialItem key={node.id} mobile={node.mobile}>
 						<SocialButton as={ConditionalLink} to={node.to}>
-							<Logo src={publicURL} today={today} />
-							{/* <Logo type="image/svg+xml" data={publicURL}>
-								Your browser does not support SVG
-							</Logo> */}
-							<Text today={today}>{node.text}</Text>
+							<Logo src={publicURL} />
+							<Text noText={noText}>{node.text}</Text>
 						</SocialButton>
 					</SocialItem>
 				);
@@ -57,12 +54,12 @@ const SocialMedia = ({ today, className }) => {
 };
 
 SocialMedia.propTypes = {
-	today: PropTypes.bool,
+	noText: PropTypes.bool,
 	className: PropTypes.string,
 };
 
 SocialMedia.defaultProps = {
-	today: false,
+	noText: false,
 	className: null,
 };
 
