@@ -9,6 +9,7 @@ export const Wrapper = styled.ul`
 `;
 
 export const SocialItem = styled.li`
+	display: ${({ noMobile }) => noMobile && 'none'};
 	flex: 1;
 	margin: 0.8em;
 	${({ theme }) => theme.mq.desktop} {
