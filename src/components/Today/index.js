@@ -7,12 +7,15 @@ import polishMonths from './config';
 import {
 	Wrapper,
 	Date,
+	TodayWrapper,
 	Reading,
-	StyledSocialMedia,
 	ReadingItem,
+	StyledSocial,
 } from './styles';
 
 const Today = ({ className }) => {
+	const [readings, setReadings] = useState(['Ładuję czytania...']);
+
 	let actualDate;
 	let formattedDate;
 	if (typeof window !== 'undefined') {
@@ -23,8 +26,6 @@ const Today = ({ className }) => {
 		const formattedMonth = polishMonths[month];
 		formattedDate = `${day} ${formattedMonth} ${year}`;
 	}
-	const [readings, setReadings] = useState([]);
-	const isRow = readings.length > 3;
 
 	useEffect(() => {
 		if (typeof window !== 'undefined' && typeof window.fetch !== 'undefined') {
@@ -41,19 +42,15 @@ const Today = ({ className }) => {
 
 	return (
 		<Wrapper className={className}>
-			<Date>
-				<time dateTime={`${actualDate}`}>{formattedDate}</time>
-			</Date>
-			{!readings.length ? (
-				<Reading>Ładuję czytania...</Reading>
-			) : (
-				<Reading row={isRow ? 'row' : 'column'}>
+			<TodayWrapper>
+				<Date dateTime={actualDate}>{formattedDate}</Date>
+				<Reading>
 					{readings.map(line => (
-						<ReadingItem row={isRow ? '0 1em 0 0' : '0'}>{line}</ReadingItem>
+						<ReadingItem key={line}>{line}</ReadingItem>
 					))}
 				</Reading>
-			)}
-			<StyledSocialMedia as={SocialMedia} today />
+			</TodayWrapper>
+			<StyledSocial as={SocialMedia} noText noMobile />
 		</Wrapper>
 	);
 };

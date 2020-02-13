@@ -69,9 +69,7 @@ export const MenuWrapper = styled.nav`
 
 export const StyledToday = styled.div`
 	display: none;
-	visibility: hidden;
 	${({ theme }) => theme.mq.tabletMid} {
-		display: grid;
-		visibility: visible;
+		display: flex;
 	}
 `;
