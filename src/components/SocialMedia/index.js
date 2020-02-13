@@ -1,29 +1,32 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
 
 import ConditionalLink from 'components/Conditional';
-
 import { Wrapper, SocialItem, SocialButton, Logo, Text } from './styles';
 
-const SocialMedia = () => {
+const SocialMedia = ({ noText, noMobile, className }) => {
 	const {
+		icons,
 		allSocialmediaJson: { socials },
 	} = useStaticQuery(graphql`
-		query {
-			allSocialmediaJson {
+		{
+			icons: allFile(filter: { relativeDirectory: { eq: "socials" } }) {
+				edges {
+					node {
+						name
+						publicURL
+					}
+				}
+			}
+			allSocialmediaJson(sort: { fields: order }) {
 				socials: edges {
 					node {
 						id
-						title
+						name
 						to
-						mobile
-						image {
-							name
-							src {
-								publicURL
-							}
-						}
 						text
+						mobile
 					}
 				}
 			}
@@ -31,17 +34,39 @@ const SocialMedia = () => {
 	`);
 
 	return (
-		<Wrapper>
-			{socials.map(({ node }) => (
-				<SocialItem key={node.id}>
-					<SocialButton as={ConditionalLink} to={node.to} mobile={node.mobile}>
-						<Logo src={node.image.src.publicURL} alt={node.image.name} />
-						<Text>{node.text}</Text>
-					</SocialButton>
-				</SocialItem>
-			))}
+		<Wrapper className={className}>
+			{socials.map(({ node }) => {
+				const url = icons.edges.filter(item => item.node.name === node.name);
+
+				const { publicURL } = url[0].node;
+
+				return (
+					<SocialItem
+						key={node.id}
+						mobile={node.mobile}
+						noMobile={node.mobile && noMobile}
+					>
+						<SocialButton as={ConditionalLink} to={node.to}>
+							<Logo src={publicURL} />
+							<Text noText={noText}>{node.text}</Text>
+						</SocialButton>
+					</SocialItem>
+				);
+			})}
 		</Wrapper>
 	);
+};
+
+SocialMedia.propTypes = {
+	noText: PropTypes.bool,
+	noMobile: PropTypes.bool,
+	className: PropTypes.string,
+};
+
+SocialMedia.defaultProps = {
+	noText: false,
+	noMobile: false,
+	className: null,
 };
 
 export default SocialMedia;

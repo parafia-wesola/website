@@ -8,7 +8,6 @@ images: [
 	'zorza.jpg',
 	'zorza2.jpg'
 ]
-slug: modlitwa_o_jednosc_chrzescijan
 order: 4
 size: medium
 ---

@@ -2,7 +2,7 @@ import React from 'react';
 
 import FooterNav from 'components/FooterNav';
 import SocialMedia from 'components/SocialMedia';
-import { Wrapper, StyledNav, Copyright } from './styles';
+import { Wrapper, StyledNav, StyledSocial, Copyright } from './styles';
 
 const Footer = () => {
 	const actualDate = new Date();
@@ -10,7 +10,7 @@ const Footer = () => {
 		<footer>
 			<Wrapper>
 				<StyledNav as={FooterNav} />
-				<SocialMedia />
+				<StyledSocial as={SocialMedia} />
 			</Wrapper>
 			<Copyright>
 				copyright © Rzymskokatolicka Parafia Opatrzności Bożej Warszawa Wesoła

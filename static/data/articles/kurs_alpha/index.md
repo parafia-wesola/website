@@ -11,7 +11,6 @@ images: [
 	'zelki.jpg',
 	'zelki2.jpg'
 ]
-slug: kurs_alpha
 order: 0
 size: large
 ---
