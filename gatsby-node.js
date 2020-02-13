@@ -51,8 +51,26 @@ exports.createPages = async ({ graphql, actions }) => {
 					}
 				}
 			}
-			pages: allMarkdownRemark(
-				filter: { fields: { directory: { regex: "/pages//" } } }
+			textPages: allMarkdownRemark(
+				filter: {
+					fields: { directory: { regex: "/pages//" } }
+					frontmatter: { type: { eq: "text" } }
+				}
+			) {
+				edges {
+					node {
+						id
+						fields {
+							slug
+						}
+					}
+				}
+			}
+			tilesPages: allMarkdownRemark(
+				filter: {
+					fields: { directory: { regex: "/pages//" } }
+					frontmatter: { type: { eq: "tiles" } }
+				}
 			) {
 				edges {
 					node {
@@ -90,11 +108,21 @@ exports.createPages = async ({ graphql, actions }) => {
 		});
 	});
 
-	result.data.pages.edges.forEach(({ node }) => {
+	result.data.textPages.edges.forEach(({ node }) => {
 		const { slug } = node.fields;
 		createPage({
 			path: slug,
-			component: path.resolve('src/templates/Page/index.js'),
+			component: path.resolve('src/templates/TextPage/index.js'),
+			context: {
+				id: node.id,
+			},
+		});
+	});
+	result.data.tilesPages.edges.forEach(({ node }) => {
+		const { slug } = node.fields;
+		createPage({
+			path: slug,
+			component: path.resolve('src/templates/TilesPage/index.js'),
 			context: {
 				id: node.id,
 			},
