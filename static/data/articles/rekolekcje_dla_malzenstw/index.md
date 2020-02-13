@@ -8,7 +8,6 @@ images: [
 	'zorza.jpg',
 	'zorza2.jpg'
 ]
-slug: rekolekcje_dla_malzenstw
 order: 3
 size: medium
 ---
