@@ -20,6 +20,19 @@ export const StyledNav = styled.nav`
 	}
 `;
 
+export const StyledSocial = styled.div`
+	${({ theme }) => theme.mq.tabletMid} {
+		font-size: 1.85em;
+	}
+	${({ theme }) => theme.mq.desktop} {
+		flex-direction: column;
+
+		& > li {
+			flex: 0 1 auto;
+		}
+	}
+`;
+
 export const Copyright = styled.p`
 	width: 100%;
 	max-width: 1360px;

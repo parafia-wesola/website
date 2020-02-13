@@ -1,11 +1,7 @@
 {
-	"title": "google-play",
+	"name": "google-play",
 	"to": "https://www.google.com/",
+	"text": "Aplikacja mobilna dla parafian i przyjaciół",
 	"order": "1",
-	"mobile": "true",
-	"image": {
-		"src": "./images/google-play.svg",
-		"name": "google play icon"
-	},
-	"text": "Aplikacja mobilna dla parafian i przyjaciół"
+	"mobile": true
 }
