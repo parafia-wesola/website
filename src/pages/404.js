@@ -1,12 +1,15 @@
 import React from 'react';
-import Layout from 'layouts/Main';
+
+import { SectionWrapper } from 'components/Share';
 import SEO from 'components/SEO';
 
 const NotFoundPage = () => (
-	<Layout>
+	<>
 		<SEO title="404: Nie można odnaleźć strony!" />
-		<h1>Strony nie odnaleziono</h1>
-	</Layout>
+		<SectionWrapper>
+			<h1>Strony nie odnaleziono</h1>
+		</SectionWrapper>
+	</>
 );
 
 export default NotFoundPage;
