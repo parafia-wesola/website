@@ -4,14 +4,13 @@ export const Wrapper = styled.div`
 	display: flex;
 	justify-content: center;
 	width: 15em;
-	height: 2.8em;
 	margin: 0;
-	color: ${({ theme }) => theme.colors.dark};
+	color: #333;
 	line-height: 1em;
 	text-align: center;
 	text-decoration: none;
-	background: #ccc9;
-	border-style: solid;
+	background: #fffff077;
+	border: 1px solid #333;
 	transition: all 0.2s ease-in-out;
 
 	&:hover {
@@ -20,7 +19,5 @@ export const Wrapper = styled.div`
 `;
 
 export const Text = styled.p`
-	align-self: center;
-	justify-self: right;
 	font-weight: 600;
 `;
