@@ -28,16 +28,19 @@ const Today = ({ className }) => {
 	}
 
 	useEffect(() => {
-		if (typeof window !== 'undefined' && typeof window.fetch !== 'undefined') {
-			window
-				.fetch(
-					'https://cors-anywhere.herokuapp.com/http://www.edycja.pl/ext/dzien_json.php',
-				)
-				.then(response => response.json())
-				.then(data => {
-					setReadings(data.reading.split(/r?\n/));
-				});
+		async function getReadings() {
+			if (
+				typeof window !== 'undefined'
+				&& typeof window.fetch !== 'undefined'
+			) {
+				const response = await window.fetch(
+					'https://cors-anywhere.herokuapp.com/https://www.edycja.pl/ext/ssl-dzien_json.php',
+				);
+				const data = await response.json();
+				setReadings(data.reading.split(/r?\n/));
+			}
 		}
+		getReadings();
 	}, []);
 
 	return (
