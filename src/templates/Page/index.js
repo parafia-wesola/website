@@ -7,7 +7,7 @@ import SEO from 'components/SEO';
 import { SectionWrapper } from 'components/Share';
 import ArticleMain from 'components/ArticleMain';
 
-const TextPagesTemplate = ({ data }) => {
+const PageTemplate = ({ data }) => {
 	const { title, cover, images } = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
 	return (
@@ -26,14 +26,14 @@ const TextPagesTemplate = ({ data }) => {
 	);
 };
 
-TextPagesTemplate.propTypes = {
+PageTemplate.propTypes = {
 	data: PropTypes.objectOf(PropTypes.shape()).isRequired,
 };
 
-export default TextPagesTemplate;
+export default PageTemplate;
 
 export const query = graphql`
-	query TextPagesTemplate($id: String!) {
+	query PageTemplate($id: String!) {
 		markdownRemark(id: { eq: $id }) {
 			id
 			frontmatter {

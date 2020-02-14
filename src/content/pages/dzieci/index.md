@@ -1,18 +1,18 @@
 ---
 title: Dzieci
 type: tiles
-background: './dzieci.jpg'
+cover: dzieci.jpg
 tiles:
   [
-    { title: Kurs Alpha, to: asdf },
-    { title: Spotkania dla seniorów, to: asadf },
-    { title: Nikodem, to: ddf },
-    { title: Dla mężczyzn, to: df },
-    { title: Wiara i praca, to: df },
-    { title: Wspólnota Chemin Neuf, to: df },
-    { title: Rekolekcje parafialne, to: df },
-    { title: Wspólnota zwiastowanie, to: df },
-    { title: Net for God, to: df },
-    { title: Inne, to: df },
+    { title: Kurs Alpha, to: / },
+    { title: Spotkania dla seniorów, to: / },
+    { title: Nikodem, to: / },
+    { title: Dla mężczyzn, to: / },
+    { title: Wiara i praca, to: / },
+    { title: Wspólnota Chemin Neuf, to: / },
+    { title: Rekolekcje parafialne, to: / },
+    { title: Wspólnota zwiastowanie, to: / },
+    { title: Net for God, to: / },
+    { title: Inne, to: / },
   ]
 ---

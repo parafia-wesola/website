@@ -10,6 +10,7 @@ export const Wrapper = styled.div`
 	line-height: 1em;
 	text-align: center;
 	text-decoration: none;
+	background: #ccc9;
 	border-style: solid;
 	transition: all 0.2s ease-in-out;
 

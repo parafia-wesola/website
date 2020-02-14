@@ -6,18 +6,16 @@ import Layout from 'layouts/Main';
 import SEO from 'components/SEO';
 import TextTiles from 'views/TextTiles';
 
-const TilesPagesTemplate = ({ data }) => {
-	const { title, tiles } = data.markdownRemark.frontmatter;
+const TilesTemplate = ({ data }) => {
+	const { title, tiles, cover } = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
-	// eslint-disable-next-line no-tabs
-	const background =		data.markdownRemark.frontmatter.background.childImageSharp.fluid;
 	return (
 		<Layout>
 			<SEO title={title} />
 			<TextTiles
 				id={data.markdownRemark.id}
 				title={title}
-				background={background}
+				background={cover.childImageSharp.fluid}
 				tiles={tiles}
 				content={content}
 			/>
@@ -25,19 +23,19 @@ const TilesPagesTemplate = ({ data }) => {
 	);
 };
 
-TilesPagesTemplate.propTypes = {
+TilesTemplate.propTypes = {
 	data: PropTypes.objectOf(PropTypes.shape()).isRequired,
 };
 
-export default TilesPagesTemplate;
+export default TilesTemplate;
 
 export const query = graphql`
-	query TilesPagesTemplate($id: String!) {
+	query TilesTemplate($id: String!) {
 		markdownRemark(id: { eq: $id }) {
 			id
 			frontmatter {
 				title
-				background {
+				cover {
 					childImageSharp {
 						fluid(maxWidth: 1360) {
 							...GatsbyImageSharpFluid

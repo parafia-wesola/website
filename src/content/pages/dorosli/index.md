@@ -1,7 +1,7 @@
 ---
-title: Rodzice
+title: Dorośli
 type: tiles
-cover: rodzice.jpg
+cover: dorosli.jpg
 tiles:
   [
     { title: Kurs Alpha, to: / },

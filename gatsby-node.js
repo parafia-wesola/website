@@ -112,7 +112,7 @@ exports.createPages = async ({ graphql, actions }) => {
 		const { slug } = node.fields;
 		createPage({
 			path: slug,
-			component: path.resolve('src/templates/TextPage/index.js'),
+			component: path.resolve('src/templates/Page/index.js'),
 			context: {
 				id: node.id,
 			},
@@ -122,7 +122,7 @@ exports.createPages = async ({ graphql, actions }) => {
 		const { slug } = node.fields;
 		createPage({
 			path: slug,
-			component: path.resolve('src/templates/TilesPage/index.js'),
+			component: path.resolve('src/templates/Tiles/index.js'),
 			context: {
 				id: node.id,
 			},

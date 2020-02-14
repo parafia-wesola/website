@@ -2,7 +2,7 @@ import React from 'react';
 import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
 
-import TextTile from 'components/TextTile';
+import TileText from 'components/TileText';
 import {
 	SectionWrapper,
 	SectionTitle,
@@ -18,7 +18,7 @@ const TextTiles = ({ id, title, background, tiles }) => (
 		<TileList muzzle>
 			{tiles.map(node => (
 				<TileItem key={node.title}>
-					<TextTile title={node.title} to={node.to} />
+					<TileText title={node.title} to={node.to} />
 				</TileItem>
 			))}
 		</TileList>

@@ -19,7 +19,7 @@ export const Background = styled.div`
 		width: 100%;
 		height: 100%;
 		background: #fff;
-		opacity: 0.8;
+		opacity: 0.65;
 		content: '';
 	}
 
