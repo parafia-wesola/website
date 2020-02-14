@@ -1,0 +1,87 @@
+local_backend: true
+backend:
+  name: git-gateway
+  branch: netlify-cms
+
+media_folder: static/img
+public_folder: /img
+locale: 'pl'
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+
+collections:
+  - name: "annoucements"
+    label: "Ogłoszenia"
+    label_singular: "Ogłoszenie"
+    description: 'Tutaj można dodawać nowe ogłoszenia duszpasterskie. UWAGA: na stronie będzie wyświetlane jedynie ostatnio dodane ogłoszenie.'
+    folder: "static/content/annoucements"
+    create: true
+    slug: "ogloszenia-{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}"
+    editor:
+     preview: false
+    fields:
+      - { label: "Tytuł", name: "title", widget: "string", default: "ogłoszenia parafialne i duszpasterskie" }
+      - { label: "Data dodania", name: "date", widget: "datetime" }
+      - { label: "Treść", name: "body", widget: "markdown" }
+  - name: "articles"
+    label: "Artykuły"
+    label_singular: "artykuł"
+    description: 'Tutaj można dodawać nowe artykuły.'
+    folder: "static/content/articles"
+    create: true
+    slug: "{{slug}}"
+    path: '{{slug}}/index'
+    editor:
+     preview: false
+    fields:
+      - { label: 'Tytuł', name: 'title', widget: 'string' }
+      - { label: 'Data dodania', name: 'date', widget: 'datetime' }
+      - { label: 'Data wydarzenia', name: 'eventDate', default: '', widget: 'datetime', required: false }
+      - { label: 'Autor', name: 'author', widget: 'select', default: ["parafia wesoła"], options: ["parafia wesoła"] }
+      - { label: 'Okładka', name: 'cover', widget: image }
+      - {
+          label: 'Galeria',
+          name: 'images',
+          widget: 'list',
+          required: false,
+          field: { widget: image },
+        }
+      - { label: 'Treść', name: 'body', widget: 'markdown' }
+  - name: "crew"
+    label: "Ekipa"
+    label_singular: "członek ekipy"
+    description: 'Tutaj można dodawać i usuwać członków ekipy parafii.'
+    folder: "static/content/crew"
+    create: true
+    slug: "{{slug}}"
+    path: '{{slug}}/index'
+    editor:
+     preview: false
+    fields:
+      - { label: 'Imię i nazwisko', name: 'title', widget: 'string' }
+      - { label: 'Stanowisko', name: 'position', widget: 'string' }
+      - { label: 'Numer telefonu', name: 'phone', widget: 'string', required: false }
+      - { label: 'E-mail', name: 'mail', widget: 'string', required: false }
+      - { label: 'Zdjęcie', name: 'cover', widget: image }
+      - { label: 'Pozycja na liście', name: 'order', widget: "number", default: 0 }
+      - { label: 'Bio', name: 'body', widget: 'markdown' }
+  - name: "council"
+    label: "Rada Parafialna"
+    label_singular: "członek rady"
+    description: 'Tutaj można dodawać i usuwać członków parafii.'
+    folder: "static/content/council"
+    create: true
+    slug: "{{slug}}"
+    path: '{{slug}}/index'
+    editor:
+     preview: false
+    fields:
+      - { label: 'Imię i nazwisko', name: 'title', widget: 'string' }
+      - { label: 'Stanowisko', name: 'position', widget: 'string' }
+      - { label: 'Numer telefonu', name: 'phone', widget: 'string', required: false }
+      - { label: 'E-mail', name: 'mail', widget: 'string', required: false }
+      - { label: 'Zdjęcie', name: 'cover', widget: image }
+      - { label: 'order', name: 'Pozycja na liście', widget: "number", default: 0 }
+      - { label: 'Bio', name: 'body', widget: 'markdown' }
