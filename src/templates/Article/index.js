@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 
-import Layout from 'layouts/Main';
 import SEO from 'components/SEO';
 import { SectionWrapper } from 'components/Share';
 import ArticleMain from 'components/ArticleMain';
@@ -21,7 +20,7 @@ const ArticleTemplate = ({ data }) => {
 	const content = data.markdownRemark.html;
 	const moreArticles = data.allMarkdownRemark.edges;
 	return (
-		<Layout>
+		<>
 			<SEO title={title} />
 			<Wrapper as={SectionWrapper}>
 				<StyledMain
@@ -36,7 +35,7 @@ const ArticleTemplate = ({ data }) => {
 				/>
 				<StyledAside as={ArticleAside} articles={moreArticles} />
 			</Wrapper>
-		</Layout>
+		</>
 	);
 };
 
