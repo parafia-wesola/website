@@ -83,6 +83,11 @@
 		"*.{json,md}": [
 			"prettier --config .prettierrc --write",
 			"git add"
+		],
+		"*.{css,scss}": [
+			"prettier --config .prettierrc --write",
+			"stylelint --fix",
+			"git add"
 		]
 	}
 }
