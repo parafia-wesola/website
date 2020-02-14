@@ -7,43 +7,43 @@
 			"id": "251",
 			"title": "Chrzest",
 			"image": "./images/chrzest.jpeg",
-			"to": "$/modals/chrzest"
+			"to": "$/chrzest"
 		},
 		{
 			"id": "252",
 			"title": "Eucharystia",
 			"image": "./images/eucharystia.jpeg",
-			"to": "$/modals/eucharystia"
+			"to": "$/eucharystia"
 		},
 		{
 			"id": "253",
 			"title": "Bierzmowanie",
 			"image": "./images/bierzmowanie.jpeg",
-			"to": "$/modals/bierzmowanie"
+			"to": "$/bierzmowanie"
 		},
 		{
 			"id": "254",
 			"title": "Spowiedź",
 			"image": "./images/spowiedź.jpeg",
-			"to": "$/modals/spowiedz"
+			"to": "$/spowiedz"
 		},
 		{
 			"id": "255",
 			"title": "Małżeństwo",
 			"image": "./images/sakrament-małżeństwo.jpeg",
-			"to": "$/modals/malzenstwo"
+			"to": "$/malzenstwo"
 		},
 		{
 			"id": "256",
 			"title": "Posługa chorym",
 			"image": "./images/posługa-chorym.jpeg",
-			"to": "$/modals/posluga_chorym"
+			"to": "$/posluga_chorym"
 		},
 		{
 			"id": "257",
 			"title": "Pogrzeb",
 			"image": "./images/pogrzeb.jpeg",
-			"to": "$/modals/pogrzeb"
+			"to": "$/pogrzeb"
 		}
 	]
 }

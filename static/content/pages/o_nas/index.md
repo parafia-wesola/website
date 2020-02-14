@@ -1,6 +1,7 @@
 ---
 title: O nas
 cover: zelki.jpg
+type: text
 images: [
 	'zelki.jpg',
 	'zelki2.jpg',
