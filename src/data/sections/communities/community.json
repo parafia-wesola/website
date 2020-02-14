@@ -7,55 +7,55 @@
 			"id": "251",
 			"title": "Wspólnota Chemin Neuf",
 			"image": "./images/CCN.jpg",
-			"to": "$ccn"
+			"to": "$/ccn"
 		},
 		{
 			"id": "252",
 			"title": "Wspólnota Zwiastowanie",
 			"image": "./images/zwiastowanie.jpg",
-			"to": "$zwiastowanie"
+			"to": "$/zwiastowanie"
 		},
 		{
 			"id": "253",
 			"title": "Służba Liturgiczna Ołtarza",
 			"image": "./images/sluzba-liturgiczna-oltarza.jpg",
-			"to": "$sluzba_liturgiczna"
+			"to": "$/sluzba_liturgiczna"
 		},
 		{
 			"id": "254",
 			"title": "Chór dorosłych",
 			"image": "./images/chor-doroslych.jpg",
-			"to": "$chor_doroslych"
+			"to": "$/chor_doroslych"
 		},
 		{
 			"id": "255",
 			"title": "Zespół młodzieżowy",
 			"image": "./images/zespol-mlodziezowy.jpg",
-			"to": "$zespol_mlodziezowy"
+			"to": "$/zespol_mlodziezowy"
 		},
 		{
 			"id": "256",
 			"title": "Młodzi Open",
 			"image": "./images/mlodzi-open.jpg",
-			"to": "$mlodzi_open"
+			"to": "$/mlodzi_open"
 		},
 		{
 			"id": "257",
 			"title": "Wiara i Praca",
 			"image": "./images/wiara-i-praca.jpg",
-			"to": "$wiara_i_praca"
+			"to": "$/wiara_i_praca"
 		},
 		{
 			"id": "258",
 			"title": "Nikodem",
 			"image": "./images/nikodem.jpg",
-			"to": "$nikodem"
+			"to": "$/nikodem"
 		},
 		{
 			"id": "259",
 			"title": "Koło Przyjaciół Radia Maryja",
 			"image": "./images/kolo-przyjaciol-radia-maryja.jpg",
-			"to": "$kolo_przyjaciol_radia_maryja"
+			"to": "$/kolo_przyjaciol_radia_maryja"
 		}
 	]
 }
