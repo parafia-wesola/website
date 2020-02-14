@@ -84,6 +84,16 @@ exports.createPages = async ({ graphql, actions }) => {
 			});
 		}
 
+		if (type === 'tileText') {
+			createPage({
+				path: slug,
+				component: path.resolve('src/templates/Tiles/index.js'),
+				context: {
+					id: node.id,
+				},
+			});
+		}
+
 		if (!type) {
 			createPage({
 				path: slug,
