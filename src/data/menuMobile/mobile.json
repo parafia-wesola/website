@@ -1,8 +1,5 @@
 {
-	"name": "mobile",
-	"to": null,
-	"order": null,
-	"sub": [
+	"menu": [
 		{
 			"name": "dzieje się",
 			"to": "/#newsfeed"

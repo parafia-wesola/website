@@ -18,7 +18,8 @@ import {
 
 const Navbar = () => {
 	const [isOpen, setIsOpen] = useState(false);
-	const { file, site } = useStaticQuery(graphql`
+	const [menu, setMenu] = useState([]);
+	const { file, site, fullMenu, mobileMenu, crew } = useStaticQuery(graphql`
 		query {
 			file(relativePath: { eq: "icon.png" }) {
 				childImageSharp {
@@ -30,6 +31,42 @@ const Navbar = () => {
 			site {
 				siteMetadata {
 					title
+				}
+			}
+			mobileMenu: menuMobileJson {
+				menu {
+					name
+					to
+				}
+			}
+			fullMenu: allMenuJson(
+				sort: { fields: order }
+				filter: { name: { ne: "mobile" } }
+			) {
+				edges {
+					node {
+						id
+						name
+						sub {
+							name
+							to
+						}
+					}
+				}
+			}
+			crew: allMarkdownRemark(
+				filter: { fields: { directory: { regex: "/crew//" } } }
+				sort: { fields: frontmatter___order, order: ASC }
+			) {
+				edges {
+					node {
+						frontmatter {
+							title
+						}
+						fields {
+							slug
+						}
+					}
 				}
 			}
 		}
@@ -46,6 +83,25 @@ const Navbar = () => {
 	};
 
 	useEffect(() => {
+		const crewArray = crew.edges.map(({ node }) => ({
+			name: node.frontmatter.title,
+			to: node.fields.slug,
+		}));
+
+		const updatedMenu = fullMenu.edges.map(el => {
+			if (el.node.name === 'kontakt') {
+				return {
+					node: {
+						...el.node,
+						sub: [...el.node.sub, ...crewArray],
+					},
+				};
+			}
+			return el;
+		});
+
+		setMenu(updatedMenu);
+
 		window.addEventListener('orientationchange', disableBurger);
 		return () => {
 			window.removeEventListener('orientationchange', disableBurger);
@@ -64,11 +120,11 @@ const Navbar = () => {
 				<StyledToday as={Today} />
 				<StyledBurger as={Burger} click={toggleBurger} isOpen={isOpen} />
 				<BurgerMenu isOpen={isOpen}>
-					<MenuMobile click={toggleBurger} />
+					<MenuMobile menu={mobileMenu.menu} click={toggleBurger} />
 				</BurgerMenu>
 			</Wrapper>
 			<MenuWrapper>
-				<MenuHorizontal />
+				<MenuHorizontal menu={menu} />
 			</MenuWrapper>
 		</Header>
 	);

@@ -1,42 +1,21 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { graphql, useStaticQuery } from 'gatsby';
 import Dropdown from './Dropdown';
 import { MenuList, MenuItem, MenuLink } from './styles';
 
-const MenuHorizontal = ({ className }) => {
-	const {
-		allMenuJson: { menu },
-	} = useStaticQuery(graphql`
-		query {
-			allMenuJson(sort: { fields: order }, filter: { name: { ne: "mobile" } }) {
-				menu: edges {
-					node {
-						id
-						name
-						sub {
-							name
-							to
-						}
-					}
-				}
-			}
-		}
-	`);
-
-	return (
-		<MenuList className={className}>
-			{menu.map(menuItem => (
-				<MenuItem key={menuItem.node.id}>
-					<MenuLink>{menuItem.node.name}</MenuLink>
-					{!!menuItem.node.sub && <Dropdown submenu={menuItem.node.sub} />}
-				</MenuItem>
-			))}
-		</MenuList>
-	);
-};
+const MenuHorizontal = ({ menu, className }) => (
+	<MenuList className={className}>
+		{menu.map(menuItem => (
+			<MenuItem key={menuItem.node.id}>
+				<MenuLink>{menuItem.node.name}</MenuLink>
+				{!!menuItem.node.sub && <Dropdown submenu={menuItem.node.sub} />}
+			</MenuItem>
+		))}
+	</MenuList>
+);
 
 MenuHorizontal.propTypes = {
+	menu: PropTypes.arrayOf(PropTypes.object).isRequired,
 	className: PropTypes.string,
 };
 

@@ -5,7 +5,7 @@
 	"sub": [
 		{
 			"name": "o nas",
-			"to": "$/o_nas"
+			"to": "/o_nas"
 		},
 		{
 			"name": "rada parafialna",
