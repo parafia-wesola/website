@@ -1,0 +1,43 @@
+{
+	"id": "suggestions",
+	"title": "Propozycje",
+	"image": "./images/suggestions-background.jpeg",
+	"tiles": [
+		{
+			"id": "123",
+			"title": "Dzieci",
+			"image": "./images/dzieci.jpeg",
+			"to": "/dzieci"
+		},
+		{
+			"id": "124",
+			"title": "Młodzież",
+			"image": "./images/mlodziez.jpeg",
+			"to": "/mlodziez"
+		},
+		{
+			"id": "125",
+			"title": "Dorośli",
+			"image": "./images/dorośli.jpeg",
+			"to": "/dorosli"
+		},
+		{
+			"id": "126",
+			"title": "Narzeczeni",
+			"image": "./images/narzeczeni.jpeg",
+			"to": "/narzeczeni"
+		},
+		{
+			"id": "127",
+			"title": "Małżeństwa",
+			"image": "./images/małżeństwa.jpeg",
+			"to": "/malzenstwa"
+		},
+		{
+			"id": "129",
+			"title": "Rodzice",
+			"image": "./images/rodzice.jpeg",
+			"to": "/rodzice"
+		}
+	]
+}

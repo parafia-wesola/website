@@ -1,0 +1,23 @@
+{
+	"name": "aktualności",
+	"to": "#annoucements",
+	"order": 1,
+	"sub": [
+		{
+			"name": "dzieje się",
+			"to": "/#newsfeed"
+		},
+		{
+			"name": "nadchodzące wydarzenia",
+			"to": "/#events"
+		},
+		{
+			"name": "ogłoszenia",
+			"to": "/#annoucements"
+		},
+		{
+			"name": "intencje mszalne",
+			"to": "/intencje_mszalne"
+		}
+	]
+}

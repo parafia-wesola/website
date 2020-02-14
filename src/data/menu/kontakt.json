@@ -1,0 +1,31 @@
+{
+	"name": "kontakt",
+	"to": "#contact",
+	"order": 8,
+	"sub": [
+		{
+			"name": "dane parafii",
+			"to": "/#contact"
+		},
+		{
+			"name": "kancelaria parafialna",
+			"to": "/#contact"
+		},
+		{
+			"name": "o. adam Strojny",
+			"to": "/ekipa#adam_strojny"
+		},
+		{
+			"name": "o. krzysztof Charańczuk",
+			"to": "/ekipa#krzysztof_charanczuk"
+		},
+		{
+			"name": "ks. Artur Kasprzak",
+			"to": "/ekipa#artur_kasprzak"
+		},
+		{
+			"name": "s. katarzyna Jackowska",
+			"to": "/ekipa#katarzyna_jackowska"
+		}
+	]
+}

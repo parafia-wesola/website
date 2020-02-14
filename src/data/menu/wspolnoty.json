@@ -1,0 +1,43 @@
+{
+	"name": "wspólnoty i grupy",
+	"to": "/wspolnoty",
+	"order": 3,
+	"sub": [
+		{
+			"name": "chemin neuf",
+			"to": "/wspolnoty/#chemin_neuf"
+		},
+		{
+			"name": "zwiastowanie",
+			"to": "/wspolnoty/#zwiastowanie"
+		},
+		{
+			"name": "służba liturgiczna ołtarza",
+			"to": "/wspolnoty/#sluzba_liturgiczna"
+		},
+		{
+			"name": "chór dorosłych",
+			"to": "/wspolnoty/#chor_doroslych"
+		},
+		{
+			"name": "zespół młodzieżowy",
+			"to": "/wspolnoty/#zespol_mlodziezowy"
+		},
+		{
+			"name": "młodzi open",
+			"to": "/wspolnoty/#mlodzi_open"
+		},
+		{
+			"name": "wiara i praca",
+			"to": "/wspolnoty/#wiara_i_praca"
+		},
+		{
+			"name": "nikodem",
+			"to": "/wspolnoty/#nikodem"
+		},
+		{
+			"name": "koło przyjaciół Radia Maryja",
+			"to": "/wspolnoty/#radio_maryja"
+		}
+	]
+}

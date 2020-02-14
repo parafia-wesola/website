@@ -1,0 +1,23 @@
+{
+	"name": "multimedia",
+	"to": "/multimedia",
+	"order": 7,
+	"sub": [
+		{
+			"name": "zdjęcia",
+			"to": "/multimedia#zdjecia"
+		},
+		{
+			"name": "filmy",
+			"to": "https://youtube.com"
+		},
+		{
+			"name": "audio",
+			"to": "/multimedia#/audio"
+		},
+		{
+			"name": "wirtualne zwiedzanie",
+			"to": "/multimedia#wirtualne_zwiedzanie"
+		}
+	]
+}

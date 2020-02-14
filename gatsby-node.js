@@ -39,18 +39,6 @@ exports.createPages = async ({ graphql, actions }) => {
 					}
 				}
 			}
-			modals: allMarkdownRemark(
-				filter: { fields: { directory: { regex: "/modals//" } } }
-			) {
-				edges {
-					node {
-						id
-						fields {
-							slug
-						}
-					}
-				}
-			}
 			pages: allMarkdownRemark(
 				filter: { fields: { directory: { regex: "/pages//" } } }
 			) {
@@ -59,6 +47,9 @@ exports.createPages = async ({ graphql, actions }) => {
 						id
 						fields {
 							slug
+						}
+						frontmatter {
+							type
 						}
 					}
 				}
@@ -79,25 +70,38 @@ exports.createPages = async ({ graphql, actions }) => {
 		});
 	});
 
-	result.data.modals.edges.forEach(({ node }) => {
-		const { slug } = node.fields;
-		createPage({
-			path: slug,
-			component: path.resolve('src/templates/Modal/index.js'),
-			context: {
-				id: node.id,
-			},
-		});
-	});
-
 	result.data.pages.edges.forEach(({ node }) => {
 		const { slug } = node.fields;
-		createPage({
-			path: slug,
-			component: path.resolve('src/templates/Page/index.js'),
-			context: {
-				id: node.id,
-			},
-		});
+		const { type } = node.frontmatter;
+
+		if (type === 'text') {
+			createPage({
+				path: slug,
+				component: path.resolve('src/templates/Page/index.js'),
+				context: {
+					id: node.id,
+				},
+			});
+		}
+
+		if (type === 'tileText') {
+			createPage({
+				path: slug,
+				component: path.resolve('src/templates/Tiles/index.js'),
+				context: {
+					id: node.id,
+				},
+			});
+		}
+
+		if (!type) {
+			createPage({
+				path: slug,
+				component: path.resolve('src/templates/Modal/index.js'),
+				context: {
+					id: node.id,
+				},
+			});
+		}
 	});
 };

@@ -1,0 +1,7 @@
+{
+	"name": "facebook",
+	"to": "https://www.facebook.com/",
+	"text": "Polub nas na Facebooku",
+	"order": "2",
+	"mobile": false
+}
