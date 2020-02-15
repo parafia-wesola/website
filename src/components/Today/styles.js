@@ -9,7 +9,7 @@ export const Wrapper = styled.div`
 	&::before {
 		position: absolute;
 		top: -35em;
-		right: -13rem;
+		right: -12rem;
 		z-index: -1;
 		width: 40em;
 		height: 62.5rem;
