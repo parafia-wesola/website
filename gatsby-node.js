@@ -1,6 +1,47 @@
 const path = require('path');
-
 const { createFilePath } = require('gatsby-source-filesystem');
+
+// Creates menu node with people items from crew content and MenuJson
+exports.sourceNodes = async ({
+	actions,
+	createNodeId,
+	createContentDigest,
+	getNodesByType,
+}) => {
+	const { createNode } = actions;
+	const allMarkdown = getNodesByType('MarkdownRemark');
+	const menu = getNodesByType('MenuJson');
+
+	const crew = allMarkdown
+		.filter(el => el.fields.directory.includes('crew'))
+		.sort(el => el.frontmatter.order)
+		.map(el => ({
+			name: el.frontmatter.title,
+			to: el.fields.slug,
+		}));
+
+	menu.forEach((el, index) => {
+		const data = {
+			name: el.name,
+			order: el.order,
+			sub: el.name === 'kontakt' ? [...el.sub, ...crew] : el.sub,
+		};
+
+		const node = {
+			id: createNodeId(`menu-${index}`),
+			parent: null,
+			children: [],
+			internal: {
+				type: 'Menu',
+				mediaType: 'text/html',
+				contentDigest: createContentDigest(data),
+			},
+			...data,
+		};
+
+		createNode(node);
+	});
+};
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
 	const { createNodeField } = actions;
