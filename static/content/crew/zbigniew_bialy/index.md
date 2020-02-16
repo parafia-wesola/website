@@ -1,10 +1,9 @@
 ---
-title: O. Marcin Biały
+title: Zbigniew Biały
 order: 2
-to: $/crew/marcin_bialy
 position: proboszcz
 phone: 668 332 443
-mail: marcin@parafiawesola.pl
+mail: zbigniew@parafiawesola.pl
 cover: human.jpg
 ---
 

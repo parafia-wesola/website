@@ -1,11 +1,10 @@
 ---
-title: O. Marcin Najman
+title: Zbigniew Jeż
 order: 2
-to: $/council/marcin_najman
-position: bokser
+position: skarbnik
 phone: 628 334 45
 mail: adres@parafiawesola.pl
-cover: Marcin.jpg
+cover: jez.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu egestas ligula. Proin a sem nec arcu aliquam commodo nec vitae risus. In et nisl non urna condimentum interdum. In vitae risus nisi. Donec quis iaculis massa. Donec ultrices dolor justo. Integer at justo dignissim, imperdiet dui eu, ullamcorper eros. Suspendisse est risus, facilisis ut mattis a, convallis eu lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
