@@ -9,10 +9,12 @@ import SEO from 'components/SEO';
 import Modal from 'components/Modal';
 import { SectionWrapper } from 'components/Share';
 import ArticleMain from 'components/ArticleMain';
+import Crew from 'views/Crew';
+import Council from 'views/Council';
 import { Close, Cross } from './styles';
 
 const PagesTemplate = ({ data }) => {
-	const { title, cover, images } = data.markdownRemark.frontmatter;
+	const { title, cover, images, type } = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
 
 	return (
@@ -42,6 +44,8 @@ const PagesTemplate = ({ data }) => {
 									content={content}
 									images={images}
 								/>
+								{type === 'crew' && <Crew />}
+								{type === 'council' && <Council />}
 							</SectionWrapper>
 						</>
 					)}
@@ -63,6 +67,7 @@ export const query = graphql`
 			html
 			frontmatter {
 				title
+				type
 				cover {
 					childImageSharp {
 						fluid(maxWidth: 1360) {

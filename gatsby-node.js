@@ -104,7 +104,7 @@ exports.createPages = async ({ graphql, actions }) => {
 		const { slug } = node.fields;
 		const { type } = node.frontmatter;
 
-		if (type === 'text') {
+		if (type === 'text' || type === 'crew' || type === 'council') {
 			createPage({
 				path: slug,
 				component: path.resolve('src/templates/Page/index.js'),
