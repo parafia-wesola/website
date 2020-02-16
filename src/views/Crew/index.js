@@ -1,8 +1,9 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
+import { TileList } from 'components/Share';
 import CardItem from 'components/Card';
-import { Wrapper } from './styles';
+import { Wrapper, Item } from './styles';
 
 const Crew = () => {
 	const { cards } = useStaticQuery(graphql`
@@ -14,6 +15,9 @@ const Crew = () => {
 				edges {
 					node {
 						id
+						fields {
+							slug
+						}
 						frontmatter {
 							title
 							position
@@ -26,29 +30,30 @@ const Crew = () => {
 									}
 								}
 							}
-							to
 						}
-						html
 					}
 				}
 			}
 		}
 	`);
 	return (
-		<Wrapper>
-			{cards.edges.map(({ node }) => (
-				<li key={node.id}>
-					<CardItem
-						title={node.frontmatter.title}
-						to={node.frontmatter.to}
-						position={node.frontmatter.position}
-						phone={node.frontmatter.phone}
-						mail={node.frontmatter.mail}
-						cover={node.frontmatter.cover}
-						text={node.html}
-					/>
-				</li>
-			))}
+		<Wrapper as={TileList}>
+			{cards.edges.map(({ node }) => {
+				const { title, position, phone, mail, cover } = node.frontmatter;
+				const { slug } = node.fields;
+				return (
+					<Item key={node.id}>
+						<CardItem
+							title={title}
+							to={`$${slug}`}
+							position={position}
+							phone={phone}
+							mail={mail}
+							cover={cover}
+						/>
+					</Item>
+				);
+			})}
 		</Wrapper>
 	);
 };

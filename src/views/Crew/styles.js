@@ -1,13 +1,15 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.ul`
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
-	${({ theme }) => theme.mq.tabletMid} {
-		flex-direction: row;
-		flex-wrap: wrap;
-	}
+	justify-content: space-around;
+	margin: 3em auto 0;
+	padding: 0 1.5rem;
 `;
 
-export default Wrapper;
+export const Item = styled.li`
+	width: 18rem;
+	${({ theme }) => theme.mq.desktop} {
+		width: 25rem;
+		margin: 2em;
+	}
+`;
