@@ -139,7 +139,7 @@ exports.createPages = async ({ graphql, actions }) => {
 		const { slug } = node.fields;
 		createPage({
 			path: slug,
-			component: path.resolve('src/templates/Modal/index.js'),
+			component: path.resolve('src/templates/Bio/index.js'),
 			context: {
 				id: node.id,
 			},
@@ -150,7 +150,7 @@ exports.createPages = async ({ graphql, actions }) => {
 		const { slug } = node.fields;
 		createPage({
 			path: slug,
-			component: path.resolve('src/templates/Modal/index.js'),
+			component: path.resolve('src/templates/Bio/index.js'),
 			context: {
 				id: node.id,
 			},
