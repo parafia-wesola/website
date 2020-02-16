@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.article`
-	width: 100%;
+	padding: 0 1em;
 `;
 
 export const Cover = styled.div`

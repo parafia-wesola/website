@@ -6,16 +6,20 @@ import { ThemeProvider } from 'styled-components';
 import theme from 'assets/styles/theme';
 
 import SEO from 'components/SEO';
-import Modal from 'components/Modal';
 import { SectionWrapper } from 'components/Share';
-import ArticleMain from 'components/ArticleMain';
-import Crew from 'views/Crew';
-import Council from 'views/Council';
-import { Close, Cross } from './styles';
+import CardItem from 'components/CardItem';
+import { ModalWrapper, Wrapper, Close, Cross, Text } from './styles';
 
-const PagesTemplate = ({ data }) => {
-	const { title, cover, images, type } = data.markdownRemark.frontmatter;
+const BioTemplate = ({ data }) => {
+	const {
+		title,
+		cover,
+		phone,
+		mail,
+		position,
+	} = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
+	const { slug } = data.markdownRemark.fields;
 
 	return (
 		<ModalRoutingContext.Consumer>
@@ -26,27 +30,32 @@ const PagesTemplate = ({ data }) => {
 							<Close as={Link} to={closeTo} state={{ noScroll: true }}>
 								<Cross />
 							</Close>
-
-							<Modal
-								title={title}
-								background={cover.childImageSharp.fluid}
-								content={content}
-							/>
+							<ModalWrapper>
+								<CardItem
+									title={title}
+									cover={cover}
+									position={position}
+									phone={phone}
+									mail={mail}
+									to={slug}
+								/>
+								<Text dangerouslySetInnerHTML={{ __html: content }} />
+							</ModalWrapper>
 						</ThemeProvider>
 					) : (
 						<>
 							<SEO title={title} />
-							<SectionWrapper>
-								<ArticleMain
-									isPage
-									cover={cover.childImageSharp.fluid}
+							<Wrapper as={SectionWrapper}>
+								<CardItem
 									title={title}
-									content={content}
-									images={images}
+									cover={cover}
+									position={position}
+									phone={phone}
+									mail={mail}
+									to={slug}
 								/>
-								{type === 'crew' && <Crew />}
-								{type === 'council' && <Council />}
-							</SectionWrapper>
+								<Text dangerouslySetInnerHTML={{ __html: content }} />
+							</Wrapper>
 						</>
 					)}
 				</>
@@ -55,28 +64,25 @@ const PagesTemplate = ({ data }) => {
 	);
 };
 
-PagesTemplate.propTypes = {
+BioTemplate.propTypes = {
 	data: PropTypes.objectOf(PropTypes.shape()).isRequired,
 };
 
-export default PagesTemplate;
+export default BioTemplate;
 
 export const query = graphql`
-	query PagesTemplate($id: String!) {
+	query BioTemplate($id: String!) {
 		markdownRemark(id: { eq: $id }) {
 			html
+			fields {
+				slug
+			}
 			frontmatter {
 				title
-				type
+				position
+				mail
+				phone
 				cover {
-					childImageSharp {
-						fluid(maxWidth: 1360) {
-							...GatsbyImageSharpFluid
-						}
-					}
-				}
-				images {
-					id
 					childImageSharp {
 						fluid(maxWidth: 1360) {
 							...GatsbyImageSharpFluid
