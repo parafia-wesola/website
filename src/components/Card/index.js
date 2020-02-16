@@ -3,21 +3,21 @@ import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 
 import ConditionalLink from 'components/Conditional';
-import { Wrapper, Cover, WrapperDetails, Title, Info } from './styles';
+import { Wrapper, Cover, Body, Title, Info } from './styles';
 
-const CardItem = ({ title, to, position, mail, phone, cover }) => (
+const Card = ({ title, to, position, mail, phone, cover }) => (
 	<Wrapper as={ConditionalLink} to={to}>
 		<Cover as={Img} fluid={cover.childImageSharp.fluid} />
-		<WrapperDetails>
+		<Body>
 			<Title>{title}</Title>
 			{position && <Info>{position}</Info>}
 			{phone && <Info>{phone}</Info>}
 			{mail && <Info>{mail}</Info>}
-		</WrapperDetails>
+		</Body>
 	</Wrapper>
 );
 
-CardItem.propTypes = {
+Card.propTypes = {
 	cover: PropTypes.shape().isRequired,
 	title: PropTypes.string.isRequired,
 	to: PropTypes.string.isRequired,
@@ -26,10 +26,10 @@ CardItem.propTypes = {
 	phone: PropTypes.string,
 };
 
-CardItem.defaultProps = {
+Card.defaultProps = {
 	position: null,
 	mail: null,
 	phone: null,
 };
 
-export default CardItem;
+export default Card;

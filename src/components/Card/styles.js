@@ -1,70 +1,79 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.div`
+	position: relative;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	width: 15em;
+	min-width: 0;
+	height: 100%;
 	margin: 0 auto;
-	padding: 1em 2em;
-	color: #000;
+	padding: 1.5em;
+	color: ${({ theme }) => theme.colors.dark};
 	text-decoration: none;
-	box-shadow: 0 3px 6px -4px #777;
+	word-wrap: break-word;
+	border-radius: 5px;
 	transition: all 0.2s ease-in-out;
 
 	&:hover {
 		background: ${({ theme }) => theme.colors.eventHoverBg};
 		transform: scale(1.05);
+
+		::after {
+			opacity: 1;
+		}
 	}
 
-	${({ theme }) => theme.mq.tabletLandscape} {
+	${({ theme }) => theme.mq.desktop} {
 		flex-direction: row;
-		width: 450px;
-		margin: 2em auto 2em;
+		align-items: flex-start;
+		background: ${({ theme }) => theme.colors.annoucementBackground};
+		box-shadow: 8px 10px 6px -6px #777;
+
+		::after {
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			box-shadow: 12px 8px 20px -8px #777;
+			opacity: 0;
+			transition: opacity 0.2s ease-in;
+			content: '';
+		}
 	}
 `;
 
 export const Cover = styled.div`
-	min-width: 6em;
-	max-width: 6em;
-	min-height: 6em;
-	max-height: 6em;
-	border-radius: 100%;
-	${({ theme }) => theme.mq.tablet} {
-		min-width: 8em;
-		max-width: 8em;
-		min-height: 8em;
-		max-height: 8em;
-	}
+	flex-shrink: 0;
+	width: 8em;
+	height: 8em;
+	border-radius: 50%;
 `;
 
-export const WrapperDetails = styled.div`
-	display: flex;
-	flex-direction: column;
+export const Body = styled.div`
+	margin: 1em 0;
 	line-height: 1.5em;
 	text-align: center;
-	${({ theme }) => theme.mq.tabletLandscape} {
-		margin-left: 1em;
+	${({ theme }) => theme.mq.desktop} {
+		margin: 0.5em 0 0 1em;
 		text-align: left;
 	}
 `;
 
-export const Title = styled.h2`
+export const Title = styled.h3`
+	margin: 0 0 0.5em;
 	color: ${({ theme }) => theme.colors.annoucementTitle};
 	font-weight: 800;
-	font-size: 1em;
+	font-size: 1.1em;
 	text-transform: uppercase;
-	${({ theme }) => theme.mq.tablet} {
-		font-size: 1.5em;
-	}
 `;
 
 export const Info = styled.p`
 	margin: 0;
 	padding: 0;
-	font-weight: 600;
-	font-size: 0.8em;
-	${({ theme }) => theme.mq.tablet} {
-		font-size: 1em;
-	}
+	font-weight: 400;
+	font-size: 1em;
 `;
