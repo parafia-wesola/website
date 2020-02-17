@@ -53,7 +53,7 @@ collections:
     label: "Ekipa"
     label_singular: "członek ekipy"
     description: 'Tutaj można dodawać i usuwać członków ekipy parafii.'
-    folder: "static/content/crew"
+    folder: "static/content/o_nas"
     create: true
     slug: "{{slug}}"
     path: '{{slug}}/index'
@@ -71,7 +71,7 @@ collections:
     label: "Rada Parafialna"
     label_singular: "członek rady"
     description: 'Tutaj można dodawać i usuwać członków parafii.'
-    folder: "static/content/council"
+    folder: "static/content/rada_parafialna"
     create: true
     slug: "{{slug}}"
     path: '{{slug}}/index'

@@ -1,7 +1,6 @@
 ---
 title: Antoni Dudek
 order: 3
-to: $/crew/jerzy_dudek
 cover: dudek.jpg
 ---
 

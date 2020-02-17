@@ -13,7 +13,7 @@ exports.sourceNodes = async ({
 	const menu = getNodesByType('MenuJson');
 
 	const crew = allMarkdown
-		.filter(el => el.fields.directory.includes('crew'))
+		.filter(el => el.fields.directory.match(/o_nas\//))
 		.sort(el => el.frontmatter.order)
 		.map(el => ({
 			name: el.frontmatter.title,
@@ -96,7 +96,7 @@ exports.createPages = async ({ graphql, actions }) => {
 				}
 			}
 			crew: allMarkdownRemark(
-				filter: { fields: { directory: { regex: "/crew//" } } }
+				filter: { fields: { directory: { regex: "/o_nas//" } } }
 			) {
 				edges {
 					node {
@@ -111,7 +111,7 @@ exports.createPages = async ({ graphql, actions }) => {
 				}
 			}
 			council: allMarkdownRemark(
-				filter: { fields: { directory: { regex: "/council//" } } }
+				filter: { fields: { directory: { regex: "/rada_parafialna//" } } }
 			) {
 				edges {
 					node {

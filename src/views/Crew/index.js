@@ -9,7 +9,7 @@ const Crew = () => {
 	const { cards } = useStaticQuery(graphql`
 		{
 			cards: allMarkdownRemark(
-				filter: { fields: { directory: { regex: "/crew/" } } }
+				filter: { fields: { directory: { regex: "/o_nas//" } } }
 				sort: { fields: frontmatter___order, order: ASC }
 			) {
 				edges {
