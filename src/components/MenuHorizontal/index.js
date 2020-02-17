@@ -6,7 +6,7 @@ import { MenuList, MenuItem, MenuLink } from './styles';
 const MenuHorizontal = ({ menu, className }) => (
 	<MenuList className={className}>
 		{menu.map(menuItem => (
-			<MenuItem key={menuItem.node.id}>
+			<MenuItem key={menuItem.node.name}>
 				<MenuLink>{menuItem.node.name}</MenuLink>
 				{!!menuItem.node.sub && <Dropdown submenu={menuItem.node.sub} />}
 			</MenuItem>
