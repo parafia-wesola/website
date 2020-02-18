@@ -30,8 +30,9 @@ export const Text = styled.div`
 	padding: 0;
 	font-weight: 400;
 	font-size: 1em;
-	line-height: 1.75;
+	line-height: 2;
 	text-align: justify;
+	text-indent: 2em;
 	text-justify: inter-word;
 `;
 
