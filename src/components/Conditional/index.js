@@ -49,7 +49,13 @@ const ConditionalLink = ({ to, className, children, click }) => {
 
 	// default outer link
 	return (
-		<a onClick={click} href={to} className={className}>
+		<a
+			onClick={click}
+			href={to}
+			className={className}
+			target="_blank"
+			rel="noopener noreferrer"
+		>
 			{children}
 		</a>
 	);
