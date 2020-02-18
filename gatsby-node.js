@@ -13,8 +13,8 @@ exports.sourceNodes = async ({
 	const menu = getNodesByType('MenuJson');
 
 	const crew = allMarkdown
-		.filter(el => el.fields.directory.match(/o_nas\//))
-		.sort(el => el.frontmatter.order)
+		.filter(el => el.frontmatter.type.includes('crew'))
+		.sort((a, b) => a.frontmatter.order - b.frontmatter.order)
 		.map(el => ({
 			name: el.frontmatter.title,
 			to: el.fields.slug,
