@@ -9,7 +9,7 @@ import SEO from 'components/SEO';
 import TextTiles from 'views/TextTiles';
 import { StyledTextTiles, Close, Cross } from './styles';
 
-const TilesTemplate = ({ data }) => {
+const TileTemplate = ({ data }) => {
 	const { title, tiles, cover } = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
 	return (
@@ -48,11 +48,11 @@ const TilesTemplate = ({ data }) => {
 	);
 };
 
-TilesTemplate.propTypes = {
+TileTemplate.propTypes = {
 	data: PropTypes.objectOf(PropTypes.shape()).isRequired,
 };
 
-export default TilesTemplate;
+export default TileTemplate;
 
 export const query = graphql`
 	query TilesTemplate($id: String!) {

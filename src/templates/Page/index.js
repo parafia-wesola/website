@@ -13,7 +13,7 @@ import Crew from 'views/Crew';
 import Council from 'views/Council';
 import { Close, Cross } from './styles';
 
-const PagesTemplate = ({ data }) => {
+const PageTemplate = ({ data }) => {
 	const { title, cover, images, type } = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
 
@@ -55,14 +55,14 @@ const PagesTemplate = ({ data }) => {
 	);
 };
 
-PagesTemplate.propTypes = {
+PageTemplate.propTypes = {
 	data: PropTypes.objectOf(PropTypes.shape()).isRequired,
 };
 
-export default PagesTemplate;
+export default PageTemplate;
 
 export const query = graphql`
-	query PagesTemplate($id: String!) {
+	query PageTemplate($id: String!) {
 		markdownRemark(id: { eq: $id }) {
 			html
 			frontmatter {

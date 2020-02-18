@@ -113,7 +113,7 @@ exports.createPages = async ({ graphql, actions }) => {
 		if (type === 'tile') {
 			createPage({
 				path: slug,
-				component: path.resolve('src/templates/Tiles/index.js'),
+				component: path.resolve('src/templates/Tile/index.js'),
 				context: {
 					id: node.id,
 				},
