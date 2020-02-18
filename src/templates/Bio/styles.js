@@ -47,7 +47,3 @@ export const Cross = styled.span`
 		content: '';
 	}
 `;
-
-export const Text = styled.div`
-	line-height: 2;
-`;

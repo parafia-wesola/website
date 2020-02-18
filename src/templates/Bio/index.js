@@ -7,8 +7,8 @@ import theme from 'assets/styles/theme';
 
 import SEO from 'components/SEO';
 import { SectionWrapper } from 'components/Share';
-import CardItem from 'components/CardItem';
-import { ModalWrapper, Wrapper, Close, Cross, Text } from './styles';
+import Bio from 'components/Bio';
+import { ModalWrapper, Wrapper, Close, Cross } from './styles';
 
 const BioTemplate = ({ data }) => {
 	const {
@@ -31,30 +31,30 @@ const BioTemplate = ({ data }) => {
 								<Cross />
 							</Close>
 							<ModalWrapper>
-								<CardItem
+								<Bio
 									title={title}
 									cover={cover}
 									position={position}
 									phone={phone}
 									mail={mail}
 									to={slug}
+									text={content}
 								/>
-								<Text dangerouslySetInnerHTML={{ __html: content }} />
 							</ModalWrapper>
 						</ThemeProvider>
 					) : (
 						<>
 							<SEO title={title} />
 							<Wrapper as={SectionWrapper}>
-								<CardItem
+								<Bio
 									title={title}
 									cover={cover}
 									position={position}
 									phone={phone}
 									mail={mail}
 									to={slug}
+									text={content}
 								/>
-								<Text dangerouslySetInnerHTML={{ __html: content }} />
 							</Wrapper>
 						</>
 					)}
