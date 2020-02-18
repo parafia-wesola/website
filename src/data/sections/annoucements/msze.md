@@ -1,4 +1,5 @@
 ---
+type: static
 title: msze święte
 date: 2020-01-29T18:00:00Z
 position: aside

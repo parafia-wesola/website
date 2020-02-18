@@ -1,4 +1,5 @@
 ---
+type: text
 title: Posługa chorym
 cover: bierzmowanie.jpg
 ---

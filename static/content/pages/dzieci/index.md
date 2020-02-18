@@ -1,6 +1,6 @@
 ---
+type: tile
 title: Dzieci
-type: tileText
 cover: dzieci.jpg
 tiles:
   [

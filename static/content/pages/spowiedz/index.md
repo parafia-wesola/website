@@ -1,4 +1,5 @@
 ---
+type: text
 title: Spowiedź
 cover: bierzmowanie.jpg
 ---

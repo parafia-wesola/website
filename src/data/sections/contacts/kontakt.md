@@ -1,4 +1,5 @@
 ---
+type: static
 title: kancelaria parafialna
 position: secondColumn
 order: 0

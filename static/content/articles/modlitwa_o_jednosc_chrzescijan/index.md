@@ -1,4 +1,5 @@
 ---
+type: article
 title: Modlitwa o jedność chrześcijan
 author: Gall Anonim
 cover: zorza3.jpg

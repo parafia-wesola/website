@@ -1,4 +1,5 @@
 ---
+type: crew
 title: Zbyszko z Bogdańca
 order: 5
 position: rycerz

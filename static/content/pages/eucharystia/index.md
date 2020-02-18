@@ -1,4 +1,5 @@
 ---
+type: text
 title: Eucharystia
 cover: bierzmowanie.jpg
 ---

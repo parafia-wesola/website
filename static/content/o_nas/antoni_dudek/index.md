@@ -1,4 +1,5 @@
 ---
+type: crew
 title: Antoni Dudek
 order: 3
 cover: dudek.jpg

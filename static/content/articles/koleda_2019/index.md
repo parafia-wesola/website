@@ -1,4 +1,5 @@
 ---
+type: article
 title: Kolęda 2019
 author: Gall Anonim
 cover: zelki.jpg

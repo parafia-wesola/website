@@ -1,6 +1,6 @@
 ---
+type: tile
 title: Młodzież
-type: tileText
 cover: mlodziez.jpg
 tiles:
   [

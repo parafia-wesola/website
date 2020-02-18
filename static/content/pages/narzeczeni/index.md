@@ -1,6 +1,6 @@
 ---
+type: tile
 title: Narzeczeni
-type: tileText
 cover: narzeczeni.jpg
 tiles:
   [

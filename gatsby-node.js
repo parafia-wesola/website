@@ -68,51 +68,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
 	const result = await graphql(`
 		{
-			articles: allMarkdownRemark(
-				filter: { fields: { directory: { regex: "/articles//" } } }
-			) {
-				edges {
-					node {
-						id
-						fields {
-							slug
-						}
-					}
-				}
-			}
-			pages: allMarkdownRemark(
-				filter: { fields: { directory: { regex: "/pages//" } } }
-			) {
-				edges {
-					node {
-						id
-						fields {
-							slug
-						}
-						frontmatter {
-							type
-						}
-					}
-				}
-			}
-			crew: allMarkdownRemark(
-				filter: { fields: { directory: { regex: "/o_nas//" } } }
-			) {
-				edges {
-					node {
-						id
-						fields {
-							slug
-						}
-						frontmatter {
-							type
-						}
-					}
-				}
-			}
-			council: allMarkdownRemark(
-				filter: { fields: { directory: { regex: "/rada_parafialna//" } } }
-			) {
+			allMarkdownRemark {
 				edges {
 					node {
 						id
@@ -130,22 +86,11 @@ exports.createPages = async ({ graphql, actions }) => {
 
 	if (result.errors) throw result.errors;
 
-	result.data.articles.edges.forEach(({ node }) => {
-		const { slug } = node.fields;
-		createPage({
-			path: slug,
-			component: path.resolve('src/templates/Article/index.js'),
-			context: {
-				id: node.id,
-			},
-		});
-	});
-
-	result.data.pages.edges.forEach(({ node }) => {
+	result.data.allMarkdownRemark.edges.forEach(({ node }) => {
 		const { slug } = node.fields;
 		const { type } = node.frontmatter;
 
-		if (type === 'text' || type === 'crew' || type === 'council') {
+		if (type === 'page' || type === 'pageCrew' || type === 'pageCouncil') {
 			createPage({
 				path: slug,
 				component: path.resolve('src/templates/Page/index.js'),
@@ -155,7 +100,17 @@ exports.createPages = async ({ graphql, actions }) => {
 			});
 		}
 
-		if (type === 'tileText') {
+		if (type === 'article') {
+			createPage({
+				path: slug,
+				component: path.resolve('src/templates/Article/index.js'),
+				context: {
+					id: node.id,
+				},
+			});
+		}
+
+		if (type === 'tile') {
 			createPage({
 				path: slug,
 				component: path.resolve('src/templates/Tiles/index.js'),
@@ -165,7 +120,17 @@ exports.createPages = async ({ graphql, actions }) => {
 			});
 		}
 
-		if (!type) {
+		if (type === 'crew' || type === 'council') {
+			createPage({
+				path: slug,
+				component: path.resolve('src/templates/Bio/index.js'),
+				context: {
+					id: node.id,
+				},
+			});
+		}
+
+		if (type === 'text') {
 			createPage({
 				path: slug,
 				component: path.resolve('src/templates/Modal/index.js'),
@@ -174,27 +139,5 @@ exports.createPages = async ({ graphql, actions }) => {
 				},
 			});
 		}
-	});
-
-	result.data.crew.edges.forEach(({ node }) => {
-		const { slug } = node.fields;
-		createPage({
-			path: slug,
-			component: path.resolve('src/templates/Bio/index.js'),
-			context: {
-				id: node.id,
-			},
-		});
-	});
-
-	result.data.council.edges.forEach(({ node }) => {
-		const { slug } = node.fields;
-		createPage({
-			path: slug,
-			component: path.resolve('src/templates/Bio/index.js'),
-			context: {
-				id: node.id,
-			},
-		});
 	});
 };

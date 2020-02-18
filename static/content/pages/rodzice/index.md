@@ -1,6 +1,6 @@
 ---
+type: tile
 title: Rodzice
-type: tileText
 cover: rodzice.jpg
 tiles:
   [

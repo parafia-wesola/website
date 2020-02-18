@@ -1,6 +1,6 @@
 ---
+type: tile
 title: Małżeństwa
-type: tileText
 cover: malzenstwa.jpg
 tiles:
   [

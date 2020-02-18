@@ -1,4 +1,5 @@
 ---
+type: article
 title: Koncert uwielbienia
 author: Gall Anonim
 cover: zorza2.jpg

@@ -1,4 +1,5 @@
 ---
+type: council
 title: Zbigniew Jeż
 order: 2
 position: skarbnik

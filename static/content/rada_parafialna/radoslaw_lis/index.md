@@ -1,4 +1,5 @@
 ---
+type: council
 title: Radosław Lis
 order: 1
 position: skarbnik

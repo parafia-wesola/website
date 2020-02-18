@@ -1,4 +1,5 @@
 ---
+type: static
 title: dojazd
 position: mapOverlay
 order: 0

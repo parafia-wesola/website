@@ -1,4 +1,5 @@
 ---
+type: text
 title: Pogrzeb
 cover: bierzmowanie.jpg
 ---

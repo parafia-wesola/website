@@ -1,4 +1,5 @@
 ---
+type: article
 title: Kurs Alpha
 author: Gall Anonim
 cover: zorza.jpg

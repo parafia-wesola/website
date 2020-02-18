@@ -1,4 +1,5 @@
 ---
+type: text
 title: Małżeństwo
 cover: bierzmowanie.jpg
 ---

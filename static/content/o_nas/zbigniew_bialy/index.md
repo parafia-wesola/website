@@ -1,4 +1,5 @@
 ---
+type: crew
 title: Zbigniew Biały
 order: 2
 position: proboszcz

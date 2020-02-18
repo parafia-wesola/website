@@ -22,6 +22,7 @@ collections:
     editor:
      preview: false
     fields:
+      - { label: "Typ", name: "type", widget: "hidden", default: "annoucement" }
       - { label: "Tytuł", name: "title", widget: "string", default: "ogłoszenia parafialne i duszpasterskie" }
       - { label: "Data dodania", name: "date", widget: "datetime" }
       - { label: "Treść", name: "body", widget: "markdown" }
@@ -36,6 +37,7 @@ collections:
     editor:
      preview: false
     fields:
+      - { label: "Typ", name: "type", widget: "hidden", default: "article" }
       - { label: 'Tytuł', name: 'title', widget: 'string' }
       - { label: 'Data dodania', name: 'date', widget: 'datetime' }
       - { label: 'Data wydarzenia', name: 'eventDate', default: '', widget: 'datetime', required: false }
@@ -60,6 +62,7 @@ collections:
     editor:
      preview: false
     fields:
+      - { label: "Typ", name: "type", widget: "hidden", default: "crew" }
       - { label: 'Imię i nazwisko', name: 'title', widget: 'string' }
       - { label: 'Stanowisko', name: 'position', widget: 'string' }
       - { label: 'Numer telefonu', name: 'phone', widget: 'string', required: false }
@@ -78,6 +81,7 @@ collections:
     editor:
      preview: false
     fields:
+      - { label: "Typ", name: "type", widget: "hidden", default: "council" }
       - { label: 'Imię i nazwisko', name: 'title', widget: 'string' }
       - { label: 'Stanowisko', name: 'position', widget: 'string' }
       - { label: 'Numer telefonu', name: 'phone', widget: 'string', required: false }

@@ -44,8 +44,8 @@ const PagesTemplate = ({ data }) => {
 									content={content}
 									images={images}
 								/>
-								{type === 'crew' && <Crew />}
-								{type === 'council' && <Council />}
+								{type === 'pageCrew' && <Crew />}
+								{type === 'pageCouncil' && <Council />}
 							</SectionWrapper>
 						</>
 					)}

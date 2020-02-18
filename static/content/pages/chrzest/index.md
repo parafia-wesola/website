@@ -1,4 +1,5 @@
 ---
+type: text
 title: Chrzest
 cover: bierzmowanie.jpg
 ---

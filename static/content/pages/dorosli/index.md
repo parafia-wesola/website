@@ -1,6 +1,6 @@
 ---
+type: tile
 title: Dorośli
-type: tileText
 cover: dorosli.jpg
 tiles:
   [

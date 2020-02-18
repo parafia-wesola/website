@@ -1,4 +1,5 @@
 ---
+type: article
 title: Rekolekcje dla małżeństw
 author: Gall Anonim
 cover: zelki2.jpg
