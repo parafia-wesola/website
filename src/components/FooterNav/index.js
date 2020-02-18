@@ -26,7 +26,7 @@ const FooterNav = ({ className }) => {
 		<nav className={className}>
 			<List>
 				{allMenu.edges.map(({ node }) => (
-					<ListItem key={node.id}>
+					<ListItem key={node.name}>
 						<NavItem title={node.name} sub={node.sub} />
 					</ListItem>
 				))}
