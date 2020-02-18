@@ -30,7 +30,7 @@ const ArticleMain = ({
 
 	return (
 		<Wrapper className={className}>
-			<Cover as={Img} fluid={cover} />
+			{cover && <Cover as={Img} fluid={cover} />}
 			<SectionTitle dark>{title}</SectionTitle>
 
 			{eventDate && (
@@ -68,7 +68,7 @@ const ArticleMain = ({
 };
 
 ArticleMain.propTypes = {
-	cover: PropTypes.shape().isRequired,
+	cover: PropTypes.shape(),
 	title: PropTypes.string.isRequired,
 	content: PropTypes.string.isRequired,
 	images: PropTypes.arrayOf(PropTypes.object),
@@ -80,6 +80,7 @@ ArticleMain.propTypes = {
 };
 
 ArticleMain.defaultProps = {
+	cover: null,
 	images: null,
 	eventDate: null,
 	date: null,

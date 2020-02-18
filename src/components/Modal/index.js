@@ -7,7 +7,7 @@ import { Wrapper, StyledTitle, Background, Content } from './styles';
 
 const Modal = ({ title, background, content, className }) => (
 	<Wrapper as={SectionWrapper} className={className}>
-		<Background as={Img} fluid={background} />
+		{background && <Background as={Img} fluid={background} />}
 		<StyledTitle as={SectionTitle} dark>
 			{title}
 		</StyledTitle>
@@ -17,12 +17,13 @@ const Modal = ({ title, background, content, className }) => (
 
 Modal.propTypes = {
 	title: PropTypes.string.isRequired,
-	background: PropTypes.shape().isRequired,
+	background: PropTypes.shape(),
 	content: PropTypes.string.isRequired,
 	className: PropTypes.string,
 };
 
 Modal.defaultProps = {
+	background: null,
 	className: null,
 };
 

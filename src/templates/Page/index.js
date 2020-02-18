@@ -29,7 +29,7 @@ const PageTemplate = ({ data }) => {
 
 							<Modal
 								title={title}
-								background={cover.childImageSharp.fluid}
+								background={cover && cover.childImageSharp.fluid}
 								content={content}
 							/>
 						</ThemeProvider>
@@ -39,7 +39,7 @@ const PageTemplate = ({ data }) => {
 							<SectionWrapper>
 								<ArticleMain
 									isPage
-									cover={cover.childImageSharp.fluid}
+									cover={cover && cover.childImageSharp.fluid}
 									title={title}
 									content={content}
 									images={images}
