@@ -12,27 +12,31 @@ import {
 import { Wrapper, Background } from './styles';
 
 const SacramentsSection = () => {
-	const { sacraments } = useStaticQuery(graphql`
-		query {
-			sacraments: sacramentsJson {
-				id
-				title
-				image {
-					id
-					childImageSharp {
-						fluid(quality: 100, maxWidth: 2720) {
-							...GatsbyImageSharpFluid
-						}
-					}
-				}
-				tiles {
-					id
-					title
-					to
-					image {
-						childImageSharp {
-							fluid(quality: 100, maxWidth: 300) {
-								...GatsbyImageSharpFluid
+	const { allMarkdownRemark } = useStaticQuery(graphql`
+		{
+			allMarkdownRemark(filter: { frontmatter: { id: { eq: "sacraments" } } }) {
+				edges {
+					node {
+						frontmatter {
+							id
+							title
+							cover {
+								childImageSharp {
+									fluid(quality: 100, maxWidth: 2720) {
+										...GatsbyImageSharpFluid
+									}
+								}
+							}
+							tiles {
+								title
+								to
+								image {
+									childImageSharp {
+										fluid(quality: 100, maxWidth: 300) {
+											...GatsbyImageSharpFluid
+										}
+									}
+								}
 							}
 						}
 					}
@@ -40,13 +44,16 @@ const SacramentsSection = () => {
 			}
 		}
 	`);
+
+	const sacraments = allMarkdownRemark.edges[0].node.frontmatter;
+
 	return (
 		<Wrapper as={SectionWrapper} id={sacraments.id}>
-			<Background as={Img} fluid={sacraments.image.childImageSharp.fluid} />
+			<Background as={Img} fluid={sacraments.cover.childImageSharp.fluid} />
 			<SectionTitle>{sacraments.title}</SectionTitle>
 			<TileList>
 				{sacraments.tiles.map(node => (
-					<TileItem key={node.id}>
+					<TileItem key={node.title}>
 						<Tile
 							title={node.title}
 							to={node.to}

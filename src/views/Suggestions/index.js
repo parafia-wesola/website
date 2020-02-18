@@ -12,27 +12,33 @@ import {
 import { Wrapper, Background } from './styles';
 
 const SuggestionsSection = () => {
-	const { suggestions } = useStaticQuery(graphql`
-		query {
-			suggestions: suggestionsJson {
-				id
-				title
-				image {
-					id
-					childImageSharp {
-						fluid(quality: 100, maxWidth: 2720) {
-							...GatsbyImageSharpFluid
-						}
-					}
-				}
-				tiles {
-					id
-					title
-					to
-					image {
-						childImageSharp {
-							fluid(quality: 100, maxWidth: 300) {
-								...GatsbyImageSharpFluid
+	const { allMarkdownRemark } = useStaticQuery(graphql`
+		{
+			allMarkdownRemark(
+				filter: { frontmatter: { id: { eq: "suggestions" } } }
+			) {
+				edges {
+					node {
+						frontmatter {
+							id
+							title
+							cover {
+								childImageSharp {
+									fluid(quality: 100, maxWidth: 2720) {
+										...GatsbyImageSharpFluid
+									}
+								}
+							}
+							tiles {
+								title
+								to
+								image {
+									childImageSharp {
+										fluid(quality: 100, maxWidth: 300) {
+											...GatsbyImageSharpFluid
+										}
+									}
+								}
 							}
 						}
 					}
@@ -40,13 +46,16 @@ const SuggestionsSection = () => {
 			}
 		}
 	`);
+
+	const suggestions = allMarkdownRemark.edges[0].node.frontmatter;
+
 	return (
 		<Wrapper as={SectionWrapper} id={suggestions.id}>
-			<Background as={Img} fluid={suggestions.image.childImageSharp.fluid} />
+			<Background as={Img} fluid={suggestions.cover.childImageSharp.fluid} />
 			<SectionTitle>{suggestions.title}</SectionTitle>
 			<TileList muzzle>
 				{suggestions.tiles.map(tile => (
-					<TileItem key={tile.id}>
+					<TileItem key={tile.title}>
 						<Tile
 							title={tile.title}
 							to={tile.to}

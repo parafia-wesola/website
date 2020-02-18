@@ -6,12 +6,36 @@ import { ThemeProvider } from 'styled-components';
 import theme from 'assets/styles/theme';
 
 import SEO from 'components/SEO';
+import SuggestionsSection from 'views/Suggestions';
+import SacramentsSection from 'views/Sacraments';
+import CommunitesSection from 'views/Communities';
 import TextTiles from 'views/TextTiles';
 import { StyledTextTiles, Close, Cross } from './styles';
 
 const TileTemplate = ({ data }) => {
-	const { title, tiles, cover } = data.markdownRemark.frontmatter;
+	const { title, tiles, cover, id } = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
+
+	let tile;
+
+	if (id === 'suggestions') {
+		tile = <SuggestionsSection />;
+	} else if (id === 'sacraments') {
+		tile = <SacramentsSection />;
+	} else if (id === 'communities') {
+		tile = <CommunitesSection />;
+	} else {
+		tile = (
+			<TextTiles
+				id={data.markdownRemark.id}
+				title={title}
+				background={cover.childImageSharp.fluid}
+				tiles={tiles}
+				content={content}
+			/>
+		);
+	}
+
 	return (
 		<ModalRoutingContext.Consumer>
 			{({ modal, closeTo }) => (
@@ -21,25 +45,12 @@ const TileTemplate = ({ data }) => {
 							<Close as={Link} to={closeTo} state={{ noScroll: true }}>
 								<Cross />
 							</Close>
-
-							<TextTiles
-								id={data.markdownRemark.id}
-								title={title}
-								background={cover.childImageSharp.fluid}
-								tiles={tiles}
-								content={content}
-							/>
+							{tile}
 						</ThemeProvider>
 					) : (
 						<StyledTextTiles>
 							<SEO title={title} />
-							<TextTiles
-								id={data.markdownRemark.id}
-								title={title}
-								background={cover.childImageSharp.fluid}
-								tiles={tiles}
-								content={content}
-							/>
+							{tile}
 						</StyledTextTiles>
 					)}
 				</>
@@ -59,6 +70,7 @@ export const query = graphql`
 		markdownRemark(id: { eq: $id }) {
 			id
 			frontmatter {
+				id
 				title
 				cover {
 					childImageSharp {
@@ -70,6 +82,13 @@ export const query = graphql`
 				tiles {
 					title
 					to
+					image {
+						childImageSharp {
+							fluid(maxWidth: 300) {
+								...GatsbyImageSharpFluid
+							}
+						}
+					}
 				}
 			}
 		}

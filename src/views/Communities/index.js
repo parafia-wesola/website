@@ -12,27 +12,33 @@ import {
 import { Wrapper, Background } from './styles';
 
 const Communities = () => {
-	const { communities } = useStaticQuery(graphql`
-		query {
-			communities: communitiesJson {
-				id
-				title
-				image {
-					id
-					childImageSharp {
-						fluid(quality: 100, maxWidth: 2720) {
-							...GatsbyImageSharpFluid
-						}
-					}
-				}
-				tiles {
-					id
-					title
-					to
-					image {
-						childImageSharp {
-							fluid(quality: 100, maxWidth: 300) {
-								...GatsbyImageSharpFluid
+	const { allMarkdownRemark } = useStaticQuery(graphql`
+		{
+			allMarkdownRemark(
+				filter: { frontmatter: { id: { eq: "communities" } } }
+			) {
+				edges {
+					node {
+						frontmatter {
+							id
+							title
+							cover {
+								childImageSharp {
+									fluid(quality: 100, maxWidth: 2720) {
+										...GatsbyImageSharpFluid
+									}
+								}
+							}
+							tiles {
+								title
+								to
+								image {
+									childImageSharp {
+										fluid(quality: 100, maxWidth: 300) {
+											...GatsbyImageSharpFluid
+										}
+									}
+								}
 							}
 						}
 					}
@@ -41,9 +47,11 @@ const Communities = () => {
 		}
 	`);
 
+	const communities = allMarkdownRemark.edges[0].node.frontmatter;
+
 	return (
 		<Wrapper as={SectionWrapper} id={communities.id}>
-			<Background as={Img} fluid={communities.image.childImageSharp.fluid} />
+			<Background as={Img} fluid={communities.cover.childImageSharp.fluid} />
 			<SectionTitle dark>{communities.title}</SectionTitle>
 			<TileList muzzle>
 				{communities.tiles.map(node => (
