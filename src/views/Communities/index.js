@@ -55,7 +55,7 @@ const Communities = () => {
 			<SectionTitle dark>{communities.title}</SectionTitle>
 			<TileList muzzle>
 				{communities.tiles.map(node => (
-					<TileItem key={node.id}>
+					<TileItem key={node.title}>
 						<Tile
 							dark
 							title={node.title}
