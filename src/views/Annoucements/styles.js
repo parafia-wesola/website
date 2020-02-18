@@ -14,7 +14,7 @@ export const Wrapper = styled.section`
 		bottom: 0;
 		left: 0;
 		background: ${({ theme }) => theme.colors.bright};
-		opacity: 0.85;
+		opacity: 0.6;
 		content: '';
 	}
 
@@ -30,6 +30,7 @@ export const AnnoucementsWrapper = styled.div`
 		gap: 2em;
 		padding: 1em 2em 4em;
 		background: ${({ theme }) => theme.colors.annoucementBackground};
+		border-radius: 5px;
 	}
 
 	${({ theme }) => theme.mq.tabletLandscape} {
