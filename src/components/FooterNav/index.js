@@ -6,14 +6,11 @@ import NavItem from './Item';
 import { List, ListItem } from './styles';
 
 const FooterNav = ({ className }) => {
-	const {
-		allMenuJson: { items },
-	} = useStaticQuery(graphql`
-		query MyQuery {
-			allMenuJson(sort: { fields: order }, filter: { name: { ne: "mobile" } }) {
-				items: edges {
+	const { allMenu } = useStaticQuery(graphql`
+		{
+			allMenu(sort: { fields: order, order: ASC }) {
+				edges {
 					node {
-						id
 						name
 						sub {
 							name
@@ -28,7 +25,7 @@ const FooterNav = ({ className }) => {
 	return (
 		<nav className={className}>
 			<List>
-				{items.map(({ node }) => (
+				{allMenu.edges.map(({ node }) => (
 					<ListItem key={node.id}>
 						<NavItem title={node.name} sub={node.sub} />
 					</ListItem>
