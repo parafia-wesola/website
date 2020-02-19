@@ -6,6 +6,7 @@ module.exports = {
 		description:
 			'Strona Rzymskokatolickiej Parafii Opatrzności Bożej w Warszawie-Wesołej',
 		author: '@lasmedia',
+		heading: 'Witaj na stronie Parafii Opatrzności Bożej\nw Warszawie Wesołej',
 	},
 	plugins: [
 		'gatsby-transformer-sharp',

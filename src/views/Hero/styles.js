@@ -23,6 +23,7 @@ export const Title = styled.h1`
 	font-size: 2.5em;
 	font-family: 'Josefin sans', sans-serif;
 	line-height: 1.5;
+	white-space: pre-wrap;
 	text-align: center;
 	text-shadow: 0 3px 4px #000;
 `;

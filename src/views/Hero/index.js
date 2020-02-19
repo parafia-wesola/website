@@ -6,8 +6,13 @@ import { SectionWrapper } from 'components/Share';
 import { Wrapper, Background, Title } from './styles';
 
 const Hero = () => {
-	const { hero } = useStaticQuery(graphql`
+	const { site, hero } = useStaticQuery(graphql`
 		{
+			site {
+				siteMetadata {
+					heading
+				}
+			}
 			hero: allImageSharp(
 				filter: { fluid: { originalName: { eq: "heroBg.jpg" } } }
 			) {
@@ -24,9 +29,7 @@ const Hero = () => {
 	return (
 		<Wrapper as={SectionWrapper}>
 			<Background as={Img} fluid={hero.edges[0].node.fluid} />
-			<Title>
-				Witaj na stronie parafii Opatrzności Bożej <br /> w Warszawie Wesołej
-			</Title>
+			<Title>{site.siteMetadata.heading}</Title>
 		</Wrapper>
 	);
 };
