@@ -1,8 +1,10 @@
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef, useEffect, useContext } from 'react';
 import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
 
+import { SmoothScrollContext } from 'components/SmoothScroll';
 import Annoucement from 'components/Annoucement';
+import { verticalPosition } from 'utils';
 import { Wrapper, Overlap, Content, Footer, ReadMore } from './styles';
 
 const Main = ({ className }) => {
@@ -11,7 +13,7 @@ const Main = ({ className }) => {
 			allMarkdownRemark(
 				sort: { fields: frontmatter___date, order: DESC }
 				limit: 1
-				filter: { fields: { directory: { eq: "annoucements" } } }
+				filter: { frontmatter: { type: { eq: "annoucement" } } }
 			) {
 				edges {
 					node {
@@ -19,6 +21,7 @@ const Main = ({ className }) => {
 						html
 						frontmatter {
 							title
+							type
 						}
 					}
 				}
@@ -31,9 +34,17 @@ const Main = ({ className }) => {
 
 	const annoucement = allMarkdownRemark.edges[0].node;
 	const wrapper = useRef(null);
+	const offset = useContext(SmoothScrollContext);
 
 	const handleClick = () => {
 		setIsOpen(!isOpen);
+		if (isOpen) {
+			const [actualPos, destination] = verticalPosition(
+				`#${annoucement.frontmatter.type}`,
+				offset,
+			);
+			if (destination < actualPos) window.scrollTo(0, destination);
+		}
 	};
 
 	useEffect(() => {
@@ -43,7 +54,11 @@ const Main = ({ className }) => {
 	}, []);
 
 	return (
-		<Wrapper className={className} ref={wrapper}>
+		<Wrapper
+			className={className}
+			ref={wrapper}
+			id={annoucement.frontmatter.type}
+		>
 			<Overlap>intencje mszalne</Overlap>
 			<Content
 				as={Annoucement}
