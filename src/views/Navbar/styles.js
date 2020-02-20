@@ -23,7 +23,7 @@ export const Wrapper = styled.div`
 	${({ theme }) => theme.mq.tabletMid} {
 		position: relative;
 		z-index: auto;
-		padding: 0;
+		padding: 0.5em 0.75rem;
 		overflow: hidden;
 		background: transparent;
 	}
@@ -31,8 +31,7 @@ export const Wrapper = styled.div`
 
 export const StyledLogo = styled.div`
 	${({ theme }) => theme.mq.tabletMid} {
-		padding: 1em 0.75rem;
-		font-size: 1.25em;
+		font-size: 1.15em;
 	}
 `;
 

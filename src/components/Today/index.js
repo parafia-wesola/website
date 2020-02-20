@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 
+import ConditionalLink from 'components/Conditional';
 import { getFormattedDate, getReadings } from 'utils';
 import SocialMedia from 'components/SocialMedia';
 import {
@@ -29,7 +30,7 @@ const Today = ({ className }) => {
 
 	return (
 		<Wrapper className={className}>
-			<TodayWrapper>
+			<TodayWrapper as={ConditionalLink} to="https://odslowa.pl/">
 				<Date dateTime={actualDate}>{formattedDate}</Date>
 				<Reading>
 					{readings.map(line => (

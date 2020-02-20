@@ -9,7 +9,7 @@ export const Wrapper = styled.div`
 	&::before {
 		position: absolute;
 		top: -35em;
-		right: -14rem;
+		right: -15rem;
 		z-index: -1;
 		width: 40em;
 		height: 62.5rem;
@@ -21,19 +21,28 @@ export const Wrapper = styled.div`
 `;
 
 export const TodayWrapper = styled.div`
-	padding: 0.75em 0 0;
+	margin-right: 0.5rem;
+	color: inherit;
+	font-family: inherit;
+	text-decoration: none;
+	transition: transform 0.25s ease-in-out;
+
+	:active,
+	:focus,
+	:hover {
+		transform: scale(1.1);
+	}
 `;
 
 export const Date = styled.time`
-	padding: 0;
 	font-weight: 600;
-	font-size: 0.85em;
+	font-size: 0.8em;
 `;
 
 export const Reading = styled.ul`
 	display: flex;
 	flex-direction: column;
-	margin: 0.5em 0;
+	margin: 0.25em 0 0;
 	padding: 0;
 	font-size: 0.65em;
 	line-height: 1.5;
@@ -41,7 +50,6 @@ export const Reading = styled.ul`
 `;
 
 export const ReadingItem = styled.li`
-	margin-right: 1em;
 	padding: 0;
 	list-style: none;
 `;
@@ -51,6 +59,11 @@ export const StyledSocial = styled.div`
 
 	& > li {
 		flex: 0 1 auto;
-		margin: 0.5em 1.5rem 0;
+		margin: 0 1rem 1em;
+		font-size: 0.9em;
+
+		:last-child {
+			margin-bottom: 0;
+		}
 	}
 `;
