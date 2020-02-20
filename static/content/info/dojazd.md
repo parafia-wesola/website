@@ -1,5 +1,5 @@
 ---
-type: static
+type: info
 title: dojazd
 position: mapOverlay
 order: 0

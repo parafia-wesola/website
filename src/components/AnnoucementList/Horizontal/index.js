@@ -10,8 +10,7 @@ const Horizontal = ({ className }) => {
 		{
 			allMarkdownRemark(
 				filter: {
-					fields: { directory: { eq: "sections/annoucements" } }
-					frontmatter: { position: { eq: "horizontal" } }
+					frontmatter: { type: { eq: "info" }, position: { eq: "horizontal" } }
 				}
 				sort: { order: ASC, fields: frontmatter___order }
 			) {

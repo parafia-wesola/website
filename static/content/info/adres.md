@@ -1,5 +1,5 @@
 ---
-type: static
+type: info
 title: rzymskokatolicka parafia opatrzności bożej
 position: firstColumn
 order: 0

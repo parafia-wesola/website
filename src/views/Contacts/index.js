@@ -16,8 +16,7 @@ const Contacts = () => {
 		{
 			contactsFirstColumn: allMarkdownRemark(
 				filter: {
-					fields: { directory: { eq: "sections/contacts" } }
-					frontmatter: { position: { eq: "firstColumn" } }
+					frontmatter: { type: { eq: "info" }, position: { eq: "firstColumn" } }
 				}
 				sort: { order: ASC, fields: frontmatter___order }
 			) {
@@ -33,8 +32,10 @@ const Contacts = () => {
 			}
 			contactsSecondColumn: allMarkdownRemark(
 				filter: {
-					fields: { directory: { eq: "sections/contacts" } }
-					frontmatter: { position: { eq: "secondColumn" } }
+					frontmatter: {
+						type: { eq: "info" }
+						position: { eq: "secondColumn" }
+					}
 				}
 				sort: { order: ASC, fields: frontmatter___order }
 			) {
@@ -50,8 +51,7 @@ const Contacts = () => {
 			}
 			mapsData: allMarkdownRemark(
 				filter: {
-					fields: { directory: { eq: "sections/contacts" } }
-					frontmatter: { position: { eq: "mapOverlay" } }
+					frontmatter: { type: { eq: "info" }, position: { eq: "mapOverlay" } }
 				}
 			) {
 				edges {

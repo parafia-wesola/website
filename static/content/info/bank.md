@@ -1,5 +1,5 @@
 ---
-type: static
+type: info
 title: numer konta parafialnego
 position: firstColumn
 order: 1
