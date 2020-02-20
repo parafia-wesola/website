@@ -26,18 +26,20 @@ export const SocialButton = styled.a`
 	transition: transform 0.2s ease-in-out;
 
 	:hover,
+	:focus,
 	:active {
 		transform: scale(1.1);
 	}
 `;
 
 export const Logo = styled.img`
+	display: block;
 	width: 2em;
 	height: 2em;
+	margin: 0 auto;
 `;
 
 export const Text = styled.p`
-	display: ${({ noText }) => noText && 'none'};
 	font-size: 0.6em;
 	line-height: 1.5em;
 	${({ theme }) => theme.mq.desktop} {

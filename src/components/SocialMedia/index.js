@@ -48,7 +48,7 @@ const SocialMedia = ({ noText, noMobile, className }) => {
 					>
 						<SocialButton as={ConditionalLink} to={node.to}>
 							<Logo src={publicURL} />
-							<Text noText={noText}>{node.text}</Text>
+							{!noText && <Text>{node.text}</Text>}
 						</SocialButton>
 					</SocialItem>
 				);
