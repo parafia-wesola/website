@@ -9,7 +9,6 @@ export const Wrapper = styled.ul`
 `;
 
 export const SocialItem = styled.li`
-	display: ${({ noMobile }) => noMobile && 'none'};
 	flex: 1;
 	margin: 0.8em;
 	${({ theme }) => theme.mq.desktop} {
@@ -39,7 +38,7 @@ export const Logo = styled.img`
 	margin: 0 auto;
 `;
 
-export const Text = styled.p`
+export const Text = styled.div`
 	font-size: 0.6em;
 	line-height: 1.5em;
 	${({ theme }) => theme.mq.desktop} {
