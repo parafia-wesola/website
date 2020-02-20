@@ -1,11 +1,12 @@
 {
 	"name": "multimedia",
 	"to": "/multimedia",
+	"mobile": true,
 	"order": 7,
 	"sub": [
 		{
 			"name": "zdjęcia",
-			"to": "/multimedia#zdjecia"
+			"to": "/zdjecia"
 		},
 		{
 			"name": "filmy",
@@ -13,11 +14,11 @@
 		},
 		{
 			"name": "audio",
-			"to": "/multimedia#/audio"
+			"to": "/audio"
 		},
 		{
 			"name": "wirtualne zwiedzanie",
-			"to": "/multimedia#wirtualne_zwiedzanie"
+			"to": "/wirtualne_zwiedzanie"
 		}
 	]
 }

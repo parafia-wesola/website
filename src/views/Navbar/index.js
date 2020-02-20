@@ -32,13 +32,18 @@ const Navbar = () => {
 					title
 				}
 			}
-			mobileMenu: menuMobileJson {
-				menu {
-					name
-					to
+			mobileMenu: allMenuJson(
+				sort: { fields: order }
+				filter: { mobile: { eq: true } }
+			) {
+				edges {
+					node {
+						name
+						to
+					}
 				}
 			}
-			allMenu(sort: { fields: order, order: ASC }) {
+			allMenu(sort: { fields: order }) {
 				edges {
 					node {
 						name
@@ -81,7 +86,7 @@ const Navbar = () => {
 				<StyledToday as={Today} />
 				<StyledBurger as={Burger} click={toggleBurger} isOpen={isOpen} />
 				<BurgerMenu isOpen={isOpen}>
-					<MenuMobile menu={mobileMenu.menu} click={toggleBurger} />
+					<MenuMobile menu={mobileMenu.edges} click={toggleBurger} />
 				</BurgerMenu>
 			</Wrapper>
 			<MenuWrapper>

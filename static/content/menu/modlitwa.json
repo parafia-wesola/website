@@ -1,6 +1,7 @@
 {
 	"name": "wspólna modlitwa",
 	"to": "/",
+	"mobile": false,
 	"order": 0,
 	"sub": [
 		{

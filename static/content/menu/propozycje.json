@@ -1,6 +1,7 @@
 {
 	"name": "propozycje",
-	"to": "#suggestions",
+	"to": "/#propozycje",
+	"mobile": true,
 	"order": 4,
 	"sub": [
 		{

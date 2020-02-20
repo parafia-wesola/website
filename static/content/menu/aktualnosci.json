@@ -1,6 +1,7 @@
 {
 	"name": "aktualności",
-	"to": "#annoucements",
+	"to": "/#newsfeed",
+	"mobile": true,
 	"order": 1,
 	"sub": [
 		{

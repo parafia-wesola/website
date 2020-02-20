@@ -1,6 +1,7 @@
 {
 	"name": "kontakt",
-	"to": "#contact",
+	"to": "/#contact",
+	"mobile": true,
 	"order": 8,
 	"sub": [
 		{

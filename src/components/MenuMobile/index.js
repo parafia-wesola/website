@@ -5,10 +5,10 @@ import { MenuList, MenuItem, MenuLink } from './styles';
 
 const MenuMobile = ({ menu, click, className }) => (
 	<MenuList className={className}>
-		{menu.map(item => (
-			<MenuItem key={item.name}>
-				<MenuLink as={ConditionalLink} to={item.to} click={click}>
-					{item.name}
+		{menu.map(({ node }) => (
+			<MenuItem key={node.name}>
+				<MenuLink as={ConditionalLink} to={node.to} click={click}>
+					{node.name}
 				</MenuLink>
 			</MenuItem>
 		))}

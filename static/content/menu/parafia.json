@@ -1,6 +1,7 @@
 {
 	"name": "nasza parafia",
-	"to": "/o_nas",
+	"to": "/nasza_parafia",
+	"mobile": false,
 	"order": 2,
 	"sub": [
 		{

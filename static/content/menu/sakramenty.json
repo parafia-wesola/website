@@ -1,6 +1,7 @@
 {
 	"name": "sakramenty",
-	"to": "#sacraments",
+	"to": "/#sakramenty_i_sakramentalia",
+	"mobile": true,
 	"order": 5,
 	"sub": [
 		{
