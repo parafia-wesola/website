@@ -47,13 +47,6 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 	const { createNodeField } = actions;
 
 	if (node.internal.type === 'MarkdownRemark') {
-		const fileNode = getNode(node.parent);
-		createNodeField({
-			node,
-			name: 'directory',
-			value: fileNode.relativeDirectory,
-		});
-
 		const slug = createFilePath({
 			node,
 			getNode,
