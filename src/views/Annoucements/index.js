@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 import { Aside, Main, Horizontal } from 'components/AnnoucementList';
 import { SectionWrapper, SectionTitle } from 'components/Share';
@@ -10,8 +11,8 @@ import {
 	StyledHorizontal,
 } from './styles';
 
-const Annoucements = () => (
-	<Wrapper as={SectionWrapper} id="annoucements">
+const Annoucements = ({ id }) => (
+	<Wrapper as={SectionWrapper} id={id}>
 		<SectionTitle hidden>Ogłoszenia i informacje</SectionTitle>
 		<AnnoucementsWrapper>
 			<StyledAside as={Aside} />
@@ -20,5 +21,9 @@ const Annoucements = () => (
 		</AnnoucementsWrapper>
 	</Wrapper>
 );
+
+Annoucements.propTypes = {
+	id: PropTypes.string.isRequired,
+};
 
 export default Annoucements;

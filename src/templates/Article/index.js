@@ -47,12 +47,26 @@ export default ArticleTemplate;
 
 export const query = graphql`
 	query ArticleTemplate($id: String!) {
+		markdownRemark(id: { eq: $id }) {
+			html
+			frontmatter {
+				...sectionFields
+				date(formatString: "DD.MM.YYYY")
+				eventDate(formatString: "DD.MM.YYYY")
+				author
+				images {
+					id
+					childImageSharp {
+						fluid(maxWidth: 1360) {
+							...GatsbyImageSharpFluid
+						}
+					}
+				}
+			}
+		}
 		allMarkdownRemark(
 			limit: 4
-			filter: {
-				id: { ne: $id }
-				fields: { directory: { regex: "/articles//" } }
-			}
+			filter: { id: { ne: $id }, frontmatter: { type: { eq: "article" } } }
 			sort: { order: DESC, fields: frontmatter___date }
 		) {
 			edges {
@@ -63,44 +77,12 @@ export const query = graphql`
 						slug
 					}
 					frontmatter {
-						title
+						...sectionFields
 						date(formatString: "DD.MM.YYYY")
 						eventDate(formatString: "DD.MM.YYYY")
-						cover {
-							childImageSharp {
-								fluid(maxWidth: 1360) {
-									...GatsbyImageSharpFluid
-								}
-							}
-						}
 					}
 				}
 			}
-		}
-		markdownRemark(id: { eq: $id }) {
-			id
-			frontmatter {
-				title
-				author
-				date(formatString: "DD.MM.YYYY")
-				eventDate(formatString: "DD.MM.YYYY")
-				cover {
-					childImageSharp {
-						fluid(maxWidth: 1360) {
-							...GatsbyImageSharpFluid
-						}
-					}
-				}
-				images {
-					id
-					childImageSharp {
-						fluid(maxWidth: 1360) {
-							...GatsbyImageSharpFluid
-						}
-					}
-				}
-			}
-			html
 		}
 	}
 `;

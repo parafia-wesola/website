@@ -11,8 +11,8 @@ import {
 } from 'components/Share';
 import { Wrapper, Background } from './styles';
 
-const TextTiles = ({ id, title, background, tiles }) => (
-	<Wrapper as={SectionWrapper} id={id}>
+const TextTiles = ({ id, title, background, tiles, className }) => (
+	<Wrapper as={SectionWrapper} id={id} className={className}>
 		<Background as={Img} fluid={background} />
 		<SectionTitle dark>{title}</SectionTitle>
 		<TileList muzzle>
@@ -30,6 +30,11 @@ TextTiles.propTypes = {
 	title: PropTypes.string.isRequired,
 	background: PropTypes.shape().isRequired,
 	tiles: PropTypes.arrayOf(PropTypes.object).isRequired,
+	className: PropTypes.string,
+};
+
+TextTiles.defaultProps = {
+	className: null,
 };
 
 export default TextTiles;

@@ -1,6 +1,5 @@
 ---
 type: tile
-id: suggestions
 title: Propozycje
 cover: suggestions-background.jpeg
 tiles:

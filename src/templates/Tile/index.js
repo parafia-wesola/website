@@ -6,28 +6,30 @@ import { ThemeProvider } from 'styled-components';
 import theme from 'assets/styles/theme';
 
 import SEO from 'components/SEO';
-import SuggestionsSection from 'views/Suggestions';
-import SacramentsSection from 'views/Sacraments';
-import CommunitesSection from 'views/Communities';
+import Suggestions from 'views/Suggestions';
+import Sacraments from 'views/Sacraments';
+import Communites from 'views/Communities';
 import TextTiles from 'views/TextTiles';
 import { StyledTextTiles, Close, Cross } from './styles';
 
 const TileTemplate = ({ data }) => {
-	const { title, tiles, cover, id } = data.markdownRemark.frontmatter;
+	const { title, tiles, cover } = data.markdownRemark.frontmatter;
+	const id = data.markdownRemark.fields.slug.slice(1);
 	const content = data.markdownRemark.html;
 
 	let tile;
 
-	if (id === 'suggestions') {
-		tile = <SuggestionsSection />;
-	} else if (id === 'sacraments') {
-		tile = <SacramentsSection />;
-	} else if (id === 'communities') {
-		tile = <CommunitesSection />;
+	if (id === 'propozycje') {
+		tile = <Suggestions id={id} />;
+	} else if (id === 'sakaramenty_i_sakramentalia') {
+		tile = <Sacraments id={id} />;
+	} else if (id === 'wspolnoty_i_grupy') {
+		tile = <Communites id={id} />;
 	} else {
 		tile = (
-			<TextTiles
-				id={data.markdownRemark.id}
+			<StyledTextTiles
+				as={TextTiles}
+				id={id}
 				title={title}
 				background={cover.childImageSharp.fluid}
 				tiles={tiles}
@@ -48,10 +50,10 @@ const TileTemplate = ({ data }) => {
 							{tile}
 						</ThemeProvider>
 					) : (
-						<StyledTextTiles>
+						<>
 							<SEO title={title} />
 							{tile}
-						</StyledTextTiles>
+						</>
 					)}
 				</>
 			)}
@@ -68,28 +70,12 @@ export default TileTemplate;
 export const query = graphql`
 	query TilesTemplate($id: String!) {
 		markdownRemark(id: { eq: $id }) {
-			id
+			fields {
+				slug
+			}
 			frontmatter {
-				id
-				title
-				cover {
-					childImageSharp {
-						fluid(maxWidth: 1360) {
-							...GatsbyImageSharpFluid
-						}
-					}
-				}
-				tiles {
-					title
-					to
-					image {
-						childImageSharp {
-							fluid(maxWidth: 300) {
-								...GatsbyImageSharpFluid
-							}
-						}
-					}
-				}
+				...sectionFields
+				...tilesFields
 			}
 		}
 	}

@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
@@ -11,35 +12,17 @@ import {
 } from 'components/Share';
 import { Wrapper, Background } from './styles';
 
-const Communities = () => {
+const Communities = ({ id }) => {
 	const { allMarkdownRemark } = useStaticQuery(graphql`
 		{
 			allMarkdownRemark(
-				filter: { frontmatter: { id: { eq: "communities" } } }
+				filter: { fields: { slug: { eq: "/wspolnoty_i_grupy" } } }
 			) {
 				edges {
 					node {
 						frontmatter {
-							id
-							title
-							cover {
-								childImageSharp {
-									fluid(quality: 100, maxWidth: 2720) {
-										...GatsbyImageSharpFluid
-									}
-								}
-							}
-							tiles {
-								title
-								to
-								image {
-									childImageSharp {
-										fluid(quality: 100, maxWidth: 300) {
-											...GatsbyImageSharpFluid
-										}
-									}
-								}
-							}
+							...sectionFields
+							...tilesFields
 						}
 					}
 				}
@@ -47,14 +30,17 @@ const Communities = () => {
 		}
 	`);
 
-	const communities = allMarkdownRemark.edges[0].node.frontmatter;
+	const communities = allMarkdownRemark.edges[0].node;
 
 	return (
-		<Wrapper as={SectionWrapper} id={communities.id}>
-			<Background as={Img} fluid={communities.cover.childImageSharp.fluid} />
-			<SectionTitle dark>{communities.title}</SectionTitle>
+		<Wrapper as={SectionWrapper} id={id}>
+			<Background
+				as={Img}
+				fluid={communities.frontmatter.cover.childImageSharp.fluid}
+			/>
+			<SectionTitle dark>{communities.frontmatter.title}</SectionTitle>
 			<TileList muzzle>
-				{communities.tiles.map(node => (
+				{communities.frontmatter.tiles.map(node => (
 					<TileItem key={node.title}>
 						<Tile
 							dark
@@ -67,6 +53,10 @@ const Communities = () => {
 			</TileList>
 		</Wrapper>
 	);
+};
+
+Communities.propTypes = {
+	id: PropTypes.string.isRequired,
 };
 
 export default Communities;

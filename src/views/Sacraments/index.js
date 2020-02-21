@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
@@ -11,48 +12,34 @@ import {
 } from 'components/Share';
 import { Wrapper, Background } from './styles';
 
-const SacramentsSection = () => {
+const Sacraments = ({ id }) => {
 	const { allMarkdownRemark } = useStaticQuery(graphql`
 		{
-			allMarkdownRemark(filter: { frontmatter: { id: { eq: "sacraments" } } }) {
+			allMarkdownRemark(
+				filter: { fields: { slug: { eq: "/sakramenty_i_sakramentalia" } } }
+			) {
 				edges {
 					node {
 						frontmatter {
-							id
-							title
-							cover {
-								childImageSharp {
-									fluid(quality: 100, maxWidth: 2720) {
-										...GatsbyImageSharpFluid
-									}
-								}
-							}
-							tiles {
-								title
-								to
-								image {
-									childImageSharp {
-										fluid(quality: 100, maxWidth: 300) {
-											...GatsbyImageSharpFluid
-										}
-									}
-								}
-							}
+							...sectionFields
+							...tilesFields
 						}
 					}
 				}
 			}
 		}
 	`);
-
-	const sacraments = allMarkdownRemark.edges[0].node.frontmatter;
+	const sacraments = allMarkdownRemark.edges[0].node;
 
 	return (
-		<Wrapper as={SectionWrapper} id={sacraments.id}>
-			<Background as={Img} fluid={sacraments.cover.childImageSharp.fluid} />
-			<SectionTitle>{sacraments.title}</SectionTitle>
+		<Wrapper as={SectionWrapper} id={id}>
+			<Background
+				as={Img}
+				fluid={sacraments.frontmatter.cover.childImageSharp.fluid}
+			/>
+			<SectionTitle>{sacraments.frontmatter.title}</SectionTitle>
 			<TileList>
-				{sacraments.tiles.map(node => (
+				{sacraments.frontmatter.tiles.map(node => (
 					<TileItem key={node.title}>
 						<Tile
 							title={node.title}
@@ -66,4 +53,8 @@ const SacramentsSection = () => {
 	);
 };
 
-export default SacramentsSection;
+Sacraments.propTypes = {
+	id: PropTypes.string.isRequired,
+};
+
+export default Sacraments;

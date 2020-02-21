@@ -1,6 +1,5 @@
 ---
 type: tile
-id: sacraments
 title: Sakramenty i sakramentalia
 cover: sacraments-background.jpeg
 tiles:

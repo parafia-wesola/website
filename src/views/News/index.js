@@ -10,8 +10,7 @@ const News = () => {
 		{
 			allMarkdownRemark(
 				filter: {
-					frontmatter: { order: { ne: null } }
-					fields: { directory: { regex: "/articles//" } }
+					frontmatter: { order: { ne: null }, type: { eq: "article" } }
 				}
 				sort: { order: ASC, fields: frontmatter___order }
 			) {

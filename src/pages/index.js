@@ -4,21 +4,21 @@ import SEO from 'components/SEO';
 import Hero from 'views/Hero';
 import News from 'views/News';
 import Annoucements from 'views/Annoucements';
-import EventSection from 'views/Events';
-import SuggestionsSection from 'views/Suggestions';
-import SacramentsSection from 'views/Sacraments';
-import ContactsSection from 'views/Contacts';
+import Events from 'views/Events';
+import Suggestions from 'views/Suggestions';
+import Sacraments from 'views/Sacraments';
+import Contacts from 'views/Contacts';
 
 const IndexPage = () => (
 	<>
 		<SEO title="Strona główna" />
-		<Hero />
-		<News />
-		<Annoucements />
-		<SuggestionsSection />
-		<EventSection />
-		<SacramentsSection />
-		<ContactsSection />
+		<Hero id="hero" />
+		<News id="newsfeed" />
+		<Annoucements id="annoucements" />
+		<Suggestions id="propozycje" />
+		<Events id="wydarzenia" />
+		<Sacraments id="sakramenty_i_sakramentalia" />
+		<Contacts id="kontakt" />
 	</>
 );
 

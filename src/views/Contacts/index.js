@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
 
 import ContactInfo from 'components/Contacts';
@@ -7,7 +8,7 @@ import Annoucement from 'components/Annoucement';
 import { SectionWrapper, SectionTitle } from 'components/Share';
 import { ContactsWrapper, StyledContactInfo, MapWrapper, Card } from './styles';
 
-const Contacts = () => {
+const Contacts = ({ id }) => {
 	const {
 		contactsFirstColumn,
 		contactsSecondColumn,
@@ -68,7 +69,7 @@ const Contacts = () => {
 	`);
 
 	return (
-		<SectionWrapper id="contact">
+		<SectionWrapper id={id}>
 			<SectionTitle dark>Dane parafii</SectionTitle>
 			<ContactsWrapper>
 				<StyledContactInfo as={ContactInfo} data={contactsFirstColumn.edges} />
@@ -86,6 +87,10 @@ const Contacts = () => {
 			</MapWrapper>
 		</SectionWrapper>
 	);
+};
+
+Contacts.propTypes = {
+	id: PropTypes.string.isRequired,
 };
 
 export default Contacts;

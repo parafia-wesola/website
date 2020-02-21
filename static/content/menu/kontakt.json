@@ -1,16 +1,16 @@
 {
 	"name": "kontakt",
-	"to": "/#contact",
+	"to": "/#kontakt",
 	"mobile": true,
 	"order": 8,
 	"sub": [
 		{
 			"name": "dane parafii",
-			"to": "/#contact"
+			"to": "/#kontakt"
 		},
 		{
 			"name": "kancelaria parafialna",
-			"to": "/#contact"
+			"to": "/#kontakt"
 		}
 	]
 }

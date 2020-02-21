@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
@@ -11,35 +12,15 @@ import {
 } from 'components/Share';
 import { Wrapper, Background } from './styles';
 
-const SuggestionsSection = () => {
+const Suggestions = ({ id }) => {
 	const { allMarkdownRemark } = useStaticQuery(graphql`
 		{
-			allMarkdownRemark(
-				filter: { frontmatter: { id: { eq: "suggestions" } } }
-			) {
+			allMarkdownRemark(filter: { fields: { slug: { eq: "/propozycje" } } }) {
 				edges {
 					node {
 						frontmatter {
-							id
-							title
-							cover {
-								childImageSharp {
-									fluid(quality: 100, maxWidth: 2720) {
-										...GatsbyImageSharpFluid
-									}
-								}
-							}
-							tiles {
-								title
-								to
-								image {
-									childImageSharp {
-										fluid(quality: 100, maxWidth: 300) {
-											...GatsbyImageSharpFluid
-										}
-									}
-								}
-							}
+							...sectionFields
+							...tilesFields
 						}
 					}
 				}
@@ -47,14 +28,17 @@ const SuggestionsSection = () => {
 		}
 	`);
 
-	const suggestions = allMarkdownRemark.edges[0].node.frontmatter;
+	const suggestions = allMarkdownRemark.edges[0].node;
 
 	return (
-		<Wrapper as={SectionWrapper} id={suggestions.id}>
-			<Background as={Img} fluid={suggestions.cover.childImageSharp.fluid} />
-			<SectionTitle>{suggestions.title}</SectionTitle>
+		<Wrapper as={SectionWrapper} id={id}>
+			<Background
+				as={Img}
+				fluid={suggestions.frontmatter.cover.childImageSharp.fluid}
+			/>
+			<SectionTitle>{suggestions.frontmatter.title}</SectionTitle>
 			<TileList muzzle>
-				{suggestions.tiles.map(tile => (
+				{suggestions.frontmatter.tiles.map(tile => (
 					<TileItem key={tile.title}>
 						<Tile
 							title={tile.title}
@@ -68,4 +52,8 @@ const SuggestionsSection = () => {
 	);
 };
 
-export default SuggestionsSection;
+Suggestions.propTypes = {
+	id: PropTypes.string.isRequired,
+};
+
+export default Suggestions;

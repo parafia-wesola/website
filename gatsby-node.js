@@ -54,7 +54,12 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 			value: fileNode.relativeDirectory,
 		});
 
-		const slug = createFilePath({ node, getNode, basePath: 'pages' });
+		const slug = createFilePath({
+			node,
+			getNode,
+			basePath: 'pages',
+			trailingSlash: false,
+		});
 		createNodeField({
 			node,
 			name: 'slug',

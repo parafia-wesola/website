@@ -66,15 +66,8 @@ export const query = graphql`
 		markdownRemark(id: { eq: $id }) {
 			html
 			frontmatter {
-				title
+				...sectionFields
 				type
-				cover {
-					childImageSharp {
-						fluid(maxWidth: 1360) {
-							...GatsbyImageSharpFluid
-						}
-					}
-				}
 				images {
 					id
 					childImageSharp {

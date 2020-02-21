@@ -8,12 +8,11 @@ const EventSection = () => {
 	const {
 		allMarkdownRemark: { events, total },
 	} = useStaticQuery(graphql`
-		query {
+		{
 			allMarkdownRemark(
 				sort: { order: ASC, fields: frontmatter___eventDate }
 				filter: {
-					frontmatter: { eventDate: { gt: "0" } }
-					fields: { directory: { regex: "/articles//" } }
+					frontmatter: { eventDate: { gt: "0" }, type: { eq: "article" } }
 				}
 				limit: 3
 			) {

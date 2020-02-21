@@ -78,17 +78,10 @@ export const query = graphql`
 				slug
 			}
 			frontmatter {
-				title
+				...sectionFields
 				position
 				mail
 				phone
-				cover {
-					childImageSharp {
-						fluid(maxWidth: 1360) {
-							...GatsbyImageSharpFluid
-						}
-					}
-				}
 			}
 		}
 	}

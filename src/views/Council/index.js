@@ -9,7 +9,7 @@ const Council = () => {
 	const { cards } = useStaticQuery(graphql`
 		{
 			cards: allMarkdownRemark(
-				filter: { fields: { directory: { regex: "/rada_parafialna//" } } }
+				filter: { fields: { slug: { regex: "/rada_parafialna//" } } }
 				sort: { fields: frontmatter___order, order: ASC }
 			) {
 				edges {

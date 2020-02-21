@@ -1,6 +1,5 @@
 ---
 type: tile
-id: communities
 title: Wspólnoty i grupy
 cover: communities-background.jpg
 tiles:

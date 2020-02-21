@@ -9,7 +9,7 @@ const Crew = () => {
 	const { cards } = useStaticQuery(graphql`
 		{
 			cards: allMarkdownRemark(
-				filter: { fields: { directory: { regex: "/o_nas//" } } }
+				filter: { fields: { slug: { regex: "/o_nas//" } } }
 				sort: { fields: frontmatter___order, order: ASC }
 			) {
 				edges {
@@ -37,7 +37,7 @@ const Crew = () => {
 		}
 	`);
 	return (
-		<Wrapper as={TileList}>
+		<Wrapper as={TileList} id="crew">
 			{cards.edges.map(({ node }) => {
 				const { title, position, phone, mail, cover } = node.frontmatter;
 				const { slug } = node.fields;
