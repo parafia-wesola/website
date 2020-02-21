@@ -5,13 +5,12 @@ author: Gall Anonim
 cover: zorza.jpg
 date: 2020-01-19T18:00:00Z
 eventDate: 2020-05-23T18:00:00Z
-images: [
-	'zorza.jpg',
-	'zorza2.jpg',
-	'zorza3.jpg',
-	'zelki.jpg',
-	'zelki2.jpg'
-]
+images:
+  - zorza.jpg
+  - zorza2.jpg
+  - zorza3.jpg
+  - zelki.jpg
+  - zelki2.jpg
 order: 0
 size: large
 ---

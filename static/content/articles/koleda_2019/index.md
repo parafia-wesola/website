@@ -5,10 +5,9 @@ author: Gall Anonim
 cover: zelki.jpg
 date: 2020-01-19T18:00:00Z
 eventDate: null
-images: [
-	'zelki.jpg',
-	'zelki2.jpg'
-]
+images:
+  - zelki.jpg
+  - zelki2.jpg
 order: 2
 size: medium
 ---
