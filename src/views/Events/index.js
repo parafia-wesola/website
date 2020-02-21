@@ -41,7 +41,7 @@ const EventSection = () => {
 			<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
 			<StyledEvents as={EventList} events={events} />
 			{isReadMore && (
-				<ReadMore as={Link} to="/events">
+				<ReadMore as={Link} to="/nadchodzace_wydarzenia">
 					Pokaż Więcej
 				</ReadMore>
 			)}
