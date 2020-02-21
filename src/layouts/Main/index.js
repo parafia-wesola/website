@@ -5,7 +5,7 @@ import GlobalStyle from 'assets/styles/global';
 import theme from 'assets/styles/theme';
 import Navbar from 'views/Navbar';
 import Footer from 'views/Footer';
-import { SmoothScrollContext } from 'components/SmoothScroll';
+import { SmoothScrollContext } from 'components/Scroll';
 import { heightOnMobile } from 'utils';
 
 const Layout = ({ children }) => {

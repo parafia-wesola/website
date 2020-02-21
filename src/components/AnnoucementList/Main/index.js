@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect, useContext } from 'react';
 import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
 
-import { SmoothScrollContext } from 'components/SmoothScroll';
+import { SmoothScrollContext } from 'components/Scroll';
 import Annoucement from 'components/Annoucement';
 import { verticalPosition } from 'utils';
 import { Wrapper, Overlap, Content, Footer, ReadMore } from './styles';

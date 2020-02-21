@@ -1,5 +1,5 @@
-import SmoothScroll from './smooth';
+import Scroll from './Scroll';
 import SmoothScrollContext from './context';
 
 export { SmoothScrollContext };
-export default SmoothScroll;
+export default Scroll;
