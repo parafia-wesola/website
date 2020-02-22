@@ -39,7 +39,7 @@ const ArticleMain = ({
 					</Date>
 				)}
 				<SectionText dangerouslySetInnerHTML={{ __html: content }} />
-				{author && date && (
+				{(author || date) && (
 					<Author>
 						{author} {date}
 					</Author>

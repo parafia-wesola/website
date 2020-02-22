@@ -14,7 +14,13 @@ import Council from 'views/Council';
 import { Close, Cross } from './styles';
 
 const PageTemplate = ({ data }) => {
-	const { title, cover, images, type } = data.markdownRemark.frontmatter;
+	const {
+		title,
+		cover,
+		images,
+		type,
+		author,
+	} = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
 
 	return (
@@ -42,6 +48,7 @@ const PageTemplate = ({ data }) => {
 									title={title}
 									content={content}
 									images={images}
+									author={author}
 								/>
 								{type === 'pageCrew' && <Crew />}
 								{type === 'pageCouncil' && <Council />}
@@ -67,6 +74,7 @@ export const query = graphql`
 			frontmatter {
 				...sectionFields
 				type
+				author
 				images {
 					id
 					childImageSharp {
