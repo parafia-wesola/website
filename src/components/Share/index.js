@@ -36,6 +36,10 @@ export const SectionText = styled.div`
 	text-align: justify;
 	text-justify: inter-word;
 
+	strong {
+		font-weight: 600;
+	}
+
 	ol,
 	ul {
 		padding: 0;
