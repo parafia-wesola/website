@@ -1,9 +1,9 @@
 import React from 'react';
 import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
-import { SectionTitle } from 'components/Share';
+import { SectionTitle, SectionText } from 'components/Share';
 import Slider from 'react-slick';
-import { Wrapper, Cover, Date, Text, Author, SliderImg } from './styles';
+import { Cover, ContentWrapper, Date, Author, SliderImg } from './styles';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import 'assets/styles/slick.css';
@@ -17,7 +17,6 @@ const ArticleMain = ({
 	date,
 	author,
 	className,
-	isPage,
 }) => {
 	const sliderSettings = {
 		dots: true,
@@ -27,26 +26,25 @@ const ArticleMain = ({
 		slidesToScroll: 1,
 		centerPadding: 30,
 	};
-
 	return (
-		<Wrapper className={className}>
+		<article className={className}>
 			{cover && <Cover as={Img} fluid={cover} />}
-			<SectionTitle dark>{title}</SectionTitle>
-
-			{eventDate && (
-				<Date>
-					Data wydarzenia:
-					<br />
-					{eventDate}
-				</Date>
-			)}
-			<Text isPage={isPage} dangerouslySetInnerHTML={{ __html: content }} />
-			{author && date && (
-				<Author>
-					{author} {date}
-				</Author>
-			)}
-
+			<ContentWrapper>
+				<SectionTitle dark>{title}</SectionTitle>
+				{eventDate && (
+					<Date>
+						Data wydarzenia:
+						<br />
+						{eventDate}
+					</Date>
+				)}
+				<SectionText dangerouslySetInnerHTML={{ __html: content }} />
+				{author && date && (
+					<Author>
+						{author} {date}
+					</Author>
+				)}
+			</ContentWrapper>
 			{images && (
 				<Slider
 					dots={sliderSettings.dots}
@@ -63,7 +61,7 @@ const ArticleMain = ({
 					))}
 				</Slider>
 			)}
-		</Wrapper>
+		</article>
 	);
 };
 
@@ -76,7 +74,6 @@ ArticleMain.propTypes = {
 	date: PropTypes.string,
 	author: PropTypes.string,
 	className: PropTypes.string,
-	isPage: PropTypes.bool,
 };
 
 ArticleMain.defaultProps = {
@@ -86,7 +83,6 @@ ArticleMain.defaultProps = {
 	date: null,
 	author: null,
 	className: null,
-	isPage: false,
 };
 
 export default ArticleMain;

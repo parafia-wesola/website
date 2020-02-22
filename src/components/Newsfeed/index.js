@@ -27,7 +27,7 @@ const NewsFeed = ({ articles, className }) => {
 						key={id}
 						as={News}
 						title={title}
-						date={date}
+						date={date !== 'Invalid date' && date}
 						text={content}
 						cover={cover}
 						size={size}

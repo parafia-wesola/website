@@ -5,7 +5,9 @@ export const SectionWrapper = styled.section`
 	max-width: 1360px;
 	margin: 0 auto;
 	padding: 4em 0;
+	scroll-margin-top: 4.125em;
 	${({ theme }) => theme.mq.tabletMid} {
+		scroll-margin-top: 0;
 		padding: 6em 0;
 	}
 `;
@@ -23,6 +25,49 @@ export const SectionTitle = styled.h2`
 		position: absolute;
 		left: -999em;
 	`}
+`;
+
+export const SectionText = styled.div`
+	margin: 0 auto;
+	padding: 0;
+	font-weight: 400;
+	font-size: 1em;
+	line-height: 2;
+	text-align: justify;
+	text-justify: inter-word;
+
+	ol,
+	ul {
+		padding: 0;
+	}
+
+	& > p {
+		text-indent: 2em;
+	}
+
+	li {
+		margin-bottom: 3em;
+	}
+
+	blockquote {
+		max-width: 700px;
+		margin: 3em auto 3em;
+		padding: 0 1.5rem;
+		color: #ccc;
+		font-style: italic;
+		border-left: 0.5em solid #ccc;
+
+		p:not(:first-child):last-child {
+			color: #999;
+			font-size: 0.9em;
+			font-style: normal;
+			text-align: right;
+		}
+	}
+
+	cite {
+		display: block;
+	}
 `;
 
 export const TileList = styled.ul`

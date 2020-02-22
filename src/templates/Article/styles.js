@@ -3,11 +3,11 @@ import styled from 'styled-components';
 export const Wrapper = styled.section`
 	display: flex;
 	flex-direction: column;
-	padding: 4em 1rem;
+	padding: 2em 0;
 	${({ theme }) => theme.mq.desktop} {
 		flex-direction: row;
 		justify-content: space-between;
-		padding: 6em 1rem;
+		padding: 6em 0;
 	}
 `;
 
@@ -21,7 +21,7 @@ export const StyledAside = styled.aside`
 	padding: 6em 0 0;
 	${({ theme }) => theme.mq.desktop} {
 		align-self: center;
-		width: 15%;
+		width: 20%;
 		padding: 0;
 	}
 `;

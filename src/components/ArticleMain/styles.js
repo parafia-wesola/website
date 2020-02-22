@@ -1,18 +1,14 @@
 import styled from 'styled-components';
 
-export const Wrapper = styled.article`
-	padding: 0 1em;
-`;
-
 export const Cover = styled.div`
 	width: 100%;
-	max-height: 25em;
-	margin: 0 0 4em;
-	border-radius: 5px;
+	max-height: 30em;
+`;
 
-	& img {
-		object-position: center bottom !important;
-	}
+export const ContentWrapper = styled.div`
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 2em 1.5rem;
 `;
 
 export const Date = styled.div`
@@ -24,18 +20,6 @@ export const Date = styled.div`
 	text-align: right;
 `;
 
-export const Text = styled.div`
-	max-width: ${({ isPage }) => isPage && '1100px'};
-	margin: 0 auto;
-	padding: 0;
-	font-weight: 400;
-	font-size: 1em;
-	line-height: 2;
-	text-align: justify;
-	text-indent: 2em;
-	text-justify: inter-word;
-`;
-
 export const Author = styled.p`
 	margin: 0.5em;
 	color: #ccc;
@@ -45,16 +29,7 @@ export const Author = styled.p`
 
 export const SliderImg = styled.div`
 	width: 100%;
-	height: 56.25vw;
-	margin: 3em 0 0;
+	max-height: 35em;
 	border-radius: 5px;
 	cursor: pointer;
-
-	& img {
-		object-position: center bottom !important;
-	}
-
-	${({ theme }) => theme.mq.tabletMid} {
-		height: 56.25vh;
-	}
 `;

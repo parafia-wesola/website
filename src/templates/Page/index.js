@@ -38,7 +38,6 @@ const PageTemplate = ({ data }) => {
 							<SEO title={title} />
 							<SectionWrapper>
 								<ArticleMain
-									isPage
 									cover={cover && cover.childImageSharp.fluid}
 									title={title}
 									content={content}

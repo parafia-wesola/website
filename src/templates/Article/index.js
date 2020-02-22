@@ -29,7 +29,7 @@ const ArticleTemplate = ({ data }) => {
 					title={title}
 					date={date}
 					author={author}
-					eventDate={eventDate}
+					eventDate={eventDate !== 'Invalid date' && eventDate}
 					content={content}
 					images={images}
 				/>
