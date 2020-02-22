@@ -2,7 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 
-import { Wrapper, Cover, Body, Title, Info, Text } from './styles';
+import { SectionText } from 'components/Share';
+import { Wrapper, Cover, Body, Title, Info } from './styles';
 
 const Bio = ({ title, position, mail, phone, cover, text }) => (
 	<>
@@ -15,7 +16,7 @@ const Bio = ({ title, position, mail, phone, cover, text }) => (
 				{mail && <Info>{mail}</Info>}
 			</Body>
 		</Wrapper>
-		<Text dangerouslySetInnerHTML={{ __html: text }} />
+		<SectionText dangerouslySetInnerHTML={{ __html: text }} />
 	</>
 );
 

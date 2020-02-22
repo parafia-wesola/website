@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 
-import { SectionTitle, SectionWrapper } from 'components/Share';
-import { Wrapper, StyledTitle, Background, Content } from './styles';
+import { SectionTitle, SectionWrapper, SectionText } from 'components/Share';
+import { Wrapper, StyledTitle, Background } from './styles';
 
 const Modal = ({ title, background, content, className }) => (
 	<Wrapper as={SectionWrapper} className={className}>
@@ -11,7 +11,7 @@ const Modal = ({ title, background, content, className }) => (
 		<StyledTitle as={SectionTitle} dark>
 			{title}
 		</StyledTitle>
-		<Content dangerouslySetInnerHTML={{ __html: content }} />
+		<SectionText dangerouslySetInnerHTML={{ __html: content }} />
 	</Wrapper>
 );
 

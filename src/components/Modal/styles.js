@@ -32,12 +32,3 @@ export const Background = styled.div`
 		content: '';
 	}
 `;
-
-export const Content = styled.div`
-	color: ${({ theme }) => theme.colors.dark};
-
-	p {
-		margin-bottom: 2em;
-		line-height: 1.5;
-	}
-`;
