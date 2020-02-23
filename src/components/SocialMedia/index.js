@@ -17,6 +17,7 @@ const SocialMedia = ({ noText, noMobile, className }) => {
 						id
 						html
 						frontmatter {
+							title
 							to
 							mobile
 							cover {
@@ -32,13 +33,13 @@ const SocialMedia = ({ noText, noMobile, className }) => {
 	return (
 		<Wrapper className={className}>
 			{socials.edges.map(({ node }) => {
-				const { mobile, to, cover } = node.frontmatter;
+				const { title, mobile, to, cover } = node.frontmatter;
 
 				return (
 					!(mobile && noMobile) && (
 						<SocialItem key={node.id} mobile={mobile}>
 							<SocialButton as={ConditionalLink} to={to}>
-								<Logo src={cover.publicURL} />
+								<Logo src={cover.publicURL} alt={`Ikona ${title}`} />
 								{!noText && (
 									<Text dangerouslySetInnerHTML={{ __html: node.html }} />
 								)}

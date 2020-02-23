@@ -28,13 +28,13 @@ const Bio = ({ title, position, mail, phone, cover, text }) => {
 					{position && <Info>{position}</Info>}
 					{phone && (
 						<Info as={Conditional} to={`tel:${phone}`}>
-							<Icon src={phoneIcon.publicURL} />
+							<Icon src={phoneIcon.publicURL} alt="Ikona telefonu" />
 							{phone}
 						</Info>
 					)}
 					{mail && (
 						<Info as={Conditional} to={`mailto:${mail}`}>
-							<Icon src={mailIcon.publicURL} />
+							<Icon src={mailIcon.publicURL} alt="Ikona listu" />
 							{mail}
 						</Info>
 					)}

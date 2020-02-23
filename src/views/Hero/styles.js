@@ -17,7 +17,7 @@ export const Background = styled.div`
 	height: 100%;
 `;
 
-export const Title = styled.h1`
+export const Title = styled.h2`
 	color: ${({ theme }) => theme.colors.bright};
 	font-weight: 600;
 	font-size: 2.5em;
