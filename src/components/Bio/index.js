@@ -1,24 +1,49 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
+import Conditional from 'components/Conditional';
 import { SectionText } from 'components/Share';
-import { Wrapper, Cover, Body, Title, Info } from './styles';
+import { Wrapper, Cover, Body, Title, Info, Icon } from './styles';
 
-const Bio = ({ title, position, mail, phone, cover, text }) => (
-	<>
-		<Wrapper>
-			<Cover as={Img} fluid={cover.childImageSharp.fluid} />
-			<Body>
-				<Title>{title}</Title>
-				{position && <Info>{position}</Info>}
-				{phone && <Info>{phone}</Info>}
-				{mail && <Info>{mail}</Info>}
-			</Body>
-		</Wrapper>
-		<SectionText dangerouslySetInnerHTML={{ __html: text }} />
-	</>
-);
+const Bio = ({ title, position, mail, phone, cover, text }) => {
+	const { phoneIcon, mailIcon } = useStaticQuery(graphql`
+		{
+			phoneIcon: file(name: { eq: "phone" }) {
+				publicURL
+			}
+			mailIcon: file(name: { eq: "email" }) {
+				publicURL
+			}
+		}
+	`);
+
+	return (
+		<>
+			<Wrapper>
+				<Cover as={Img} fluid={cover.childImageSharp.fluid} />
+				<Body>
+					<Title>{title}</Title>
+					{position && <Info>{position}</Info>}
+					{phone && (
+						<Info as={Conditional} to={`tel:${phone}`}>
+							<Icon src={phoneIcon.publicURL} />
+							{phone}
+						</Info>
+					)}
+					{mail && (
+						<Info as={Conditional} to={`mailto:${mail}`}>
+							<Icon src={mailIcon.publicURL} />
+							{mail}
+						</Info>
+					)}
+				</Body>
+			</Wrapper>
+			<SectionText dangerouslySetInnerHTML={{ __html: text }} />
+		</>
+	);
+};
 
 Bio.propTypes = {
 	cover: PropTypes.shape().isRequired,

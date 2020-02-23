@@ -72,8 +72,19 @@ export const Title = styled.h3`
 `;
 
 export const Info = styled.p`
+	display: flex;
+	align-items: center;
 	margin: 0;
 	padding: 0;
+	color: ${({ theme }) => theme.colors.dark};
+	font: inherit;
 	font-weight: 400;
 	font-size: 1em;
+	text-decoration: none;
+`;
+
+export const Icon = styled.img`
+	width: 0.85em;
+	height: 0.85em;
+	margin-right: 0.25em;
 `;
