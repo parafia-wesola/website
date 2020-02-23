@@ -38,7 +38,7 @@ export const MenuItem = styled.li`
 	}
 `;
 
-export const MenuLink = styled.button`
+export const MenuLink = styled.a`
 	display: block;
 	width: 100%;
 	height: 100%;

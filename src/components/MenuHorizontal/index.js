@@ -3,12 +3,17 @@ import PropTypes from 'prop-types';
 import Dropdown from './Dropdown';
 import { MenuList, MenuItem, MenuLink } from './styles';
 
-const MenuHorizontal = ({ menu, className }) => (
-	<MenuList className={className}>
+const MenuHorizontal = ({ menu, className, ariaLabel }) => (
+	<MenuList aria-label={ariaLabel} role="menubar" className={className}>
 		{menu.map(menuItem => (
-			<MenuItem key={menuItem.node.name}>
-				<MenuLink>{menuItem.node.name}</MenuLink>
-				{!!menuItem.node.sub && <Dropdown submenu={menuItem.node.sub} />}
+			<MenuItem role="none" key={menuItem.node.name}>
+				<MenuLink role="menuitem">{menuItem.node.name}</MenuLink>
+				{!!menuItem.node.sub && (
+					<Dropdown
+						ariaLabel={menuItem.node.name}
+						submenu={menuItem.node.sub}
+					/>
+				)}
 			</MenuItem>
 		))}
 	</MenuList>
@@ -16,10 +21,12 @@ const MenuHorizontal = ({ menu, className }) => (
 
 MenuHorizontal.propTypes = {
 	menu: PropTypes.arrayOf(PropTypes.object).isRequired,
+	ariaLabel: PropTypes.string,
 	className: PropTypes.string,
 };
 
 MenuHorizontal.defaultProps = {
+	ariaLabel: null,
 	className: null,
 };
 

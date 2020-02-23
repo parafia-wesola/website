@@ -89,8 +89,8 @@ const Navbar = () => {
 					<MenuMobile menu={mobileMenu.edges} click={toggleBurger} />
 				</BurgerMenu>
 			</Wrapper>
-			<MenuWrapper>
-				<MenuHorizontal menu={allMenu.edges} />
+			<MenuWrapper aria-label="Menu">
+				<MenuHorizontal ariaLabel="Menu" menu={allMenu.edges} />
 			</MenuWrapper>
 		</Header>
 	);
