@@ -36,7 +36,7 @@ export const NewsImg = styled.div`
 	display: flex;
 	flex: ${({ size }) => (size === 'medium' ? `0 0 ${imgPercent}` : 'auto')};
 	align-items: center;
-	max-width: ${({ size }) => (size === 'medium' ? `${imgPercent}` : 'auto')};
+	max-width: ${({ size }) => (size === 'medium' ? `${imgPercent}` : 'none')};
 	border-radius:
 		${({ size }) => size === 'medium' ? '5px 0 0 5px' : '5px 5px 0 0'};
 `;
@@ -54,7 +54,7 @@ export const LargeBody = styled.div`
 	text-align: center;
 `;
 
-export const NewsTitle = styled.h2`
+export const NewsTitle = styled.h3`
 	margin: 0;
 	font-weight: 800;
 	font-size: 0.85em;

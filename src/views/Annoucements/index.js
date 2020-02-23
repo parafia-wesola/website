@@ -13,7 +13,7 @@ import {
 
 const Annoucements = ({ id }) => (
 	<Wrapper as={SectionWrapper} id={id}>
-		<SectionTitle hidden>Ogłoszenia i informacje</SectionTitle>
+		<SectionTitle hide>Ogłoszenia i informacje</SectionTitle>
 		<AnnoucementsWrapper>
 			<StyledAside as={Aside} />
 			<StyledMain as={Main} />

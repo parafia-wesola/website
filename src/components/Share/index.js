@@ -20,7 +20,7 @@ export const SectionTitle = styled.h2`
 	font-size: ${({ small }) => (small ? '1.2em' : '1.75em')};
 	text-align: center;
 	text-transform: uppercase;
-	${({ hidden }) => hidden
+	${({ hide }) => hide
 		&& `
 		position: absolute;
 		left: -999em;

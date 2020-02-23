@@ -18,7 +18,7 @@ export const Wrapper = styled.ul`
 	}
 `;
 
-export const ContactItem = styled.div`
+export const ContactItem = styled.li`
 	margin-bottom: 2em;
 
 	:last-child {
