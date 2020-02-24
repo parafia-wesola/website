@@ -1,9 +1,23 @@
 ---
 type: text
 title: Eucharystia
-cover: bierzmowanie.jpg
+cover: eucharystia.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper mattis odio, et semper nisl dapibus ac. Morbi vitae eros eget dui placerat ultricies. Duis est dolor, rhoncus ac libero id, porttitor ultrices nulla. Donec vel eros vel odio imperdiet hendrerit quis in orci. Ut blandit turpis sit amet ligula imperdiet, et hendrerit nisi sollicitudin. Aliquam nunc urna, sagittis nec tellus eget, interdum viverra erat. Integer id sollicitudin diam, vitae viverra elit. In luctus magna a pulvinar gravida.
+Eucharystia jest „źródłem i zarazem szczytem całego życia chrześcijańskiego”
 
-In gravida leo quam, nec finibus turpis suscipit sed. Sed ut viverra mauris, sed imperdiet libero. Sed aliquam et orci ac auctor. Sed sodales volutpat lectus, quis sodales lorem viverra nec. Nunc sem purus, tempus non euismod varius, pretium sit amet lorem. Sed vel varius tortor, a gravida augue. Curabitur finibus viverra congue. Praesent sit amet lectus in turpis faucibus vehicula nec a risus. Aenean ac sagittis leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eget lectus quis enim efficitur facilisis elementum eu massa. Donec rhoncus, lacus et pretium vehicula, metus nisl consequat nulla, a elementum ante orci vitae nulla. In suscipit accumsan tellus, nec tristique magna gravida sed. Sed non volutpat erat, non volutpat leo.
+> Eucharystia oznacza i urzeczywistnia komunię życia z Bogiem i jedność Ludu Bożego, przez które Kościół jest sobą. Jest ona szczytem działania, przez które Bóg w Chrystusie uświęca świat, a równocześnie szczytem kultu, jaki ludzie w Duchu Świętym oddają Chrystusowi, a przez Niego Ojcu
+>
+> KKK 1324 i 1325
+
+W naszej Parafii gromadzimy się na celebracji Mszy św. codziennie o godzinie 7.00 i 18.00. W
+niedzielę i uroczystości o godz.: 7.00, 9.00, 10.30, 12.00, 18.00. W sobotę wieczorem odprawiamy
+Mszę św. według formularza niedzielnego.
+
+Msza św. niedzielna o godz. 12.00 adresowana jest szczegónie do rodzin z dziećmi i animowana jest
+przez scholę dziecięcą. W drugą i czwartąniedzielę miesiąca zapraszamy dzieci na Liturgię Słowa
+przygotowaną specjalnie dla nich.
+
+Msza św. niedzielna o godz. 18.00 adresowana jest szczególnie do młodzieży i animowana przez
+Zespół Młodzieżowy. W trzecią niedzielę miesiąca ta Msza animowana jest przez Wspólnotę
+Zwiastowanie i poprzedza wieczór modlitwy o uzdrowienie.

@@ -57,9 +57,9 @@ export const SectionText = styled.div`
 		max-width: 700px;
 		margin: 3em auto 3em;
 		padding: 0 1.5rem;
-		color: #ccc;
+		color: #999;
 		font-style: italic;
-		border-left: 0.5em solid #ccc;
+		border-left: 0.5em solid #999;
 
 		p:not(:first-child):last-child {
 			color: #999;
