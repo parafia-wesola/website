@@ -2,8 +2,8 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.ul`
 	justify-content: space-evenly;
-	margin: 3em auto 0;
-	padding: 0 1.5rem;
+	margin: 0 auto;
+	padding: 0;
 `;
 
 export const Item = styled.li`

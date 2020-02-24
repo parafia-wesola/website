@@ -9,8 +9,9 @@ import {
 	SectionTitle,
 	TileList,
 	TileItem,
+	Background,
 } from 'components/Share';
-import { Wrapper, Background } from './styles';
+import { Wrapper } from './styles';
 
 const Communities = ({ id }) => {
 	const { allMarkdownRemark } = useStaticQuery(graphql`
@@ -35,6 +36,7 @@ const Communities = ({ id }) => {
 	return (
 		<Wrapper as={SectionWrapper} id={id}>
 			<Background
+				bright
 				as={Img}
 				fluid={communities.frontmatter.cover.childImageSharp.fluid}
 			/>

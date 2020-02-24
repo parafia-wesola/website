@@ -1,17 +1,14 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Link, graphql } from 'gatsby';
+import { graphql } from 'gatsby';
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing';
-import { ThemeProvider } from 'styled-components';
-import theme from 'assets/styles/theme';
 
 import SEO from 'components/SEO';
-import Modal from 'components/Modal';
-import { SectionWrapper } from 'components/Share';
+import Close from 'components/Close';
 import ArticleMain from 'components/ArticleMain';
 import Crew from 'views/Crew';
 import Council from 'views/Council';
-import { Close, Cross } from './styles';
+import { ModalWrapper, PageWrapper, SpecialWrapper } from './styles';
 
 const PageTemplate = ({ data }) => {
 	const {
@@ -28,31 +25,35 @@ const PageTemplate = ({ data }) => {
 			{({ modal, closeTo }) => (
 				<>
 					{modal ? (
-						<ThemeProvider theme={theme}>
-							<Close as={Link} to={closeTo} state={{ noScroll: true }}>
-								<Cross />
-							</Close>
+						<>
+							<Close closeTo={closeTo} />
 
-							<Modal
+							<ModalWrapper
+								as={ArticleMain}
+								cover={cover && cover.childImageSharp.fluid}
 								title={title}
-								background={cover && cover.childImageSharp.fluid}
 								content={content}
+								images={images}
+								author={author}
 							/>
-						</ThemeProvider>
+						</>
 					) : (
 						<>
 							<SEO title={title} />
-							<SectionWrapper>
-								<ArticleMain
-									cover={cover && cover.childImageSharp.fluid}
-									title={title}
-									content={content}
-									images={images}
-									author={author}
-								/>
-								{type === 'pageCrew' && <Crew />}
-								{type === 'pageCouncil' && <Council />}
-							</SectionWrapper>
+							<PageWrapper
+								as={ArticleMain}
+								cover={cover && cover.childImageSharp.fluid}
+								title={title}
+								content={content}
+								images={images}
+								author={author}
+							/>
+							{type !== 'page' && (
+								<SpecialWrapper>
+									{type === 'pageCrew' && <Crew />}
+									{type === 'pageCouncil' && <Council />}
+								</SpecialWrapper>
+							)}
 						</>
 					)}
 				</>

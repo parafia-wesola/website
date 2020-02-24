@@ -1,41 +1,32 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Link, graphql } from 'gatsby';
+import Img from 'gatsby-image';
+import { graphql } from 'gatsby';
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing';
-import { ThemeProvider } from 'styled-components';
-import theme from 'assets/styles/theme';
 
 import SEO from 'components/SEO';
+import Close from 'components/Close';
 import Suggestions from 'views/Suggestions';
 import Sacraments from 'views/Sacraments';
 import Communites from 'views/Communities';
-import TextTiles from 'views/TextTiles';
-import { StyledTextTiles, Close, Cross } from './styles';
+import TileText from 'components/TileText';
+import { SectionTitle, TileList, TileItem, Background } from 'components/Share';
+import { ModalWrapper, PageWrapper } from './styles';
 
 const TileTemplate = ({ data }) => {
 	const { title, tiles, cover } = data.markdownRemark.frontmatter;
 	const id = data.markdownRemark.fields.slug.slice(1);
-	const content = data.markdownRemark.html;
 
-	let tile;
+	let tile = null;
 
 	if (id === 'propozycje') {
 		tile = <Suggestions id={id} />;
-	} else if (id === 'sakaramenty_i_sakramentalia') {
+	}
+	if (id === 'sakaramenty_i_sakramentalia') {
 		tile = <Sacraments id={id} />;
-	} else if (id === 'wspolnoty_i_grupy') {
+	}
+	if (id === 'wspolnoty_i_grupy') {
 		tile = <Communites id={id} />;
-	} else {
-		tile = (
-			<StyledTextTiles
-				as={TextTiles}
-				id={id}
-				title={title}
-				background={cover.childImageSharp.fluid}
-				tiles={tiles}
-				content={content}
-			/>
-		);
 	}
 
 	return (
@@ -43,16 +34,46 @@ const TileTemplate = ({ data }) => {
 			{({ modal, closeTo }) => (
 				<>
 					{modal ? (
-						<ThemeProvider theme={theme}>
-							<Close as={Link} to={closeTo} state={{ noScroll: true }}>
-								<Cross />
-							</Close>
-							{tile}
-						</ThemeProvider>
+						<>
+							<Close closeTo={closeTo} />
+							{tile || (
+								<ModalWrapper id={id}>
+									<Background
+										tile
+										as={Img}
+										fluid={cover.childImageSharp.fluid}
+									/>
+									<SectionTitle dark>{title}</SectionTitle>
+									<TileList muzzle>
+										{tiles.map(node => (
+											<TileItem key={node.title}>
+												<TileText title={node.title} to={node.to} />
+											</TileItem>
+										))}
+									</TileList>
+								</ModalWrapper>
+							)}
+						</>
 					) : (
 						<>
 							<SEO title={title} />
-							{tile}
+							{tile || (
+								<PageWrapper id={id}>
+									<Background
+										tile
+										as={Img}
+										fluid={cover.childImageSharp.fluid}
+									/>
+									<SectionTitle dark>{title}</SectionTitle>
+									<TileList muzzle>
+										{tiles.map(node => (
+											<TileItem key={node.title}>
+												<TileText title={node.title} to={node.to} />
+											</TileItem>
+										))}
+									</TileList>
+								</PageWrapper>
+							)}
 						</>
 					)}
 				</>

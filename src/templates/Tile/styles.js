@@ -1,45 +1,52 @@
 import styled from 'styled-components';
 
-export const StyledTextTiles = styled.div`
-	margin: 3em auto;
-`;
+export const ModalWrapper = styled.section`
+	position: relative;
+	max-width: 1360px;
+	min-height: 100%;
+	margin: 0 auto;
+	padding: 4em 1.5rem;
 
-export const Close = styled.button`
-	position: absolute;
-	top: 1em;
-	right: 1em;
-	z-index: 1001;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	width: 2em;
-	height: 2em;
-	padding: 0;
-	background: transparent;
-	border: none;
-	cursor: pointer;
-	transition: transform 0.4s ease-in;
-
-	:active {
-		transform: rotate(360deg) scale(0);
+	${({ theme }) => theme.mq.tabletMid} {
+		padding: 6em 4rem;
 	}
 `;
 
-export const Cross = styled.span`
+export const PageWrapper = styled.section`
 	position: relative;
-	width: 2em;
-	height: 0.4em;
-	background: ${({ theme }) => theme.colors.dark};
-	transform: rotate(135deg);
-	cursor: pointer;
+	max-width: 1360px;
+	min-height: 100%;
+	margin: 6em auto;
+	padding: 4em 1.5rem;
 
-	::before {
+	${({ theme }) => theme.mq.tabletMid} {
+		padding: 6em 4rem;
+	}
+`;
+
+export const Background = styled.div`
+	position: absolute !important;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: -1;
+	width: 100%;
+	max-width: 1360px;
+	height: 100%;
+
+	&::before {
 		position: absolute;
-		display: block;
+		z-index: 1;
 		width: 100%;
-		height: 0.4em;
-		background: inherit;
-		transform: rotate(90deg);
+		height: 100%;
+		background: #fff;
+		opacity: 0.65;
 		content: '';
+	}
+
+	& img {
+		object-fit: cover !important;
+		object-position: 0 bottom !important;
 	}
 `;

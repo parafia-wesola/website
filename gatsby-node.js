@@ -131,7 +131,7 @@ exports.createPages = async ({ graphql, actions }) => {
 		if (type === 'text') {
 			createPage({
 				path: slug,
-				component: path.resolve('src/templates/Modal/index.js'),
+				component: path.resolve('src/templates/Text/index.js'),
 				context: {
 					id: node.id,
 				},

@@ -1,14 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Link, graphql } from 'gatsby';
+import { graphql } from 'gatsby';
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing';
-import { ThemeProvider } from 'styled-components';
-import theme from 'assets/styles/theme';
 
 import SEO from 'components/SEO';
-import { SectionWrapper } from 'components/Share';
+import Close from 'components/Close';
 import Bio from 'components/Bio';
-import { ModalWrapper, Wrapper, Close, Cross } from './styles';
+import { ModalBio, PageBio } from './styles';
 
 const BioTemplate = ({ data }) => {
 	const {
@@ -18,7 +16,7 @@ const BioTemplate = ({ data }) => {
 		mail,
 		position,
 	} = data.markdownRemark.frontmatter;
-	const content = data.markdownRemark.html;
+	const text = data.markdownRemark.html;
 	const { slug } = data.markdownRemark.fields;
 
 	return (
@@ -26,36 +24,32 @@ const BioTemplate = ({ data }) => {
 			{({ modal, closeTo }) => (
 				<>
 					{modal ? (
-						<ThemeProvider theme={theme}>
-							<Close as={Link} to={closeTo} state={{ noScroll: true }}>
-								<Cross />
-							</Close>
-							<ModalWrapper>
-								<Bio
-									title={title}
-									cover={cover}
-									position={position}
-									phone={phone}
-									mail={mail}
-									to={slug}
-									text={content}
-								/>
-							</ModalWrapper>
-						</ThemeProvider>
+						<>
+							<Close closeTo={closeTo} />
+							<ModalBio
+								as={Bio}
+								title={title}
+								cover={cover}
+								position={position}
+								phone={phone}
+								mail={mail}
+								to={slug}
+								text={text}
+							/>
+						</>
 					) : (
 						<>
 							<SEO title={title} />
-							<Wrapper as={SectionWrapper}>
-								<Bio
-									title={title}
-									cover={cover}
-									position={position}
-									phone={phone}
-									mail={mail}
-									to={slug}
-									text={content}
-								/>
-							</Wrapper>
+							<PageBio
+								as={Bio}
+								title={title}
+								cover={cover}
+								position={position}
+								phone={phone}
+								mail={mail}
+								to={slug}
+								text={text}
+							/>
 						</>
 					)}
 				</>

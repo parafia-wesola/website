@@ -9,8 +9,9 @@ import {
 	SectionTitle,
 	TileList,
 	TileItem,
+	Background,
 } from 'components/Share';
-import { Wrapper, Background } from './styles';
+import { Wrapper } from './styles';
 
 const Sacraments = ({ id }) => {
 	const { allMarkdownRemark } = useStaticQuery(graphql`
@@ -34,6 +35,7 @@ const Sacraments = ({ id }) => {
 	return (
 		<Wrapper as={SectionWrapper} id={id}>
 			<Background
+				left
 				as={Img}
 				fluid={sacraments.frontmatter.cover.childImageSharp.fluid}
 			/>

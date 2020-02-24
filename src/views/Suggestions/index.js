@@ -9,8 +9,9 @@ import {
 	SectionTitle,
 	TileList,
 	TileItem,
+	Background,
 } from 'components/Share';
-import { Wrapper, Background } from './styles';
+import { Wrapper } from './styles';
 
 const Suggestions = ({ id }) => {
 	const { allMarkdownRemark } = useStaticQuery(graphql`
@@ -33,6 +34,7 @@ const Suggestions = ({ id }) => {
 	return (
 		<Wrapper as={SectionWrapper} id={id}>
 			<Background
+				left
 				as={Img}
 				fluid={suggestions.frontmatter.cover.childImageSharp.fluid}
 			/>

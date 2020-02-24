@@ -1,41 +1,23 @@
 import styled from 'styled-components';
 
-export const Close = styled.button`
-	position: absolute;
-	top: 1em;
-	right: 1em;
-	z-index: 1001;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	width: 2em;
-	height: 2em;
-	padding: 0;
-	background: transparent;
-	border: none;
-	cursor: pointer;
-	transition: transform 0.4s ease-in;
+export const ModalWrapper = styled.article`
+	padding: 4em 1.5rem;
 
-	:active {
-		transform: rotate(360deg) scale(0);
+	${({ theme }) => theme.mq.tabletMid} {
+		padding: 6em 4rem;
 	}
 `;
 
-export const Cross = styled.span`
-	position: relative;
-	width: 2em;
-	height: 0.4em;
-	background: ${({ theme }) => theme.colors.dark};
-	transform: rotate(135deg);
-	cursor: pointer;
+export const PageWrapper = styled.article`
+	max-width: 1000px;
+	margin: 6em auto 0;
 
-	::before {
-		position: absolute;
-		display: block;
-		width: 100%;
-		height: 0.4em;
-		background: inherit;
-		transform: rotate(90deg);
-		content: '';
+	:last-child {
+		margin: 6em auto;
 	}
+`;
+
+export const SpecialWrapper = styled.section`
+	max-width: 1000px;
+	margin: 0 auto 6em;
 `;

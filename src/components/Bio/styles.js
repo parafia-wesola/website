@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Wrapper = styled.div`
+export const Card = styled.header`
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -37,7 +37,7 @@ export const Body = styled.div`
 	}
 `;
 
-export const Title = styled.h3`
+export const Title = styled.h1`
 	margin: 0 0 0.5em;
 	color: ${({ theme }) => theme.colors.annoucementTitle};
 	font-weight: 800;
@@ -45,11 +45,20 @@ export const Title = styled.h3`
 	text-transform: uppercase;
 `;
 
-export const Info = styled.p`
-	display: flex;
-	align-items: center;
+export const InfoList = styled.ul`
 	margin: 0;
 	padding: 0;
+	list-style: none;
+`;
+
+export const InfoItem = styled.li`
+	margin: 0;
+	padding: 0;
+`;
+
+export const InfoLink = styled.a`
+	display: flex;
+	align-items: center;
 	color: ${({ theme }) => theme.colors.dark};
 	font: inherit;
 	font-weight: 400;

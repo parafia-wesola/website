@@ -3,12 +3,12 @@ import styled from 'styled-components';
 export const Cover = styled.div`
 	width: 100%;
 	max-height: 30em;
+	margin: 0 0 3em;
 `;
 
 export const ContentWrapper = styled.div`
-	max-width: 1000px;
 	margin: 0 auto;
-	padding: 2em 1.5rem;
+	padding: 0 1.5rem 2em;
 `;
 
 export const Date = styled.div`
@@ -25,11 +25,4 @@ export const Author = styled.p`
 	color: #ccc;
 	font-size: 1em;
 	text-align: right;
-`;
-
-export const SliderImg = styled.div`
-	width: 100%;
-	max-height: 35em;
-	border-radius: 5px;
-	cursor: pointer;
 `;
