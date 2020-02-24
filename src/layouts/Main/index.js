@@ -26,7 +26,7 @@ const Layout = ({ children }) => {
 			<SmoothScrollContext.Provider value={navbarHeight}>
 				<GlobalStyle />
 				<Navbar />
-				<main>{children}</main>
+				{children}
 				<Footer />
 			</SmoothScrollContext.Provider>
 		</ThemeProvider>
