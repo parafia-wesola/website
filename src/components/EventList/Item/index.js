@@ -36,9 +36,7 @@ const EventItem = ({
 		>
 			<Title reverse={reverse}>{title}</Title>
 			<Date reverse={reverse}>
-				{eventDateDay}
-				<br />
-				{eventDateMonthFormatted}
+				{`${eventDateDay}\n${eventDateMonthFormatted}`}
 			</Date>
 			<Content>{content}</Content>
 		</Wrapper>

@@ -2,7 +2,8 @@ import styled from 'styled-components';
 import arrow from 'assets/images/arrow.svg';
 
 export const StyledEvents = styled.div`
-	padding: 0 1.5rem;
+	max-width: 1100px;
+	margin: 0 auto;
 `;
 
 export const ReadMore = styled.a`

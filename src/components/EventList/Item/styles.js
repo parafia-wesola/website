@@ -31,14 +31,16 @@ export const Date = styled.div`
 	grid-column: 1/2;
 	align-items: center;
 	justify-content: center;
-	width: 100px;
-	height: 100px;
+	width: 6.25em;
+	height: 6.25em;
 	font-weight: 600;
-	font-size: 0.9rem;
+	font-size: 1em;
+	line-height: 1.3;
+	white-space: pre-line;
 	text-align: center;
 	border-color: ${({ theme }) => theme.colors.eventCircle};
 	border-style: solid;
-	border-width: 10px;
+	border-width: 0.625em;
 	border-radius: 50%;
 
 	${({ reverse }) => reverse === 'reverse'
@@ -49,12 +51,9 @@ export const Date = styled.div`
 	${({ theme }) => theme.mq.tablet} {
 		grid-row: 1/3;
 		grid-column: 1/2;
-		width: 150px;
-		height: 150px;
+		width: 8em;
+		height: 8em;
 		margin: auto;
-		font-size: 1rem;
-		line-height: 25px;
-		border-width: 15px;
 	}
 `;
 
@@ -64,7 +63,7 @@ export const Title = styled.h3`
 	align-self: center;
 	margin: 0;
 	font-weight: 600;
-	font-size: 1.4em;
+	font-size: 1.25em;
 	line-height: 1.35;
 
 	${({ reverse }) => reverse === 'reverse'

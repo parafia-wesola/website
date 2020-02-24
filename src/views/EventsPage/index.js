@@ -2,6 +2,7 @@ import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 import { SectionTitle, SectionWrapper } from 'components/Share';
 import EventList from 'components/EventList';
+import { StyledEventList } from './styles';
 
 const EventSection = () => {
 	const { eventsFirst, eventsSecond } = useStaticQuery(graphql`
@@ -54,8 +55,12 @@ const EventSection = () => {
 	return (
 		<SectionWrapper>
 			<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
-			<EventList events={eventsFirst.edges} />
-			<EventList events={eventsSecond.edges} scrollAnimation="zoom-out-up" />
+			<StyledEventList as={EventList} events={eventsFirst.edges} />
+			<StyledEventList
+				as={EventList}
+				events={eventsSecond.edges}
+				scrollAnimation="zoom-out-up"
+			/>
 		</SectionWrapper>
 	);
 };
