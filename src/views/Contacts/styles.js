@@ -12,10 +12,8 @@ export const ContactsWrapper = styled.div`
 `;
 
 export const StyledContactInfo = styled.div`
-	padding: 0 1.5rem;
 	${({ theme }) => theme.mq.tabletLandscape} {
 		margin: 0 4em;
-		padding: 0;
 	}
 `;
 
