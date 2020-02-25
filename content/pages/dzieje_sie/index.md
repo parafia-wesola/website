@@ -1,7 +1,7 @@
 ---
 type: newsfeed
-title: Newsfeed
+title: Dzieje się
 news:
   - size: large
-    title: ''
+    title: Kolęda 2019
 ---

@@ -29,8 +29,8 @@ collections:
   - name: "newsfeed"
     label: "Dzieje się"
     label_singular: "Dzieje się"
-    description: 'Tutaj można zarządzać sekcją dzieje się'
-    folder: "content/newsfeed"
+    description: 'Tutaj można zarządzać sekcją dzieje się. UWAGA!!! Na liście musi być przynajmniej jednej element, nawet pusty.'
+    folder: "content/pages/dzieje_sie"
     delete: false
     editor:
      preview: false

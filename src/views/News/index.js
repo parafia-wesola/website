@@ -1,15 +1,17 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from 'gatsby';
 
 import NewsFeed from 'components/Newsfeed';
 import { SectionWrapper, SectionTitle } from 'components/Share';
 import { StyledNewsFeed } from './styles';
 
-const News = () => {
+const News = ({ id }) => {
 	const { markdownRemark } = useStaticQuery(graphql`
 		{
 			markdownRemark(frontmatter: { type: { eq: "newsfeed" } }) {
 				frontmatter {
+					title
 					news {
 						size
 						title {
@@ -44,14 +46,18 @@ const News = () => {
 	`);
 	if (!markdownRemark.frontmatter.news[0].title) return null;
 	return (
-		<SectionWrapper id="newsfeed">
-			<SectionTitle dark>Dzieje się</SectionTitle>
+		<SectionWrapper id={id}>
+			<SectionTitle dark>{markdownRemark.frontmatter.title}</SectionTitle>
 			<StyledNewsFeed
 				as={NewsFeed}
 				articles={markdownRemark.frontmatter.news}
 			/>
 		</SectionWrapper>
 	);
+};
+
+News.propTypes = {
+	id: PropTypes.string.isRequired,
 };
 
 export default News;

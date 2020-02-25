@@ -13,8 +13,8 @@ const IndexPage = () => (
 	<>
 		<SEO title="Strona główna" />
 		<Hero id="hero" />
-		<News id="newsfeed" />
-		<Annoucements id="annoucements" />
+		<News id="dzieje_sie" />
+		<Annoucements id="ogloszenia_i_informacje" />
 		<Suggestions id="propozycje" />
 		<Events id="wydarzenia" />
 		<Sacraments id="sakramenty_i_sakramentalia" />
