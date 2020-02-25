@@ -12,14 +12,16 @@ const NewsFeed = ({ articles, className }) => {
 
 	return (
 		<NewsFeedWrapper className={className}>
-			{articles.map(({ node }) => {
+			{articles.map(article => {
+				const { size } = article;
 				const {
 					id,
 					excerpt: content,
 					fields: { slug },
-				} = node;
-				const { title, date, size } = node.frontmatter;
-				const cover = node.frontmatter[size].childImageSharp.fluid;
+					frontmatter,
+				} = article.title;
+				const { title, date } = frontmatter;
+				const cover = frontmatter[size].childImageSharp.fluid;
 				const TagName = tags[size];
 
 				return (

@@ -3,7 +3,7 @@ backend:
   name: git-gateway
   branch: develop
 
-media_folder: static/img
+media_folder: static/imgimg
 public_folder: /img
 locale: 'pl'
 slug:
@@ -16,7 +16,7 @@ collections:
     label: "Ogłoszenia"
     label_singular: "Ogłoszenie"
     description: 'Tutaj można dodawać nowe ogłoszenia duszpasterskie. UWAGA: na stronie będzie wyświetlane jedynie ostatnio dodane ogłoszenie.'
-    folder: "static/content/annoucements"
+    folder: "content/annoucements"
     create: true
     slug: "ogloszenia-{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}"
     editor:
@@ -26,11 +26,28 @@ collections:
       - { label: "Tytuł", name: "title", widget: "string", default: "ogłoszenia parafialne i duszpasterskie" }
       - { label: "Data dodania", name: "date", widget: "datetime" }
       - { label: "Treść", name: "body", widget: "markdown" }
+  - name: "newsfeed"
+    label: "Dzieje się"
+    label_singular: "Dzieje się"
+    description: 'Tutaj można zarządzać sekcją dzieje się'
+    folder: "content/newsfeed"
+    delete: false
+    editor:
+     preview: false
+    fields:
+      - { label: "Typ", name: "type", widget: "hidden", default: "newsfeed" }
+      - { label: "Tytuł", name: "title", widget: "string", default: "newsfeed" }
+      - label: "Dzieje się"
+        name: "news"
+        widget: "list"
+        fields:
+          - {label: Nazwa, name: title, widget: relation, collection: articles, searchFields: [title], valueField: title, default: '', required: false }
+          - {label: Wielkość, name: size, widget: select, options: ["large", "medium"], default: "large" }
   - name: "articles"
     label: "Artykuły"
     label_singular: "artykuł"
     description: 'Tutaj można dodawać nowe artykuły.'
-    folder: "static/content/articles"
+    folder: "content/articles"
     create: true
     slug: "{{slug}}"
     path: '{{slug}}/index'
@@ -55,7 +72,7 @@ collections:
     label: "Ekipa"
     label_singular: "członek ekipy"
     description: 'Tutaj można dodawać i usuwać członków ekipy parafii.'
-    folder: "static/content/o_nas"
+    folder: "content/o_nas"
     create: true
     slug: "{{slug}}"
     path: '{{slug}}/index'
@@ -74,7 +91,7 @@ collections:
     label: "Rada Parafialna"
     label_singular: "członek rady"
     description: 'Tutaj można dodawać i usuwać członków parafii.'
-    folder: "static/content/rada_parafialna"
+    folder: "content/rada_parafialna"
     create: true
     slug: "{{slug}}"
     path: '{{slug}}/index'

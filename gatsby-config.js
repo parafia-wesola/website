@@ -8,6 +8,9 @@ module.exports = {
 		author: '@lasmedia',
 		heading: 'Witaj na stronie Parafii Opatrzności Bożej\nw Warszawie Wesołej',
 	},
+	mapping: {
+		'MarkdownRemark.frontmatter.news.title': 'MarkdownRemark.frontmatter.title',
+	},
 	plugins: [
 		'gatsby-transformer-sharp',
 		'gatsby-plugin-sharp',
