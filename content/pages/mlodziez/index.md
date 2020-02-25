@@ -3,16 +3,20 @@ type: tile
 title: Młodzież
 cover: mlodziez.jpg
 tiles:
-  [
-    { title: Kurs Alpha, to: / },
-    { title: Spotkania dla seniorów, to: / },
-    { title: Nikodem, to: / },
-    { title: Dla mężczyzn, to: / },
-    { title: Wiara i praca, to: / },
-    { title: Wspólnota Chemin Neuf, to: / },
-    { title: Rekolekcje parafialne, to: / },
-    { title: Wspólnota zwiastowanie, to: / },
-    { title: Net for God, to: / },
-    { title: Inne, to: / },
-  ]
+  - title: Młodzi Open
+    to: /404
+  - title: Alpha Młodzi
+    to: /404
+  - title: Msza św. dla młodzieży
+    to: /404
+  - title: Weekend dla 14-18
+    to: /404
+  - title: Obóz letni dla 14-18
+    to: /404
+  - title: Weekend dla 18-30
+    to: /404
+  - title: Festiwal dla 18-30
+    to: /404
+  - title: Przygotowanie do sakramentu Bierzmowania
+    to: $/bierzmowanie
 ---

@@ -3,16 +3,12 @@ type: tile
 title: Małżeństwa
 cover: malzenstwa.jpg
 tiles:
-  [
-    { title: Kurs Alpha, to: / },
-    { title: Spotkania dla seniorów, to: / },
-    { title: Nikodem, to: / },
-    { title: Dla mężczyzn, to: / },
-    { title: Wiara i praca, to: / },
-    { title: Wspólnota Chemin Neuf, to: / },
-    { title: Rekolekcje parafialne, to: / },
-    { title: Wspólnota zwiastowanie, to: / },
-    { title: Net for God, to: / },
-    { title: Inne, to: / },
-  ]
+  - title: Kana Welcome
+    to: /404
+  - title: Kana Weekend
+    to: /404
+  - title: Tydzień Kana
+    to: /404
+  - title: 1,2,3 Kana
+    to: /404
 ---

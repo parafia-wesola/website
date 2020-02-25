@@ -3,16 +3,14 @@ type: tile
 title: Dzieci
 cover: dzieci.jpg
 tiles:
-  [
-    { title: Kurs Alpha, to: / },
-    { title: Spotkania dla seniorów, to: / },
-    { title: Nikodem, to: / },
-    { title: Dla mężczyzn, to: / },
-    { title: Wiara i praca, to: / },
-    { title: Wspólnota Chemin Neuf, to: / },
-    { title: Rekolekcje parafialne, to: / },
-    { title: Wspólnota zwiastowanie, to: / },
-    { title: Net for God, to: / },
-    { title: Inne, to: / },
-  ]
+  - title: Msze św. z animacją dla dzieci
+    to: /404
+  - title: Tymoteusz
+    to: /404
+  - title: Spotkania dla dzieci
+    to: /404
+  - title: Pierwsza Komunia Święta
+    to: /404
+  - title: Ministranci
+    to: /404
 ---
