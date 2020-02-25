@@ -16,7 +16,7 @@ const IndexPage = () => (
 		<News id="dzieje_sie" />
 		<Annoucements id="ogloszenia_i_informacje" />
 		<Suggestions id="propozycje" />
-		<Events id="wydarzenia" />
+		<Events id="nadchodzace_wydarzenia" />
 		<Sacraments id="sakramenty_i_sakramentalia" />
 		<Contacts id="kontakt" />
 	</>
