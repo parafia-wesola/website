@@ -8,7 +8,7 @@ tiles:
   - title: Alpha Młodzi
     to: /404
   - title: Msza św. dla młodzieży
-    to: /404
+    to: $/msza_sw_dla_mlodziezy
   - title: Weekend dla 14-18
     to: /404
   - title: Obóz letni dla 14-18

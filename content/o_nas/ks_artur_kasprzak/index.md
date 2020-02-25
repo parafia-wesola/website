@@ -2,6 +2,9 @@
 type: crew
 title: Ks. Artur Kasprzak
 cover: artur_kasprzak.jpg
+position: ''
+phone: ''
+mail: ''
 order: 2
 ---
 

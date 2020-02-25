@@ -4,7 +4,7 @@ title: Dzieci
 cover: dzieci.jpg
 tiles:
   - title: Msze św. z animacją dla dzieci
-    to: /404
+    to: $/msza_sw_z_animacja_dla_dzieci
   - title: Tymoteusz
     to: /404
   - title: Spotkania dla dzieci
