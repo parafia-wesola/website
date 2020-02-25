@@ -20,8 +20,8 @@ export const tilesFields = graphql`
 			to
 			image {
 				childImageSharp {
-					fluid(quality: 50, maxWidth: 200) {
-						...GatsbyImageSharpFluid
+					fixed(quality: 50, width: 200) {
+						...GatsbyImageSharpFixed
 					}
 				}
 			}

@@ -14,40 +14,27 @@ import {
 import { Wrapper } from './styles';
 
 const Sacraments = ({ id }) => {
-	const { allMarkdownRemark } = useStaticQuery(graphql`
+	const { markdownRemark } = useStaticQuery(graphql`
 		{
-			allMarkdownRemark(
-				filter: { fields: { slug: { eq: "/sakramenty_i_sakramentalia" } } }
-			) {
-				edges {
-					node {
-						frontmatter {
-							...sectionFields
-							...tilesFields
-						}
-					}
+			markdownRemark(fields: { slug: { eq: "/sakramenty_i_sakramentalia" } }) {
+				frontmatter {
+					...sectionFields
+					...tilesFields
 				}
 			}
 		}
 	`);
-	const sacraments = allMarkdownRemark.edges[0].node;
+
+	const { title, cover, tiles } = markdownRemark.frontmatter;
 
 	return (
 		<Wrapper as={SectionWrapper} id={id}>
-			<Background
-				left
-				as={Img}
-				fluid={sacraments.frontmatter.cover.childImageSharp.fluid}
-			/>
-			<SectionTitle>{sacraments.frontmatter.title}</SectionTitle>
+			<Background left as={Img} fluid={cover.childImageSharp.fluid} />
+			<SectionTitle>{title}</SectionTitle>
 			<TileList>
-				{sacraments.frontmatter.tiles.map(node => (
-					<TileItem key={node.title}>
-						<Tile
-							title={node.title}
-							to={node.to}
-							image={node.image.childImageSharp.fluid}
-						/>
+				{tiles.map(tile => (
+					<TileItem key={tile.title}>
+						<Tile title={tile.title} to={tile.to} image={tile.image} />
 					</TileItem>
 				))}
 			</TileList>

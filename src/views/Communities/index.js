@@ -14,42 +14,27 @@ import {
 import { Wrapper } from './styles';
 
 const Communities = ({ id }) => {
-	const { allMarkdownRemark } = useStaticQuery(graphql`
+	const { markdownRemark } = useStaticQuery(graphql`
 		{
-			allMarkdownRemark(
-				filter: { fields: { slug: { eq: "/wspolnoty_i_grupy" } } }
-			) {
-				edges {
-					node {
-						frontmatter {
-							...sectionFields
-							...tilesFields
-						}
-					}
+			markdownRemark(fields: { slug: { eq: "/wspolnoty_i_grupy" } }) {
+				frontmatter {
+					...sectionFields
+					...tilesFields
 				}
 			}
 		}
 	`);
 
-	const communities = allMarkdownRemark.edges[0].node;
+	const { title, cover, tiles } = markdownRemark.frontmatter;
 
 	return (
 		<Wrapper as={SectionWrapper} id={id}>
-			<Background
-				bright
-				as={Img}
-				fluid={communities.frontmatter.cover.childImageSharp.fluid}
-			/>
-			<SectionTitle dark>{communities.frontmatter.title}</SectionTitle>
+			<Background bright as={Img} fluid={cover.childImageSharp.fluid} />
+			<SectionTitle dark>{title}</SectionTitle>
 			<TileList muzzle>
-				{communities.frontmatter.tiles.map(node => (
-					<TileItem key={node.title}>
-						<Tile
-							dark
-							title={node.title}
-							to={node.to}
-							image={node.image.childImageSharp.fluid}
-						/>
+				{tiles.map(tile => (
+					<TileItem key={tile.title}>
+						<Tile dark title={tile.title} to={tile.to} image={tile.image} />
 					</TileItem>
 				))}
 			</TileList>

@@ -7,7 +7,7 @@ import { Wrapper, Title, ImageWrapper } from './styles';
 
 const TileItem = ({ title, to, image, dark }) => (
 	<Wrapper as={ConditionalLink} to={to} dark={dark}>
-		<ImageWrapper as={Img} fluid={image} />
+		<ImageWrapper as={Img} fixed={image.childImageSharp.fixed} />
 		<Title dark={dark}>{title}</Title>
 	</Wrapper>
 );

@@ -14,39 +14,27 @@ import {
 import { Wrapper } from './styles';
 
 const Suggestions = ({ id }) => {
-	const { allMarkdownRemark } = useStaticQuery(graphql`
+	const { markdownRemark } = useStaticQuery(graphql`
 		{
-			allMarkdownRemark(filter: { fields: { slug: { eq: "/propozycje" } } }) {
-				edges {
-					node {
-						frontmatter {
-							...sectionFields
-							...tilesFields
-						}
-					}
+			markdownRemark(fields: { slug: { eq: "/propozycje" } }) {
+				frontmatter {
+					...sectionFields
+					...tilesFields
 				}
 			}
 		}
 	`);
 
-	const suggestions = allMarkdownRemark.edges[0].node;
+	const { title, cover, tiles } = markdownRemark.frontmatter;
 
 	return (
 		<Wrapper as={SectionWrapper} id={id}>
-			<Background
-				left
-				as={Img}
-				fluid={suggestions.frontmatter.cover.childImageSharp.fluid}
-			/>
-			<SectionTitle>{suggestions.frontmatter.title}</SectionTitle>
+			<Background left as={Img} fluid={cover.childImageSharp.fluid} />
+			<SectionTitle>{title}</SectionTitle>
 			<TileList muzzle>
-				{suggestions.frontmatter.tiles.map(tile => (
+				{tiles.map(tile => (
 					<TileItem key={tile.title}>
-						<Tile
-							title={tile.title}
-							to={tile.to}
-							image={tile.image.childImageSharp.fluid}
-						/>
+						<Tile title={tile.title} to={tile.to} image={tile.image} />
 					</TileItem>
 				))}
 			</TileList>
