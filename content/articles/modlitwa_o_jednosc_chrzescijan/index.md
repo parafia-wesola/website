@@ -8,8 +8,6 @@ eventDate: 2020-06-28T18:00:00Z
 images:
   - zorza.jpg
   - zorza2.jpg
-order: 4
-size: medium
 ---
 
 Parafia istnieje od 1950 roku i ma piękna historię, o której będziecie mogli przeczytać w rubryce Historia parafii. Od września 2011 roku parafia jest prowadzona przez ojców z Instytutu Zakonnego „Chemin Neuf". Proboszczem jest ojciec Mariusz Tłokiński, a wikariuszem – ojciec Adam Strojny.

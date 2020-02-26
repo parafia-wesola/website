@@ -8,8 +8,6 @@ eventDate: 2020-10-10T18:00:00Z
 images:
   - zorza.jpg
   - zorza2.jpg
-order: 1
-size: medium
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper mattis odio, et semper nisl dapibus ac. Morbi vitae eros eget dui placerat ultricies. Duis est dolor, rhoncus ac libero id, porttitor ultrices nulla. Donec vel eros vel odio imperdiet hendrerit quis in orci. Ut blandit turpis sit amet ligula imperdiet, et hendrerit nisi sollicitudin. Aliquam nunc urna, sagittis nec tellus eget, interdum viverra erat. Integer id sollicitudin diam, vitae viverra elit. In luctus magna a pulvinar gravida.

@@ -11,8 +11,6 @@ images:
   - zorza3.jpg
   - zelki.jpg
   - zelki2.jpg
-order: 0
-size: large
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper mattis odio, et semper nisl dapibus ac. Morbi vitae eros eget dui placerat ultricies. Duis est dolor, rhoncus ac libero id, porttitor ultrices nulla. Donec vel eros vel odio imperdiet hendrerit quis in orci. Ut blandit turpis sit amet ligula imperdiet, et hendrerit nisi sollicitudin. Aliquam nunc urna, sagittis nec tellus eget, interdum viverra erat. Integer id sollicitudin diam, vitae viverra elit. In luctus magna a pulvinar gravida.
