@@ -6,11 +6,11 @@ import { StyledEventList } from './styles';
 
 const EventSection = () => {
 	const { eventsFirst, eventsSecond } = useStaticQuery(graphql`
-		query {
+		{
 			eventsFirst: allMarkdownRemark(
-				sort: { order: ASC, fields: frontmatter___eventDate }
 				filter: {
-					frontmatter: { eventDate: { gt: "0" }, type: { eq: "article" } }
+					isFuture: { eq: true }
+					frontmatter: { type: { eq: "article" } }
 				}
 				limit: 3
 			) {

@@ -1,6 +1,21 @@
 const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 
+exports.createSchemaCustomization = ({ actions, schema }) => {
+	actions.createTypes([
+		schema.buildObjectType({
+			name: 'MarkdownRemark',
+			interfaces: ['Node'],
+			fields: {
+				isFuture: {
+					type: 'Boolean!',
+					resolve: s => new Date(s.frontmatter.eventDate) > new Date(),
+				},
+			},
+		}),
+	]);
+};
+
 // Creates menu node with people items from crew content and MenuJson
 exports.sourceNodes = async ({
 	actions,

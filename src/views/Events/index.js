@@ -10,9 +10,9 @@ const EventSection = () => {
 	} = useStaticQuery(graphql`
 		{
 			allMarkdownRemark(
-				sort: { order: ASC, fields: frontmatter___eventDate }
 				filter: {
-					frontmatter: { eventDate: { gt: "0" }, type: { eq: "article" } }
+					isFuture: { eq: true }
+					frontmatter: { type: { eq: "article" } }
 				}
 				limit: 3
 			) {
@@ -35,7 +35,7 @@ const EventSection = () => {
 	`);
 
 	const isReadMore = total > events.length;
-
+	if (!events.length) return null;
 	return (
 		<SectionWrapper id="events">
 			<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
