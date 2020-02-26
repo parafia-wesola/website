@@ -1,24 +1,24 @@
 {
 	"name": "aktualności",
-	"to": "/#newsfeed",
+	"to": "/#dzieje_sie",
 	"mobile": true,
 	"order": 1,
 	"sub": [
 		{
 			"name": "dzieje się",
-			"to": "/#newsfeed"
-		},
-		{
-			"name": "nadchodzące wydarzenia",
-			"to": "/#events"
+			"to": "/#dzieje_sie"
 		},
 		{
 			"name": "ogłoszenia",
-			"to": "/#annoucements"
+			"to": "/#ogloszenia_i_informacje"
 		},
 		{
 			"name": "intencje mszalne",
-			"to": "/intencje_mszalne"
+			"to": "!"
+		},
+		{
+			"name": "nadchodzące wydarzenia",
+			"to": "/nadchodzace_wydarzenia"
 		}
 	]
 }

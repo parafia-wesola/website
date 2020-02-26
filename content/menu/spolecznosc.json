@@ -10,11 +10,11 @@
 		},
 		{
 			"name": "dzielnica i okolica",
-			"to": "/dzielnica"
+			"to": "!"
 		},
 		{
 			"name": "inicjatywy społeczne",
-			"to": "/inicjatywy_spoleczne"
+			"to": "!"
 		}
 	]
 }

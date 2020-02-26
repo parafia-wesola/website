@@ -15,6 +15,18 @@ const ConditionalLink = ({ to, className, children, click }) => {
 
 	const firstChar = to && to.slice(0, 1);
 
+	// disable link
+	if (firstChar === '!') {
+		return (
+			<span
+				style={{ color: '#666', cursor: 'not-allowed' }}
+				className={className}
+			>
+				{children}
+			</span>
+		);
+	}
+
 	// Gatsby Link
 	if (firstChar === '/') {
 		return (

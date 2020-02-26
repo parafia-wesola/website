@@ -6,7 +6,7 @@
 	"sub": [
 		{
 			"name": "zdjęcia",
-			"to": "/zdjecia"
+			"to": "!"
 		},
 		{
 			"name": "filmy",
@@ -14,11 +14,11 @@
 		},
 		{
 			"name": "audio",
-			"to": "/audio"
+			"to": "!"
 		},
 		{
 			"name": "wirtualne zwiedzanie",
-			"to": "/wirtualne_zwiedzanie"
+			"to": "!"
 		}
 	]
 }

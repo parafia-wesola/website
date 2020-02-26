@@ -10,35 +10,35 @@
 		},
 		{
 			"name": "zwiastowanie",
-			"to": "/wspolnoty#zwiastowanie"
+			"to": "/wspolnota_odnowy_w_duchu_swietym_-_zwiastowanie"
 		},
 		{
 			"name": "służba liturgiczna ołtarza",
-			"to": "/wspolnoty#sluzba_liturgiczna"
+			"to": "!"
 		},
 		{
 			"name": "chór dorosłych",
-			"to": "/wspolnoty#chor_doroslych"
+			"to": "!"
 		},
 		{
 			"name": "zespół młodzieżowy",
-			"to": "/wspolnoty#zespol_mlodziezowy"
+			"to": "!"
 		},
 		{
 			"name": "młodzi open",
-			"to": "/wspolnoty#mlodzi_open"
+			"to": "!"
 		},
 		{
 			"name": "wiara i praca",
-			"to": "/wspolnoty#wiara_i_praca"
+			"to": "!"
 		},
 		{
 			"name": "nikodem",
-			"to": "/wspolnoty#nikodem"
+			"to": "!"
 		},
 		{
 			"name": "koło przyjaciół Radia Maryja",
-			"to": "/wspolnoty#radio_maryja"
+			"to": "!"
 		}
 	]
 }
