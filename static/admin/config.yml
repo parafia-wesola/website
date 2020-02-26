@@ -103,3 +103,24 @@ collections:
       - { label: 'Numer telefonu', name: 'phone', widget: 'string', required: false }
       - { label: 'E-mail', name: 'mail', widget: 'string', required: false }
       - { label: 'Bio', name: 'body', widget: 'markdown' }
+  - name: "socials"
+    label: "Social media"
+    label_singular: "social"
+    description: 'Miejsce do zarządzania social media'
+    folder: "content/socials"
+    create: true
+    format: 'json'
+    path: 'index'
+    editor:
+     preview: false
+    fields:
+      - { label: Tytuł, name: title, widget: string, default: Socials }
+      - label: Kolejność
+        name: socials
+        widget: list
+        fields:
+        - { label: Nazwa, name: title, widget: string }
+        - { label: Ikona, name: cover, widget: select, options: [facebook.svg, google-play.svg, youtube.svg] }
+        - { label: Link, name: to, widget: string }
+        - { label: Tylko na komórkę, name: mobile, widget: boolean, default: false }
+        - { label: Opis, name: text, widget: string, required: false }

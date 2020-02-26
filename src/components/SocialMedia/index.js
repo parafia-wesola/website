@@ -6,24 +6,16 @@ import ConditionalLink from 'components/Conditional';
 import { Wrapper, SocialItem, SocialButton, Logo, Text } from './styles';
 
 const SocialMedia = ({ noText, noMobile, className }) => {
-	const { socials } = useStaticQuery(graphql`
+	const { socialsJson } = useStaticQuery(graphql`
 		{
-			socials: allMarkdownRemark(
-				sort: { fields: frontmatter___order }
-				filter: { frontmatter: { type: { eq: "social" } } }
-			) {
-				edges {
-					node {
-						id
-						html
-						frontmatter {
-							title
-							to
-							mobile
-							cover {
-								publicURL
-							}
-						}
+			socialsJson {
+				socials {
+					title
+					mobile
+					text
+					to
+					cover {
+						publicURL
 					}
 				}
 			}
@@ -32,17 +24,15 @@ const SocialMedia = ({ noText, noMobile, className }) => {
 
 	return (
 		<Wrapper className={className}>
-			{socials.edges.map(({ node }) => {
-				const { title, mobile, to, cover } = node.frontmatter;
+			{socialsJson.socials.map(social => {
+				const { title, mobile, to, cover, text } = social;
 
 				return (
 					!(mobile && noMobile) && (
-						<SocialItem key={node.id} mobile={mobile}>
+						<SocialItem key={title} mobile={mobile}>
 							<SocialButton as={ConditionalLink} to={to}>
 								<Logo src={cover.publicURL} alt={`Ikona ${title}`} />
-								{!noText && (
-									<Text dangerouslySetInnerHTML={{ __html: node.html }} />
-								)}
+								{!noText && <Text dangerouslySetInnerHTML={{ __html: text }} />}
 							</SocialButton>
 						</SocialItem>
 					)
