@@ -8,6 +8,7 @@ import { SectionText } from 'components/Share';
 import {
 	Card,
 	Cover,
+	EmptyCover,
 	Body,
 	Title,
 	InfoList,
@@ -17,12 +18,15 @@ import {
 } from './styles';
 
 const Bio = ({ title, position, mail, phone, cover, text, className }) => {
-	const { phoneIcon, mailIcon } = useStaticQuery(graphql`
+	const { phoneIcon, mailIcon, userIcon } = useStaticQuery(graphql`
 		{
 			phoneIcon: file(name: { eq: "phone" }) {
 				publicURL
 			}
 			mailIcon: file(name: { eq: "email" }) {
+				publicURL
+			}
+			userIcon: file(name: { eq: "user" }) {
 				publicURL
 			}
 		}
@@ -31,7 +35,11 @@ const Bio = ({ title, position, mail, phone, cover, text, className }) => {
 	return (
 		<article className={className}>
 			<Card>
-				<Cover as={Img} fluid={cover.childImageSharp.fluid} />
+				{cover ? (
+					<Cover as={Img} fluid={cover.childImageSharp.fluid} />
+				) : (
+					<EmptyCover src={userIcon.publicURL} />
+				)}
 				<Body>
 					<Title>{title}</Title>
 					<InfoList>

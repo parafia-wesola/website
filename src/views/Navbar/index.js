@@ -20,7 +20,7 @@ const Navbar = () => {
 	const [isOpen, setIsOpen] = useState(false);
 	const { file, site, mobileMenu, allMenu } = useStaticQuery(graphql`
 		query {
-			file(relativePath: { eq: "icon.png" }) {
+			file(name: { eq: "icon" }) {
 				childImageSharp {
 					fluid(maxHeight: 100) {
 						...GatsbyImageSharpFluid

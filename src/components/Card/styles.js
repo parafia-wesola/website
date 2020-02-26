@@ -53,6 +53,15 @@ export const Cover = styled.div`
 	border-radius: 50%;
 `;
 
+export const EmptyCover = styled.img`
+	flex-shrink: 0;
+	width: 8em;
+	height: 8em;
+	padding: 0.5em;
+	background: #ccc;
+	border-radius: 50%;
+`;
+
 export const Body = styled.div`
 	margin: 1em 0;
 	line-height: 1.5em;

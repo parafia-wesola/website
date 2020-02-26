@@ -4,10 +4,10 @@ import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 
 import ConditionalLink from 'components/Conditional';
-import { Wrapper, Cover, Body, Title, Info, Icon } from './styles';
+import { Wrapper, Cover, Body, Title, Info, Icon, EmptyCover } from './styles';
 
 const Card = ({ title, to, position, mail, phone, cover }) => {
-	const { phoneIcon, mailIcon } = useStaticQuery(graphql`
+	const { phoneIcon, mailIcon, userIcon } = useStaticQuery(graphql`
 		{
 			phoneIcon: file(name: { eq: "phone" }) {
 				publicURL
@@ -15,11 +15,18 @@ const Card = ({ title, to, position, mail, phone, cover }) => {
 			mailIcon: file(name: { eq: "email" }) {
 				publicURL
 			}
+			userIcon: file(name: { eq: "user" }) {
+				publicURL
+			}
 		}
 	`);
 	return (
 		<Wrapper as={ConditionalLink} to={to}>
-			<Cover as={Img} fluid={cover.childImageSharp.fluid} />
+			{cover ? (
+				<Cover as={Img} fluid={cover.childImageSharp.fluid} />
+			) : (
+				<EmptyCover src={userIcon.publicURL} />
+			)}
 			<Body>
 				<Title>{title}</Title>
 				{position && <Info>{position}</Info>}
