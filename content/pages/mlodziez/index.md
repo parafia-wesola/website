@@ -4,19 +4,19 @@ title: Młodzież
 cover: mlodziez.jpg
 tiles:
   - title: Młodzi Open
-    to: /404
+    to: '!'
   - title: Alpha Młodzi
-    to: /404
+    to: '!'
   - title: Msza św. dla młodzieży
     to: $/msza_sw_dla_mlodziezy
   - title: Weekend dla 14-18
-    to: /404
+    to: '!'
   - title: Obóz letni dla 14-18
-    to: /404
+    to: '!'
   - title: Weekend dla 18-30
-    to: /404
+    to: '!'
   - title: Festiwal dla 18-30
-    to: /404
+    to: '!'
   - title: Przygotowanie do sakramentu Bierzmowania
     to: $/bierzmowanie
 ---

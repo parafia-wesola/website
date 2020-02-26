@@ -19,7 +19,7 @@ const ConditionalLink = ({ to, className, children, click }) => {
 	if (firstChar === '!') {
 		return (
 			<span
-				style={{ color: '#666', cursor: 'not-allowed' }}
+				style={{ color: '#999', cursor: 'not-allowed' }}
 				className={className}
 			>
 				{children}

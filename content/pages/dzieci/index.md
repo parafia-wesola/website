@@ -6,11 +6,11 @@ tiles:
   - title: Msze św. z animacją dla dzieci
     to: $/msza_sw_z_animacja_dla_dzieci
   - title: Tymoteusz
-    to: /404
+    to: '!'
   - title: Spotkania dla dzieci
-    to: /404
+    to: '!'
   - title: Pierwsza Komunia Święta
-    to: /404
+    to: '!'
   - title: Ministranci
-    to: /404
+    to: '!'
 ---

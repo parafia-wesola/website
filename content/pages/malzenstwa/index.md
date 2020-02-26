@@ -4,11 +4,11 @@ title: Małżeństwa
 cover: malzenstwa.jpg
 tiles:
   - title: Kana Welcome
-    to: /404
+    to: '!'
   - title: Kana Weekend
-    to: /404
+    to: '!'
   - title: Tydzień Kana
-    to: /404
+    to: '!'
   - title: 1,2,3 Kana
-    to: /404
+    to: '!'
 ---

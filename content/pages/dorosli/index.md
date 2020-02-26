@@ -4,23 +4,23 @@ title: Dorośli
 cover: dorosli.jpg
 tiles:
   - title: Kurs Alpha
-    to: /404
+    to: '!'
   - title: Dla seniorów
-    to: /404
+    to: '!'
   - title: Nikodem
-    to: /404
+    to: '!'
   - title: Dla mężczyzn
-    to: /404
+    to: '!'
   - title: Wiara i praca
-    to: /404
+    to: '!'
   - title: Wspólnota Chemin Neuf
-    to: /404
+    to: https://www.chemin-neuf.pl/pl/
   - title: Rekolekcje parafialne
-    to: /404
+    to: '!'
   - title: Wspólnota zwiastowanie
-    to: /404
+    to: /wspolnota_odnowy_w_duchu_swietym_-_zwiastowanie
   - title: Net for God
-    to: /404
+    to: '!'
   - title: Inne
-    to: /404
+    to: '!'
 ---
