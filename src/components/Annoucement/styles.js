@@ -20,5 +20,5 @@ export const AnnoucementTitle = styled.h3`
 export const AnnoucementText = styled.div`
 	font-weight: 400;
 	font-size: 1em;
-	line-height: 1.5;
+	line-height: 1.75;
 `;

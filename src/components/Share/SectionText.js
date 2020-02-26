@@ -8,22 +8,27 @@ const SectionText = styled.div`
 	line-height: 2;
 	text-align: justify;
 	text-justify: inter-word;
+	word-break: break-word;
 
 	strong {
 		font-weight: 600;
 	}
 
-	ol,
-	ul {
+	ol {
 		padding: 0;
+		line-height: 2;
+	}
+
+	ul {
+		padding-left: 1.5rem;
+	}
+
+	li {
+		margin: 0 0 1.5em;
 	}
 
 	& > p {
 		text-indent: 2em;
-	}
-
-	li {
-		margin-bottom: 3em;
 	}
 
 	blockquote {

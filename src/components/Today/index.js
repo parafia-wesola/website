@@ -21,7 +21,7 @@ const Today = ({ className }) => {
 	useEffect(() => {
 		getReadings()
 			.then(({ reading }) => {
-				setReadings(reading.split(/r?\n/));
+				setReadings(reading.replace(/&ndash;/g, '–').split(/r?\n/));
 			})
 			.catch(({ message }) => {
 				setReadings([message]);
