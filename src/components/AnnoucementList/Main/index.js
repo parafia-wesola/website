@@ -29,12 +29,14 @@ const Main = ({ className }) => {
 		}
 	`);
 
+	if (!allMarkdownRemark.edges.length) return null;
+
 	const [isOpen, setIsOpen] = useState(false);
 	const [isReadMore, setIsReadMore] = useState(true);
-
-	const annoucement = allMarkdownRemark.edges[0].node;
 	const wrapper = useRef(null);
 	const offset = useContext(SmoothScrollContext);
+
+	const annoucement = allMarkdownRemark.edges[0].node;
 
 	const handleClick = () => {
 		setIsOpen(!isOpen);
