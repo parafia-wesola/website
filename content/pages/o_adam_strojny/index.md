@@ -1,8 +1,7 @@
 ---
-type: crew
+type: user
 title: o. Adam Strojny
 cover: o_adam_strojny.jpg
-order: 0
 position: proboszcz
 phone: 668 332 443
 mail: ''

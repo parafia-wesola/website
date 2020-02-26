@@ -26,23 +26,6 @@ collections:
       - { label: "Tytuł", name: "title", widget: "string", default: "ogłoszenia parafialne i duszpasterskie" }
       - { label: "Data dodania", name: "date", widget: "datetime" }
       - { label: "Treść", name: "body", widget: "markdown" }
-  - name: "newsfeed"
-    label: "Dzieje się"
-    label_singular: "Dzieje się"
-    description: 'Tutaj można zarządzać sekcją dzieje się. UWAGA!!! Na liście musi być przynajmniej jednej element, nawet pusty.'
-    folder: "content/pages/dzieje_sie"
-    delete: false
-    editor:
-     preview: false
-    fields:
-      - { label: "Typ", name: "type", widget: "hidden", default: "newsfeed" }
-      - { label: "Tytuł", name: "title", widget: "string", default: "newsfeed" }
-      - label: "Dzieje się"
-        name: "news"
-        widget: "list"
-        fields:
-          - {label: Nazwa, name: title, widget: relation, collection: articles, searchFields: [title], valueField: title, default: '', required: false }
-          - {label: Wielkość, name: size, widget: select, options: ["large", "medium"], default: "large" }
   - name: "articles"
     label: "Artykuły"
     label_singular: "artykuł"
@@ -68,41 +51,55 @@ collections:
           field: { widget: image },
         }
       - { label: 'Treść', name: 'body', widget: 'markdown' }
+  - name: "newsfeed"
+    label: "Dzieje się"
+    label_singular: "Dzieje się"
+    description: 'Tutaj można zarządzać sekcją dzieje się. UWAGA!!! Na liście musi być przynajmniej jednej element, nawet pusty.'
+    folder: "content/pages/dzieje_sie"
+    delete: false
+    editor:
+     preview: false
+    fields:
+      - { label: "Typ", name: "type", widget: "hidden" }
+      - { label: "Tytuł", name: "title", widget: "string", default: "newsfeed" }
+      - label: "Dzieje się"
+        name: "news"
+        widget: "list"
+        fields:
+          - {label: Nazwa, name: title, widget: relation, collection: articles, searchFields: [title], valueField: title, default: '', required: false }
+          - {label: Wielkość, name: size, widget: select, options: ["large", "medium"], default: "large" }
   - name: "crew"
     label: "Ekipa"
     label_singular: "członek ekipy"
-    description: 'Tutaj można dodawać i usuwać członków ekipy parafii.'
-    folder: "content/o_nas"
+    description: "Miejsce do zarządzania kolejnością wyświetlania czlonków ekipy w sekcjach 'o nas' i 'rada parafialna'. UWAGA!!! Osoby ustawione w sekcji 'o nas' pojawią się również w zakładce kontakt w menu"
+    folder: "content/manager"
+    delete: false
+    editor:
+     preview: false
+    fields:
+      - { label: "Typ", name: "type", widget: "hidden" }
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - label: "Kolejność"
+        name: "users"
+        widget: "list"
+        fields:
+        - {label: Nazwa, name: title, widget: relation, collection: users, searchFields: [title], valueField: title, default: '', required: false }
+  - name: "users"
+    label: "Osoby"
+    label_singular: "osoba"
+    description: 'Tutaj można dodawać nowe pozycje z notkami biograficznymi.'
+    folder: "content/pages"
     create: true
+    filter: {field: "type", value: "user"}
     slug: "{{slug}}"
     path: '{{slug}}/index'
     editor:
      preview: false
     fields:
-      - { label: "Typ", name: "type", widget: "hidden", default: "crew" }
+      - { label: "Typ", name: "type", widget: "hidden", default: "user" }
       - { label: 'Imię i nazwisko', name: 'title', widget: 'string' }
+      - { label: 'Zdjęcie', name: 'cover', widget: image, required: false }
       - { label: 'Stanowisko', name: 'position', widget: 'string', required: false }
       - { label: 'Numer telefonu', name: 'phone', widget: 'string', required: false }
       - { label: 'E-mail', name: 'mail', widget: 'string', required: false }
-      - { label: 'Zdjęcie', name: 'cover', widget: image, required: false }
-      - { label: 'Pozycja na liście', name: 'order', widget: "number", default: 0 }
-      - { label: 'Bio', name: 'body', widget: 'markdown' }
-  - name: "council"
-    label: "Rada Parafialna"
-    label_singular: "członek rady"
-    description: 'Tutaj można dodawać i usuwać członków parafii.'
-    folder: "content/rada_parafialna"
-    create: true
-    slug: "{{slug}}"
-    path: '{{slug}}/index'
-    editor:
-     preview: false
-    fields:
-      - { label: "Typ", name: "type", widget: "hidden", default: "council" }
-      - { label: 'Imię i nazwisko', name: 'title', widget: 'string' }
-      - { label: 'Stanowisko', name: 'position', widget: 'string', required: false }
-      - { label: 'Numer telefonu', name: 'phone', widget: 'string', required: false }
-      - { label: 'E-mail', name: 'mail', widget: 'string', required: false }
-      - { label: 'Zdjęcie', name: 'cover', widget: image, required: false }
-      - { label: 'order', name: 'Pozycja na liście', widget: "number", default: 0 }
       - { label: 'Bio', name: 'body', widget: 'markdown' }

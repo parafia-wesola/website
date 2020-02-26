@@ -12,13 +12,19 @@ exports.sourceNodes = async ({
 	const allMarkdown = getNodesByType('MarkdownRemark');
 	const menu = getNodesByType('MenuJson');
 
-	const crew = allMarkdown
-		.filter(el => el.frontmatter.type.includes('crew'))
-		.sort((a, b) => a.frontmatter.order - b.frontmatter.order)
-		.map(el => ({
-			name: el.frontmatter.title,
-			to: el.fields.slug,
-		}));
+	const { users } = allMarkdown.find(
+		el => el.frontmatter.type === 'crew',
+	).frontmatter;
+	const allUsers = allMarkdown.filter(el => el.frontmatter.type === 'user');
+	const crew = users.map(el => {
+		const foundUser = allUsers.find(
+			user => user.frontmatter.title === el.title,
+		);
+		return {
+			name: foundUser.frontmatter.title,
+			to: foundUser.fields.slug,
+		};
+	});
 
 	menu.forEach((el, index) => {
 		const data = {
@@ -118,7 +124,7 @@ exports.createPages = async ({ graphql, actions }) => {
 			});
 		}
 
-		if (type === 'crew' || type === 'council') {
+		if (type === 'user') {
 			createPage({
 				path: slug,
 				component: path.resolve('src/templates/Bio/index.js'),

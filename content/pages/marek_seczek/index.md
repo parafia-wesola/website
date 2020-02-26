@@ -1,7 +1,6 @@
 ---
-type: council
+type: user
 title: Marek Sęczek
-order: 1
 position: ''
 phone: ''
 mail: ''

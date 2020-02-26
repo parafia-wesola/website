@@ -44,14 +44,12 @@ const News = ({ id }) => {
 			}
 		}
 	`);
-	if (!markdownRemark.frontmatter.news[0].title) return null;
+	const { news } = markdownRemark.frontmatter;
+	if (!news[0].title) return null;
 	return (
 		<SectionWrapper id={id}>
 			<SectionTitle dark>{markdownRemark.frontmatter.title}</SectionTitle>
-			<StyledNewsFeed
-				as={NewsFeed}
-				articles={markdownRemark.frontmatter.news}
-			/>
+			<StyledNewsFeed as={NewsFeed} articles={news} />
 		</SectionWrapper>
 	);
 };

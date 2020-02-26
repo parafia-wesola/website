@@ -6,27 +6,26 @@ import CardItem from 'components/Card';
 import { Wrapper, Item } from './styles';
 
 const Council = () => {
-	const { cards } = useStaticQuery(graphql`
+	const { markdownRemark } = useStaticQuery(graphql`
 		{
-			cards: allMarkdownRemark(
-				filter: { fields: { slug: { regex: "/rada_parafialna//" } } }
-				sort: { fields: frontmatter___order, order: ASC }
-			) {
-				edges {
-					node {
-						id
-						fields {
-							slug
-						}
-						frontmatter {
-							title
-							position
-							phone
-							mail
-							cover {
-								childImageSharp {
-									fluid(quality: 100, maxWidth: 200) {
-										...GatsbyImageSharpFluid
+			markdownRemark(frontmatter: { type: { eq: "council" } }) {
+				frontmatter {
+					users {
+						title {
+							id
+							fields {
+								slug
+							}
+							frontmatter {
+								title
+								position
+								phone
+								mail
+								cover {
+									childImageSharp {
+										fluid(quality: 100, maxWidth: 200) {
+											...GatsbyImageSharpFluid
+										}
 									}
 								}
 							}
@@ -36,13 +35,15 @@ const Council = () => {
 			}
 		}
 	`);
+	const { users } = markdownRemark.frontmatter;
+	if (!users[0].title) return null;
 	return (
-		<Wrapper as={TileList}>
-			{cards.edges.map(({ node }) => {
-				const { title, position, phone, mail, cover } = node.frontmatter;
-				const { slug } = node.fields;
+		<Wrapper as={TileList} id="council">
+			{users.map(user => {
+				const { title, position, phone, mail, cover } = user.title.frontmatter;
+				const { slug } = user.title.fields;
 				return (
-					<Item key={node.id}>
+					<Item key={user.title.id}>
 						<CardItem
 							title={title}
 							to={`$${slug}`}
