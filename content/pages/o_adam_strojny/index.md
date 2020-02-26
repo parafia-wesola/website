@@ -2,9 +2,10 @@
 type: user
 title: o. Adam Strojny
 cover: o_adam_strojny.jpg
-position: proboszcz
-phone: 668 332 443
-mail: ''
+bio:
+  job: proboszcz
+  phone: 668 332 443
+  mail: ''
 ---
 
 **o. Adam Strojny** pochodzi ze Skierniewic. Po maturze wstąpił do Seminarium Diecezji Łowickiej. Po święceniach kapłańskich, które przyjął **19 czerwca 1999 r.**, wyjechał na dalsze studia do Rzymu, gdzie uzyskał stopień **doktora teologii**, ze specjalizacją w zakresie eklezjologii i ekumenizmu. W szóstym roku pobytu we Włoszech był administratorem parafii w Accumoli, na północny wschód od Rzymu.

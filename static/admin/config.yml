@@ -99,9 +99,13 @@ collections:
       - { label: "Typ", name: "type", widget: "hidden", default: "user" }
       - { label: 'Imię i nazwisko', name: 'title', widget: 'string' }
       - { label: 'Zdjęcie', name: 'cover', widget: image, required: false }
-      - { label: 'Stanowisko', name: 'position', widget: 'string', required: false }
-      - { label: 'Numer telefonu', name: 'phone', widget: 'string', required: false }
-      - { label: 'E-mail', name: 'mail', widget: 'string', required: false }
+      - label: "Dodatkowe informacje"
+        name: "bio"
+        widget: "object"
+        fields:
+          - { label: 'Stanowisko', name: 'job', widget: 'string', required: false, default: '' }
+          - { label: 'Numer telefonu', name: 'phone', widget: 'string', required: false, default: '' }
+          - { label: 'E-mail', name: 'mail', widget: 'string', required: false, default: '' }
       - { label: 'Bio', name: 'body', widget: 'markdown' }
   - name: "socials"
     label: "Social media"

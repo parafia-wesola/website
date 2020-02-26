@@ -17,7 +17,7 @@ import {
 	Icon,
 } from './styles';
 
-const Bio = ({ title, position, mail, phone, cover, text, className }) => {
+const Bio = ({ title, job, mail, phone, cover, text, className }) => {
 	const { phoneIcon, mailIcon, userIcon } = useStaticQuery(graphql`
 		{
 			phoneIcon: file(name: { eq: "phone" }) {
@@ -43,7 +43,7 @@ const Bio = ({ title, position, mail, phone, cover, text, className }) => {
 				<Body>
 					<Title>{title}</Title>
 					<InfoList>
-						{position && <InfoItem>{position}</InfoItem>}
+						{job && <InfoItem>{job}</InfoItem>}
 						{phone && (
 							<InfoItem>
 								<InfoLink as={Conditional} to={`tel:${phone}`}>
@@ -71,7 +71,7 @@ const Bio = ({ title, position, mail, phone, cover, text, className }) => {
 Bio.propTypes = {
 	cover: PropTypes.shape().isRequired,
 	title: PropTypes.string.isRequired,
-	position: PropTypes.string,
+	job: PropTypes.string,
 	mail: PropTypes.string,
 	phone: PropTypes.string,
 	text: PropTypes.string.isRequired,
@@ -79,7 +79,7 @@ Bio.propTypes = {
 };
 
 Bio.defaultProps = {
-	position: null,
+	job: null,
 	mail: null,
 	phone: null,
 	className: null,

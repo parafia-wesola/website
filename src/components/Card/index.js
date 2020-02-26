@@ -6,7 +6,7 @@ import Img from 'gatsby-image';
 import ConditionalLink from 'components/Conditional';
 import { Wrapper, Cover, Body, Title, Info, Icon, EmptyCover } from './styles';
 
-const Card = ({ title, to, position, mail, phone, cover }) => {
+const Card = ({ title, to, job, mail, phone, cover }) => {
 	const { phoneIcon, mailIcon, userIcon } = useStaticQuery(graphql`
 		{
 			phoneIcon: file(name: { eq: "phone" }) {
@@ -29,7 +29,7 @@ const Card = ({ title, to, position, mail, phone, cover }) => {
 			)}
 			<Body>
 				<Title>{title}</Title>
-				{position && <Info>{position}</Info>}
+				{job && <Info>{job}</Info>}
 				{phone && (
 					<Info>
 						<Icon src={phoneIcon.publicURL} />
@@ -51,13 +51,13 @@ Card.propTypes = {
 	cover: PropTypes.shape().isRequired,
 	title: PropTypes.string.isRequired,
 	to: PropTypes.string.isRequired,
-	position: PropTypes.string,
+	job: PropTypes.string,
 	mail: PropTypes.string,
 	phone: PropTypes.string,
 };
 
 Card.defaultProps = {
-	position: null,
+	job: null,
 	mail: null,
 	phone: null,
 };

@@ -18,9 +18,11 @@ const Council = () => {
 							}
 							frontmatter {
 								title
-								position
-								phone
-								mail
+								bio {
+									job
+									phone
+									mail
+								}
 								cover {
 									childImageSharp {
 										fluid(quality: 100, maxWidth: 200) {
@@ -40,16 +42,16 @@ const Council = () => {
 	return (
 		<Wrapper as={TileList} id="council">
 			{users.map(user => {
-				const { title, position, phone, mail, cover } = user.title.frontmatter;
+				const { title, bio, cover } = user.title.frontmatter;
 				const { slug } = user.title.fields;
 				return (
 					<Item key={user.title.id}>
 						<CardItem
 							title={title}
 							to={`$${slug}`}
-							position={position}
-							phone={phone}
-							mail={mail}
+							job={bio.job}
+							phone={bio.phone}
+							mail={bio.mail}
 							cover={cover}
 						/>
 					</Item>

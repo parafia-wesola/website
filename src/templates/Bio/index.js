@@ -9,13 +9,7 @@ import Bio from 'components/Bio';
 import { ModalBio, PageBio } from './styles';
 
 const BioTemplate = ({ data }) => {
-	const {
-		title,
-		cover,
-		phone,
-		mail,
-		position,
-	} = data.markdownRemark.frontmatter;
+	const { title, cover, bio } = data.markdownRemark.frontmatter;
 	const text = data.markdownRemark.html;
 	const { slug } = data.markdownRemark.fields;
 
@@ -30,9 +24,9 @@ const BioTemplate = ({ data }) => {
 								as={Bio}
 								title={title}
 								cover={cover}
-								position={position}
-								phone={phone}
-								mail={mail}
+								job={bio.job}
+								phone={bio.phone}
+								mail={bio.mail}
 								to={slug}
 								text={text}
 							/>
@@ -44,9 +38,9 @@ const BioTemplate = ({ data }) => {
 								as={Bio}
 								title={title}
 								cover={cover}
-								position={position}
-								phone={phone}
-								mail={mail}
+								job={bio.job}
+								phone={bio.phone}
+								mail={bio.mail}
 								to={slug}
 								text={text}
 							/>
@@ -73,9 +67,11 @@ export const query = graphql`
 			}
 			frontmatter {
 				...sectionFields
-				position
-				mail
-				phone
+				bio {
+					job
+					phone
+					mail
+				}
 			}
 		}
 	}
