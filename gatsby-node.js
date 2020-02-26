@@ -25,21 +25,27 @@ exports.sourceNodes = async ({
 }) => {
 	const { createNode } = actions;
 	const allMarkdown = getNodesByType('MarkdownRemark');
+	const allUsers = allMarkdown.filter(el => el.frontmatter.type === 'user');
 	const menu = getNodesByType('MenuJson');
 
 	const { users } = allMarkdown.find(
 		el => el.frontmatter.type === 'crew',
 	).frontmatter;
-	const allUsers = allMarkdown.filter(el => el.frontmatter.type === 'user');
-	const crew = users.map(el => {
-		const foundUser = allUsers.find(
-			user => user.frontmatter.title === el.title,
-		);
-		return {
-			name: foundUser.frontmatter.title,
-			to: foundUser.fields.slug,
-		};
-	});
+
+	const crew = users
+		.map(el => {
+			const foundUser = allUsers.find(
+				user => user.frontmatter.title === el.title,
+			);
+
+			if (typeof foundUser === 'undefined') return null;
+
+			return {
+				name: foundUser.frontmatter.title,
+				to: foundUser.fields.slug,
+			};
+		})
+		.filter(el => !!el);
 
 	menu.forEach((el, index) => {
 		const data = {

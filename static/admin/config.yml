@@ -66,7 +66,7 @@ collections:
         name: "news"
         widget: "list"
         fields:
-          - {label: Nazwa, name: title, widget: relation, collection: articles, searchFields: [title], valueField: title, default: '', required: false }
+          - {label: Nazwa, name: title, widget: relation, collection: articles, searchFields: [title], valueField: title }
           - {label: Wielkość, name: size, widget: select, options: ["large", "medium"], default: "large" }
   - name: "crew"
     label: "Ekipa"
@@ -83,7 +83,7 @@ collections:
         name: "users"
         widget: "list"
         fields:
-        - {label: Nazwa, name: title, widget: relation, collection: users, searchFields: [title], valueField: title, default: '', required: false }
+        - {label: Nazwa, name: title, widget: relation, collection: users, searchFields: [title], valueField: title }
   - name: "users"
     label: "Osoby"
     label_singular: "osoba"

@@ -38,7 +38,7 @@ const Council = () => {
 		}
 	`);
 	const { users } = markdownRemark.frontmatter;
-	if (!users[0].title) return null;
+	if (!users.length || !users[0].title) return null;
 	return (
 		<Wrapper as={TileList} id="council">
 			{users.map(user => {

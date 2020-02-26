@@ -45,7 +45,7 @@ const News = ({ id }) => {
 		}
 	`);
 	const { news } = markdownRemark.frontmatter;
-	if (!news[0].title) return null;
+	if (!news.length || !news[0].title) return null;
 	return (
 		<SectionWrapper id={id}>
 			<SectionTitle dark>{markdownRemark.frontmatter.title}</SectionTitle>
