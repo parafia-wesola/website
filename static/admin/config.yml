@@ -52,9 +52,9 @@ collections:
         }
       - { label: 'Treść', name: 'body', widget: 'markdown' }
   - name: "newsfeed"
-    label: "Dzieje się"
-    label_singular: "Dzieje się"
-    description: 'Tutaj można zarządzać sekcją dzieje się. UWAGA!!! Na liście musi być przynajmniej jednej element, nawet pusty.'
+    label: "Zarządzaj newsami"
+    label_singular: "news"
+    description: 'Tutaj można zarządzać sekcją dzieje się.'
     folder: "content/pages/dzieje_sie"
     delete: false
     editor:
@@ -68,24 +68,37 @@ collections:
         fields:
           - {label: Nazwa, name: title, widget: relation, collection: articles, searchFields: [title], valueField: title }
           - {label: Wielkość, name: size, widget: select, options: ["large", "medium"], default: "large" }
-  - name: "crew"
-    label: "Ekipa"
-    description: "Miejsce do zarządzania kolejnością wyświetlania czlonków ekipy w sekcjach 'o nas' i 'rada parafialna'. UWAGA!!! Osoby ustawione w sekcji 'o nas' pojawią się również w zakładce kontakt w menu"
-    folder: "content/manager"
-    delete: false
+  - label: "Kolejność osób"
+    name: "order"
     editor:
      preview: false
-    fields:
-      - { label: "Typ", name: "type", widget: "hidden" }
-      - { label: "Tytuł", name: "title", widget: "string" }
-      - label: "Kolejność"
-        label_singular: "kolejny"
-        name: "users"
-        widget: "list"
+    files:
+      - label: "O nas"
+        name: "crew"
+        file: "content/manager/crew.md"
         fields:
-        - {label: Nazwa, name: title, widget: relation, collection: users, searchFields: [title], valueField: title }
+          - { label: "Typ", name: "type", widget: "hidden" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - label: "Kolejność"
+            label_singular: "kolejny"
+            name: "users"
+            widget: "list"
+            fields:
+            - {label: Nazwa, name: title, widget: relation, collection: users, searchFields: [title], valueField: title }
+      - label: "Rada parafialna"
+        name: "council"
+        file: "content/manager/council.md"
+        fields:
+          - { label: "Typ", name: "type", widget: "hidden" }
+          - { label: "Tytuł", name: "title", widget: "string" }
+          - label: "Kolejność"
+            label_singular: "kolejny"
+            name: "users"
+            widget: "list"
+            fields:
+            - {label: Nazwa, name: title, widget: relation, collection: users, searchFields: [title], valueField: title }
   - name: "infoSection"
-    label: "Zarządzaj informacjami"
+    label: "Kolejność informacji"
     description: "Miejsce do zarządzania kolejnością wyświetlania informacji na głównej stronie w sekcjach Informacje i Kontakt"
     folder: "content/infos"
     delete: false
@@ -100,7 +113,7 @@ collections:
         fields:
         - {label: Tytuł informacji, name: title, widget: relation, collection: info, searchFields: [title], valueField: title }
   - name: "users"
-    label: "Osoby"
+    label: "Dodaj osobę"
     label_singular: "osoba"
     description: 'Tutaj można dodawać nowe pozycje z notkami biograficznymi.'
     folder: "content/pages"
@@ -123,8 +136,8 @@ collections:
           - { label: 'E-mail', name: 'mail', widget: 'string', required: false, default: '' }
       - { label: 'Bio', name: 'body', widget: 'markdown' }
   - name: "info"
-    label: "Informacje"
-    label_singular: "informację"
+    label: "Edytuj informacje"
+    label_singular: "informacja"
     description: 'Tutaj można dodawać lub edytować informacje zawarte na głównej stronie.'
     folder: "content/info"
     create: true
@@ -141,9 +154,8 @@ collections:
     label_singular: "social"
     description: 'Miejsce do zarządzania social media'
     folder: "content/socials"
-    create: true
+    delete: false
     format: 'json'
-    path: 'index'
     editor:
      preview: false
     fields:
