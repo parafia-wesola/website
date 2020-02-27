@@ -1,8 +1,6 @@
 ---
 type: info
 title: dojazd
-position: mapOverlay
-order: 0
 ---
 
 SKM S2\

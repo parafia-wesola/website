@@ -5,9 +5,9 @@ import { Wrapper, ContactItem } from './styles';
 
 const ContactInfo = ({ data, className }) => (
 	<Wrapper className={className}>
-		{data.map(({ node }) => (
-			<ContactItem key={node.id}>
-				<Annoucement title={node.frontmatter.title} text={node.html} />
+		{data.map(({ title }) => (
+			<ContactItem key={title.id}>
+				<Annoucement title={title.frontmatter.title} text={title.html} />
 			</ContactItem>
 		))}
 	</Wrapper>

@@ -15,52 +15,45 @@ const Contacts = ({ id }) => {
 		mapsData,
 	} = useStaticQuery(graphql`
 		{
-			contactsFirstColumn: allMarkdownRemark(
-				filter: {
-					frontmatter: { type: { eq: "info" }, position: { eq: "firstColumn" } }
-				}
-				sort: { order: ASC, fields: frontmatter___order }
+			contactsFirstColumn: markdownRemark(
+				frontmatter: { type: { eq: "contactFirst" } }
 			) {
-				edges {
-					node {
-						id
-						html
-						frontmatter {
-							title
+				frontmatter {
+					info {
+						title {
+							id
+							html
+							frontmatter {
+								title
+							}
 						}
 					}
 				}
 			}
-			contactsSecondColumn: allMarkdownRemark(
-				filter: {
-					frontmatter: {
-						type: { eq: "info" }
-						position: { eq: "secondColumn" }
-					}
-				}
-				sort: { order: ASC, fields: frontmatter___order }
+			contactsSecondColumn: markdownRemark(
+				frontmatter: { type: { eq: "contactSecond" } }
 			) {
-				edges {
-					node {
-						id
-						html
-						frontmatter {
-							title
+				frontmatter {
+					info {
+						title {
+							id
+							html
+							frontmatter {
+								title
+							}
 						}
 					}
 				}
 			}
-			mapsData: allMarkdownRemark(
-				filter: {
-					frontmatter: { type: { eq: "info" }, position: { eq: "mapOverlay" } }
-				}
-			) {
-				edges {
-					node {
-						id
-						html
-						frontmatter {
-							title
+			mapsData: markdownRemark(frontmatter: { type: { eq: "contactMap" } }) {
+				frontmatter {
+					info {
+						title {
+							id
+							html
+							frontmatter {
+								title
+							}
 						}
 					}
 				}
@@ -72,15 +65,21 @@ const Contacts = ({ id }) => {
 		<SectionWrapper id={id}>
 			<SectionTitle dark>Dane parafii</SectionTitle>
 			<ContactsWrapper>
-				<StyledContactInfo as={ContactInfo} data={contactsFirstColumn.edges} />
-				<StyledContactInfo as={ContactInfo} data={contactsSecondColumn.edges} />
+				<StyledContactInfo
+					as={ContactInfo}
+					data={contactsFirstColumn.frontmatter.info}
+				/>
+				<StyledContactInfo
+					as={ContactInfo}
+					data={contactsSecondColumn.frontmatter.info}
+				/>
 			</ContactsWrapper>
 			<MapWrapper>
 				<Map />
 				<Card>
-					{mapsData.edges.map(({ node }) => (
-						<li key={node.id}>
-							<Annoucement title={node.frontmatter.title} text={node.html} />
+					{mapsData.frontmatter.info.map(({ title }) => (
+						<li key={title.id}>
+							<Annoucement title={title.frontmatter.title} text={title.html} />
 						</li>
 					))}
 				</Card>

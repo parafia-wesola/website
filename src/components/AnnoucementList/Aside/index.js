@@ -6,33 +6,31 @@ import Annoucement from 'components/Annoucement';
 import { Wrapper, ListItem } from './styles';
 
 const Aside = ({ className }) => {
-	const { allMarkdownRemark } = useStaticQuery(graphql`
+	const { markdownRemark } = useStaticQuery(graphql`
 		{
-			allMarkdownRemark(
-				filter: {
-					frontmatter: { type: { eq: "info" }, position: { eq: "aside" } }
-				}
-				sort: { order: ASC, fields: frontmatter___order }
-			) {
-				edges {
-					node {
-						id
-						html
-						frontmatter {
-							title
+			markdownRemark(frontmatter: { type: { eq: "infoAside" } }) {
+				frontmatter {
+					info {
+						title {
+							id
+							html
+							frontmatter {
+								title
+							}
 						}
 					}
 				}
 			}
 		}
 	`);
+
 	return (
 		<Wrapper className={className}>
-			{allMarkdownRemark.edges.map(({ node }, index) => {
+			{markdownRemark.frontmatter.info.map(({ title }, index) => {
 				const moved = index % 2 === 0;
 				return (
-					<ListItem key={node.id} moved={moved}>
-						<Annoucement title={node.frontmatter.title} text={node.html} />
+					<ListItem key={title.id} moved={moved}>
+						<Annoucement title={title.frontmatter.title} text={title.html} />
 					</ListItem>
 				);
 			})}

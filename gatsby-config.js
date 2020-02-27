@@ -10,6 +10,7 @@ module.exports = {
 	},
 	mapping: {
 		'MarkdownRemark.frontmatter.news.title': 'MarkdownRemark.frontmatter.title',
+		'MarkdownRemark.frontmatter.info.title': 'MarkdownRemark.frontmatter.title',
 		'MarkdownRemark.frontmatter.users.title':
 			'MarkdownRemark.frontmatter.title',
 	},

@@ -1,8 +1,6 @@
 ---
 type: info
 title: kancelaria parafialna
-position: horizontal
-order: 0
 ---
 
 tel. 22 773 56 35  

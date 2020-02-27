@@ -6,20 +6,17 @@ import Annoucement from 'components/Annoucement';
 import { Wrapper, Content } from './styles';
 
 const Horizontal = ({ className }) => {
-	const { allMarkdownRemark } = useStaticQuery(graphql`
+	const { markdownRemark } = useStaticQuery(graphql`
 		{
-			allMarkdownRemark(
-				filter: {
-					frontmatter: { type: { eq: "info" }, position: { eq: "horizontal" } }
-				}
-				sort: { order: ASC, fields: frontmatter___order }
-			) {
-				edges {
-					node {
-						id
-						html
-						frontmatter {
-							title
+			markdownRemark(frontmatter: { type: { eq: "infoHorizontal" } }) {
+				frontmatter {
+					info {
+						title {
+							id
+							html
+							frontmatter {
+								title
+							}
 						}
 					}
 				}
@@ -28,12 +25,12 @@ const Horizontal = ({ className }) => {
 	`);
 	return (
 		<Wrapper className={className}>
-			{allMarkdownRemark.edges.map(({ node }) => (
-				<li key={node.id}>
+			{markdownRemark.frontmatter.info.map(({ title }) => (
+				<li key={title.id}>
 					<Content
 						as={Annoucement}
-						title={node.frontmatter.title}
-						text={node.html}
+						title={title.frontmatter.title}
+						text={title.html}
 					/>
 				</li>
 			))}

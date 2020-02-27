@@ -1,8 +1,6 @@
 ---
 type: info
 title: spowiedź
-position: aside
-order: 3
 ---
 
 Piątek, sobota

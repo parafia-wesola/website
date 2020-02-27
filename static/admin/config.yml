@@ -70,7 +70,6 @@ collections:
           - {label: Wielkość, name: size, widget: select, options: ["large", "medium"], default: "large" }
   - name: "crew"
     label: "Ekipa"
-    label_singular: "członek ekipy"
     description: "Miejsce do zarządzania kolejnością wyświetlania czlonków ekipy w sekcjach 'o nas' i 'rada parafialna'. UWAGA!!! Osoby ustawione w sekcji 'o nas' pojawią się również w zakładce kontakt w menu"
     folder: "content/manager"
     delete: false
@@ -80,10 +79,26 @@ collections:
       - { label: "Typ", name: "type", widget: "hidden" }
       - { label: "Tytuł", name: "title", widget: "string" }
       - label: "Kolejność"
+        label_singular: "kolejny"
         name: "users"
         widget: "list"
         fields:
         - {label: Nazwa, name: title, widget: relation, collection: users, searchFields: [title], valueField: title }
+  - name: "infoSection"
+    label: "Zarządzaj informacjami"
+    description: "Miejsce do zarządzania kolejnością wyświetlania informacji na głównej stronie w sekcjach Informacje i Kontakt"
+    folder: "content/infos"
+    delete: false
+    editor:
+     preview: false
+    fields:
+      - { label: "Typ", name: "type", widget: "hidden" }
+      - { label: "Tytuł", name: "title", widget: "string" }
+      - label: "Kolejność"
+        name: "info"
+        widget: "list"
+        fields:
+        - {label: Tytuł informacji, name: title, widget: relation, collection: info, searchFields: [title], valueField: title }
   - name: "users"
     label: "Osoby"
     label_singular: "osoba"
@@ -107,6 +122,20 @@ collections:
           - { label: 'Numer telefonu', name: 'phone', widget: 'string', required: false, default: '' }
           - { label: 'E-mail', name: 'mail', widget: 'string', required: false, default: '' }
       - { label: 'Bio', name: 'body', widget: 'markdown' }
+  - name: "info"
+    label: "Informacje"
+    label_singular: "informację"
+    description: 'Tutaj można dodawać lub edytować informacje zawarte na głównej stronie.'
+    folder: "content/info"
+    create: true
+    filter: {field: "type", value: "info"}
+    slug: "{{slug}}"
+    editor:
+     preview: false
+    fields:
+      - { label: "Typ", name: "type", widget: "hidden", default: "info" }
+      - { label: 'Tytuł informacji', name: 'title', widget: 'string' }
+      - { label: 'Treść', name: 'body', widget: 'markdown' }
   - name: "socials"
     label: "Social media"
     label_singular: "social"

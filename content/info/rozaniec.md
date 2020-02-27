@@ -1,8 +1,6 @@
 ---
 type: info
 title: różaniec
-position: aside
-order: 2
 ---
 
 Poniedziałek - piątek

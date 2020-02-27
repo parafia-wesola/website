@@ -1,8 +1,6 @@
 ---
 type: info
 title: rzymskokatolicka parafia opatrzności bożej
-position: firstColumn
-order: 0
 ---
 
 ul. Piotra Skargi 2\
