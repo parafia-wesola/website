@@ -1,11 +1,13 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
+import { dataFilter } from 'utils';
 
 import { TileList } from 'components/Share';
 import CardItem from 'components/Card';
 import { Wrapper, Item } from './styles';
 
-const Crew = () => {
+const Crew = ({ id }) => {
 	const { markdownRemark } = useStaticQuery(graphql`
 		{
 			markdownRemark(frontmatter: { type: { eq: "crew" } }) {
@@ -38,11 +40,11 @@ const Crew = () => {
 		}
 	`);
 
-	const { users } = markdownRemark.frontmatter;
-	if (!users.length || !users[0].title) return null;
+	const users = dataFilter(markdownRemark, 'users');
+	if (!users.length) return null;
 
 	return (
-		<Wrapper as={TileList} id="crew">
+		<Wrapper as={TileList} id={id}>
 			{users.map(user => {
 				const { title, bio, cover } = user.title.frontmatter;
 				const { slug } = user.title.fields;
@@ -61,6 +63,10 @@ const Crew = () => {
 			})}
 		</Wrapper>
 	);
+};
+
+Crew.propTypes = {
+	id: PropTypes.string.isRequired,
 };
 
 export default Crew;

@@ -50,8 +50,8 @@ const PageTemplate = ({ data }) => {
 							/>
 							{type !== 'page' && (
 								<SpecialWrapper>
-									{type === 'pageCrew' && <Crew />}
-									{type === 'pageCouncil' && <Council />}
+									{type === 'pageCrew' && <Crew id="crew" />}
+									{type === 'pageCouncil' && <Council id="council" />}
 								</SpecialWrapper>
 							)}
 						</>

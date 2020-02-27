@@ -1,50 +1,21 @@
 import React, { useState, useRef, useEffect, useContext } from 'react';
 import PropTypes from 'prop-types';
-import { graphql, useStaticQuery } from 'gatsby';
 
 import { SmoothScrollContext } from 'components/Scroll';
 import Annoucement from 'components/Annoucement';
 import { verticalPosition } from 'utils';
 import { Wrapper, Overlap, Content, Footer, ReadMore } from './styles';
 
-const Main = ({ className }) => {
-	const { allMarkdownRemark } = useStaticQuery(graphql`
-		{
-			allMarkdownRemark(
-				sort: { fields: frontmatter___date, order: DESC }
-				limit: 1
-				filter: { frontmatter: { type: { eq: "annoucement" } } }
-			) {
-				edges {
-					node {
-						id
-						html
-						frontmatter {
-							title
-							type
-						}
-					}
-				}
-			}
-		}
-	`);
-
-	if (!allMarkdownRemark.edges.length) return null;
-
+const Main = ({ id, title, text, className }) => {
 	const [isOpen, setIsOpen] = useState(false);
 	const [isReadMore, setIsReadMore] = useState(true);
 	const wrapper = useRef(null);
 	const offset = useContext(SmoothScrollContext);
 
-	const annoucement = allMarkdownRemark.edges[0].node;
-
 	const handleClick = () => {
 		setIsOpen(!isOpen);
 		if (isOpen) {
-			const [actualPos, destination] = verticalPosition(
-				`#${annoucement.frontmatter.type}`,
-				offset,
-			);
+			const [actualPos, destination] = verticalPosition(`#${id}`, offset);
 			if (destination < actualPos) window.scrollTo(0, destination);
 		}
 	};
@@ -56,17 +27,13 @@ const Main = ({ className }) => {
 	}, []);
 
 	return (
-		<Wrapper
-			className={className}
-			ref={wrapper}
-			id={annoucement.frontmatter.type}
-		>
+		<Wrapper className={className} ref={wrapper} id={id}>
 			<Overlap>intencje mszalne</Overlap>
 			<Content
 				as={Annoucement}
 				open={!isReadMore || isOpen}
-				title={annoucement.frontmatter.title}
-				text={annoucement.html}
+				title={title}
+				text={text}
 			/>
 			{isReadMore && (
 				<Footer>
@@ -80,6 +47,9 @@ const Main = ({ className }) => {
 };
 
 Main.propTypes = {
+	id: PropTypes.string.isRequired,
+	title: PropTypes.string.isRequired,
+	text: PropTypes.string.isRequired,
 	className: PropTypes.string,
 };
 

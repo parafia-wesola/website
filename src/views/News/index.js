@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { useStaticQuery, graphql } from 'gatsby';
+import { dataFilter } from 'utils';
 
 import NewsFeed from 'components/Newsfeed';
 import { SectionWrapper, SectionTitle } from 'components/Share';
@@ -44,8 +45,10 @@ const News = ({ id }) => {
 			}
 		}
 	`);
-	const { news } = markdownRemark.frontmatter;
-	if (!news.length || !news[0].title) return null;
+
+	const news = dataFilter(markdownRemark, 'news');
+	if (!news.length) return null;
+
 	return (
 		<SectionWrapper id={id}>
 			<SectionTitle dark>{markdownRemark.frontmatter.title}</SectionTitle>

@@ -1,5 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { graphql, useStaticQuery } from 'gatsby';
+import { dataFilter } from 'utils';
 
 import { Aside, Main, Horizontal } from 'components/AnnoucementList';
 import { SectionWrapper, SectionTitle } from 'components/Share';
@@ -11,16 +13,68 @@ import {
 	StyledHorizontal,
 } from './styles';
 
-const Annoucements = ({ id }) => (
-	<Wrapper as={SectionWrapper} id={id}>
-		<SectionTitle hide>Ogłoszenia i informacje</SectionTitle>
-		<AnnoucementsWrapper>
-			<StyledAside as={Aside} />
-			<StyledMain as={Main} />
-			<StyledHorizontal as={Horizontal} />
-		</AnnoucementsWrapper>
-	</Wrapper>
-);
+const Annoucements = ({ id }) => {
+	const { aside, horizontal, main } = useStaticQuery(graphql`
+		{
+			aside: markdownRemark(frontmatter: { type: { eq: "infoAside" } }) {
+				frontmatter {
+					...infoFields
+				}
+			}
+			horizontal: markdownRemark(
+				frontmatter: { type: { eq: "infoHorizontal" } }
+			) {
+				frontmatter {
+					...infoFields
+				}
+			}
+			main: allMarkdownRemark(
+				sort: { fields: frontmatter___date, order: DESC }
+				limit: 1
+				filter: { frontmatter: { type: { eq: "annoucement" } } }
+			) {
+				edges {
+					node {
+						html
+						frontmatter {
+							title
+						}
+					}
+				}
+			}
+		}
+	`);
+
+	const filteredAside = dataFilter(aside, 'info');
+	const filteredHorizontal = dataFilter(horizontal, 'info');
+
+	const isAside = !!filteredAside.length;
+	const isHorizontal = !!filteredHorizontal.length;
+	const isMain = !!main.edges.length;
+
+	const annoucement = isMain && main.edges[0].node;
+
+	if (!isHorizontal && !isAside && !isMain) return null;
+	return (
+		<Wrapper as={SectionWrapper} id={id}>
+			<SectionTitle hide>Ogłoszenia i informacje</SectionTitle>
+			<AnnoucementsWrapper>
+				{isAside && <StyledAside as={Aside} data={filteredAside} />}
+				{isMain && (
+					<StyledMain
+						as={Main}
+						id="annoucement"
+						title={annoucement.frontmatter.title}
+						text={annoucement.html}
+					/>
+				)}
+				{isHorizontal && (
+					<StyledHorizontal as={Horizontal} data={filteredHorizontal} />
+				)}
+			</AnnoucementsWrapper>
+		</Wrapper>
+	);
+};
 
 Annoucements.propTypes = {
 	id: PropTypes.string.isRequired,

@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
+import { dataFilter } from 'utils';
 
 import ContactInfo from 'components/Contacts';
 import Map from 'components/Map';
@@ -10,79 +11,68 @@ import { ContactsWrapper, StyledContactInfo, MapWrapper, Card } from './styles';
 
 const Contacts = ({ id }) => {
 	const {
-		contactsFirstColumn,
-		contactsSecondColumn,
-		mapsData,
+		contactFirstColumn,
+		contactSecondColumn,
+		contactMap,
 	} = useStaticQuery(graphql`
 		{
-			contactsFirstColumn: markdownRemark(
+			contactFirstColumn: markdownRemark(
 				frontmatter: { type: { eq: "contactFirst" } }
 			) {
 				frontmatter {
-					info {
-						title {
-							id
-							html
-							frontmatter {
-								title
-							}
-						}
-					}
+					...infoFields
 				}
 			}
-			contactsSecondColumn: markdownRemark(
+			contactSecondColumn: markdownRemark(
 				frontmatter: { type: { eq: "contactSecond" } }
 			) {
 				frontmatter {
-					info {
-						title {
-							id
-							html
-							frontmatter {
-								title
-							}
-						}
-					}
+					...infoFields
 				}
 			}
-			mapsData: markdownRemark(frontmatter: { type: { eq: "contactMap" } }) {
+			contactMap: markdownRemark(frontmatter: { type: { eq: "contactMap" } }) {
 				frontmatter {
-					info {
-						title {
-							id
-							html
-							frontmatter {
-								title
-							}
-						}
-					}
+					...infoFields
 				}
 			}
 		}
 	`);
 
+	const filteredFirst = dataFilter(contactFirstColumn, 'info');
+	const filteredSecond = dataFilter(contactSecondColumn, 'info');
+	const filteredMap = dataFilter(contactMap, 'info');
+
+	const isFirstColumn = !!filteredFirst.length;
+	const isSecondColumn = !!filteredSecond.length;
+	const isMap = !!filteredMap.length;
+
 	return (
 		<SectionWrapper id={id}>
 			<SectionTitle dark>Dane parafii</SectionTitle>
-			<ContactsWrapper>
-				<StyledContactInfo
-					as={ContactInfo}
-					data={contactsFirstColumn.frontmatter.info}
-				/>
-				<StyledContactInfo
-					as={ContactInfo}
-					data={contactsSecondColumn.frontmatter.info}
-				/>
-			</ContactsWrapper>
+			{(isFirstColumn || isSecondColumn) && (
+				<ContactsWrapper>
+					{isFirstColumn && (
+						<StyledContactInfo as={ContactInfo} data={filteredFirst} />
+					)}
+					{isSecondColumn && (
+						<StyledContactInfo as={ContactInfo} data={filteredSecond} />
+					)}
+				</ContactsWrapper>
+			)}
 			<MapWrapper>
 				<Map />
-				<Card>
-					{mapsData.frontmatter.info.map(({ title }) => (
-						<li key={title.id}>
-							<Annoucement title={title.frontmatter.title} text={title.html} />
-						</li>
-					))}
-				</Card>
+				{isMap && (
+					<Card>
+						{filteredMap.map(({ title }) => (
+							<li key={title.id}>
+								<Annoucement
+									title={title.frontmatter.title}
+									text={title.html}
+								/>
+							</li>
+						))}
+					</Card>
+				)}
 			</MapWrapper>
 		</SectionWrapper>
 	);
