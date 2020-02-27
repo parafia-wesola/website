@@ -22,6 +22,8 @@ module.exports = {
 		'gatsby-transformer-json',
 		'gatsby-transformer-remark',
 		'gatsby-plugin-netlify-cms',
+		'gatsby-plugin-netlify',
+		'gatsby-plugin-netlify-cache',
 		{
 			resolve: 'gatsby-plugin-modal-routing',
 			options: {
@@ -81,6 +83,6 @@ module.exports = {
 				icon: 'src/assets/images/icon.png',
 			},
 		},
-		// `gatsby-plugin-offline`,
+		'gatsby-plugin-offline',
 	],
 };
