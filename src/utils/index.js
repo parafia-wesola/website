@@ -44,3 +44,9 @@ export async function getReadings() {
 		xhr.send();
 	});
 }
+
+export function dataFilter(data, collectionName) {
+	if (!data || !data.frontmatter[collectionName]) return [];
+	const filteredData = data.frontmatter[collectionName].filter(el => el.title);
+	return filteredData;
+}

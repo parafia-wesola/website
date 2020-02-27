@@ -28,3 +28,17 @@ export const tilesFields = graphql`
 		}
 	}
 `;
+
+export const infoFields = graphql`
+	fragment infoFields on MarkdownRemarkFrontmatter {
+		info {
+			title {
+				id
+				html
+				frontmatter {
+					title
+				}
+			}
+		}
+	}
+`;
