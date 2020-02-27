@@ -13,7 +13,7 @@ const MapChart = () => {
 	let iconPerson;
 	if (typeof window !== 'undefined') {
 		iconPerson = new L.Icon({
-			iconUrl: require('assets/images/circle.png'),
+			iconUrl: require('assets/images/circle.svg'),
 			iconAnchor: null,
 			popupAnchor: null,
 			shadowUrl: null,
