@@ -15,24 +15,7 @@ const Crew = ({ id }) => {
 					users {
 						title {
 							id
-							fields {
-								slug
-							}
-							frontmatter {
-								title
-								bio {
-									job
-									phone
-									mail
-								}
-								cover {
-									childImageSharp {
-										fluid(quality: 100, maxWidth: 200) {
-											...GatsbyImageSharpFluid
-										}
-									}
-								}
-							}
+							...bioFields
 						}
 					}
 				}

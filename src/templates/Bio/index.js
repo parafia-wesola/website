@@ -62,17 +62,7 @@ export const query = graphql`
 	query BioTemplate($id: String!) {
 		markdownRemark(id: { eq: $id }) {
 			html
-			fields {
-				slug
-			}
-			frontmatter {
-				...sectionFields
-				bio {
-					job
-					phone
-					mail
-				}
-			}
+			...bioFields
 		}
 	}
 `;

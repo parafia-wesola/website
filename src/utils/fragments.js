@@ -13,6 +13,29 @@ export const sectionFields = graphql`
 	}
 `;
 
+export const bioFields = graphql`
+	fragment bioFields on MarkdownRemark {
+		fields {
+			slug
+		}
+		frontmatter {
+			title
+			bio {
+				job
+				phone
+				mail
+			}
+			cover {
+				childImageSharp {
+					fluid(quality: 75, maxWidth: 200) {
+						...GatsbyImageSharpFluid
+					}
+				}
+			}
+		}
+	}
+`;
+
 export const tilesFields = graphql`
 	fragment tilesFields on MarkdownRemarkFrontmatter {
 		tiles {
