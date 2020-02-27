@@ -21,7 +21,7 @@ const NewsFeed = ({ articles, className }) => {
 					frontmatter,
 				} = article.title;
 				const { title, date } = frontmatter;
-				const cover = frontmatter[size].childImageSharp.fluid;
+				const cover = frontmatter[size];
 				const TagName = tags[size];
 
 				return (

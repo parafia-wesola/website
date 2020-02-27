@@ -5,6 +5,7 @@ export const NewsWrapper = styled.div`
 	position: relative;
 	display: flex;
 	flex-direction: ${({ size }) => size === 'large' && 'column'};
+	min-width: 18.5rem;
 	color: ${({ theme }) => theme.colors.dark};
 	text-decoration: none;
 	background: ${({ theme }) => theme.colors.bright};
@@ -50,7 +51,7 @@ export const MediumBody = styled.div`
 `;
 
 export const LargeBody = styled.div`
-	padding: 1em 0;
+	padding: 1em 1.5rem;
 	text-align: center;
 `;
 
