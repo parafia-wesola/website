@@ -18,7 +18,7 @@ const Hero = () => {
 			) {
 				edges {
 					node {
-						fluid(quality: 90, maxWidth: 1360) {
+						fluid(quality: 75, maxWidth: 1360) {
 							...GatsbyImageSharpFluid
 						}
 					}
