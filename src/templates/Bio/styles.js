@@ -10,8 +10,10 @@ export const ModalBio = styled.article`
 
 export const PageBio = styled.article`
 	max-width: 1000px;
-	margin: 4em auto;
+	margin: 0 auto;
+	padding: 4em 1.5rem;
+
 	${({ theme }) => theme.mq.tabletMid} {
-		margin: 6em auto;
+		padding: 6em 1.5rem;
 	}
 `;
