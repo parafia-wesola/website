@@ -18,7 +18,7 @@ const ArticleAside = ({ className, articles }) => (
 						<Item
 							title={title}
 							date={eventDate !== 'Invalid date' ? eventDate : null}
-							cover={cover.childImageSharp.fluid}
+							cover={cover}
 							reference={node.fields.slug}
 						/>
 					</ListItem>

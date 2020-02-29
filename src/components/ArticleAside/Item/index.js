@@ -7,7 +7,7 @@ import { StyledLink, Image, Date, Title } from './styles';
 
 const SmallItem = ({ title, date, cover, reference, className }) => (
 	<StyledLink as={Link} to={reference} className={className}>
-		<Image as={Img} fluid={cover} />
+		<Image as={Img} fixed={cover.childImageSharp.fixed} />
 		<Title>{title}</Title>
 		<Date>{date}</Date>
 	</StyledLink>

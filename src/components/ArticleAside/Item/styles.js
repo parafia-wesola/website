@@ -15,7 +15,6 @@ export const StyledLink = styled.a`
 `;
 
 export const Image = styled.div`
-	height: 130px;
 	border-radius: 5px;
 `;
 
