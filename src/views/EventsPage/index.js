@@ -1,8 +1,8 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
-import { SectionTitle, SectionWrapper } from 'components/Share';
+import { SectionWrapper, SectionTitle } from 'components/Share';
 import EventList from 'components/EventList';
-import { StyledEventList } from './styles';
+import { StyledEventList, Text } from './styles';
 
 const EventSection = () => {
 	const { eventsFirst, eventsSecond } = useStaticQuery(graphql`
@@ -51,11 +51,14 @@ const EventSection = () => {
 			}
 		}
 	`);
-
 	return (
 		<SectionWrapper>
 			<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
-			<StyledEventList as={EventList} events={eventsFirst.edges} />
+			{eventsFirst.edges.length ? (
+				<StyledEventList as={EventList} events={eventsFirst.edges} />
+			) : (
+				<Text>Aktualnie nie ma żadnych nadchodzących wydarzeń...</Text>
+			)}
 			<StyledEventList
 				as={EventList}
 				events={eventsSecond.edges}
