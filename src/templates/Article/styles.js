@@ -21,7 +21,7 @@ export const StyledAside = styled.aside`
 	padding: 6em 0 0;
 	${({ theme }) => theme.mq.desktop} {
 		align-self: center;
-		width: 15%;
-		padding: 0;
+		width: 15.5em;
+		padding: 0 1.5rem;
 	}
 `;

@@ -14,10 +14,10 @@ tiles:
     to: '!'
   - title: Chór dorosłych
     image: chor-doroslych.jpg
-    to: '!'
+    to: /chor_doroslych
   - title: Zespół młodzieżowy
     image: zespol-mlodziezowy.jpg
-    to: '!'
+    to: /zespol_mlodziezowy
   - title: Młodzi Open
     image: mlodzi-open.jpg
     to: '!'
@@ -29,5 +29,5 @@ tiles:
     to: '!'
   - title: Koło Przyjaciół Radia Maryja
     image: kolo-przyjaciol-radia-maryja.jpg
-    to: '!'
+    to: /kolo_przyjaciol_radia_maryja
 ---

@@ -16,7 +16,7 @@ const ArticleMain = ({
 	className,
 }) => (
 	<article className={className}>
-		{cover && <Cover as={Img} fluid={cover} />}
+		{cover && <Cover as={Img} fluid={cover.childImageSharp.fluid} />}
 
 		<ContentWrapper>
 			<SectionTitle dark>{title}</SectionTitle>

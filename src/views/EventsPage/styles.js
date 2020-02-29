@@ -5,4 +5,8 @@ export const StyledEventList = styled.div`
 	margin: 0 auto;
 `;
 
-export default StyledEventList;
+export const Text = styled.h3`
+	padding: 4em 1.5rem 3em;
+	font-weight: 600;
+	text-align: center;
+`;

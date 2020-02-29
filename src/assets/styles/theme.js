@@ -24,6 +24,7 @@ const theme = {
 	},
 	mq: {
 		mobileMid: '@media (min-width: 23.5rem)',
+		mobileLandscape: '@media (min-width: 30.5rem)',
 		tablet: '@media (min-width: 37.5rem)',
 		tabletMid: '@media (min-width: 42rem)',
 		tabletLandscape: '@media (min-width: 56.25rem)',

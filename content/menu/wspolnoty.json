@@ -18,11 +18,11 @@
 		},
 		{
 			"name": "chór dorosłych",
-			"to": "!"
+			"to": "/chor_doroslych"
 		},
 		{
 			"name": "zespół młodzieżowy",
-			"to": "!"
+			"to": "/zespol_mlodziezowy"
 		},
 		{
 			"name": "młodzi open",
@@ -38,7 +38,7 @@
 		},
 		{
 			"name": "koło przyjaciół Radia Maryja",
-			"to": "!"
+			"to": "/kolo_przyjaciol_radia_maryja"
 		}
 	]
 }

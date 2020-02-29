@@ -3,9 +3,10 @@ import PropTypes from 'prop-types';
 import { graphql, useStaticQuery } from 'gatsby';
 import { dataFilter } from 'utils';
 
+import Conditional from 'components/Conditional';
 import { TileList } from 'components/Share';
-import CardItem from 'components/Card';
-import { Wrapper, Item } from './styles';
+import Card from 'components/Card';
+import { Wrapper, Link, Item } from './styles';
 
 const Council = ({ id }) => {
 	const { markdownRemark } = useStaticQuery(graphql`
@@ -33,14 +34,15 @@ const Council = ({ id }) => {
 				const { slug } = user.title.fields;
 				return (
 					<Item key={user.title.id}>
-						<CardItem
-							title={title}
-							to={`$${slug}`}
-							job={bio.job}
-							phone={bio.phone}
-							mail={bio.mail}
-							cover={cover}
-						/>
+						<Link as={Conditional} to={`$${slug}`}>
+							<Card
+								title={title}
+								job={bio.job}
+								phone={bio.phone}
+								mail={bio.mail}
+								cover={cover}
+							/>
+						</Link>
 					</Item>
 				);
 			})}

@@ -21,9 +21,13 @@ module.exports = {
 		'gatsby-plugin-styled-components',
 		'gatsby-transformer-json',
 		'gatsby-transformer-remark',
-		'gatsby-plugin-netlify-cms',
-		'gatsby-plugin-netlify',
-		'gatsby-plugin-netlify-cache',
+		{
+			resolve: 'gatsby-plugin-netlify-cms',
+			options: {
+				htmlTitle: 'Panel zarządzania',
+				htmlFavicon: (__dirname, 'src/assets/images/icon.png'),
+			},
+		},
 		{
 			resolve: 'gatsby-plugin-modal-routing',
 			options: {
@@ -84,5 +88,7 @@ module.exports = {
 			},
 		},
 		'gatsby-plugin-offline',
+		'gatsby-plugin-netlify',
+		'gatsby-plugin-netlify-cache',
 	],
 };

@@ -1,7 +1,7 @@
 {
 	"name": "multimedia",
 	"to": "/multimedia",
-	"mobile": true,
+	"mobile": false,
 	"order": 7,
 	"sub": [
 		{

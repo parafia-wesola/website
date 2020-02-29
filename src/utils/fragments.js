@@ -27,8 +27,8 @@ export const bioFields = graphql`
 			}
 			cover {
 				childImageSharp {
-					fluid(quality: 75, maxWidth: 200) {
-						...GatsbyImageSharpFluid
+					fixed(quality: 75, cropFocus: CENTER, width: 200, height: 200) {
+						...GatsbyImageSharpFixed
 					}
 				}
 			}
@@ -43,7 +43,7 @@ export const tilesFields = graphql`
 			to
 			image {
 				childImageSharp {
-					fixed(quality: 50, width: 200) {
+					fixed(quality: 50, cropFocus: CENTER, width: 200, height: 200) {
 						...GatsbyImageSharpFixed
 					}
 				}

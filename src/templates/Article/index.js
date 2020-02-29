@@ -25,11 +25,11 @@ const ArticleTemplate = ({ data }) => {
 			<Wrapper as={SectionWrapper}>
 				<StyledMain
 					as={ArticleMain}
-					cover={cover.childImageSharp.fluid}
+					cover={cover}
 					title={title}
 					date={date}
 					author={author}
-					eventDate={eventDate !== 'Invalid date' && eventDate}
+					eventDate={eventDate !== 'Invalid date' ? eventDate : null}
 					content={content}
 					images={images}
 				/>
@@ -72,14 +72,19 @@ export const query = graphql`
 			edges {
 				node {
 					id
-					excerpt(pruneLength: 90)
 					fields {
 						slug
 					}
 					frontmatter {
-						...sectionFields
-						date(formatString: "DD.MM.YYYY")
+						title
 						eventDate(formatString: "DD.MM.YYYY")
+						cover {
+							childImageSharp {
+								fixed(quality: 75, cropFocus: CENTER, width: 200, height: 130) {
+									...GatsbyImageSharpFixed
+								}
+							}
+						}
 					}
 				}
 			}
