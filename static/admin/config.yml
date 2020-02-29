@@ -1,170 +1,306 @@
+local_backend: true
 backend:
   name: git-gateway
-  branch: master
-
-media_folder: static/imgimg
-public_folder: /img
-locale: 'pl'
+  branch: develop
+media_folder: static/img
+locale: pl
 slug:
-  encoding: "ascii"
+  encoding: ascii
   clean_accents: true
-  sanitize_replacement: "_"
-
+  sanitize_replacement: _
 collections:
-  - name: "annoucements"
-    label: "Ogłoszenia"
-    label_singular: "Ogłoszenie"
-    description: 'Tutaj można dodawać nowe ogłoszenia duszpasterskie. UWAGA: na stronie będzie wyświetlane jedynie ostatnio dodane ogłoszenie.'
-    folder: "content/annoucements"
+  - name: annoucements
+    label: Ogłoszenia
+    label_singular: ogłoszenie
+    description: >-
+      Tutaj można dodawać nowe ogłoszenia duszpasterskie. UWAGA: na stronie
+      będzie wyświetlane jedynie ostatnio dodane ogłoszenie.
+    folder: content/annoucements
     create: true
-    slug: "ogloszenia-{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}"
+    slug: 'ogloszenia-{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}'
     editor:
-     preview: false
+      preview: false
     fields:
-      - { label: "Typ", name: "type", widget: "hidden", default: "annoucement" }
-      - { label: "Tytuł", name: "title", widget: "string", default: "ogłoszenia parafialne i duszpasterskie" }
-      - { label: "Data dodania", name: "date", widget: "datetime" }
-      - { label: "Treść", name: "body", widget: "markdown" }
-  - name: "articles"
-    label: "Artykuły"
-    label_singular: "artykuł"
-    description: 'Tutaj można dodawać nowe artykuły.'
-    folder: "content/articles"
+      - label: Typ
+        name: type
+        widget: hidden
+        default: annoucement
+      - label: Tytuł
+        name: title
+        widget: string
+        default: ogłoszenia parafialne i duszpasterskie
+      - label: Data dodania
+        name: date
+        widget: datetime
+        dateFormat: DD.MM.YYYY
+        timeFormat: HH:mm
+      - label: Treść
+        name: body
+        widget: markdown
+  - name: articles
+    label: Artykuły
+    label_singular: artykuł
+    description: Tutaj można dodawać nowe artykuły.
+    folder: content/articles
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     path: '{{slug}}/index'
     editor:
-     preview: false
+      preview: false
     fields:
-      - { label: "Typ", name: "type", widget: "hidden", default: "article" }
-      - { label: 'Tytuł', name: 'title', widget: 'string' }
-      - { label: 'Data dodania', name: 'date', widget: 'datetime' }
-      - { label: 'Data wydarzenia', name: 'eventDate', default: '', widget: 'datetime', required: false }
-      - { label: 'Autor', name: 'author', widget: 'select', default: ["parafia wesoła"], options: ["parafia wesoła"] }
-      - { label: 'Okładka', name: 'cover', widget: image }
-      - {
-          label: 'Galeria',
-          name: 'images',
-          widget: 'list',
-          required: false,
-          field: { widget: image },
-        }
-      - { label: 'Treść', name: 'body', widget: 'markdown' }
-  - name: "newsfeed"
-    label: "Zarządzaj newsami"
-    label_singular: "news"
-    description: 'Tutaj można zarządzać sekcją dzieje się.'
-    folder: "content/pages/dzieje_sie"
+      - label: Typ
+        name: type
+        widget: hidden
+        default: article
+      - label: Tytuł
+        name: title
+        widget: string
+      - label: Data dodania
+        name: date
+        widget: datetime
+        dateFormat: DD.MM.YYYY
+        timeFormat: HH:mm
+      - label: Data wydarzenia
+        name: eventDate
+        default: ''
+        widget: datetime
+        dateFormat: DD.MM.YYYY
+        timeFormat: HH:mm
+        required: false
+      - label: Autor
+        name: author
+        widget: select
+        options:
+          - parafia wesoła
+        default: parafia wesoła
+      - label: Okładka
+        name: cover
+        widget: image
+      - label: Galeria
+        name: images
+        widget: list
+        required: false
+        field:
+          widget: image
+      - label: Treść
+        name: body
+        widget: markdown
+  - name: newsfeed
+    label: Zarządzaj newsami
+    label_singular: news
+    description: Tutaj można zarządzać sekcją dzieje się.
+    folder: content/pages/dzieje_sie
     delete: false
     editor:
-     preview: false
+      preview: false
     fields:
-      - { label: "Typ", name: "type", widget: "hidden" }
-      - { label: "Tytuł", name: "title", widget: "string", default: "newsfeed" }
-      - label: "Dzieje się"
-        name: "news"
-        widget: "list"
+      - label: Typ
+        name: type
+        widget: hidden
+      - label: Tytuł
+        name: title
+        widget: string
+        default: newsfeed
+      - label: Dzieje się
+        name: news
+        widget: list
         fields:
-          - {label: Nazwa, name: title, widget: relation, collection: articles, searchFields: [title], valueField: title }
-          - {label: Wielkość, name: size, widget: select, options: ["large", "medium"], default: "large" }
-  - label: "Kolejność osób"
-    name: "order"
+          - label: Nazwa
+            name: title
+            widget: relation
+            collection: articles
+            searchFields:
+              - title
+            valueField: title
+          - label: Wielkość
+            name: size
+            widget: select
+            options:
+              - large
+              - medium
+            default: large
+  - label: Kolejność osób
+    name: order
     editor:
-     preview: false
+      preview: false
     files:
-      - label: "O nas"
-        name: "crew"
-        file: "content/manager/crew.md"
+      - label: O nas
+        name: crew
+        file: content/manager/crew.md
         fields:
-          - { label: "Typ", name: "type", widget: "hidden" }
-          - { label: "Tytuł", name: "title", widget: "string" }
-          - label: "Kolejność"
-            label_singular: "kolejny"
-            name: "users"
-            widget: "list"
+          - label: Typ
+            name: type
+            widget: hidden
+          - label: Tytuł
+            name: title
+            widget: string
+          - label: Kolejność
+            label_singular: kolejny
+            name: users
+            widget: list
             fields:
-            - {label: Nazwa, name: title, widget: relation, collection: users, searchFields: [title], valueField: title }
-      - label: "Rada parafialna"
-        name: "council"
-        file: "content/manager/council.md"
+              - label: Nazwa
+                name: title
+                widget: relation
+                collection: users
+                searchFields:
+                  - title
+                valueField: title
+      - label: Rada parafialna
+        name: council
+        file: content/manager/council.md
         fields:
-          - { label: "Typ", name: "type", widget: "hidden" }
-          - { label: "Tytuł", name: "title", widget: "string" }
-          - label: "Kolejność"
-            label_singular: "kolejny"
-            name: "users"
-            widget: "list"
+          - label: Typ
+            name: type
+            widget: hidden
+          - label: Tytuł
+            name: title
+            widget: string
+          - label: Kolejność
+            label_singular: kolejny
+            name: users
+            widget: list
             fields:
-            - {label: Nazwa, name: title, widget: relation, collection: users, searchFields: [title], valueField: title }
-  - name: "infoSection"
-    label: "Kolejność informacji"
-    description: "Miejsce do zarządzania kolejnością wyświetlania informacji na głównej stronie w sekcjach Informacje i Kontakt"
-    folder: "content/infos"
+              - label: Nazwa
+                name: title
+                widget: relation
+                collection: users
+                searchFields:
+                  - title
+                valueField: title
+  - name: infoSection
+    label: Kolejność informacji
+    description: >-
+      Miejsce do zarządzania kolejnością wyświetlania informacji na głównej
+      stronie w sekcjach Informacje i Kontakt
+    folder: content/infos
     delete: false
     editor:
-     preview: false
+      preview: false
     fields:
-      - { label: "Typ", name: "type", widget: "hidden" }
-      - { label: "Tytuł", name: "title", widget: "string" }
-      - label: "Kolejność"
-        name: "info"
-        widget: "list"
+      - label: Typ
+        name: type
+        widget: hidden
+      - label: Tytuł
+        name: title
+        widget: string
+      - label: Kolejność
+        name: info
+        widget: list
         fields:
-        - {label: Tytuł informacji, name: title, widget: relation, collection: info, searchFields: [title], valueField: title }
-  - name: "users"
-    label: "Dodaj osobę"
-    label_singular: "osoba"
-    description: 'Tutaj można dodawać nowe pozycje z notkami biograficznymi.'
-    folder: "content/pages"
+          - label: Tytuł informacji
+            name: title
+            widget: relation
+            collection: info
+            searchFields:
+              - title
+            valueField: title
+  - name: users
+    label: Edytuj osoby
+    label_singular: osoba
+    description: Tutaj można dodawać nowe pozycje z notkami biograficznymi.
+    folder: content/pages
     create: true
-    filter: {field: "type", value: "user"}
-    slug: "{{slug}}"
+    filter:
+      field: type
+      value: user
+    slug: '{{slug}}'
     path: '{{slug}}/index'
     editor:
-     preview: false
+      preview: false
     fields:
-      - { label: "Typ", name: "type", widget: "hidden", default: "user" }
-      - { label: 'Imię i nazwisko', name: 'title', widget: 'string' }
-      - { label: 'Zdjęcie', name: 'cover', widget: image, required: false }
-      - label: "Dodatkowe informacje"
-        name: "bio"
-        widget: "object"
+      - label: Typ
+        name: type
+        widget: hidden
+        default: user
+      - label: Imię i nazwisko
+        name: title
+        widget: string
+      - label: Zdjęcie
+        name: cover
+        widget: image
+        required: false
+      - label: Dodatkowe informacje
+        name: bio
+        widget: object
         fields:
-          - { label: 'Stanowisko', name: 'job', widget: 'string', required: false, default: '' }
-          - { label: 'Numer telefonu', name: 'phone', widget: 'string', required: false, default: '' }
-          - { label: 'E-mail', name: 'mail', widget: 'string', required: false, default: '' }
-      - { label: 'Bio', name: 'body', widget: 'markdown' }
-  - name: "info"
-    label: "Edytuj informacje"
-    label_singular: "informacja"
-    description: 'Tutaj można dodawać lub edytować informacje zawarte na głównej stronie.'
-    folder: "content/info"
+          - label: Stanowisko
+            name: job
+            widget: string
+            required: false
+            default: ''
+          - label: Numer telefonu
+            name: phone
+            widget: string
+            required: false
+            default: ''
+          - label: E-mail
+            name: mail
+            widget: string
+            required: false
+            default: ''
+      - label: Bio
+        name: body
+        widget: markdown
+  - name: info
+    label: Edytuj informacje
+    label_singular: informacja
+    description: Tutaj można dodawać lub edytować informacje zawarte na głównej stronie.
+    folder: content/info
     create: true
-    filter: {field: "type", value: "info"}
-    slug: "{{slug}}"
+    filter:
+      field: type
+      value: info
+    slug: '{{slug}}'
     editor:
-     preview: false
+      preview: false
     fields:
-      - { label: "Typ", name: "type", widget: "hidden", default: "info" }
-      - { label: 'Tytuł informacji', name: 'title', widget: 'string' }
-      - { label: 'Treść', name: 'body', widget: 'markdown' }
-  - name: "socials"
-    label: "Social media"
-    label_singular: "social"
-    description: 'Miejsce do zarządzania social media'
-    folder: "content/socials"
+      - label: Typ
+        name: type
+        widget: hidden
+        default: info
+      - label: Tytuł informacji
+        name: title
+        widget: string
+      - label: Treść
+        name: body
+        widget: markdown
+  - name: socials
+    label: Social media
+    label_singular: social
+    description: Miejsce do zarządzania social media
+    folder: content/socials
     delete: false
-    format: 'json'
+    format: json
     editor:
-     preview: false
+      preview: false
     fields:
-      - { label: Tytuł, name: title, widget: string, default: Socials }
+      - label: Tytuł
+        name: title
+        widget: string
+        default: Socials
       - label: Kolejność
         name: socials
         widget: list
         fields:
-        - { label: Nazwa, name: title, widget: string }
-        - { label: Ikona, name: cover, widget: select, options: [facebook.svg, google-play.svg, youtube.svg] }
-        - { label: Link, name: to, widget: string }
-        - { label: Tylko na komórkę, name: mobile, widget: boolean, default: false }
-        - { label: Opis, name: text, widget: string, required: false }
+          - label: Nazwa
+            name: title
+            widget: string
+          - label: Ikona
+            name: cover
+            widget: select
+            options:
+              - facebook.svg
+              - google-play.svg
+              - youtube.svg
+          - label: Link
+            name: to
+            widget: string
+          - label: Tylko na komórkę
+            name: mobile
+            widget: boolean
+            default: false
+          - label: Opis
+            name: text
+            widget: string
+            required: false
