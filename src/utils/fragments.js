@@ -27,8 +27,8 @@ export const bioFields = graphql`
 			}
 			cover {
 				childImageSharp {
-					fluid(quality: 75, maxWidth: 200) {
-						...GatsbyImageSharpFluid
+					fixed(quality: 75, cropFocus: CENTER, width: 200, height: 200) {
+						...GatsbyImageSharpFixed
 					}
 				}
 			}

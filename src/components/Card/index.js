@@ -32,7 +32,7 @@ const Card = ({ title, job, mail, phone, cover, hasLink, className }) => {
 	return (
 		<Wrapper className={className}>
 			{cover ? (
-				<Cover as={Img} fluid={cover.childImageSharp.fluid} />
+				<Cover as={Img} fixed={cover.childImageSharp.fixed} />
 			) : (
 				<EmptyCover src={userIcon.publicURL} />
 			)}

@@ -9,8 +9,8 @@ export const Wrapper = styled.div`
 
 export const Cover = styled.div`
 	flex-shrink: 0;
-	width: 8em;
-	height: 8em;
+	max-width: 8em;
+	max-height: 8em;
 	margin: 0 1em;
 	border-radius: 50%;
 `;
