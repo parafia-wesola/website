@@ -1,5 +1,8 @@
 ---
 type: newsfeed
 title: Dzieje się
-news: []
+news:
+  - size: large
+    title: Strona w rozbudowie
 ---
+
