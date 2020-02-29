@@ -25,7 +25,7 @@ const ArticleTemplate = ({ data }) => {
 			<Wrapper as={SectionWrapper}>
 				<StyledMain
 					as={ArticleMain}
-					cover={cover.childImageSharp.fluid}
+					cover={cover}
 					title={title}
 					date={date}
 					author={author}

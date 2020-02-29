@@ -30,7 +30,7 @@ const PageTemplate = ({ data }) => {
 
 							<ModalWrapper
 								as={ArticleMain}
-								cover={cover && cover.childImageSharp.fluid}
+								cover={cover}
 								title={title}
 								content={content}
 								images={images}
