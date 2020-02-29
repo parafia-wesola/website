@@ -14,7 +14,7 @@ export const StyledLink = styled.a`
 	}
 `;
 
-export const Image = styled.div`
+export const Cover = styled.div`
 	border-radius: 5px;
 `;
 

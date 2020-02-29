@@ -33,7 +33,7 @@ export const NewsWrapper = styled.div`
 	}
 `;
 
-export const NewsImg = styled.div`
+export const Cover = styled.div`
 	display: flex;
 	flex: ${({ size }) => (size === 'medium' ? `0 0 ${imgPercent}` : 'auto')};
 	align-items: center;

@@ -4,7 +4,7 @@ import { Link } from 'gatsby';
 import Img from 'gatsby-image';
 import {
 	NewsWrapper,
-	NewsImg,
+	Cover,
 	MediumBody,
 	LargeBody,
 	NewsTitle,
@@ -31,7 +31,7 @@ const News = ({ title, date, text, size, cover, reference, className }) => {
 
 	return (
 		<NewsWrapper className={className} as={Link} to={reference} size={size}>
-			<NewsImg
+			<Cover
 				as={Img}
 				fluid={cover.childImageSharp.fluid}
 				size={size}
