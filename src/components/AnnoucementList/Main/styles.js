@@ -23,6 +23,7 @@ export const Overlap = styled.div`
 	padding: 10px 40px;
 	color: ${({ theme }) => theme.colors.overlapColor};
 	text-transform: lowercase;
+	text-decoration: none;
 	background: ${({ theme }) => theme.colors.overlapBackground};
 	border-radius: 20px 20px 0 0;
 	transform: translateX(50%) rotate(270deg);

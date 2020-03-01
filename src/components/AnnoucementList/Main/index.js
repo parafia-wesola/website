@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect, useContext } from 'react';
 import PropTypes from 'prop-types';
 
+import Conditional from 'components/Conditional';
 import { SmoothScrollContext } from 'components/Scroll';
 import Annoucement from 'components/Annoucement';
 import { verticalPosition } from 'utils';
@@ -28,7 +29,9 @@ const Main = ({ id, title, text, className }) => {
 
 	return (
 		<Wrapper className={className} ref={wrapper} id={id}>
-			<Overlap>intencje mszalne</Overlap>
+			<Overlap as={Conditional} to="$/intencje_mszalne">
+				intencje mszalne
+			</Overlap>
 			<Content
 				as={Annoucement}
 				open={!isReadMore || isOpen}

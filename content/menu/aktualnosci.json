@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "intencje mszalne",
-			"to": "!"
+			"to": "/intencje_mszalne"
 		},
 		{
 			"name": "nadchodzące wydarzenia",
