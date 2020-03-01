@@ -2,6 +2,7 @@
 	font-weight: 400;
 	font-family: Montserrat;
 	font-style: normal;
+	font-display: swap;
 	src:
 		local('Montserrat Regular'),
 		local('Montserrat-Regular'),
@@ -13,6 +14,7 @@
 	font-weight: 600;
 	font-family: Montserrat;
 	font-style: normal;
+	font-display: swap;
 	src:
 		local('Montserrat SemiBold'),
 		local('Montserrat-SemiBold'),
@@ -24,6 +26,7 @@
 	font-weight: 800;
 	font-family: Montserrat;
 	font-style: normal;
+	font-display: swap;
 	src:
 		local('Montserrat ExtraBold'),
 		local('Montserrat-ExtraBold'),
@@ -35,6 +38,7 @@
 	font-weight: 600;
 	font-family: 'Josefin Sans';
 	font-style: normal;
+	font-display: swap;
 	src:
 		local('Josefin Sans SemiBold'),
 		local('JosefinSans-SemiBold'),
