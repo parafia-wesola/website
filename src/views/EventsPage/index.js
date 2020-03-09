@@ -8,6 +8,7 @@ const EventSection = () => {
 	const { eventsFirst, eventsSecond } = useStaticQuery(graphql`
 		{
 			eventsFirst: allMarkdownRemark(
+				sort: { fields: frontmatter___eventDate }
 				filter: {
 					isFuture: { eq: true }
 					frontmatter: { type: { eq: "article" } }
@@ -29,7 +30,7 @@ const EventSection = () => {
 				}
 			}
 			eventsSecond: allMarkdownRemark(
-				sort: { order: ASC, fields: frontmatter___eventDate }
+				sort: { fields: frontmatter___eventDate }
 				filter: {
 					frontmatter: { eventDate: { gt: "0" }, type: { eq: "article" } }
 				}

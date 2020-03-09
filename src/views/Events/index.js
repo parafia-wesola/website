@@ -15,6 +15,7 @@ const EventSection = () => {
 					frontmatter: { type: { eq: "article" } }
 				}
 				limit: 3
+				sort: { fields: frontmatter___eventDate }
 			) {
 				events: edges {
 					node {
