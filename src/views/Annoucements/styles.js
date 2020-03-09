@@ -49,9 +49,9 @@ export const StyledAside = styled.div`
 `;
 
 export const StyledMain = styled.div`
-	grid-column: 2/4;
+	grid-column: 2/6;
 `;
 
 export const StyledHorizontal = styled.div`
-	grid-column: 2/4;
+	grid-column: 2/6;
 `;
