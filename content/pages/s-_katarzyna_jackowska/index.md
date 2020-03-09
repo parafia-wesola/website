@@ -5,7 +5,7 @@ cover: dsc02215.jpg
 bio:
   job: ''
   mail: ''
-  phone: ''
+  phone: 728 327 667
 ---
 <!--StartFragment-->
 
