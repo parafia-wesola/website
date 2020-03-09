@@ -7,5 +7,6 @@ users:
   - title: Ks. Artur Kasprzak
   - title: s. Katarzyna Jackowska
   - title: Marek Sęczek
+  - title: Jolanta Łęczycka
 ---
 
