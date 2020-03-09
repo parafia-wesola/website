@@ -21,4 +21,5 @@ export const AnnoucementText = styled.div`
 	font-weight: 400;
 	font-size: 1em;
 	line-height: 1.75;
+	word-break: break-word;
 `;
