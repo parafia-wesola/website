@@ -11,7 +11,7 @@ export const NewsFeedWrapper = styled.div`
 export const MediumItem = styled.div`
 	grid-row-end: span 1;
 	grid-column-end: span 2;
-	min-height: ${sideLengthMedium};
+	height: ${sideLengthMedium};
 `;
 
 export const LargeItem = styled.div`
