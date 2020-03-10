@@ -2,7 +2,7 @@
 type: article
 title: Weekend Ewangelizacji dzieci - Tymoteusz
 date: 2020-03-09T21:15:22.055Z
-eventDate: ''
+eventDate: 2020-04-24T22:00:00.000Z
 author: parafia wesoła
 cover: tym_plakat_internet_2020.jpg
 ---
