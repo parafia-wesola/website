@@ -1,10 +1,11 @@
 ---
 type: user
 title: Jolanta Łęczycka
-cover: jola_l_2.bmp
+cover: jola_leczycka.jpg
 bio:
   job: ''
   mail: ''
   phone: ''
 ---
+
 Jolanta Łęczycka
