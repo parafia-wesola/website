@@ -6,7 +6,7 @@ users:
   - title: o. Krzysztof Charańczuk
   - title: Ks. Artur Kasprzak
   - title: s. Katarzyna Jackowska
-  - title: Marek Sęczek
   - title: Jolanta Łęczycka
+  - title: Marek Sęczek
 ---
 
