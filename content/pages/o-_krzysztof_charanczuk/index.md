@@ -1,10 +1,11 @@
 ---
 type: user
 title: o. Krzysztof Charańczuk
+cover: krzysiek.jpg
 bio:
   job: Wikary
-  phone: 664 050 978
   mail: ''
+  phone: 664 050 978
 ---
 
 o. Krzysztof Charańczuk pochodzi z Lubelszczyzny, wieś Czarnoziem, gmina Krasnystaw. Po ukończeniu studiów magisterskich z socjologii na UMCS w Lublinie, wyjechał w 1999 r. do Francji, aby dać sobie czas we Wspólnocie Chemin Neuf na rozeznanie stanu życia. Rezultatem była decyzja o wstąpieniu na drogę kapłańską, do której przygotowywał się na studiach filozoficznych w jezuickim Centre Sevres w Paryżu, studiach teologicznych na
