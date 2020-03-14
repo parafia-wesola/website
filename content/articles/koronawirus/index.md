@@ -654,22 +654,34 @@ cover: kosciol_-_kopia.png
 
 <!--StartFragment-->
 
-*Komunikat **14.03.2020***
+***Komunikat 14.03.2020***
 
 W związku z epidemią koronawirusa, warto przypomnieć sobie słowa św. Ignacego z Loyoli: **„Tak Bogu ufaj, jakby całe powodzenie spraw zależało tylko od Boga, a nie od ciebie; tak jednak dokładaj wszelkich starań, jakbyś ty sam miał to wszystko zdziałać, a Bóg nic zgoła.”**
 
 Według tej zasady, motywowani odpowiedzialnością jedni za drugich i miłością braterską, musimy zgodzić się razem na pewne kroki i ograniczenia, aby utrudnić rozprzestrzenianie się wirusa. Rozumiemy, że nie ma dziś innego rozwiązania, jak unikanie zarażenia, czyli unikanie kontaktu z potencjalnym chorym a warto pamiętać, że zarażać mogą również osoby, które same nie mają objawów. Władze cywilne wydały rozporządzenia, które zostały przyjęte przez nasze władze kościelne i my jako parafia musimy się im podporządkować.
 
-Z żalem, ale w poczuciu konieczności, ***odwołujemy*** wszystkie spotkania:\
-dla dzieci,\
-ministrantów,\
-bierzmowanych,\
-narzeczonych,\
-wieczory uwielbienia,\
-wieczory biblijne,\
-kurs francuskiego,\
-kurs tańca,\
-ćwiczenia dla kobiet.
+Z żalem, ale w poczuciu konieczności, ***odwołujemy*** wszystkie spotkania:
+
+<!--\[if !supportLists]-->·<!--\[endif]-->dla dzieci,
+
+<!--\[if !supportLists]-->·<!--\[endif]-->ministrantów,
+
+<!--\[if !supportLists]-->·<!--\[endif]-->bierzmowanych,
+
+<!--\[if !supportLists]-->·<!--\[endif]-->narzeczonych,
+
+<!--\[if !supportLists]-->·<!--\[endif]-->wieczory uwielbienia,
+
+<!--\[if !supportLists]-->·<!--\[endif]-->wieczory biblijne,
+
+<!--\[if !supportLists]-->·<!--\[endif]-->kurs francuskiego,
+
+<!--\[if !supportLists]-->·<!--\[endif]-->kurs tańca,
+
+<!--\[if !supportLists]-->·<!--\[endif]-->ćwiczenia dla kobiet.\
+\
+<!--\[if !supportLineBreakNewLine]-->\
+<!--\[endif]-->
 
 ***Zachowujemy*:**
 
