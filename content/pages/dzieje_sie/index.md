@@ -10,5 +10,7 @@ news:
     title: Próba chóru nie odbędzie się
   - size: large
     title: KORONAWIRUS
+  - size: large
+    title: Próba chóru nie odbędzie się
 ---
 
