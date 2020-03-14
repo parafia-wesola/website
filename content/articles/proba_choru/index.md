@@ -1,6 +1,6 @@
 ---
 type: article
-title: Próba chóru
+title: Próba chóru nie odbędzie się
 date: 2020-03-09T14:47:48.490Z
 eventDate: 2020-03-14T23:00:00.000Z
 author: parafia wesoła
