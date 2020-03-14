@@ -7,7 +7,7 @@ news:
   - size: medium
     title: Weekend Ewangelizacji dzieci - Tymoteusz
   - size: medium
-    title: Próba chóru
+    title: Próba chóru nie odbędzie się
   - size: large
     title: KORONAWIRUS
 ---
