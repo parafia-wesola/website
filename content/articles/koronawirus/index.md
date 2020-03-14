@@ -6,13 +6,13 @@ eventDate: ''
 author: parafia wesoła
 cover: kosciol_-_kopia.png
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ cover: kosciol_-_kopia.png
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -623,9 +623,9 @@ cover: kosciol_-_kopia.png
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -650,7 +650,7 @@ cover: kosciol_-_kopia.png
 	mso-hansi-theme-font:minor-latin;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -662,26 +662,29 @@ Według tej zasady, motywowani odpowiedzialnością jedni za drugich i miłości
 
 Z żalem, ale w poczuciu konieczności, ***odwołujemy*** wszystkie spotkania:
 
-<!--\[if !supportLists]-->·<!--\[endif]-->dla dzieci,
+<!--\\[if !supportLists]-->·<!--\\[endif]-->dla dzieci,
 
-<!--\[if !supportLists]-->·<!--\[endif]-->ministrantów,
+<!--\\[if !supportLists]-->·<!--\\[endif]-->ministrantów,
 
-<!--\[if !supportLists]-->·<!--\[endif]-->bierzmowanych,
+<!--\\[if !supportLists]-->·<!--\\[endif]-->bierzmowanych,
 
-<!--\[if !supportLists]-->·<!--\[endif]-->narzeczonych,
+<!--\\[if !supportLists]-->·<!--\\[endif]-->narzeczonych,
 
-<!--\[if !supportLists]-->·<!--\[endif]-->wieczory uwielbienia,
+<!--\\[if !supportLists]-->·<!--\\[endif]-->wieczory uwielbienia,
 
-<!--\[if !supportLists]-->·<!--\[endif]-->wieczory biblijne,
+<!--\\[if !supportLists]-->·<!--\\[endif]-->wieczory biblijne,
 
-<!--\[if !supportLists]-->·<!--\[endif]-->kurs francuskiego,
+<!--\\[if !supportLists]-->·<!--\\[endif]-->kurs francuskiego,
 
-<!--\[if !supportLists]-->·<!--\[endif]-->kurs tańca,
+<!--\\[if !supportLists]-->·<!--\\[endif]-->kurs tańca,
 
-<!--\[if !supportLists]-->·<!--\[endif]-->ćwiczenia dla kobiet.\
+<!--\\[if !supportLists]-->·<!--\\[endif]-->ćwiczenia dla kobiet.\
+
 \
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
+
+<!--\\[if !supportLineBreakNewLine]-->\
+
+<!--\\[endif]-->
 
 ***Zachowujemy*:**
 
@@ -709,13 +712,7 @@ Ufamy, że Bóg przeprowadzi nas przez ten trudny czas. Módlmy się razem w int
 
 **Myjcie często ręce, bądźcie zdrowi i Ducha nie gaście!😊**
 
-
-
-*Ekipa parafii Opatrzności Bożej w Wesołej*
-
-
-
-
+ *\    Ekipa parafii Opatrzności Bożej w Wesołej*
 
 Dyspensa od obowiązku niedzielnego uczestnictwa we Mszy Świętej <https://dw-p.pl/6899>
 
