@@ -8,7 +8,6 @@ news:
     title: Próba chóru nie odbędzie się
   - size: medium
     title: Weekend Ewangelizacji dzieci - Tymoteusz
-  - size: large
+  - size: medium
     title: Strona w rozbudowie
 ---
-
