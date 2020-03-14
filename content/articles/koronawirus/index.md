@@ -6,6 +6,15 @@ eventDate: ''
 author: parafia wesoła
 cover: komunikat.jpg
 ---
+<!--\[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<!\[endif]-->
+
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
@@ -16,7 +25,7 @@ cover: komunikat.jpg
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
-  <w:TrackMoves/>
+  <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
   <w:PunctuationKerning/>
@@ -652,6 +661,15 @@ cover: komunikat.jpg
 </style>
 <!\[endif]-->
 
+<!--\[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><!\[endif]-->
+
+<!--\[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><!\[endif]-->
+
 <!--StartFragment-->
 
 *Komunikat dla parafian, **14.03.2020***
@@ -705,6 +723,119 @@ Ufamy, że Bóg przeprowadzi nas przez ten trudny czas. Módlmy się w intencji 
 *o. Adam Strojny ccn, Proboszcz*
 
 *wraz z Ekipą parafii Opatrzności Bożej w Wesołej*
+
+
+
+<!--\[if gte vml 1]><v:shapetype
+ id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+ <v:stroke joinstyle="miter"/>
+ <v:path gradientshapeok="t" o:connecttype="rect"/>
+</v:shapetype><v:shape id="Zone_x0020_de_x0020_texte_x0020_2" o:spid="_x0000_s1026"
+ type="#_x0000_t202" style='position:absolute;left:0;text-align:left;
+ margin-left:47.5pt;margin-top:1.1pt;width:363.75pt;height:61.95pt;z-index:251659264;
+ visibility:visible;mso-wrap-style:square;mso-width-percent:0;
+ mso-height-percent:200;mso-wrap-distance-left:9pt;mso-wrap-distance-top:3.6pt;
+ mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:3.6pt;
+ mso-position-horizontal:absolute;mso-position-horizontal-relative:text;
+ mso-position-vertical:absolute;mso-position-vertical-relative:text;
+ mso-width-percent:0;mso-height-percent:200;mso-width-relative:margin;
+ mso-height-relative:margin;v-text-anchor:top' o:gfxdata="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
+">
+ <v:textbox style='mso-fit-shape-to-text:t'>
+  <!\[if !mso]>
+  <table cellpadding=0 cellspacing=0 width="100%">
+   <tr>
+    <td><!\[endif]>
+    <div>
+    <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
+    line-height:107%;color:red'>15 marca, 9.00. Msza św. online:<o:p></o:p></span></p>
+    <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
+    line-height:107%;color:red'><a
+    href="https://www.facebook.com/events/491296211547388/"><span
+    style='color:red'>https://www.facebook.com/events/491296211547388/</span></a><o:p></o:p></span></p>
+    </div>
+    <!\[if !mso]></td>
+   </tr>
+  </table>
+  <!\[endif]></v:textbox>
+ <w:wrap type="square"/>
+</v:shape><!\[endif]--><!--\[if !vml]-->![Zone de Texte: 15 marca, 9.00. Msza św. online:
+https://www.facebook.com/events/491296211547388/
+](file:///C:\Users\Kasia\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png)<!--\[endif]-->
+
+
 
 
 
