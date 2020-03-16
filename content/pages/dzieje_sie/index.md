@@ -10,5 +10,7 @@ news:
     title: Weekend Ewangelizacji dzieci - Tymoteusz
   - size: medium
     title: Strona w rozbudowie
+  - size: large
+    title: Wspólna modlitwa
 ---
 
