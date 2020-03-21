@@ -6,13 +6,13 @@ eventDate: ''
 author: parafia wesoła
 cover: komunikat_20.03.2020.png
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ cover: komunikat_20.03.2020.png
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -623,9 +623,9 @@ cover: komunikat_20.03.2020.png
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -650,7 +650,7 @@ cover: komunikat_20.03.2020.png
 	mso-hansi-theme-font:minor-latin;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -676,10 +676,6 @@ Od poniedziałku do piątku Msze św. celebrujemy w kościele o godz. 7 i 18. Po
 
 Ci, którzy uczestniczyli we Mszy św. transmitowanej przez media i są w stanie łaski uświęcającej mogą przyjąć **Komunię św. poza Mszą św.** w niedzielę popołudniu o pełnych godzinach 15, 16 i 17. [Przypominamy też](<>)o możliwości przeżycia **Komunii duchowej**. Osoby, które przychodzą na Mszę do kościoła prosimy o przyjmowanie Komunii św. **na rękę** (co jest zgodne z tradycją Kościoła, obecnymi zaleceniami biskupów oraz jest bezpieczniejsze w sytuacji pandemii choroby roznoszonej drogą kropelkową).
 
-
-
-
-
 ***Transmisje online***
 
 Od poniedziałku do piątku transmitujemy Mszę wieczorną i Adorację Najśw. Sakramentu. A dodatkowo w kolejne dni:
@@ -692,17 +688,15 @@ Od poniedziałku do piątku transmitujemy Mszę wieczorną i Adorację Najśw. S
 
 **Piątek**, godz. 15.00 – Koronka do Bożego Miłosierdzia, godz. 18.45 – Droga Krzyżowa
 
-Jużniedługo pojawią się również inne propozycje materiałów online. Można też odsłuchać transmisje wydarzeń z ostatniego tygodnia (w zakładce filmy na FB).
+Już niedługo pojawią się również inne propozycje materiałów online. Można też odsłuchać transmisje wydarzeń z ostatniego tygodnia (w zakładce filmy na FB).
 
-***Spowiedź i pierwszy piątek miesiąca***
+***Spowiedź*** 
 
 Zachęcamy do korzystania z sakramentu pokuty i pojednania. Księża są dyspozycyjni w konfesjonale 15 minut przed Mszami w niedzielę i przed wieczorną Mszą w tygodniu. Dodatkowo w poniedziałek spowiadamy podczas wieczornej Adoracji.
 
 Można też umówić się na spotkanie z księdzem poza konfesjonałem (w sali Tymoteusz w Domu rekolekcyjnym lub na spacerze w lesie).
 
-W tym tygodniu wypada pierwszy piątek miesiąca. Spowiadamy przed ranną Mszą oraz popołudniu i wieczorem:o. Krzysztof od godz. 15 do 16, ks. Artur od 16 do 17, o. Adam od 17 do 17.45 i po Drodze Krzyżowej, tj. 19.30-20.00.
-
-Odwiedzimy też chorych, jak zwykle między godz. 8.30 a 13.00. Prosimy o zgłaszanie chorych, którzy chcieliby prosić o spowiedź, Komunię św., sakrament namaszczenia chorych lub prostą rozmowę w domu. Księża wyposażeni będą w maseczki ochronne.
+W piątek spowiadamy przed ranną Mszą oraz popołudniu i wieczorem: o. Krzysztof od godz. 15 do 16, ks. Artur od 16 do 17, o. Adam od 17 do 17.45 i po Drodze Krzyżowej, tj. 19.30-20.00.
 
 ***Ofiary***
 
