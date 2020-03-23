@@ -6,13 +6,13 @@ eventDate: ''
 author: parafia wesoła
 cover: komunikat_20.03.2020.png
 ---
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ cover: komunikat_20.03.2020.png
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -623,9 +623,9 @@ cover: komunikat_20.03.2020.png
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -650,7 +650,7 @@ cover: komunikat_20.03.2020.png
 	mso-hansi-theme-font:minor-latin;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -714,24 +714,22 @@ W Domu rekolekcyjnym trwamy w życiu wspólnotowym i modlitwie, z pragnieniem, b
 
 o. Adam Strojny, proboszcz wraz z Ekipą parafialną oraz braćmi i siostrami z Chemin Neuf
 
-
-
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -771,9 +769,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -1342,9 +1340,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1369,22 +1367,22 @@ w\:* {behavior:url(#default#VML);}
 	mso-hansi-theme-font:minor-latin;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1027"/>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><!\[endif]-->
+ </o:shapelayout></xml><!\\[endif]-->
 
 <!--StartFragment-->
 
-*Komunikat dla parafian, **14.03.2020***
 
 
+\*Komunikat dla parafian, **14.03.2020***
 
 W związku z epidemią koronawirusa, warto przypomnieć sobie słowa św. Ignacego z Loyoli: **„Tak Bogu ufaj, jakby całe powodzenie spraw zależało tylko od Boga, a nie od ciebie; tak jednak dokładaj wszelkich starań, jakbyś ty sam miał to wszystko zdziałać, a Bóg nic zgoła.”**
 
@@ -1393,8 +1391,6 @@ Według tej zasady, motywowani odpowiedzialnością jedni za drugich i miłości
 Z żalem, ale w poczuciu konieczności, ***odwołujemy*** wszystkie celebrowane razem nabożeństwa: Gorzkie Żale, Drogi Krzyżowe, Godzinki, Różaniec, **zachęcając jednocześnie do ich indywidualnego lub rodzinnego odprawiania**.
 
 Odwołujemy również wszystkie inne spotkania parafialne: dla dzieci, młodzieży, ministrantów, bierzmowanych, narzeczonych, wieczory uwielbienia, wieczory biblijne, rekolekcje wielkopostne, kurs francuskiego, kurs tańca, ćwiczenia dla kobiet.
-
-
 
 ***Podtrzymujemy natomiast*:**
 
@@ -1414,8 +1410,6 @@ Wiedząc, że utrudniona będzie wspólna modlitwa, tym bardziej zachęcamy do m
 
 W piątki i soboty kościół będzie otwarty od godz. 15.
 
-
-
 **Bądźmy razem**
 
 Zachęcamy do śledzenia aktualności na naszej nowej stronie internetowej, na FB oraz w aplikacji mobilnej (zachęcamy do jej ściągnięcia na własny telefon!). Znajdziecie tam propozycje transmisji nabożeństw, homilii i katechez itp. Materiały do rozważań Drogi Krzyżowej dostępne będą również w kościele.
@@ -1428,15 +1422,11 @@ Ufamy, że Bóg przeprowadzi nas przez ten trudny czas. Módlmy się w intencji 
 
 **Myjcie często ręce, bądźcie zdrowi i Ducha nie gaście!😊**
 
-
-
 *o. Adam Strojny ccn, Proboszcz*
 
 *wraz z Ekipą parafii Opatrzności Bożej w Wesołej*
 
-
-
-<!--\[if gte vml 1]><v:shapetype
+<!--\\[if gte vml 1]><v:shapetype
  id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
  <v:stroke joinstyle="miter"/>
  <v:path gradientshapeok="t" o:connecttype="rect"/>
@@ -1524,10 +1514,10 @@ AAAAAAAAAAAAAAANBgAAY2xpcGJvYXJkL3RoZW1lL3RoZW1lMS54bWxQSwECLQAUAAYACAAAACEA
 YXdpbmcxLnhtbC5yZWxzUEsFBgAAAAAFAAUAZwEAALAOAAAAAA==
 ">
  <v:textbox style='mso-fit-shape-to-text:t'>
-  <!\[if !mso]>
+  <!\\[if !mso]>
   <table cellpadding=0 cellspacing=0 width="100%">
    <tr>
-    <td><!\[endif]>
+    <td><!\\[endif]>
     <div>
     <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
     line-height:107%;color:red'>15 marca, 9.00. Msza św. online:<o:p></o:p></span></p>
@@ -1536,30 +1526,22 @@ YXdpbmcxLnhtbC5yZWxzUEsFBgAAAAAFAAUAZwEAALAOAAAAAA==
     style='font-size:14.0pt;line-height:107%;color:red'>https://www.facebook.com/events/491296211547388/</span></a><span
     style='font-size:14.0pt;line-height:107%;color:red'><o:p></o:p></span></p>
     </div>
-    <!\[if !mso]></td>
+    <!\\[if !mso]></td>
    </tr>
   </table>
-  <!\[endif]></v:textbox>
+  <!\\[endif]></v:textbox>
  <w:wrap type="square"/>
-</v:shape><!\[endif]--><!--\[if !vml]-->![Zone de Texte: 15 marca, 9.00. Msza św. online:
-https://www.facebook.com/events/491296211547388/
-](file:///C:\Users\Kasia\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png)<!--\[endif]-->
+</v:shape><!\\[endif]--><!--\\[if !vml]-->![Zone de Texte: 15 marca, 9.00. Msza św. online:
 
+https://www.facebook.com/events/491296211547388/ ](file:///C:\Users\Kasia\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png)<!--\\[endif]-->
 
-
-
-
-
-
-[<!--\[if !supportLists]-->·<!--\[endif]-->Dyspensa od obowiązku niedzielnego uczestnictwa we Mszy Świętej](<>): 
+\[<!--[if !supportLists]-->·<!--\\[endif]-->Dyspensa od obowiązku niedzielnego uczestnictwa we Mszy Świętej](<>): 
 
 <https://dw-p.pl/6899>
 
-[<!--\[if !supportLists]-->·<!--\[endif]-->Dekret Biskupa Warszawsko-Praskiego po wprowadzeniu stanu zagrożenia epidemicznego:](<>)<https://dw-p.pl/6902>
+\[<!--[if !supportLists]-->·<!--\\[endif]-->Dekret Biskupa Warszawsko-Praskiego po wprowadzeniu stanu zagrożenia epidemicznego:](<>)<https://dw-p.pl/6902>
 
-
-
-<!--\[if !supportLists]-->·<!--\[endif]-->List abp. Grzegorza Rysia do wiernych archidiecezji łódzkiej:
+<!--\\[if !supportLists]-->·<!--\\[endif]-->List abp. Grzegorza Rysia do wiernych archidiecezji łódzkiej:
 
 <http://wiez.com.pl/2020/03/14/jako-kosciol-wlasnie-zdajemy-powazny-egzamin/?fbclid=IwAR2Cmoj5X67g9Jovo41Dya_DrOFrsrsSVIOq-OdHOF_U9BulDx2emBCngY8>
 
