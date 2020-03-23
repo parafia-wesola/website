@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import { ThemeProvider } from 'styled-components';
-import GlobalStyle from 'assets/styles/global';
 import theme from 'assets/styles/theme';
 import Navbar from 'views/Navbar';
 import Footer from 'views/Footer';
@@ -24,7 +23,6 @@ const Layout = ({ children }) => {
 	return (
 		<ThemeProvider theme={theme}>
 			<SmoothScrollContext.Provider value={navbarHeight}>
-				<GlobalStyle />
 				<Navbar />
 				<main>{children}</main>
 				<Footer />
