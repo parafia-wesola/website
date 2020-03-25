@@ -1,26 +1,26 @@
 {
-	"title": "Socials",
-	"socials": [
-		{
-			"title": "Google Play",
-			"cover": "google-play.svg",
-			"to": "https://play.google.com/store/apps/details?id=pl.com.materna.opatrznoscbozawesola",
-			"mobile": true,
-			"text": "Aplikacja mobilna dla parafian i przyjaciół"
-		},
-		{
-			"title": "Facebook",
-			"cover": "facebook.svg",
-			"to": "https://www.facebook.com/Parafia-Opatrzno%C5%9Bci-Bo%C5%BCej-Weso%C5%82a-444169575744240/",
-			"mobile": false,
-			"text": "Polub nas na Facebooku"
-		},
-		{
-			"title": "Youtube",
-			"cover": "youtube.svg",
-			"to": "https://www.youtube.com/",
-			"mobile": false,
-			"text": "Zasubskrybuj nasz kanał na Youtube"
-		}
-	]
+  "title": "Socials",
+  "socials": [
+    {
+      "title": "Google Play",
+      "cover": "google-play.svg",
+      "to": "https://play.google.com/store/apps/details?id=pl.com.materna.opatrznoscbozawesola",
+      "mobile": true,
+      "text": "Aplikacja mobilna dla parafian i przyjaciół"
+    },
+    {
+      "title": "Facebook",
+      "cover": "facebook.svg",
+      "to": "https://www.facebook.com/Parafia-Opatrzno%C5%9Bci-Bo%C5%BCej-Weso%C5%82a-444169575744240/",
+      "mobile": false,
+      "text": "Polub nas na Facebooku"
+    },
+    {
+      "title": "Youtube",
+      "cover": "youtube.svg",
+      "to": "https://www.youtube.com/channel/UCydI-tJHrPj-KT_JTwAi2vw?view_as=subscriber",
+      "mobile": false,
+      "text": "Zasubskrybuj nasz kanał na Youtube"
+    }
+  ]
 }
