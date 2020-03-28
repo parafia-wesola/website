@@ -6,13 +6,13 @@ eventDate: ''
 author: parafia wesoła
 cover: list_do_parafian_27.03.2020.png
 ---
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ cover: list_do_parafian_27.03.2020.png
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -623,9 +623,9 @@ cover: list_do_parafian_27.03.2020.png
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 10]>
+<!--\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -650,7 +650,7 @@ cover: list_do_parafian_27.03.2020.png
 	mso-hansi-theme-font:minor-latin;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\[endif]-->
+<!\\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -658,7 +658,7 @@ cover: list_do_parafian_27.03.2020.png
 
 ***Kochani Parafianie i Przyjaciele Parafii Opatrzności Bożej w Wesołej,***
 
-Sytuacja pandemii stawia nas przed kolejnymi wyzwaniami i ograniczeniami. Zachęcamy do modlitwy i zaufania Bogu oraz do uważności jedni na drugich i przyjęcia zasad funkcjonowania między nami, które pozwolą na minimalizowanie rozwoju epidemii, byśmy jak najszybciej spotkać się z powrotem w bezpieczniejszych warunkach.
+Sytuacja pandemii stawia nas przed kolejnymi wyzwaniami i ograniczeniami. Zachęcamy do modlitwy i zaufania Bogu oraz do uważności jedni na drugich i przyjęcia zasad funkcjonowania między nami, które pozwolą na minimalizowanie rozwoju epidemii, byśmy mogli jak najszybciej spotkać się z powrotem w bezpieczniejszych warunkach.
 
 **Modlitwa**
 
@@ -736,13 +736,13 @@ Przypominamy o częstym myciu rąk. Przy wejściu do kościoła oraz przy konfes
 
 *wraz z Ekipą parafialną oraz braćmi i siostrami z Chemin Neuf*
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -782,9 +782,9 @@ Przypominamy o częstym myciu rąk. Przy wejściu do kościoła oraz przy konfes
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -1353,9 +1353,9 @@ Przypominamy o częstym myciu rąk. Przy wejściu do kościoła oraz przy konfes
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1380,7 +1380,7 @@ Przypominamy o częstym myciu rąk. Przy wejściu do kościoła oraz przy konfes
 	mso-hansi-theme-font:minor-latin;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -1464,8 +1464,7 @@ W związku z epidemią koronawirusa, warto przypomnieć sobie słowa św. Ignace
 > Tak Bogu ufaj, jakby całe powodzenie spraw zależało tylko od Boga, a nie od ciebie; tak jednak dokładaj wszelkich starań, jakbyś ty sam miał to wszystko zdziałać, a Bóg nic zgoła.
 
 Według tej zasady, motywowani odpowiedzialnością jedni za drugich i miłością braterską, musimy zgodzić się razem na pewne kroki i ograniczenia, aby utrudnić rozprzestrzenianie się wirusa. Rozumiemy, że nie ma dziś innego rozwiązania, jak unikanie zarażenia, czyli unikanie kontaktu z potencjalnym chorym. Warto pamiętać, że zarażać mogą również osoby, które same nie mają objawów. Władze cywilne wydały rozporządzenia, które zostały przyjęte przez nasze władze kościelne i my jako parafia musimy się im podporządkować (w załączniku „Dekret Biskupa Warszawsko-Praskiego po wprowadzeniu stanu zagrożenia epidemicznego”).\
-Z żalem, ale w poczuciu konieczności, odwołujemy wszystkie celebrowane razem nabożeństwa: Gorzkie Żale, Drogi Krzyżowe, Godzinki, Różaniec, zachęcając jednocześnie do ich indywidualnego lub rodzinnego odprawiania. Odwołujemy również wszystkie inne spotkania parafialne: dla dzieci, młodzieży, ministrantów, bierzmowanych, narzeczonych, wieczory uwielbienia, wieczory biblijne, rekolekcje wielkopostne,
-kurs francuskiego, kurs tańca, ćwiczenia dla kobiet.
+Z żalem, ale w poczuciu konieczności, odwołujemy wszystkie celebrowane razem nabożeństwa: Gorzkie Żale, Drogi Krzyżowe, Godzinki, Różaniec, zachęcając jednocześnie do ich indywidualnego lub rodzinnego odprawiania. Odwołujemy również wszystkie inne spotkania parafialne: dla dzieci, młodzieży, ministrantów, bierzmowanych, narzeczonych, wieczory uwielbienia, wieczory biblijne, rekolekcje wielkopostne, kurs francuskiego, kurs tańca, ćwiczenia dla kobiet.
 ####Podtrzymujemy natomiast:
 
 * **Msze święte**\
