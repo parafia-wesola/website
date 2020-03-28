@@ -10,5 +10,7 @@ news:
     title: Strona w rozbudowie
   - size: medium
     title: Weekend Ewangelizacji dzieci - Tymoteusz
+  - size: large
+    title: Rekolekcje wielkopostne 30 marca-1 kwietnia
 ---
 
