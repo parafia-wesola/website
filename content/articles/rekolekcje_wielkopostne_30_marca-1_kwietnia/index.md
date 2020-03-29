@@ -8,4 +8,5 @@ cover: rekolekcje_wielkopostne.png
 ---
 Zapowiedź Rekolekcji wielkopostnych 30 marca-1 kwietnia:
 
-[link do rekolekcji](https://www.youtube.com/watch?v=OS7PbwWqMPY&t=10s)
+* [Zapowiedź rekolekcji - link](https://www.youtube.com/watch?v=OS7PbwWqMPY)
+* [1 dzień rekolekcji - link](https://www.youtube.com/watch?v=0ifiWu9W5lE&t=16s)
