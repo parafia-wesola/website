@@ -6,13 +6,13 @@ eventDate: 2020-03-15T23:00:00.000Z
 author: parafia wesoła
 cover: 30_marca_-_1_kwietnia.png
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ cover: 30_marca_-_1_kwietnia.png
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="371">
@@ -623,9 +623,9 @@ cover: 30_marca_-_1_kwietnia.png
   <w:LsdException Locked="false" Priority="52"
    Name="List Table 7 Colorful Accent 6"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -650,15 +650,13 @@ cover: 30_marca_-_1_kwietnia.png
 	mso-hansi-theme-font:minor-latin;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 ***Transmisje online***
 
 Transmisje online można obejrzeć na stronie facebooka Parafii. Nie trzeba mieć założonego konta, wystarczy kliknąć na stronie internetowej ikonkę facebooka w prawym górnym rogu lub kliknąć napodanego linka na aplikacji.
-
-
 
 **Poniedziałek**
 
@@ -698,7 +696,9 @@ Transmisje online można obejrzeć na stronie facebooka Parafii. Nie trzeba mie�
 
 18.40-19.15 Adoracja Najświętszego Sakramentu
 
-Droga Krzyżowa do indywidualnego rozważania będzie dostępna na kanale you tube i na facebooku Parafii
+Droga Krzyżowa do indywidualnego rozważania będzie dostępna na kanale you tube i na facebooku Parafii: 
+
+[link do drogi krzyżowej](https://www.youtube.com/watch?v=5JhMbS4Gmp0&t=18s)
 
 **Sobota**
 
@@ -717,7 +717,5 @@ Kazania Pasyjne wygłoszone przez Marka Kitę
 [Kazanie Pasyjne 1](https://www.youtube.com/watch?v=HnNMrgTgX24&fbclid=IwAR126YvUS-4g4AizIrSgYG4-2asaPJnhA6NUT_w2y9FFZV2UaNXbyhQCzlU)
 
 [Kazanie Pasyjne 2](https://www.youtube.com/watch?v=7hbofbPipnQ&fbclid=IwAR3P6rg3qqpOxwafTCfXMr1x8TgRvCknfDbTtjeGmcJw0hmJIqwCMMOmV7Y)
-
-
 
 <!--EndFragment-->
