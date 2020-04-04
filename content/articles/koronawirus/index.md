@@ -6,7 +6,6 @@ eventDate: ''
 author: parafia wesoła
 cover: wielki_tydzien.png
 ---
-
 ### List do parafian, 4.04.2020
 
 <div style="font-style: italic;">Kochani Parafianie i Przyjaciele parafii Opatrzności Bożej w Wesołej,</div>
@@ -19,10 +18,10 @@ Niedziela Palmowa otwiera Wielki Tydzień, czyli przepiękne i bogate dni, któr
 
 #### Spowiedź
 
-W miarę możliwości zachęcamy do przeżycia doświadczenia Bożego Miłosierdzia w sakramencie pokuty i pojednania. W tym tygodniu spowiadamy:  
+W miarę możliwości zachęcamy do przeżycia doświadczenia Bożego Miłosierdzia w sakramencie pokuty i pojednania. W tym tygodniu spowiadamy:\
 \
-**Poniedziałek-środa:** od 17.00 do Mszy wieczornej oraz po Mszy do końca Adoracji o 19.15.  
-**Wielki Czwartek:** od 15.00 do 17.00  
+**Poniedziałek-środa:** od 17.00 do Mszy wieczornej oraz po Mszy do końca Adoracji o 19.15.\
+**Wielki Czwartek:** od 15.00 do 17.00\
 **Wielki Piątek i Wielką Sobotę:** od 9.30 do 13.00
 
 Proponujemy spowiedź w regularnie dezynfekowanym konfesjonale, w sali Tymoteusz na dole Domu Rekolekcyjnego albo na spacerze. Najłatwiej będzie umówić się, dzwoniąc na numery komórkowe księży.
@@ -31,10 +30,10 @@ W sytuacji osobistej niemożności (obiektywnej lub subiektywnej) udania się do
 
 #### Triduum Paschalne
 
-W swoim dekrecie Ksiądz Biskup Kamiński daje nam dwie możliwości sprawowania Liturgii Triduum Paschalnego. Możemy ją sprawować w obecności maksymalnie 5 osób posługi albo jako wspólnota zakonna, ale bez obecności osób w zewnątrz. W tej sytuacji zdecydowaliśmy, że animację Liturgii poprowadzą bracia i siostry ze Wspólnoty Chemin Neuf, którzy mieszkają na co dzień razem w Domu rekolekcyjnym, a kościół pozostanie zamknięty. Celebracje liturgiczne będą transmitowane online, ponieważ naprawdę chcemy modlić się razem z Wami. Wykorzystamy też nagrania chóru z poprzednich lat. Zachowamy godziny celebracji z poprzednich lat:  
+W swoim dekrecie Ksiądz Biskup Kamiński daje nam dwie możliwości sprawowania Liturgii Triduum Paschalnego. Możemy ją sprawować w obecności maksymalnie 5 osób posługi albo jako wspólnota zakonna, ale bez obecności osób w zewnątrz. W tej sytuacji zdecydowaliśmy, że animację Liturgii poprowadzą bracia i siostry ze Wspólnoty Chemin Neuf, którzy mieszkają na co dzień razem w Domu rekolekcyjnym, a kościół pozostanie zamknięty. Celebracje liturgiczne będą transmitowane online, ponieważ naprawdę chcemy modlić się razem z Wami. Wykorzystamy też nagrania chóru z poprzednich lat. Zachowamy godziny celebracji z poprzednich lat:\
 \
-**Czwartek, Liturgia Wieczerzy Pańskiej, 19.00**  
-**Piątek, Liturgia Męki Pańskiej, 19.00**  
+**Czwartek, Liturgia Wieczerzy Pańskiej, 19.00**\
+**Piątek, Liturgia Męki Pańskiej, 19.00**\
 **Sobota, Wigilia Paschalna, 21.00**
 
 Możliwe jest włączenie się w te celebracje poprzez transmisje online z naszego kościoła lub z wielu innych miejsc, do których można się udać duchowo pozostając we własnych domach. Prosimy przy okazji o subskrypcje kanału YouTube naszej parafii. Potrzebujemy 1000 subskrypcji, żeby prowadzić transmisje online na urządzeniach mobilnych. Korzystajcie z materiałów, które już są tam nagrane: Drogi Krzyżowe, nauczania rekolekcyjne i kazania pasyjne oraz transmisje Mszy i nabożeństw
@@ -59,49 +58,50 @@ Oby te święte dni były dla nas umocnieniem i okazją do jeszcze głębszego p
 
 <h3 style="text-align: center">Wielki Tydzień-Program</h3>
 
-Transmisje online można obejrzeć na stronie facebooka Parafii. Nie trzeba mieć założonego konta, wystarczy kliknąć na stronie internetowej ikonkę facebooka w prawym górnym rogu lub kliknąć na podanego linka na aplikacji.
+Transmisje online można obejrzeć na stronie facebooka Parafii. Nie trzeba mieć założonego konta, wystarczy kliknąć na stronie internetowej ikonkę facebooka w prawym górnym rogu lub kliknąć na podanego linka na aplikacji. 
+
+W tygodniu są momenty kiedy kościół jest otwarty, zapraszamy do modlitwy, pamiętajmy jednak, że w kościele może znajdować się równocześnie maksymalnie 5 osób.\
 \
+**Wielki Poniedziałek**\
+17-17.50 Spowiedź\
+18.00 Msza Święta (online)\
+18.40-19.15 Adoracja Najświętszego Sakramentu/spowiedź (kościół otwarty)\
+20.30 Różaniec (online)\
 \
-**Wielki Poniedziałek**  
-17-17.50 Spowiedź  
-18.00 Msza Święta (online)  
-18.40-19.15 Adoracja Najświętszego Sakramentu/spowiedź (kościół otwarty)  
-20.30 Różaniec (online)  
+**Wielki Wtorek**\
+17-17.50 Spowiedź\
+18.00 Msza Święta (online)\
+18.40-19.15 Adoracja Najświętszego Sakramentu/spowiedź (kościół otwarty)\
+20.00-21.00 Wieczór uwielbienia (online)\
 \
-**Wielki Wtorek**  
-17-17.50 Spowiedź  
-18.00 Msza Święta (online)  
-18.40-19.15 Adoracja Najświętszego Sakramentu/spowiedź (kościół otwarty)  
-20.00-21.00 Wieczór uwielbienia (online)  
+**Wielka Środa**\
+17.00-17.50 Spowiedź\
+18.00 Msza Święta (online)\
+18.40-19.15 Adoracja Najświętszego Sakramentu/spowiedź (kościół otwarty)\
 \
-**Wielka Środa**  
-17.00-17.50 Spowiedź  
-18.00 Msza Święta (online)  
-18.40-19.15 Adoracja Najświętszego Sakramentu/spowiedź (kościół otwarty)  
+**Wielki Czwartek**\
+15.00-17.00 Spowiedź (kościół otwarty)\
+19.00 Liturgia Wieczerzy Pańskiej (online)\
+21.00-23.00 Czuwanie w ciemnicy (kościół otwarty)\
 \
-**Wielki Czwartek**  
-15.00-17.00 Spowiedź (kościół otwarty)  
-19.00 Liturgia Wieczerzy Pańskiej (online)  
-21.00-23.00 Czuwanie w ciemnicy (kościół otwarty)  
+**Wielki Piątek**\
+Droga Krzyżowa do indywidualnego rozważania będzie dostępna na kanale You Tube, na facebooku Parafii i na aplikacji\
+9.00 Jutrznia (online)\
+9.30-13.00 Czuwanie w ciemnicy/spowiedź (kościół otwarty)\
+15.00 Koronka do Bożego Miłosierdzia (online)\
+19.00 Liturgia Męki Pańskiej (online)\
+21.00-23.00 Czuwanie przy grobie (kościół otwarty)\
 \
-**Wielki Piątek**  
-Droga Krzyżowa do indywidualnego rozważania będzie dostępna na kanale You Tube, na facebooku Parafii i na aplikacji  
-9.00 Jutrznia (online)  
-9.30-13.00 Czuwanie w ciemnicy/spowiedź (kościół otwarty)  
-15.00 Koronka do Bożego Miłosierdzia (online)  
-19.00 Liturgia Męki Pańskiej (online)  
-21.00-23.00 Czuwanie przy grobie (kościół otwarty)  
+**Wielka Sobota**\
+9.00 Jutrznia (online)\
+9.30-15.00 Czuwanie przy grobie (kościół otwarty)\
+9.30-13.00 Spowiedź\
+21.00 Wigilia Paschlana (online)\
 \
-**Wielka Sobota**  
-9.00 Jutrznia (online)  
-9.30-15.00 Czuwanie przy grobie (kościół otwarty)  
-9.30-13.00 Spowiedź  
-21.00 Wigilia Paschlana (online)  
-\
-**Niedziela Zmartwychwstania**  
-9.00 Msza Święta  
-10.30 Msza Święta (online)  
-11.00 Msza Święta transmitowana z Watykanu i błogosławieństwo Urbi et Orbi. Po Urbi et Orbi przejazd-procesja z Najświętszym Sakramentem po Parafii  
+**Niedziela Zmartwychwstania**\
+9.00 Msza Święta\
+10.30 Msza Święta (online)\
+11.00 Msza Święta transmitowana z Watykanu i błogosławieństwo Urbi et Orbi. Po Urbi et Orbi przejazd-procesja z Najświętszym Sakramentem po Parafii\
 18.00 Msza Święta (online)
 
 ### List do parafian, 27.03.2020
@@ -211,7 +211,7 @@ Od poniedziałku do piątku Msze św. celebrujemy w kościele o godz. 7 i 18. Po
 
 #### Komunia
 
-Ci, którzy uczestniczyli we Mszy św. transmitowanej przez media i są w stanie łaski uświęcającej mogą przyjąć **Komunię św. poza Mszą św.** w niedzielę popołudniu o pełnych godzinach 15, 16 i 17. [Przypominamy też]()o możliwości przeżycia **Komunii duchowej**. Osoby, które przychodzą na Mszę do kościoła prosimy o przyjmowanie Komunii św. **na rękę** (co jest zgodne z tradycją Kościoła, obecnymi zaleceniami biskupów oraz jest bezpieczniejsze w sytuacji pandemii choroby roznoszonej drogą kropelkową).
+Ci, którzy uczestniczyli we Mszy św. transmitowanej przez media i są w stanie łaski uświęcającej mogą przyjąć **Komunię św. poza Mszą św.** w niedzielę popołudniu o pełnych godzinach 15, 16 i 17. [Przypominamy też](<>)o możliwości przeżycia **Komunii duchowej**. Osoby, które przychodzą na Mszę do kościoła prosimy o przyjmowanie Komunii św. **na rękę** (co jest zgodne z tradycją Kościoła, obecnymi zaleceniami biskupów oraz jest bezpieczniejsze w sytuacji pandemii choroby roznoszonej drogą kropelkową).
 
 #### Transmisje online
 
@@ -261,14 +261,13 @@ W związku z epidemią koronawirusa, warto przypomnieć sobie słowa św. Ignace
 > Tak Bogu ufaj, jakby całe powodzenie spraw zależało tylko od Boga, a nie od ciebie; tak jednak dokładaj wszelkich starań, jakbyś ty sam miał to wszystko zdziałać, a Bóg nic zgoła.
 
 Według tej zasady, motywowani odpowiedzialnością jedni za drugich i miłością braterską, musimy zgodzić się razem na pewne kroki i ograniczenia, aby utrudnić rozprzestrzenianie się wirusa. Rozumiemy, że nie ma dziś innego rozwiązania, jak unikanie zarażenia, czyli unikanie kontaktu z potencjalnym chorym. Warto pamiętać, że zarażać mogą również osoby, które same nie mają objawów. Władze cywilne wydały rozporządzenia, które zostały przyjęte przez nasze władze kościelne i my jako parafia musimy się im podporządkować (w załączniku „Dekret Biskupa Warszawsko-Praskiego po wprowadzeniu stanu zagrożenia epidemicznego”).\
-Z żalem, ale w poczuciu konieczności, odwołujemy wszystkie celebrowane razem nabożeństwa: Gorzkie Żale, Drogi Krzyżowe, Godzinki, Różaniec, zachęcając jednocześnie do ich indywidualnego lub rodzinnego odprawiania. Odwołujemy również wszystkie inne spotkania parafialne: dla dzieci, młodzieży, ministrantów, bierzmowanych, narzeczonych, wieczory uwielbienia, wieczory biblijne, rekolekcje wielkopostne, kurs francuskiego, kurs tańca, ćwiczenia dla kobiet.
-####Podtrzymujemy natomiast:
+Z żalem, ale w poczuciu konieczności, odwołujemy wszystkie celebrowane razem nabożeństwa: Gorzkie Żale, Drogi Krzyżowe, Godzinki, Różaniec, zachęcając jednocześnie do ich indywidualnego lub rodzinnego odprawiania. Odwołujemy również wszystkie inne spotkania parafialne: dla dzieci, młodzieży, ministrantów, bierzmowanych, narzeczonych, wieczory uwielbienia, wieczory biblijne, rekolekcje wielkopostne, kurs francuskiego, kurs tańca, ćwiczenia dla kobiet. ####Podtrzymujemy natomiast:
 
-- **Msze święte**\
+* **Msze święte**\
   Na dzień dzisiejszy mamy pozwolenie na celebracje Mszy świętych, ale tylko w małym gronie tj. do 50 osób. Zachowamy zatem program Mszy św. w kościele, wiedząc że niestety tylko mała grupa będzie mogła do niego wejść. Msza św. o godz. 9 transmitowana będzie na żywo na [parafialnej stronie Facebooka](https://www.facebook.com/events/491296211547388/), a możliwe będzie jej odtworzenie w późniejszym czasie. Msza o godz. 12.00 będzie w kościele i nie będzie szczególnie adresowana do dzieci. Zachęcamy do skorzystania z dyspensy od osobistego uczestniczenia na Mszy (zob. w załączniku „Dyspensa od obowiązku niedzielnego uczestnictwa we Mszy Świętej”) i do wyboru modlitwy w domach, obejrzenia transmisji i przeżycia Komunii duchowej (w stanie łaski uświęcającej pragnienie Komunii otwiera na łaskę przekazywaną w Komunii sakramentalnej). Szczególnie prosimy seniorów oraz dzieci i ich opiekunów o pozostanie w domu. Tych, którzy znajdą się na Mszy św. w kościele, prosimy o niepodawanie ręki na znak pokoju (zawsze możemy się do siebie uśmiechnąć i ukłonić) oraz o przyjęcie Komunii na rękę (każdy szafarz dodatkowo myje ręce tuż przed i po udzieleniu Komunii). Również wieczorną Eucharystię i Adorację w od poniedziałku do piątku zamierzamy transmitować na Facebooku.
-- **Adoracja w ciszy**\
+* **Adoracja w ciszy**\
   Proponujemy Adorację eucharystyczną w ciszy od poniedziałku do piątku po Mszy św. wieczornej do godz. 19.15.
-- **Spowiedź**\
+* **Spowiedź**\
   Spowiadamy 15 minut przed Mszami, a również w poniedziałki i piątki podczas Adoracji wieczornej.
 
 Wiedząc, że utrudniona będzie wspólna modlitwa, tym bardziej zachęcamy do modlitwy indywidualnej i pozostania w braterskich relacjach. W piątki i soboty kościół będzie otwarty od godz. 15.
@@ -287,6 +286,6 @@ wraz z Ekipą parafii Opatrzności Bożej w Wesołej
 
 <a href="https://www.facebook.com/events/491296211547388/" style="border: 1px solid black; display: flex; padding: 1em 1.5em; font-size: 1.3em; color: #780205; text-decoration: none; margin: 4em auto; border-radius: 5px; text-align: center; max-width: 30em;" target="_blank" rel="noopener noreferrer">15 marca, 9.00. Msza św. online</br>https://www.facebook.com/events/491296211547388/</a>
 
-- Dyspensa od obowiązku niedzielnego uczestnictwa we Mszy Świętej: https://dw-p.pl/6899
-- Dekret Biskupa Warszawsko-Praskiego po wprowadzeniu stanu zagrożenia epidemicznego: https://dw-p.pl/6902
-- List abp. Grzegorza Rysia do wiernych archidiecezji łódzkiej: [czytaj więcej](http://wiez.com.pl/2020/03/14/jako-kosciol-wlasnie-zdajemy-powazny-egzamin/?fbclid=IwAR2Cmoj5X67g9Jovo41Dya_DrOFrsrsSVIOq-OdHOF_U9BulDx2emBCngY8)
+* Dyspensa od obowiązku niedzielnego uczestnictwa we Mszy Świętej: https://dw-p.pl/6899
+* Dekret Biskupa Warszawsko-Praskiego po wprowadzeniu stanu zagrożenia epidemicznego: https://dw-p.pl/6902
+* List abp. Grzegorza Rysia do wiernych archidiecezji łódzkiej: [czytaj więcej](http://wiez.com.pl/2020/03/14/jako-kosciol-wlasnie-zdajemy-powazny-egzamin/?fbclid=IwAR2Cmoj5X67g9Jovo41Dya_DrOFrsrsSVIOq-OdHOF_U9BulDx2emBCngY8)
