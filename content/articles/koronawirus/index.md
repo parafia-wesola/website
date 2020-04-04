@@ -104,6 +104,8 @@ Droga Krzyżowa do indywidualnego rozważania będzie dostępna na kanale You Tu
 11.00 Msza Święta transmitowana z Watykanu i błogosławieństwo Urbi et Orbi. Po Urbi et Orbi przejazd-procesja z Najświętszym Sakramentem po Parafii\
 18.00 Msza Święta (online)
 
+\*\**
+
 ### List do parafian, 27.03.2020
 
 <div style="font-style: italic;">Kochani Parafianie i Przyjaciele parafii Opatrzności Bożej w Wesołej,</div>
@@ -190,6 +192,8 @@ wraz z Ekipą parafialną oraz braćmi i siostrami z Chemin Neuf
 > „Dzisiaj, przed snem, pomyśl o dniu, w którym możemy znów wyjść na zewnątrz. Jak się znów spotkamy, a możliwość zrobienia zakupów z całą rodziną będzie się wydawać wakacjami. Pomyśl o czasie, kiedy kawa w barze, uściski, widok spacerujących za rękę ludzi, bieganina roześmianych dzieci, powrócą do naszego życia. Pomyśl o tym, że to co dzieje się teraz, będzie tylko wspomnieniem, a nasze normalne,zwyczajne życie będzie jak prezent – nieoczekiwany i piękny. I pokochamy wszystko, co dotąd wydawało się oczywiste. I będziemy wdzięczni za każdą sekundę. Kąpiel w morzu, wschody i zachody słońca, tosty, śmiech. Znowu będziemy się śmiać. A to wszystko dzięki odwadze i sile każdego z nas. Do zobaczenia wkrótce!"
 >
 > Papież Franciszek
+>
+> \*\**
 
 ### List do parafian, 20.03.2020
 
@@ -253,6 +257,8 @@ W Domu rekolekcyjnym trwamy w życiu wspólnotowym i modlitwie, z pragnieniem, b
 </br>
 wraz z Ekipą parafialną oraz braćmi i siostrami z Chemin Neuf
 </p>
+
+\*\**
 
 ### Komunikat dla parafian, 14.03.2020
 
