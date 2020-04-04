@@ -1,10 +1,10 @@
 ---
 type: article
-title: KORONAWIRUS
+title: List do parafian
 date: 2020-03-14T00:10:20.485Z
 eventDate: ''
 author: parafia wesoła
-cover: list_do_parafian_27.03.2020.png
+cover: wielki_tydzien.png
 ---
 <!--\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
