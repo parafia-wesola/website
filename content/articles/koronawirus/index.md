@@ -42,9 +42,9 @@ Możliwe jest włączenie się w te celebracje poprzez transmisje online z nasze
 
 Obecne warunki są też szczególnym zaproszeniem do przeżycia czasu modlitwy we wspólnotach rodzinnych. To piękna okazja, żeby rodziny gromadziły się razem w domach na czas modlitwy, słuchania Słowa Bożego, przeżycia znaków Bożej obecności. Nabożeństwo Drogi Krzyżowej, Różaniec, rozmowa o fragmencie Pisma Świętego to tylko niektóre możliwe propozycje. Zachęcamy, by dni Triduum stały się też takim szczególnym czasem przeżycia w domu znaków znanych z Liturgii. Zachęcamy, żeby przy okazji Liturgii **Wieczerzy Pańskiej** rodziny w domach również przeżyły gest umywania nóg sobie nawzajem.
 
-Z kolei w piątek, w związku z Liturgią Męki Pańskiej, warto przygotować krzyż do adoracji, żeby tak jak w kościele, również w domach, rodziny mogły się przed nim pokłonić, ucałować.
+Z kolei w piątek, w związku z \*\*Liturgią Męki Pańskiej\*\*, warto przygotować krzyż do adoracji, żeby tak jak w kościele, również w domach, rodziny mogły się przed nim pokłonić, ucałować.
 
-Nie będzie wspólnotowego błogosławieństwa pokarmów wielkanocnych. Zachęcamy, żeby wziąć z kościoła wodę święconą (od niedzieli będzie kosz z buteleczkami) i przeżyć modlitwę w domach, korzystając z modlitwy podanej na stronie internetowej albo w zwykły sposób, pobłogosławić stół przed niedzielnym śniadaniem.
+Nie będzie wspólnotowego \*\*błogosławieństwa pokarmów wielkanocnych\*\*. Zachęcamy, żeby wziąć z kościoła wodę święconą (od niedzieli będzie kosz z buteleczkami) i przeżyć modlitwę w domach, korzystając z modlitwy podanej na stronie internetowej albo w zwykły sposób, pobłogosławić stół przed niedzielnym śniadaniem.
 
 #### Niedziela Zmartwychwstania
 
