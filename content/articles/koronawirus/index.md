@@ -52,7 +52,7 @@ W niedzielę transmitować będziemy Mszę św. o 10.30. Po błogosławieństwie
 
 #### Komunia święta
 
-Przypominamy o wierze Kościoła w łaskę Komunii duchowej, którą możemy przeżywać w sytuacji niemożności osobistego udziału. Osoby, które chciałyby przyjąć Komunię sakramentalną, zapraszamy po Mszach świętych oraz na koniec czasu Adoracji Najśw. Sakramentu. W niedzielę Palmową Komunia będzie możliwa między również między 15.00 a 17.30. W niedzielę wielkanocną udzielać będziemy Komunii przez pół godziny po Mszy świętej o godz. 9.00, 10.30 i 18.00. Można też indywidualnie prosić o to księży.
+Przypominamy o wierze Kościoła w łaskę Komunii duchowej, którą możemy przeżywać w sytuacji niemożności osobistego udziału. Osoby, które chciałyby przyjąć Komunię sakramentalną, zapraszamy po Mszach świętych oraz na koniec czasu Adoracji Najświętszego Sakramentu. W niedzielę Palmową Komunia będzie możliwa również między 15.00 i 17.30. W niedzielę Wielkanocną udzielać będziemy Komunii przez pół godziny po Mszy świętej o godz. 9.00, 10.30 i 18.00. Można też indywidualnie prosić o to księży.
 
 Oby te święte dni były dla nas umocnieniem i okazją do jeszcze głębszego przeżycia tajemnicy Paschy – przejścia Pana przez śmierć do życia!
 
