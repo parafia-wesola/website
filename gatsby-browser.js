@@ -14,7 +14,7 @@ exports.shouldUpdateScroll = ({ routerProps: { location } }, opts = {}) => {
 	const destinationElement = location.hash
 		? document.querySelector(location.hash)
 		: null;
-	if (!destinationElement) return false;
+	if (!destinationElement) return true;
 
 	const destination = destinationElement.getBoundingClientRect().top;
 	const offset = getOffset(offsetElement);
