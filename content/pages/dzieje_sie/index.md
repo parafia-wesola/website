@@ -11,4 +11,3 @@ news:
   - size: medium
     title: Strona w rozbudowie
 ---
-

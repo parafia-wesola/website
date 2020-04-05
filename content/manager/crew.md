@@ -9,4 +9,3 @@ users:
   - title: Marek Sęczek
   - title: Jolanta Łęczycka
 ---
-

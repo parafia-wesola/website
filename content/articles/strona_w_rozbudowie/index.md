@@ -6,4 +6,5 @@ eventDate: ''
 author: parafia wesoła
 cover: tools-498202_1920.jpg
 ---
-Witamy serdecznie na nowej stronie Parafii. Cały czas pracujemy nad jej rozbudową dlatego prosimy o cierpliwość,  treści będą pojawiać się sukcesywnie.
+
+Witamy serdecznie na nowej stronie Parafii. Cały czas pracujemy nad jej rozbudową dlatego prosimy o cierpliwość, treści będą pojawiać się sukcesywnie.
