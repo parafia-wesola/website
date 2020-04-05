@@ -1,17 +1,16 @@
-import React, { useState, useRef, useEffect, useContext } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import PropTypes from 'prop-types';
 
 import Conditional from 'components/Conditional';
-import { SmoothScrollContext } from 'components/Scroll';
 import Annoucement from 'components/Annoucement';
-import { verticalPosition } from 'utils';
+import { verticalPosition, getOffset } from 'utils';
 import { Wrapper, Overlap, Content, Footer, ReadMore } from './styles';
 
 const Main = ({ id, title, text, className }) => {
 	const [isOpen, setIsOpen] = useState(false);
 	const [isReadMore, setIsReadMore] = useState(true);
 	const wrapper = useRef(null);
-	const offset = useContext(SmoothScrollContext);
+	const offset = getOffset('#navbar');
 
 	const handleClick = () => {
 		setIsOpen(!isOpen);

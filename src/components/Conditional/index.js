@@ -1,18 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
-import Scroll from 'components/Scroll';
 
 const ConditionalLink = ({ to, className, children, click }) => {
-	// page scroll
-	if (to.includes('#')) {
-		return (
-			<Scroll onClick={click} to={to} className={className}>
-				{children}
-			</Scroll>
-		);
-	}
-
 	const firstChar = to && to.slice(0, 1);
 
 	// disable link

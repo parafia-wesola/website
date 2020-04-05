@@ -1,35 +1,17 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 import { ThemeProvider } from 'styled-components';
 import theme from 'assets/styles/theme';
 import Navbar from 'views/Navbar';
 import Footer from 'views/Footer';
-import { SmoothScrollContext } from 'components/Scroll';
-import { heightOnMobile } from 'utils';
 
-const Layout = ({ children }) => {
-	const [navbarHeight, setNavbarHeight] = useState(0);
-
-	useEffect(() => {
-		const navbar = document.querySelector('#navbar');
-		setNavbarHeight(heightOnMobile(672, navbar));
-		const handleResize = () => setNavbarHeight(heightOnMobile(672, navbar));
-		window.addEventListener('resize', handleResize);
-		return () => {
-			window.removeEventListener('resize', handleResize);
-		};
-	}, []);
-
-	return (
-		<ThemeProvider theme={theme}>
-			<SmoothScrollContext.Provider value={navbarHeight}>
-				<Navbar />
-				<main>{children}</main>
-				<Footer />
-			</SmoothScrollContext.Provider>
-		</ThemeProvider>
-	);
-};
+const Layout = ({ children }) => (
+	<ThemeProvider theme={theme}>
+		<Navbar />
+		<main>{children}</main>
+		<Footer />
+	</ThemeProvider>
+);
 
 Layout.propTypes = {
 	children: PropTypes.node.isRequired,
