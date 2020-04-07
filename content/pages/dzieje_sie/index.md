@@ -10,5 +10,7 @@ news:
     title: Wspólna modlitwa
   - size: medium
     title: Strona w rozbudowie
+  - size: large
+    title: Czuwanie w kościele podczas Triduum-zapisy
 ---
 
