@@ -39,7 +39,7 @@ const SectionText = styled.div`
 		font-style: italic;
 		border-left: 0.5em solid #999;
 
-		p:not(:first-child):last-child {
+		p:not(:first-of-type):last-child {
 			color: #999;
 			font-size: 0.9em;
 			font-style: normal;
