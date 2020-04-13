@@ -3,11 +3,9 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: List do parafian
-  - size: large
     title: Wspólna modlitwa
   - size: large
-    title: Czuwanie w kościele podczas Triduum-zapisy
+    title: List do parafian
   - size: medium
     title: Rekolekcje wielkopostne 30 marca-1 kwietnia
   - size: medium
