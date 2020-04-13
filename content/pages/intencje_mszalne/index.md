@@ -7,57 +7,57 @@ title: Intencje mszalne
 12 kwietnia 2020
 
 ### NIEDZIELA ZMARTWYCHWSTANIA PAŃSKIEGO, 12 kwietnia, uroczystość
-21.00: Wigilia Paschalna
+-21.00: Wigilia Paschalna
 
-9.00:  intencja zbiorowa
-•	+ za Danielę KOWALCZYK w 5 rocznicę śmierci
-•	+ za Mariana KOWALCZYK w 8 rocznicę śmierci
-•	+ za Andrzeja KOWALCZYK w 18 rocznicę śmierci
-•	+ za Kazimierza SIATKOWSKIEGO
-•	+ za Stefanię WOJCIECHOWSKĄ
-10.30: za Olę w dniu urodzin o Boże błogosławieństwo i opiekę Matki Bożej
-10.30: za parafian
-18.00: o opiekę Matki Bożej i o Boże miłosierdzie dla Ryszarda WYGANOWSKIEGO
+-9.00:  intencja zbiorowa
+-•	+ za Danielę KOWALCZYK w 5 rocznicę śmierci
+-•	+ za Mariana KOWALCZYK w 8 rocznicę śmierci
+-•	+ za Andrzeja KOWALCZYK w 18 rocznicę śmierci
+-•	+ za Kazimierza SIATKOWSKIEGO
+-•	+ za Stefanię WOJCIECHOWSKĄ
+-10.30: za Olę w dniu urodzin o Boże błogosławieństwo i opiekę Matki Bożej
+-10.30: za parafian
+-18.00: o opiekę Matki Bożej i o Boże miłosierdzie dla Ryszarda WYGANOWSKIEGO
 
 ### Poniedziałek w Oktawie Wielkanocy, 13 kwietnia 
-7.00: + za Elżbietę STROJNĄ w 1 rocznicę śmierci
-9.00:  za Zdzisława LEWANDOWSKIEGO i za zmarłych z rodzin LEWANDOWSKICH, PAŹDZIORÓW, 	KARASIÓW i CUDNYCH
-10.30:  + za śp. Mariana ZIELIŃSKIEGO w 14 rocznicę śmierci
-12.00 za Alinę i Mieczysława Gurbów w       rocznicę ślubu	
+-7.00: + za Elżbietę STROJNĄ w 1 rocznicę śmierci
+-9.00:  za Zdzisława LEWANDOWSKIEGO i za zmarłych z rodzin LEWANDOWSKICH, PAŹDZIORÓW, 	KARASIÓW i CUDNYCH
+-10.30:  + za śp. Mariana ZIELIŃSKIEGO w 14 rocznicę śmierci
+-12.00 za Alinę i Mieczysława Gurbów w rocznicę ślubu	
 (modlitwa wiernych: za Halinę i Janusza KIESLER w 60 rocznicę ślubu z prośbą o błogosławieństwo)
-18.00: w rocznicę chrztu świętego Kamila o Boże błogosławieństwo
+-18.00: w rocznicę chrztu świętego Kamila o Boże błogosławieństwo
 
 ### Wtorek w Oktawie Wielkanocy, 14 kwietnia
-7.00:  + za Teresę ORZELSKĄ miesiąc po pogrzebie
-18.00: + za śp. Alfreda i Stanisławę CZAPSKICH oraz za ich rodziców
-18.00: za Ewę i Krzysztofa z podziękowaniem za dwa lata małżeństwa, z prośbą o szczęśliwe rozwiązanie
+-7.00:  + za Teresę ORZELSKĄ miesiąc po pogrzebie
+-18.00: + za śp. Alfreda i Stanisławę CZAPSKICH oraz za ich rodziców
+-18.00: za Ewę i Krzysztofa z podziękowaniem za dwa lata małżeństwa, z prośbą o szczęśliwe rozwiązanie
 
 ### Środa w Oktawie Wielkanocy, 15 kwietnia
-7.00: o opiekę Matki Bożej nad Rafałem i jego rodziną
-18.00: + za Stanisława POPOWSKIEGO w 15 rocznicę śmierci i za zmarłych z rodziny
-18.00: + za Mariannę, Władysława, Katarzynę, Waleriana PAWŁOWSKICH
+-7.00: o opiekę Matki Bożej nad Rafałem i jego rodziną
+-18.00: + za Stanisława POPOWSKIEGO w 15 rocznicę śmierci i za zmarłych z rodziny
+-18.00: + za Mariannę, Władysława, Katarzynę, Waleriana PAWŁOWSKICH
 
 ### Czwartek w Oktawie Wielkanocy, 16 kwietnia
-7.00:  za śp. Wandę LEWANDOWSKĄ
-18.00: Msza dziękczynna w 90 urodziny Tadeusza
-18.00: + za Mirosława CHOIŃSKIEGO
+-7.00:  za śp. Wandę LEWANDOWSKĄ
+-18.00: Msza dziękczynna w 90 urodziny Tadeusza
+-18.00: + za Mirosława CHOIŃSKIEGO
 
 ### Piątek w Oktawie Wielkanocy, 17 kwietnia
-7.00: + za Józefa FELCZUK w 35 rocznicę śmierci
-18.00: + za śp. Marka KAZIMIERCZAKA
-18.00: za małżeństwa w kryzysie
+-7.00: + za Józefa FELCZUK w 35 rocznicę śmierci
+-18.00: + za śp. Marka KAZIMIERCZAKA
+-18.00: za małżeństwa w kryzysie
 
 ### Sobota w Oktawie Wielkanocy, 18 kwietnia
-7.00: + za śp. Teresę (w 4 rocznicę śmierci) oraz za śp. Czesława (w 8 rocznicę śmierci) 
-7.00: za dzieci z rodzin, w których jest przemoc
-18.00: + za Macieja KRASNODĘBSKIEGO oraz za Jadwigę i Jana PETRYKUS
+-7.00: + za śp. Teresę (w 4 rocznicę śmierci) oraz za śp. Czesława (w 8 rocznicę śmierci) 
+-7.00: za dzieci z rodzin, w których jest przemoc
+-18.00: + za Macieja KRASNODĘBSKIEGO oraz za Jadwigę i Jana PETRYKUS
 
 ### 2 NIEDZIELA WIELKANOCY czyli MIŁOSIERDZIA BOŻEGO, 19 kwietnia, 
-7.00: za parafian
-9.00:  dziękczynno-błagalna w rocznicę urodzin Anny KOTUNIAK
-10.30: w rocznicę ślubu Małgorzaty i Roberta
-12.00: w 35 rocznicę ślubu Jana i Teresy KOŚCIESZA oraz za ich dzieci i wnuki
-18.00: w 20 urodziny Bartka
+-7.00: za parafian
+-9.00:  dziękczynno-błagalna w rocznicę urodzin Anny KOTUNIAK
+-10.30: w rocznicę ślubu Małgorzaty i Roberta
+-12.00: w 35 rocznicę ślubu Jana i Teresy KOŚCIESZA oraz za ich dzieci i wnuki
+-18.00: w 20 urodziny Bartka
 
 
 
