@@ -3,9 +3,6 @@ type: text
 title: Intencje mszalne
 ---
 
-### **NIEDZIELA ZMARTWYCHWSTANIA PAŃSKIEGO**
-12 kwietnia 2020
-
 ### NIEDZIELA ZMARTWYCHWSTANIA PAŃSKIEGO, 12 kwietnia, uroczystość
 -21.00: Wigilia Paschalna
 
