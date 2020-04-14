@@ -14,18 +14,18 @@ title: Intencje mszalne
 -•	+ za Mariana KOWALCZYK w 8 rocznicę śmierci
 -•	+ za Andrzeja KOWALCZYK w 18 rocznicę śmierci
 -•	+ za Kazimierza SIATKOWSKIEGO
--•	+ za Stefanię WOJCIECHOWSKĄ
--10.30: za Olę w dniu urodzin o Boże błogosławieństwo i opiekę Matki Bożej
--10.30: za parafian
--18.00: o opiekę Matki Bożej i o Boże miłosierdzie dla Ryszarda WYGANOWSKIEGO
+-•	+ za Stefanię WOJCIECHOWSKĄ  
+-10.30: za Olę w dniu urodzin o Boże błogosławieństwo i opiekę Matki Bożej  
+-10.30: za parafian  
+-18.00: o opiekę Matki Bożej i o Boże miłosierdzie dla Ryszarda WYGANOWSKIEGO  
 
 ### Poniedziałek w Oktawie Wielkanocy, 13 kwietnia 
--7.00: + za Elżbietę STROJNĄ w 1 rocznicę śmierci
--9.00:  za Zdzisława LEWANDOWSKIEGO i za zmarłych z rodzin LEWANDOWSKICH, PAŹDZIORÓW, 	KARASIÓW i CUDNYCH
--10.30:  + za śp. Mariana ZIELIŃSKIEGO w 14 rocznicę śmierci
--12.00 za Alinę i Mieczysława Gurbów w rocznicę ślubu	
-(modlitwa wiernych: za Halinę i Janusza KIESLER w 60 rocznicę ślubu z prośbą o błogosławieństwo)
--18.00: w rocznicę chrztu świętego Kamila o Boże błogosławieństwo
+-7.00: + za Elżbietę STROJNĄ w 1 rocznicę śmierci  
+-9.00:  za Zdzisława LEWANDOWSKIEGO i za zmarłych z rodzin LEWANDOWSKICH, PAŹDZIORÓW, 	KARASIÓW i CUDNYCH  
+-10.30:  + za śp. Mariana ZIELIŃSKIEGO w 14 rocznicę śmierci  
+-12.00 za Alinę i Mieczysława Gurbów w rocznicę ślubu  	
+(modlitwa wiernych: za Halinę i Janusza KIESLER w 60 rocznicę ślubu z prośbą o błogosławieństwo)  
+-18.00: w rocznicę chrztu świętego Kamila o Boże błogosławieństwo  
 
 ### Wtorek w Oktawie Wielkanocy, 14 kwietnia
 -7.00:  + za Teresę ORZELSKĄ miesiąc po pogrzebie
