@@ -7,7 +7,5 @@ news:
   - size: medium
     title: Strona w rozbudowie
   - size: large
-    title: List do parafian
-  - size: large
     title: Wspólna modlitwa
 ---
