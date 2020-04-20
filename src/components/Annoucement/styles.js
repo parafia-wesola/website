@@ -22,4 +22,10 @@ export const AnnoucementText = styled.div`
 	font-size: 1em;
 	line-height: 1.75;
 	word-break: break-word;
+
+	li {
+		& > p {
+			display: inline;
+		}
+	}
 `;
