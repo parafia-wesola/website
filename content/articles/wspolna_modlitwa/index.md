@@ -8,7 +8,7 @@ cover: modlitwa_20-26_kwietnia.png
 ---
 ***Tydzień 20-27 kwietnia***
 
-Stosując się do obecnych rozporządzeń, w naszym kościele może być przebywać równocześnie maksymalnie 15 osób nie licząc posługi.Transmisje online można obejrzeć na stronie facebooka Parafii. Nie trzeba mieć założonego konta, wystarczy kliknąć na stronie internetowej ikonkę facebooka w prawym górnym rogu lub kliknąć na podanego linka na aplikacji.
+Stosując się do obecnych rozporządzeń, w naszym kościele może przebywać równocześnie maksymalnie 15 osób nie licząc posługi.Transmisje online można obejrzeć na stronie facebooka Parafii. Nie trzeba mieć założonego konta, wystarczy kliknąć na stronie internetowej ikonkę facebooka w prawym górnym rogu lub kliknąć na podanego linka na aplikacji.
 
 **Poniedziałek**
 
