@@ -38,7 +38,7 @@ title: Intencje mszalne
 18.00: + za śp. Kazimierza GŁASKĘ w 10 rocznicę śmierci
 
 ### Sobota, 25 kwietnia, św. Marka Ewangelisty, święto  
-7.00: podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością miłości 	miłosiernej we wszystkich rodzinach  
+7.00: podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością miłości miłosiernej we wszystkich rodzinach  
 7.00: intencja ks. Artura  
 15.00 – 17.50 Adoracja Najświętszego Sakramentu  
 18.00: + za Zygmunta w 25 rocznicę śmierci oraz za Zofię ŻYLIŃSKĄ w 4 rocznicę śmierci
