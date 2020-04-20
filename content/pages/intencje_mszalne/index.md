@@ -5,47 +5,47 @@ title: Intencje mszalne
 ### II NIEDZIELA WIELKANOCY CZYLI MIŁOSIERDZIA BOŻEGO
 19 kwietnia 2020
 
-### 2 NIEDZIELA WIELKANOCY czyli MIŁOSIERDZIA BOŻEGO, 19 kwietnia 
- 7.00: za parafian
- 9.00: dziękczynno-błagalna w rocznicę urodzin Anny KOTUNIAK i Karoliny KOTUNIAK
-10.30: w rocznicę ślubu Małgorzaty i Roberta
-12.00: w 35 rocznicę ślubu Jana i Teresy KOŚCIESZA oraz za ich dzieci i wnuki
+### 2 NIEDZIELA WIELKANOCY czyli MIŁOSIERDZIA BOŻEGO, 19 kwietnia  
+7.00: za parafian  
+9.00: dziękczynno-błagalna w rocznicę urodzin Anny KOTUNIAK i Karoliny KOTUNIAK  
+10.30: w rocznicę ślubu Małgorzaty i Roberta  
+12.00: w 35 rocznicę ślubu Jana i Teresy KOŚCIESZA oraz za ich dzieci i wnuki  
 18.00: w 20 urodziny Bartka
 
-### Poniedziałek, 20 kwietnia 
- 7.00: + za Kazimierza KAMIŃSKIEGO w 18 rocznicę śmierci oraz za Zbigniewa KAMIŃSKIEGO
-18.00: + za Jolantę KISIELIŃSKĄ RUMIAK w 5 rocznicę śmierci	
-18.00: O Boże Miłosierdzie i opiekę Matki Nieustającej Pomocy dla Pawła i Tomasza oraz ich Rodzin w 41 	urodziny
+### Poniedziałek, 20 kwietnia  
+7.00: + za Kazimierza KAMIŃSKIEGO w 18 rocznicę śmierci oraz za Zbigniewa KAMIŃSKIEGO  
+18.00: + za Jolantę KISIELIŃSKĄ RUMIAK w 5 rocznicę śmierci  
+18.00: O Boże Miłosierdzie i opiekę Matki Nieustającej Pomocy dla Pawła i Tomasza oraz ich Rodzin w 41 urodziny
 
-### Wtorek, 21 kwietnia
-7.00:  + za Stefanię WOJCIECHOWSKĄ miesiąc po pogrzebie
-18.00: + za śp. Krystynę KRASOWSKĄ
+### Wtorek, 21 kwietnia  
+7.00:  + za Stefanię WOJCIECHOWSKĄ miesiąc po pogrzebie  
+18.00: + za śp. Krystynę KRASOWSKĄ  
 18.00: + za Tadeusza WIĄCEK
 
-### Środa, 22 kwietnia
-7.00: o duchowe i psychiczne uzdrowienie Pawła
-18.00: w 1 rocznicę ślubu Wandy i Łukasza
+### Środa, 22 kwietnia  
+7.00: o duchowe i psychiczne uzdrowienie Pawła  
+18.00: w 1 rocznicę ślubu Wandy i Łukasza  
 18.00: + za śp. Annę ŻEBROWSKĄ i Honoratę TOMCZUK zmarłe niedawno oraz za zmarłych z rodzin 	TOSIŃSKICH, ŻEBROWSKICH, JANICKICH, TOMCZUKÓW i SACZUKÓW
 
-### Czwartek, 23 kwietnia, św. Wojciecha, biskupa i męczennika, głównego patrona Polski, uroczystość
-7.00: + za śp. Jerzego PRAJSNARA
-18.00: + za Wojciecha SZCZEPEK
+### Czwartek, 23 kwietnia, św. Wojciecha, biskupa i męczennika, głównego patrona Polski, uroczystość  
+7.00: + za śp. Jerzego PRAJSNARA  
+18.00: + za Wojciecha SZCZEPEK  
 18.00: w 15 rocznicę ślubu Alicji i Rafała z prośbą o Bożę błogosławieństwo dla nich i dla rodziny
 
-### Piątek, 24 kwietnia
-7.00: za Jakuba o łaskę wiary i opiekę Matki Bożej
-18.00: + za Wojciecha JESIONA
+### Piątek, 24 kwietnia  
+7.00: za Jakuba o łaskę wiary i opiekę Matki Bożej  
+18.00: + za Wojciecha JESIONA  
 18.00: + za śp. Kazimierza GŁASKĘ w 10 rocznicę śmierci
 
-### Sobota, 25 kwietnia, św. Marka Ewangelisty, święto
-7.00: podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością miłości 	miłosiernej we wszystkich rodzinach 
-7.00: intencja ks. Artura
-15.00 – 17.50 Adoracja Najświętszego Sakramentu
+### Sobota, 25 kwietnia, św. Marka Ewangelisty, święto  
+7.00: podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością miłości 	miłosiernej we wszystkich rodzinach  
+7.00: intencja ks. Artura  
+15.00 – 17.50 Adoracja Najświętszego Sakramentu  
 18.00: + za Zygmunta w 25 rocznicę śmierci oraz za Zofię ŻYLIŃSKĄ w 4 rocznicę śmierci
 
-### 3 NIEDZIELA WIELKANOCY, 26 kwietnia
-7.00: + za Kazimierza SIADKOWSKIEGO
-9.00:  w 1 rocznicę śmierci Danuty DURCZAK
+### 3 NIEDZIELA WIELKANOCY, 26 kwietnia  
+7.00: + za Kazimierza SIADKOWSKIEGO  
+9.00:  w 1 rocznicę śmierci Danuty DURCZAK  
 10.30: intencja zbiorowa
     • o światło i dary Ducha Świętego dla Judyty i Dawida
     • o szczęśliwy poród dla Katarzyny o zdrowie i opiekę Bożą dla niej i dla dziecka
@@ -55,9 +55,9 @@ title: Intencje mszalne
     • + za Stanisława SZCZEPANIAKA
     • + za Stanisława PEŁKĘ
     • za dusze w czyśćcu cierpiące
-    • + za śp. Mariana WYGANOWSKIEGO i za zmarłych z rodziny WYGANOWSKICH
-12.00: za parafian
-15.00 – 17.50 Adoracja Najświętszego Sakramentu
+    • + za śp. Mariana WYGANOWSKIEGO i za zmarłych z rodziny WYGANOWSKICH  
+12.00: za parafian  
+15.00 – 17.50 Adoracja Najświętszego Sakramentu  
 18.00: + za Bogumiłę BAKIERA w 3 rocznicę śmierci
 
 ### NIEDZIELA ZMARTWYCHWSTANIA PAŃSKIEGO, 12 kwietnia, uroczystość
