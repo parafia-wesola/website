@@ -2,8 +2,6 @@
 type: info
 title: spowiedź
 ---
+poniedziałek-piątek 18.40-19.15
 
-Piątek, sobota
-17.30-18.00
-
-W pozostałe dni 15 minut przed Mszą św. wieczorną i przed wszystkimi Mszami niedzielnymi
+W niedzielę 15 minut przed Mszą św. o 7.00. 9.00. 10.30, 12.00 oraz od 17.00
