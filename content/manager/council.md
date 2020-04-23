@@ -1,5 +1,11 @@
 ---
 type: council
 title: Rada parafialna
-users: []
+users:
+  - title: o. Adam Strojny
+  - title: o. Krzysztof Charańczuk
+  - title: s. Katarzyna Jackowska
+  - title: Jolanta Łęczycka
+  - title: Marek Sęczek
+  - title: Emilia Buczyńska
 ---
