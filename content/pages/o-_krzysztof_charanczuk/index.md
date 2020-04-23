@@ -3,7 +3,7 @@ type: user
 title: o. Krzysztof Charańczuk
 cover: krzysiek.jpg
 bio:
-  job: Wikary
+  job: wikary
   mail: ''
   phone: 664 050 978
 ---
