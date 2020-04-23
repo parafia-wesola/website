@@ -3,7 +3,7 @@ type: user
 title: Ks. Artur Kasprzak
 cover: artur_kasprzak.jpg
 bio:
-  job: ''
+  job: rezydent
   phone: ''
   mail: ''
 ---
