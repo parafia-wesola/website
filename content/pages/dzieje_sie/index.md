@@ -10,4 +10,6 @@ news:
     title: Rekolekcje wielkopostne 30 marca-1 kwietnia
   - size: medium
     title: Strona w rozbudowie
+  - size: medium
+    title: tydzień biblijny
 ---
