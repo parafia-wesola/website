@@ -653,9 +653,9 @@ title: Intencje mszalne
 
 <!--StartFragment-->
 
-**III NIEDZIELA WIELKANOCY**
+<center>**III NIEDZIELA WIELKANOCY**<center/>
 
-**26 kwietnia 2020**
+<center>**26 kwietnia 2020**<center/>
 
 
 
@@ -667,9 +667,9 @@ title: Intencje mszalne
 
 10.30: intencja zbiorowa
 
-<!--\[if !supportLists]-->·<!--\[endif]-->o światło i dary Ducha Świętego dla Judyty i Dawida
+*  o światło i dary Ducha Świętego dla Judyty i Dawida
 
-<!--\[if !supportLists]-->·<!--\[endif]-->o szczęśliwy poród dla Katarzyny o zdrowie i opiekę Bożą dla niej i dla dziecka
+*  o szczęśliwy poród dla Katarzyny o zdrowie i opiekę Bożą dla niej i dla dziecka
 
 <!--\[if !supportLists]-->·<!--\[endif]-->+ za Aleksandra, Juliannę, Witolda WĄSOWSKICH
 
