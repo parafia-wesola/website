@@ -1,6 +1,7 @@
 ---
 type: info
 title: różaniec
+id: rozaniec
 ---
 
 Poniedziałek - piątek

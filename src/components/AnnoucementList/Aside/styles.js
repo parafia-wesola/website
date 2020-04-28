@@ -31,12 +31,11 @@ export const ListItem = styled.li`
 	}
 
 	${({ theme }) => theme.mq.tabletMid} {
-		margin-top: 4em;
-		padding: 0;
+		padding: 4em 0 0;
 		transform: none;
 
 		&:first-of-type {
-			margin: 0;
+			padding: 0;
 		}
 	}
 `;

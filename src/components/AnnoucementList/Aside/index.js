@@ -9,7 +9,7 @@ const Aside = ({ className, data }) => (
 		{data.map(({ title }, index) => {
 			const moved = index % 2 === 0;
 			return (
-				<ListItem key={title.id} moved={moved}>
+				<ListItem key={title.id} id={title.frontmatter.id} moved={moved}>
 					<Annoucement title={title.frontmatter.title} text={title.html} />
 				</ListItem>
 			);

@@ -60,6 +60,7 @@ export const infoFields = graphql`
 				html
 				frontmatter {
 					title
+					id
 				}
 			}
 		}

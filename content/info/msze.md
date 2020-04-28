@@ -1,6 +1,7 @@
 ---
 type: info
 title: msze święte
+id: msze
 ---
 
 Dni powszednie\

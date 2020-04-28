@@ -6,19 +6,19 @@
 	"sub": [
 		{
 			"name": "msze święte",
-			"to": "/#ogloszenia_i_informacje"
+			"to": "/#msze"
 		},
 		{
 			"name": "adoracja",
-			"to": "/#ogloszenia_i_informacje"
+			"to": "/#adoracja"
 		},
 		{
 			"name": "spowiedź",
-			"to": "/#ogloszenia_i_informacje"
+			"to": "/#spowiedz"
 		},
 		{
 			"name": "różaniec",
-			"to": "/#ogloszenia_i_informacje"
+			"to": "/#rozaniec"
 		},
 		{
 			"name": "nabożeństwa okresowe",
