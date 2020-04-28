@@ -3,9 +3,9 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Wspólna modlitwa
-  - size: large
     title: List do parafian
+  - size: large
+    title: Wspólna modlitwa
   - size: medium
     title: tydzień biblijny
   - size: medium
