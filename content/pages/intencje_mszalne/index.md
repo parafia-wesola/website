@@ -12,16 +12,16 @@ title: Intencje mszalne
 - 7.00: ✝ za Kazimierza SIADKOWSKIEGO
 - 9.00: ✝ w 1 rocznicę śmierci Danuty DURCZAK
 - 10.30: intencja zbiorowa
-  _ o światło i dary Ducha Świętego dla Judyty i Dawida
-  _ o szczęśliwy poród dla Katarzyny o zdrowie i opiekę Bożą dla niej i dla dziecka
-  _ ✝ za Aleksandra, Juliannę, Witolda WĄSOWSKICH
-  _ dziękczynno-błagalna a 69 lat pożycia małżeńskiego Anieli i Eugeniusza KROPIELNICKICH o zdrowie i błogosławieństwo Boże na dalsze lata życia
-  _ ✝ w 3 rocznicę śmierci Czesława JAROSIEWICZA oraz za rodziców Stanisława i Genowefę TARKOWSKICH
-  _ ✝ za Stanisława SZCZEPANIAKA
-  _ ✝ za Stanisława PEŁKĘ
-  _ za dusze w czyśćcu cierpiące
-  _ ✝ za śp. Mariana WYGANOWSKIEGO i za zmarłych z rodziny WYGANOWSKICH
-  _ ✝ za śp. Zofię, Mariana i Czesława GŁUCHOWSKICH
+  - o światło i dary Ducha Świętego dla Judyty i Dawida
+  - o szczęśliwy poród dla Katarzyny o zdrowie i opiekę Bożą dla niej i dla dziecka
+  - ✝ za Aleksandra, Juliannę, Witolda WĄSOWSKICH
+  - dziękczynno-błagalna a 69 lat pożycia małżeńskiego Anieli i Eugeniusza KROPIELNICKICH o zdrowie i błogosławieństwo Boże na dalsze lata życia
+  - ✝ w 3 rocznicę śmierci Czesława JAROSIEWICZA oraz za rodziców Stanisława i Genowefę TARKOWSKICH
+  - ✝ za Stanisława SZCZEPANIAKA
+  - ✝ za Stanisława PEŁKĘ
+  - za dusze w czyśćcu cierpiące
+  - ✝ za śp. Mariana WYGANOWSKIEGO i za zmarłych z rodziny WYGANOWSKICH
+  - ✝ za śp. Zofię, Mariana i Czesława GŁUCHOWSKICH
 - 12.00: za parafian
 - 15.00 – 17.50 Adoracja Najświętszego Sakramentu
 - 18.00: ✝ za Bogumiłę BAKIERA w 3 rocznicę śmierci
