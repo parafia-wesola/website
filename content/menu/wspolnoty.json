@@ -14,7 +14,7 @@
 		},
 		{
 			"name": "służba liturgiczna ołtarza",
-			"to": "!"
+			"to": "/sluzba_liturgiczna_oltarza"
 		},
 		{
 			"name": "chór dorosłych",
@@ -26,19 +26,35 @@
 		},
 		{
 			"name": "młodzi open",
-			"to": "!"
+			"to": "/mlodzi_open"
 		},
 		{
 			"name": "wiara i praca",
-			"to": "!"
+			"to": "/wiara_i_praca"
 		},
 		{
 			"name": "nikodem",
-			"to": "!"
+			"to": "/nikodem"
 		},
 		{
 			"name": "koło przyjaciół Radia Maryja",
 			"to": "/kolo_przyjaciol_radia_maryja"
+		},
+		{
+			"name": "koło żywego różańca",
+			"to": "/kolo_zywego_rozanca"
+		},
+		{
+			"name": "schola dzięcęca",
+			"to": "/schola_dziecieca"
+		},
+		{
+			"name": "caritas",
+			"to": "/caritas"
+		},
+		{
+			"name": "szafarze nadzwyczajni komunii świętej",
+			"to": "/szafarze_nadzwyczajni_komunii_swietej"
 		}
 	]
 }
