@@ -25,3 +25,5 @@ exports.shouldUpdateScroll = ({ routerProps: { location } }, opts = {}) => {
 		return false;
 	}
 };
+
+exports.onServiceWorkerUpdateReady = () => window.location.reload();
