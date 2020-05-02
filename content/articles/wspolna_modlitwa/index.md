@@ -54,11 +54,15 @@ Stosując się do obecnych rozporządzeń, w naszym kościele może być przebyw
 
 10.30Msza Święta z uroczystości NMP Królowej Polski (online)
 
+16.00-18.00 otwarty kościół i Adoracja Najświętszego Sakramentu
+
 18.00antycypowana Msza Święta niedzielna (online)
 
 **Niedziela**
 
 10.30Msza Święta (online)
+
+15.00-18.00 otwarty kościół i Adoracja Najświętszego Sakramentu
 
 18.00Msza Święta (online)
 
