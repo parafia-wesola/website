@@ -8,9 +8,9 @@ cover: list_do_parafian_27.03.2020.png
 ---
 <!--StartFragment-->
 
-### <h3style="text-align:center,">Parafia Opatrzności Bożej w Wesołej w czasie pandemii</h3>
+### <h3style="text-align:center;">Parafia Opatrzności Bożej w Wesołej w czasie pandemii</h3>
 
-### <h3style="text-align:center,">Q & A - odpowiedzi na Wasze pytania</h3>
+### <h3style="text-align:center;">Q & A - odpowiedzi na Wasze pytania</h3>
 
 #### 1. Co mam w ogóle robić w tym czasie?/
 Modlić się o ufność i pokój, myć ręce i stosować inne środki bezpieczeństwa.
