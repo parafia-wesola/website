@@ -32,7 +32,7 @@ cover: list_do_parafian_27.03.2020.png
 
 * O. Dariusz Piórkowski, [*Dlaczego przyjmować Komunię świętą na rękę? Odpowiada św. Katarzyna ze Sieny* ](<* https://deon.pl/wiara/dlaczego-przyjmowac-komunie-swieta-na-reke-odpowiada-sw-katarzyna-ze-sieny,854564>)
 * Ks. Helmut Jan Sobeczko, *[Komunia święta na rękę. Podstawy historyczne i teologiczno–pastoralne](http://vademecumliturgiczne.pl/2016/10/18/komunia-swieta-na-reke-podstawy-historyczne-i-teologiczno-pastoralne/)*
-* O. Remigiusz Recław, *[Jak przyjmować Komunię Świętą na rękę?](<* https://www.youtube.com/watch?v=AkxsKesRr3Y>>)*
+* O. Remigiusz Recław, *\[Jak przyjmować Komunię Świętą na rękę?](<* https://www.youtube.com/watch?v=AkxsKesRr3Y>>)*
 
 #### 5. Jak mogę się wyspowiadać?
 
