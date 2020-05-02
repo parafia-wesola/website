@@ -57,44 +57,32 @@ cover: list_do_parafian_27.03.2020.png
 
 #### 9. Jak mogę skorzystać z kancelarii parafialnej?
 
-   Dyżury w kancelarii pozostają stałe: poniedziałek 16.30-17.30, środa 18.45-19.30, piątek 7.45-8.15 i 16.30-17.30. Prosimy o kontakt telefoniczny na numer 22 773 56 35 lub mailowy na \[kancelaria@parafiawesola.pl](mailto:kancelaria@parafiawesola.pl). Można skorzystać też z numerów komórkowych księży lub s. Kasi.
+   Dyżury w kancelarii pozostają stałe: poniedziałek 16.30-17.30, środa 18.45-19.30, piątek 7.45-8.15 i 16.30-17.30. Prosimy o kontakt telefoniczny na numer 22 773 56 35 lub mailowy na (mailto:kancelaria@parafiawesola.pl). Można skorzystać też z numerów komórkowych księży lub s. Kasi.
 
 #### 10. Jak możemy umówić się na chrzest / ślub / pogrzeb ?
 
-```
 Obowiązują ogólne ustalenia do zobaczenia w zakładkach o sakramentach na stronie internetowej, pamiętając o limicie osób do 15 w kościele, do 50 – na cmentarzu. Prosimy o kontakt z kancelarią, lub bezpośrednio z o. Adamem, o. Krzysztofem lub s. Kasią.
-```
 
 #### 11. Co z Pierwszą Komunią?
 
-```
 Nie potrafimy podać nowego terminu dużej celebracji. Mamy nadzieję, że będzie możliwa jesienią. Można przemyśleć indywidualne podejście i zwrócić się do o. Krzysztofa, żeby umówić się na Pierwszą Komunię dziecka podczas Mszy parafialnej lub podczas dodatkowej celebracji.
-```
 
 #### 12. Kiedy bierzmowanie?
 
-```
 W maju przewidziana była celebracja sakramentu bierzmowania młodzieży, która od półtora roku przygotowuje się do tego. Planujemy tę celebrację na jesień, ale terminu zależeć będzie od sytuacji epidemicznej oraz dyspozycyjności Biskupa. Póki co kontynuujemy przygotowanie online
-```
 
 #### 13. Czym mogę karmić się duchowo w tym czasie?
 
-```
 Zachęcamy przede wszystkim do lektury Pisma świętego. Psalmy, czytania z dnia, Ewangelie, w połączeniu z jakimś dobrym komentarzem z internetu, to wybór dostępny dla każdego! W internecie jest też wiele dobrych treści. Zachęcamy do korzystania z aleteia.pl, deon.pl, mateusz.pl. Wystrzegajmy się natomiast tego, co pomnaża lęki i podziały.
-```
 
 #### 14. Jak mogę zamówić Mszę w konkretnej intencji?
 
-```
 Można skontaktować się z nami przez telefon w godzinach pracy kancelarii lub przez internet, a w późniejszym czasie złożyć ofiarę osobiście lub zrobić przelew (z zaznaczeniem, której Mszy dotyczy).
-```
 
 #### 15. Jak mogę wesprzeć parafię?
 
-```
 Zachęcamy, żeby zrobić to przelewem na konto parafii : 28 8019 1010 2002 0007 0714 0001, Bank Spółdzielczy w Halinowie, oddział Wesoła. Przelew opisany jako „darowizna na cele kultu religijnego” można odpisać od podstawy opodatkowania.
 
 Przelewem również można przekazać zadeklarowane wpłaty w ramach programu pomocy Syrii „Rodzina Rodzinie”.
-```
 
 <!--EndFragment-->
