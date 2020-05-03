@@ -2,8 +2,8 @@
 type: text
 title: Intencje mszalne
 ---
-### IV NIEDZIELA WIELKANOCY 
-### 3 maja 2020
+<h3 style="text-align:ceter;">IV NIEDZIELA WIELKANOCY</h3> 
+<h3 style="text-align:ceter;">3 maja 2020</h3>
 
 #### 4 NIEDZIELA WIELKANOCY, 3 maja
 7.00: za parafian
