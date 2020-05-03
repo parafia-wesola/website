@@ -6,60 +6,66 @@ title: Intencje mszalne
 <h3 style="text-align:ceter;">3 maja 2020</h3>
 
 #### 4 NIEDZIELA WIELKANOCY, 3 maja
-- 7.00: za parafian
-- 9.00:  w 25 rocznicę ślubu Doroty i Sylwestra GRĘZAK oraz o błogosławieństwo dla ich dzieci: Katarzyny, Piotra, Grzegorza i Marcina
-- 10.30: + za Gustawa w 3 rocznicę śmierci
-- 12.00: + za śp. Teodorę i Stanisława BAREJA i za zmarłych  z rodziny BAREJÓW i TARASZEWSKICH
-- 15.00 – 17.50 Adoracja Najświętszego Sakramentu
-- 18.00: + za Mirosława MORAWSKIEEGO w 10 rocznicę śmierci oraz za zmarłych z całej rodziny 	MORAWSKICH
 
-#### Poniedziałek, 4 maja, św. Floriana, męczennika, patrona diecezji warszawsko-praskiej, wspomnienie 
- 7.00: + za śp. Monikę PALKA
-18.00: + za śp. Waldemara NOWIKOW w dniu imienin	
-18.00: + za zmarłego Kazimierza BRODECKIEGO w 8 rocznicę śmierci oraz za zmarłych z rodzin 	BRODECKCH i PŁOSZAJSKICH
+* 7.00: za parafian
+* 9.00:  w 25 rocznicę ślubu Doroty i Sylwestra GRĘZAK oraz o błogosławieństwo dla ich dzieci: Katarzyny, Piotra, Grzegorza i Marcina
+* 10.30: + za Gustawa w 3 rocznicę śmierci
+* 12.00: + za śp. Teodorę i Stanisława BAREJA i za zmarłych  z rodziny BAREJÓW i TARASZEWSKICH
+* 15.00 – 17.50 Adoracja Najświętszego Sakramentu
+* 18.00: + za Mirosława MORAWSKIEEGO w 10 rocznicę śmierci oraz za zmarłych z całej rodziny 	MORAWSKICH
+
+#### Poniedziałek, 4 maja, św. Floriana, męczennika, patrona diecezji warszawsko-praskiej, wspomnienie
+
+* 7.00: + za śp. Monikę PALKA
+* 18.00: + za śp. Waldemara NOWIKOW w dniu imienin	
+* 18.00: + za zmarłego Kazimierza BRODECKIEGO w 8 rocznicę śmierci oraz za zmarłych z rodzin 	BRODECKCH i PŁOSZAJSKICH
 
 #### Wtorek, 5 maja
-7.00:  + za śp. Stanisława PEŁKA
-18.00: wypominkowa
-18.00: + za śp. Józefa, Eugenię i Mariana
+
+* 7.00:  + za śp. Stanisława PEŁKA
+* 18.00: wypominkowa
+* 18.00: + za śp. Józefa, Eugenię i Mariana
 
 #### Środa, 6 maja, świętych apostołów Filipa i Jakuba, święto
-7.00: + za Janinę, Stefana, Stanisława, Jana SZUBÓW
-18.00: + za śp. Tomasza BANKIEWICZ i zmarłych z rodziny
-18.00: + za Mieczysława CZARNOCKIEGO w 4 rocznicę śmierci
+
+* 7.00: + za Janinę, Stefana, Stanisława, Jana SZUBÓW
+* 18.00: + za śp. Tomasza BANKIEWICZ i zmarłych z rodziny
+* 18.00: + za Mieczysława CZARNOCKIEGO w 4 rocznicę śmierci
 
 #### Czwartek, 7 maja
-7.00: 
-18.00: + za ks. prałata Stefana WYSOCKIEGO
-18.00: w intencji powołań kapłańskich z prośbą  o liczne charyzmatyczne, święte powołania kapłańskie, 	zakonne i misyjne w naszej Ojczyźnie i na całym świecie oraz o odnowę serc w naszej parafii 
+
+* 7.00: 
+* 18.00: + za ks. prałata Stefana WYSOCKIEGO
+* 18.00: w intencji powołań kapłańskich z prośbą  o liczne charyzmatyczne, święte powołania kapłańskie, 	zakonne i misyjne w naszej Ojczyźnie i na całym świecie oraz o odnowę serc w naszej parafii 
 
 #### Piątek, 8 maja, św. Stanisława, biskupa i męczennika, głównego patrona Polski, uroczystość
-7.00: + za Stanisława KACPRZAK, Stanisławę i Bronisławę PIETRAS
-18.00: w 16 rocznicę ślubu Emilki i Kostka CZARTORYSKICH
-18.00: + za Stanisława, Władysława, Jana z rodziny WIELOGÓRSKICH
+
+* 7.00: + za Stanisława KACPRZAK, Stanisławę i Bronisławę PIETRAS
+* 18.00: w 16 rocznicę ślubu Emilki i Kostka CZARTORYSKICH
+* 18.00: + za Stanisława, Władysława, Jana z rodziny WIELOGÓRSKICH
 
 #### Sobota, 9 maja
-7.00: + za Krystynę BATYCKĄ miesiąc po pogrzebie 
-16.00-17.50 Adoracja Najświętszego Sakramentu
-18.00: o światło i dary Ducha Świętego dla Judyty
+
+* 7.00: + za Krystynę BATYCKĄ miesiąc po pogrzebie 
+* 16.00-17.50 Adoracja Najświętszego Sakramentu
+* 18.00: o światło i dary Ducha Świętego dla Judyty
 
 #### 5 NIEDZIELA WIELKANOCY, 10 maja
-7.00: 
-9.00:  intencja zbiorowa:
-+ za Wandę, Mariana, Jana SKIBNIEWSKICH
-W 25 rocznicę śmierci Mieczysława GÓRSKIEGO oraz za śp.  Marię, Barbarę GÓRSKIE
-W dniu pierwszych urodzin Tymoteusza
-+ za Jadwigę ZAWISTOWSKĄ
-+ za śp. Stanisława i Stanisławę KAŁASZA
-10.30: za parafian
-12.00: + za Mieczysława GŁASEK oraz za Juliana i Józefa PARZYSZEK
-15.00 – 17.50 Adoracja Najświętszego Sakramentu
-18.00: + za Krzysztofa RAKOWIECKIEGO, za Pawła i zmarłych z rodziny RAKOWIECKICH i STĘPNIÓW
 
+* 7.00: 
+* 9.00:  intencja zbiorowa: 
 
-### III NIEDZIELA WIELKANOCY CZYLI MIŁOSIERDZIA BOŻEGO
+  * za Wandę, Mariana, Jana SKIBNIEWSKICH W 25 rocznicę śmierci Mieczysława GÓRSKIEGO oraz za śp.  Marię, Barbarę GÓRSKIE
+  * W dniu pierwszych urodzin Tymoteusza
+  * za Jadwigę ZAWISTOWSKĄ
+  * za śp. Stanisława i Stanisławę KAŁASZA 10.30: za parafian
+* 12.00: + za Mieczysława GŁASEK oraz za Juliana i Józefa PARZYSZEK
+* 15.00 – 17.50 Adoracja Najświętszego Sakramentu
+* 18.00: + za Krzysztofa RAKOWIECKIEGO, za Pawła i zmarłych z rodziny RAKOWIECKICH i STĘPNIÓW
 
-26 kwietnia 2020
+<h3 style="text-align:ceter;">III NIEDZIELA WIELKANOCY CZYLI MIŁOSIERDZIA BOŻEGO</h3>
+
+<h3 style="text-align:ceter;">26 kwietnia 2020</h3>
 
 ### 3 NIEDZIELA WIELKANOCY, 26 kwietnia
 
