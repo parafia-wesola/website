@@ -6,12 +6,12 @@ title: Intencje mszalne
 <h3 style="text-align:ceter;">3 maja 2020</h3>
 
 #### 4 NIEDZIELA WIELKANOCY, 3 maja
-7.00: za parafian
-9.00:  w 25 rocznicę ślubu Doroty i Sylwestra GRĘZAK oraz o błogosławieństwo dla ich dzieci: Katarzyny, Piotra, Grzegorza i Marcina
-10.30: + za Gustawa w 3 rocznicę śmierci
-12.00: + za śp. Teodorę i Stanisława BAREJA i za zmarłych  z rodziny BAREJÓW i TARASZEWSKICH
-15.00 – 17.50 Adoracja Najświętszego Sakramentu
-18.00: + za Mirosława MORAWSKIEEGO w 10 rocznicę śmierci oraz za zmarłych z całej rodziny 	MORAWSKICH
+- 7.00: za parafian
+- 9.00:  w 25 rocznicę ślubu Doroty i Sylwestra GRĘZAK oraz o błogosławieństwo dla ich dzieci: Katarzyny, Piotra, Grzegorza i Marcina
+- 10.30: + za Gustawa w 3 rocznicę śmierci
+- 12.00: + za śp. Teodorę i Stanisława BAREJA i za zmarłych  z rodziny BAREJÓW i TARASZEWSKICH
+- 15.00 – 17.50 Adoracja Najświętszego Sakramentu
+- 18.00: + za Mirosława MORAWSKIEEGO w 10 rocznicę śmierci oraz za zmarłych z całej rodziny 	MORAWSKICH
 
 #### Poniedziałek, 4 maja, św. Floriana, męczennika, patrona diecezji warszawsko-praskiej, wspomnienie 
  7.00: + za śp. Monikę PALKA
