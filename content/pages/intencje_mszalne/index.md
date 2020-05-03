@@ -2,8 +2,8 @@
 type: text
 title: Intencje mszalne
 ---
-<h3 style="text-align:ceter;">IV NIEDZIELA WIELKANOCY</h3> 
-<h3 style="text-align:ceter;">3 maja 2020</h3>
+<h3 style="text-align:center;">IV NIEDZIELA WIELKANOCY</h3> 
+<h3 style="text-align:center;">3 maja 2020</h3>
 
 #### 4 NIEDZIELA WIELKANOCY, 3 maja
 
@@ -63,9 +63,9 @@ title: Intencje mszalne
 * 15.00 – 17.50 Adoracja Najświętszego Sakramentu
 * 18.00: + za Krzysztofa RAKOWIECKIEGO, za Pawła i zmarłych z rodziny RAKOWIECKICH i STĘPNIÓW
 
-<h3 style="text-align:ceter;">III NIEDZIELA WIELKANOCY CZYLI MIŁOSIERDZIA BOŻEGO</h3>
+<h3 style="text-align:center;">III NIEDZIELA WIELKANOCY CZYLI MIŁOSIERDZIA BOŻEGO</h3>
 
-<h3 style="text-align:ceter;">26 kwietnia 2020</h3>
+<h3 style="text-align:center;">26 kwietnia 2020</h3>
 
 ### 3 NIEDZIELA WIELKANOCY, 26 kwietnia
 
