@@ -14,52 +14,52 @@ Stosując się do obecnych rozporządzeń, w naszym kościele może być przebyw
 
 **Poniedziałek**
 
-18.00Msza Święta (online)
+18.00 Msza Święta (online)
 
-18.40-19.15Adoracja Najświętszego Sakramentu (kościół otwarty)
+18.40-19.15 Adoracja Najświętszego Sakramentu (kościół otwarty)
 
-20.30Różaniec (tylko online)
+20.30 Różaniec (tylko online)
 
 **Wtorek**
 
-18.00Msza Święta (online)
+18.00 Msza Święta (online)
 
-18.40-19.15Adoracja Najświętszego Sakramentu (kościół otwarty)
+18.40-19.15 Adoracja Najświętszego Sakramentu (kościół otwarty)
 
-20.00Wieczór uwielbienia (tylko online)
+20.00 Wieczór uwielbienia (tylko online)
 
 **Środa**
 
-18.00Msza Święta (online)
+18.00 Msza Święta (online)
 
-18.40-19.15Adoracja Najświętszego Sakramentu (kościół otwarty)
+18.40-19.15 Adoracja Najświętszego Sakramentu (kościół otwarty)
 
 **Czwartek**
 
-18.00Msza Święta (online)
+18.00 Msza Święta (online)
 
-18.40-19.15Adoracja Najświętszego Sakramentu (kościół otwarty)
+18.40-19.15 Adoracja Najświętszego Sakramentu (kościół otwarty)
 
 **Piątek**
 
-15.00Koronka do Bożego Miłosierdzia (tylko online)
+15.00 Koronka do Bożego Miłosierdzia (tylko online)
 
-18.00Msza Święta (online)
+18.00 Msza Święta (online)
 
-18.40-19.15Adoracja Najświętszego Sakramentu (kościół otwarty)
+18.40-19.15 Adoracja Najświętszego Sakramentu (kościół otwarty)
 
 **Sobota**
 
 15.00-18.00 otwarty kościół i Adoracja Najświętszego Sakramentu
 
-18.00antycypowana Msza Święta niedzielna (online)
+18.00 antycypowana Msza Święta niedzielna (online)
 
 **Niedziela**
 
-10.30Msza Święta (online)
+10.30 Msza Święta (online)
 
 15.00-18.00 otwarty kościół i Adoracja Najświętszego Sakramentu
 
-18.00Msza Święta (online)
+18.00 Msza Święta (online)
 
 <!--EndFragment-->
