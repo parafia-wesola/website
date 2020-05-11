@@ -2,6 +2,122 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+<h3 style="text-align:center;">**V NIEDZIELA WIELKANOCY</h3>**
+
+<h3 style="text-align:center;">**10 maja 2020</h3>**
+
+
+
+**\####5 NIEDZIELA WIELKANOCY, 10 maja**
+
+7.00: za brata Radosława, jego żonę Magdalenę oraz ich córki o opiekę Matki Bożej, z prośbą o powrót do zdrowia z powodu zakażenia koronawirusem
+
+9.00:intencja zbiorowa:
+
+* + za Wandę, Mariana, Jana SKIBNIEWSKICH
+* w 25 rocznicę śmierci Mieczysława GÓRSKIEGO oraz za śp.Marię, Barbarę GÓRSKIE
+* w dniu pierwszych urodzin Tymoteusza o Boże błogosławieństwo i opiekę Matki Bożej
+* + za Jadwigę ZAWISTOWSKĄ
+* + za śp. Stanisława i Stanisławę KAŁASZA
+* + za Bronisława i Stanisławę PIETRAS
+* + za Stanisława KACPRZAK
+
+10.30: za parafian
+
+12.00: + za Mieczysława GŁASEK oraz za Juliana i Józefa PARZYSZEK
+
+15.00 – 17.50 Adoracja Najświętszego Sakramentu
+
+18.00: + za Krzysztofa RAKOWIECKIEGO, za Pawła i zmarłych z rodziny RAKOWIECKICH i STĘPNIÓW
+
+
+
+**\####Poniedziałek, 11 maja**
+
+7.00: + w intencji Marianny (4 rocznica śmierci) i Stanisława (8 rocznica śmierci) REZULSKICH
+
+18.00: + za Mariannę, Edwarda, Wiesława, Mirosława i zmarłych z rodziny BAREJA
+
+18.00: + za Zofię i Tadeusza KOŚCIESZÓW
+
+(w modlitwie wiernych: + za Włodzimierza TUSZEWSKIEGO w dzień pogrzebu o dar nieba)
+
+
+
+**\####Wtorek, 12 maja**
+
+7.00: 
+
+18.00: + za śp. Stanisława PEŁKĘ
+
+18.00: zarezerwowana
+
+
+
+**\####Środa, 13 maja**
+
+7.00: + za śp. Irenę RĘBIEJEWSKĄ
+
+18.00: + w 1 rocznicę śmierci Ireny PADOCHIN
+
+18.00: + za Stanisława FAJFER oraz Teresę HULICJKĄ oraz za Mieczysława GAJEWSKIEGO
+
+
+
+**\####Czwartek, 14 maja, św. Macieja Apostoła, *święto***
+
+7.00: + za Bogumiłę CHOIŃSKĄ
+
+18.00: + za śp. Annę GAWRYŚ w 10 rocznicę śmierci oraz za Stefana i Marka GAWRYŚ
+
+18.00: + za Stanisława, Zofię i Honoratę POLKOWSKICH
+
+
+
+**\####Piątek, 15 maja**
+
+7.00: + za Janinę JAMIOŁKOWSKĄ oraz za Zygmunta JAMIOŁKOWSKIEGO
+
+18.00: za małżeństwa w kryzysie
+
+18.00: + za Jana, Wojciecha, Leokadię z rodziny ROGALA
+
+
+
+**\####Sobota, 16 maja, św. Andrzeja Boboli, Prezbitera i męczennika, patrona Polski i metropolii warszawskiej, *uroczystość***
+
+7.00: + za śp. Stanisława PEŁKĘ
+
+15.00 – 17.50 Adoracja Najświętszego Sakramentu
+
+18.00: + za śp. Krystiana OSMÓLSKIEGO miesiąc po pogrzebie
+
+18.00: + za śp. Stanisława SZCZEPANIAKA miesiąc po pogrzebie
+
+
+
+**\####6 NIEDZIELA WIELKANOCY, 17 maja**
+
+7.00: za parafian
+
+9.00: + za zmarłych Zofię i Józefa RAWSKICH oraz za zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
+
+10.30: + za Zofię i Tadeusza KOŚCIESZÓW
+
+12.00: + za Celinę KONOPKĘ
+
+15.00 – 17.50 Adoracja Najświętszego Sakramentu
+
+18.00: + w 27 rocznicę śmierci Józefa oraz za Janinę, Jana, Kazimierę i Adama CHACIMSKICH i za zmarłych z rodziny WOJTYŃSKICH
+
+
+
+<!--EndFragment-->
+
+
+
 <h3 style="text-align:center;">IV NIEDZIELA WIELKANOCY</h3> 
 <h3 style="text-align:center;">3 maja 2020</h3>
 
