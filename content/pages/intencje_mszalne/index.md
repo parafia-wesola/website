@@ -10,7 +10,7 @@ title: Intencje mszalne
 
 
 
-**\####5 NIEDZIELA WIELKANOCY, 10 maja**
+####5 NIEDZIELA WIELKANOCY, 10 maja**
 
 7.00: za brata Radosława, jego żonę Magdalenę oraz ich córki o opiekę Matki Bożej, z prośbą o powrót do zdrowia z powodu zakażenia koronawirusem
 
@@ -34,7 +34,7 @@ title: Intencje mszalne
 
 
 
-**\####Poniedziałek, 11 maja**
+####Poniedziałek, 11 maja**
 
 7.00: + w intencji Marianny (4 rocznica śmierci) i Stanisława (8 rocznica śmierci) REZULSKICH
 
@@ -46,7 +46,7 @@ title: Intencje mszalne
 
 
 
-**\####Wtorek, 12 maja**
+####Wtorek, 12 maja**
 
 7.00: 
 
@@ -56,7 +56,7 @@ title: Intencje mszalne
 
 
 
-**\####Środa, 13 maja**
+####Środa, 13 maja**
 
 7.00: + za śp. Irenę RĘBIEJEWSKĄ
 
@@ -66,7 +66,7 @@ title: Intencje mszalne
 
 
 
-**\####Czwartek, 14 maja, św. Macieja Apostoła, *święto***
+####Czwartek, 14 maja, św. Macieja Apostoła, *święto***
 
 7.00: + za Bogumiłę CHOIŃSKĄ
 
@@ -76,7 +76,7 @@ title: Intencje mszalne
 
 
 
-**\####Piątek, 15 maja**
+####Piątek, 15 maja**
 
 7.00: + za Janinę JAMIOŁKOWSKĄ oraz za Zygmunta JAMIOŁKOWSKIEGO
 
@@ -86,7 +86,7 @@ title: Intencje mszalne
 
 
 
-**\####Sobota, 16 maja, św. Andrzeja Boboli, Prezbitera i męczennika, patrona Polski i metropolii warszawskiej, *uroczystość***
+####Sobota, 16 maja, św. Andrzeja Boboli, Prezbitera i męczennika, patrona Polski i metropolii warszawskiej, *uroczystość***
 
 7.00: + za śp. Stanisława PEŁKĘ
 
@@ -98,7 +98,7 @@ title: Intencje mszalne
 
 
 
-**\####6 NIEDZIELA WIELKANOCY, 17 maja**
+####6 NIEDZIELA WIELKANOCY, 17 maja**
 
 7.00: za parafian
 
