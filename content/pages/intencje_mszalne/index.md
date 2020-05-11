@@ -8,12 +8,13 @@ title: Intencje mszalne
 
 <h3 style="text-align:center;">10 maja 2020</h3>
 
-####5 NIEDZIELA WIELKANOCY, 10 maja
+\####5 NIEDZIELA WIELKANOCY, 10 maja
 
 7.00: za brata Radosława, jego żonę Magdalenę oraz ich córki o opiekę Matki Bożej, z prośbą o powrót do zdrowia z powodu zakażenia koronawirusem
 
-9.00:intencja zbiorowa:+ za Wandę, Mariana, Jana SKIBNIEWSKICH
+9.00:intencja zbiorowa:
 
+* za Wandę, Mariana, Jana SKIBNIEWSKICH 
 * w 25 rocznicę śmierci Mieczysława GÓRSKIEGO oraz za śp.Marię, Barbarę GÓRSKIE w dniu pierwszych urodzin Tymoteusza o Boże błogosławieństwo i opiekę Matki Bożej
 * za Jadwigę ZAWISTOWSKĄ
 * za śp. Stanisława i Stanisławę KAŁASZA
@@ -28,7 +29,7 @@ title: Intencje mszalne
 
   18.00: + za Krzysztofa RAKOWIECKIEGO, za Pawła i zmarłych z rodziny RAKOWIECKICH i STĘPNIÓW
 
-####Poniedziałek, 11 maja
+\####Poniedziałek, 11 maja
 
 7.00: + w intencji Marianny (4 rocznica śmierci) i Stanisława (8 rocznica śmierci) REZULSKICH
 
@@ -38,7 +39,7 @@ title: Intencje mszalne
 
 (w modlitwie wiernych: + za Włodzimierza TUSZEWSKIEGO w dzień pogrzebu o dar nieba)
 
-####Wtorek, 12 maja
+\####Wtorek, 12 maja
 
 7.00: 
 
@@ -46,7 +47,7 @@ title: Intencje mszalne
 
 18.00: zarezerwowana
 
-####Środa, 13 maja
+\####Środa, 13 maja
 
 7.00: + za śp. Irenę RĘBIEJEWSKĄ
 
@@ -54,7 +55,7 @@ title: Intencje mszalne
 
 18.00: + za Stanisława FAJFER oraz Teresę HULICJKĄ oraz za Mieczysława GAJEWSKIEGO
 
-####Czwartek, 14 maja, św. Macieja Apostoła, \*święto\*
+\####Czwartek, 14 maja, św. Macieja Apostoła, \*święto\*
 
 7.00: + za Bogumiłę CHOIŃSKĄ
 
@@ -62,7 +63,7 @@ title: Intencje mszalne
 
 18.00: + za Stanisława, Zofię i Honoratę POLKOWSKICH
 
-####Piątek, 15 maja
+\####Piątek, 15 maja
 
 7.00: + za Janinę JAMIOŁKOWSKĄ oraz za Zygmunta JAMIOŁKOWSKIEGO
 
@@ -70,7 +71,7 @@ title: Intencje mszalne
 
 18.00: + za Jana, Wojciecha, Leokadię z rodziny ROGALA
 
-####Sobota, 16 maja, św. Andrzeja Boboli, Prezbitera i męczennika, patrona Polski i metropolii warszawskiej, \*uroczystość\*
+\####Sobota, 16 maja, św. Andrzeja Boboli, Prezbitera i męczennika, patrona Polski i metropolii warszawskiej, \*uroczystość\*
 
 7.00: + za śp. Stanisława PEŁKĘ
 
@@ -80,7 +81,7 @@ title: Intencje mszalne
 
 18.00: + za śp. Stanisława SZCZEPANIAKA miesiąc po pogrzebie
 
-####6 NIEDZIELA WIELKANOCY, 17 maja
+\####6 NIEDZIELA WIELKANOCY, 17 maja
 
 7.00: za parafian
 
