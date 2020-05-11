@@ -9,20 +9,17 @@ title: Intencje mszalne
 <h3 style="text-align:center;">10 maja 2020</h3>
 
 
-
 ####5 NIEDZIELA WIELKANOCY, 10 maja**
 
 7.00: za brata Radosława, jego żonę Magdalenę oraz ich córki o opiekę Matki Bożej, z prośbą o powrót do zdrowia z powodu zakażenia koronawirusem
 
-9.00:intencja zbiorowa:
-
-* + za Wandę, Mariana, Jana SKIBNIEWSKICH
-* w 25 rocznicę śmierci Mieczysława GÓRSKIEGO oraz za śp.Marię, Barbarę GÓRSKIE
-* w dniu pierwszych urodzin Tymoteusza o Boże błogosławieństwo i opiekę Matki Bożej
-* + za Jadwigę ZAWISTOWSKĄ
-* + za śp. Stanisława i Stanisławę KAŁASZA
-* + za Bronisława i Stanisławę PIETRAS
-* + za Stanisława KACPRZAK
+9.00:intencja zbiorowa:+ za Wandę, Mariana, Jana SKIBNIEWSKICH
++ w 25 rocznicę śmierci Mieczysława GÓRSKIEGO oraz za śp.Marię, Barbarę GÓRSKIE
+w dniu pierwszych urodzin Tymoteusza o Boże błogosławieństwo i opiekę Matki Bożej
++ za Jadwigę ZAWISTOWSKĄ
++ za śp. Stanisława i Stanisławę KAŁASZA
++ za Bronisława i Stanisławę PIETRAS
++ za Stanisława KACPRZAK
 
 10.30: za parafian
 
@@ -111,7 +108,6 @@ title: Intencje mszalne
 15.00 – 17.50 Adoracja Najświętszego Sakramentu
 
 18.00: + w 27 rocznicę śmierci Józefa oraz za Janinę, Jana, Kazimierę i Adama CHACIMSKICH i za zmarłych z rodziny WOJTYŃSKICH
-
 
 
 <!--EndFragment-->
