@@ -4,9 +4,9 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
-<h3 style="text-align:center;">**V NIEDZIELA WIELKANOCY</h3>**
+<h3 style="text-align:center;">V NIEDZIELA WIELKANOCY</h3>
 
-<h3 style="text-align:center;">**10 maja 2020</h3>**
+<h3 style="text-align:center;">10 maja 2020</h3>
 
 
 
