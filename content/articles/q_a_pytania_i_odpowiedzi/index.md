@@ -1,12 +1,11 @@
 ---
 type: article
-title: 'Q&A: pytania i odpowiedzi'
+title: "Q&A: pytania i odpowiedzi"
 date: 2020-05-02T15:41:25.522Z
-eventDate: ''
+eventDate: ""
 author: parafia wesoła
 cover: list_do_parafian_27.03.2020.png
 ---
-
 <h3 style="text-align:center;">Parafia Opatrzności Bożej w Wesołej w czasie pandemii</h3>
 
 <h3 style="text-align:center;">Q & A - odpowiedzi na Wasze pytania</h3>
@@ -17,7 +16,7 @@ Modlić się o ufność i pokój, myć ręce i stosować inne środki bezpiecze�
 
 #### 2. Czy mogę przyjść do kościoła?
 
-Tak, zapraszamy. Według obecnych norm w naszym kościele może być jednocześnie maksymalnie 15 osób. Miejsca w kościele oznaczone są kolorową kartką. Można też stanąć wokół kościoła, pamiętając o zachowaniu odległości pomiędzy osobami oraz o zakrywaniu ust i nosa.
+Tak, zapraszamy. Według obecnych norm w naszym kościele może być jednocześnie maksymalnie 23 osoby. Miejsca w kościele oznaczone są kolorową kartką. Można też stanąć wokół kościoła, pamiętając o zachowaniu odległości pomiędzy osobami oraz o zakrywaniu ust i nosa.
 
 #### 3. Jak mogę uczestniczyć we Mszy świętej?
 
@@ -29,9 +28,9 @@ Decydując się na osobisty udział, można wybrać Mszę w tygodniu o 7.00 lub 
 Szafarze myją ręce bezpośrednio przed udzielaniem Komunii. Zachęcamy do przyjmowania Komunii świętej na rękę, co jest bezpieczniejsze podczas epidemii wirusa roznoszonego drogą kropelkową (zob. załączniki nt. Komunii na rękę). Osoby, które wybierają przyjęcie Komunii do ust, proszone są o podejście w drugim rzędzie lub po upewnieniu się, że pozostały tylko osoby przyjmujące do ust. Przypominamy też o możliwości tylko duchowego przyjęcia Komunii ( zob. [link](https://deon.pl/kosciol/ks-grzegorz-strzelczyk-tlumaczy-na-czym-polega-przyjecie-komunii-duchowej,789609)).\
 Istnieje też możliwość przyjęcia Komunii poza Mszą świętą pół godziny po Mszach niedzielnych transmitowanych (tzn. między 11.20 a 11.50 oraz między 19.00 a 19.30), o 15.00 (w sobotę i niedzielę) oraz o 19.15 od poniedziałku do soboty.
 
-- O. Dariusz Piórkowski, [Dlaczego przyjmować Komunię świętą na rękę? Odpowiada św. Katarzyna ze Sieny](https://deon.pl/wiara/dlaczego-przyjmowac-komunie-swieta-na-reke-odpowiada-sw-katarzyna-ze-sieny,854564)
-- Ks. Helmut Jan Sobeczko, [Komunia święta na rękę. Podstawy historyczne i teologiczno–pastoralne](http://vademecumliturgiczne.pl/2016/10/18/komunia-swieta-na-reke-podstawy-historyczne-i-teologiczno-pastoralne/)
-- O. Remigiusz Recław, [Jak przyjmować Komunię Świętą na rękę?](https://www.youtube.com/watch?v=AkxsKesRr3Y)
+* O. Dariusz Piórkowski, [Dlaczego przyjmować Komunię świętą na rękę? Odpowiada św. Katarzyna ze Sieny](https://deon.pl/wiara/dlaczego-przyjmowac-komunie-swieta-na-reke-odpowiada-sw-katarzyna-ze-sieny,854564)
+* Ks. Helmut Jan Sobeczko, [Komunia święta na rękę. Podstawy historyczne i teologiczno–pastoralne](http://vademecumliturgiczne.pl/2016/10/18/komunia-swieta-na-reke-podstawy-historyczne-i-teologiczno-pastoralne/)
+* O. Remigiusz Recław, [Jak przyjmować Komunię Świętą na rękę?](https://www.youtube.com/watch?v=AkxsKesRr3Y)
 
 #### 5. Jak mogę się wyspowiadać?
 
@@ -80,5 +79,4 @@ Można skontaktować się z nami przez telefon w godzinach pracy kancelarii lub 
 
 #### 15. Jak mogę wesprzeć parafię?
 
-Zachęcamy, żeby zrobić to przelewem na konto parafii : 28 8019 1010 2002 0007 0714 0001, Bank Spółdzielczy w Halinowie, oddział Wesoła. Przelew opisany jako „darowizna na cele kultu religijnego” można odpisać od podstawy opodatkowania.
-Przelewem również można przekazać zadeklarowane wpłaty w ramach programu pomocy Syrii „Rodzina Rodzinie”.
+Ofiarę na tacę można złożyć do koszyka przed ołtarzem lub pod chórem. Można również zrobić to przelewem na konto parafii : 28 8019 1010 2002 0007 0714 0001, Bank Spółdzielczy w Halinowie, oddział Wesoła. Przelew opisany jako „darowizna na cele kultu religijnego” można odpisać od podstawy opodatkowania. Przelewem również można przekazać zadeklarowane wpłaty w ramach programu pomocy Syrii „Rodzina Rodzinie”.
