@@ -10,77 +10,59 @@ title: Intencje mszalne
 
 **6 NIEDZIELA WIELKANOCY, 17 maja**
 
-* 7.00: za parafian
-9.00: + za zmarłych Zofię i Józefa RAWSKICH oraz za zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
+* 7.00: za parafian 9.00: + za zmarłych Zofię i Józefa RAWSKICH oraz za zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
 * 10.30: + za Zofię i Tadeusza KOŚCIESZÓW \
   w modlitwie wiernych: za o. Andrzeja Duka w 25 rocznicę święceń kapłańskich
-- 12.00: + za Celinę KONOPKĘ
-- 15.00 – 17.50 Adoracja Najświętszego Sakramentu
-- 18.00: + w 27 rocznicę śmierci Józefa oraz za Janinę, Jana, Kazimierę i Adama CHACIMSKICH i za zmarłych z rodziny WOJTYŃSKICH
+* 12.00: + za Celinę KONOPKĘ
+* 15.00 – 17.50 Adoracja Najświętszego Sakramentu
+* 18.00: + w 27 rocznicę śmierci Józefa oraz za Janinę, Jana, Kazimierę i Adama CHACIMSKICH i za zmarłych z rodziny WOJTYŃSKICH
 
 **Poniedziałek, 18 maja**
 
-- 7.00: urodzinowa w intencji Renaty
-
-- 18.00: + w 8 rocznicę śmierci Marceli SZCZUCIŃSKIEJ
-
-- 18.00: + za śp. Eugenię GNIAZDOWSKĄ
+* 7.00: urodzinowa w intencji Renaty
+* 18.00: + w 8 rocznicę śmierci Marceli SZCZUCIŃSKIEJ
+* 18.00: + za śp. Eugenię GNIAZDOWSKĄ
 
 **Wtorek, 19 maja**
 
-- 7.00: 
-
-- 18.00: + za Janinę i Władysława DĄBROWSKICH oraz za zmarłych z rodziny
+* 7.00: 
+* 18.00: + za Janinę i Władysława DĄBROWSKICH oraz za zmarłych z rodziny
 
 **Środa, 20 maja**
 
-- 7.00: + za śp. Wandę LEWANDOWSKĄ
-
-- 18.00: o Boże błogosławieństwo dla Marka w dziękczynieniu za 27 lat życia oraz dla Maćka z okazji imienin
-
-- 18.00: za Przemysława i Sylwię w 13 rocznicę ślubu, za Andrzeja i Joannę w 20 rocznicę ślubu oraz za Dariusza i Renatę w 25 rocznicę ślubu
+* 7.00: + za śp. Wandę LEWANDOWSKĄ
+* 18.00: o Boże błogosławieństwo dla Marka w dziękczynieniu za 27 lat życia oraz dla Maćka z okazji imienin
+* 18.00: za Przemysława i Sylwię w 13 rocznicę ślubu, za Andrzeja i Joannę w 20 rocznicę ślubu oraz za Dariusza i Renatę w 25 rocznicę ślubu
 
 **Czwartek, 21 maja, św. Macieja Apostoła, *święto***
 
-- 7.00: + za śp. Stefana PENKA w 1 rocznicę śmierci
-
-- 18.00: + za śp. Krystiana OSMÓLSKIEGO miesiąc po pogrzebie
+* 7.00: + za śp. Stefana PENKA w 1 rocznicę śmierci
+* 18.00: + za śp. Krystiana OSMÓLSKIEGO miesiąc po pogrzebie
 
 **Piątek, 22 maja**
 
-- 7.00: o błogosławieństwo i dar macierzyństwa dla Pauliny
-
-- 18.00: + za Jadwigę ZAWISTOWSKĄ miesiąc po pogrzebie
+* 7.00: o błogosławieństwo i dar macierzyństwa dla Pauliny
+* 18.00: + za Jadwigę ZAWISTOWSKĄ miesiąc po pogrzebie
 
 **Sobota, 23 maja**
 
-- 7.00: za Magdę w dniu urodzin
-
-- 15.00 – 17.50 Adoracja Najświętszego Sakramentu
-
-- 18.00: za Asię i Michała w 5 rocznicę ślubu oraz za ich córki o łaski Boże dla całej rodziny
+* 7.00: za Magdę w dniu urodzin
+* 15.00 – 17.50 Adoracja Najświętszego Sakramentu
+* 18.00: za Asię i Michała w 5 rocznicę ślubu oraz za ich córki o łaski Boże dla całej rodziny
 
 **7 NIEDZIELA WIELKANOCY, 24 maja, Wniebowstąpienie Pańskie, *uroczystość***
 
-- 7.00: o błogosławieństwo Boże dla Joanny SADLEJ w dniu urodzin
+* 7.00: o błogosławieństwo Boże dla Joanny SADLEJ w dniu urodzin
+* 9.00: + w 11 rocznicę śmierci Andrzeja MATUSIKA i za zmarłych z rodziny BAŁACHOWSKICH
+* 10.30: intencja zbiorowa
 
-- 9.00: + w 11 rocznicę śmierci Andrzeja MATUSIKA i za zmarłych z rodziny BAŁACHOWSKICH
-
-- 10.30: intencja zbiorowa
-
-* za Zofię, Jana, Eugeniusza i Stanisława oraz za zmarłych z rodziny BALISZEWSKICH
-
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->+ za Jana PANUFIKA
-
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->+ za Sabinę NOWOTKO
-
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->+ za Wilhelma RZESZUTKO
-
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->+ za Krystynę Marię NAWŁOKĘ-BIELECKĄ
-
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->+ za Wojciecha MODLIŃSKIEGO
-
-<!--\\\[if !supportLists]-->·<!--\\\[endif]-->+ za Krzysztofa SOBIESZUKA
+  * + za Zofię, Jana, Eugeniusza i Stanisława oraz za zmarłych z rodziny BALISZEWSKICH
+  * + za Jana PANUFIKA
+  * + za Sabinę NOWOTKO
+  * + za Wilhelma RZESZUTKO
+  * + za Krystynę Marię NAWŁOKĘ-BIELECKĄ
+  * + za Wojciecha MODLIŃSKIEGO
+  * + za Krzysztofa SOBIESZUKA
 
 12.00: za parafian
 
