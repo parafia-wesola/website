@@ -50,8 +50,6 @@ Stosując się do obecnych rozporządzeń, w naszym kościele może być przebyw
 
 18.40-19.15 Adoracja Najświętszego Sakramentu (kościół otwarty)
 
-19.15-20.00 Modlitwa Uwielbienia Wspólnoty Zwiastowanie (tylko online na facebooku Wspólnoty: [](https://www.facebook.com/zwiastowaniewesola/)[link](https://www.facebook.com/zwiastowaniewesola/))
-
 **Sobota**
 
 18.00 antycypowana Msza Święta niedzielna (online)
