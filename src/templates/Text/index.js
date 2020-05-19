@@ -1,17 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
-import Img from 'gatsby-image';
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing';
 
 import SEO from 'components/SEO';
 import Close from 'components/Close';
-import {
-	SectionTitle,
-	SectionWrapper,
-	SectionText,
-	Background,
-} from 'components/Share';
+import Sacraments from 'components/Sacraments';
+import { SectionWrapper } from 'components/Share';
 import { ModalWrapper, PageWrapper } from './styles';
 
 const ModalTemplate = ({ data }) => {
@@ -25,29 +20,13 @@ const ModalTemplate = ({ data }) => {
 					{modal ? (
 						<ModalWrapper>
 							<Close closeTo={closeTo} />
-							{cover && (
-								<Background
-									bright
-									as={Img}
-									fluid={cover.childImageSharp.fluid}
-								/>
-							)}
-							<SectionTitle dark>{title}</SectionTitle>
-							<SectionText dangerouslySetInnerHTML={{ __html: text }} />
+							<Sacraments title={title} cover={cover} text={text} />
 						</ModalWrapper>
 					) : (
 						<>
 							<SEO title={title} />
 							<PageWrapper as={SectionWrapper}>
-								{cover && (
-									<Background
-										bright
-										as={Img}
-										fluid={cover.childImageSharp.fluid}
-									/>
-								)}
-								<SectionTitle dark>{title}</SectionTitle>
-								<SectionText dangerouslySetInnerHTML={{ __html: text }} />
+								<Sacraments title={title} cover={cover} text={text} />
 							</PageWrapper>
 						</>
 					)}
