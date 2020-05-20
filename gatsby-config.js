@@ -20,7 +20,12 @@ module.exports = {
 		'gatsby-plugin-react-helmet',
 		'gatsby-plugin-styled-components',
 		'gatsby-transformer-json',
-		'gatsby-transformer-remark',
+		{
+			resolve: 'gatsby-transformer-remark',
+			options: {
+				plugins: ['gatsby-remark-copy-linked-files'],
+			},
+		},
 		{
 			resolve: 'gatsby-plugin-netlify-cms',
 			options: {

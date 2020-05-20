@@ -19,6 +19,7 @@
 		"gatsby-plugin-react-leaflet": "^2.0.13",
 		"gatsby-plugin-sharp": "^2.6.0",
 		"gatsby-plugin-styled-components": "^3.3.0",
+		"gatsby-remark-copy-linked-files": "^2.3.3",
 		"gatsby-source-filesystem": "^2.3.0",
 		"gatsby-transformer-json": "^2.4.0",
 		"gatsby-transformer-remark": "^2.8.0",
