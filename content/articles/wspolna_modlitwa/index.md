@@ -4,7 +4,7 @@ title: Wspólna modlitwa
 date: 2020-04-30T15:19:58.225Z
 eventDate: ""
 author: parafia wesoła
-cover: 18-25_maja.png
+cover: 23-24_maja.png
 ---
 <!--StartFragment-->
 
