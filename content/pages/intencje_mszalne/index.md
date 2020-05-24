@@ -3,6 +3,61 @@ type: text
 title: Intencje mszalne
 ---
 
+<h3 style="text-align:center;"VII NIEDZIELA WIELKANOCY</h3>
+
+<h3 style="text-align:center;">24 maja 2020</h3>
+
+#### 7 NIEDZIELA WIELKANOCY, 24 maja, Wniebowstąpienie Pańskie, uroczystość
+
+- 7.00: o błogosławieństwo Boże dla Joanny SADLEJ w dniu urodzin
+- 9.00: ✝ w 11 rocznicę śmierci Andrzeja MATUSIKA i za zmarłych z rodziny BAŁACHOWSKICH
+- 10.30: intencja zbiorowa - ✝ za Zofię, Jana, Eugeniusza i Stanisława oraz za zmarłych z rodziny BALISZEWSKICH - ✝ za Jana PANUFIKA - ✝ za Sabinę NOWOTKO - ✝ za Wilhelma RZESZUTKO - ✝ za Krystynę Marię NAWŁOKĘ-BIELECKĄ - ✝ za Wojciecha MODLIŃSKIEGO - ✝ za Krzysztofa SOBIESZUKA - ✝ za Feliksa, Władysława i Stanisława KOWALCZYKÓW - ✝ za śp. Jana LECZKOWSKIEGO
+- 12.00: za parafian
+- 15.00 – 17.50: Adoracja Najświętszego Sakramentu
+- 18.00: ✝ za Jana GOŁĘBIEWSKIEGO, za dziadków GOŁĘBIEWSKICH, dziadków ZAGÓRSKICH oraz za zmarłych z rodziny KASZOWSKICH
+
+#### Poniedziałek, 25 maja
+
+- 7.00: podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu Jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+- 18.00: ✝ za śp. Krystiana OSMÓLSKIEGO miesiąc po śmierci
+
+#### Wtorek, 26 maja, Św. Filipa Neri, prezbitera, wspomnienie
+
+- 7.00:
+- 14.00: Msza pogrzebowa za śp. Władysława JAGIEŁŁO
+- 18.00: ✝ za Markusa BOROWSKIEGO w 7 rocznicę śmierci
+
+#### Środa, 27 maja
+
+- 7.00: ✝ za Władysława, Krzysztofa, Bronisławę BAŁABUCH i za zmarłych z rodziny
+- 18.00: ✝ za Juliana DĘBOWCZYK
+
+#### Czwartek, 28 maja
+
+- 7.00: o nowe, charyzmatyczne i święte powołania misyjne i kapłańskie
+- 18.00: o Boże błogosławieństwo w 32 rocznicę święceń kapłańskich ks. Zbigniewa
+
+#### Piątek, 29 maja, Św. Urszuli Ledóchowskiej, dziewicy, wspomnienie
+
+- 7.00:
+- 18.00: ✝ w 3 rocznicę śmierci Krystyny
+
+#### Sobota, 30 maja
+
+- 7.00:
+- 14.00: ślub Natalia Skarzyńska i Marcin Adasiewicz
+- 15.00 – 17.50: Adoracja Najświętszego Sakramentu
+- 18.00: ✝ za Kazimierza PRZYBYLSKIEGO oraz za Mariana i Genowefę ŻMUDA
+
+#### NIEDZIELA ZESŁANIA DUCHA ŚWIĘTEGO, 31 maja, uroczystość
+
+- 7.00: za parafian
+- 9.00: ✝ za śp. Janusza KURKA i za jego rodziców
+- 10.30: w 7 rocznicę śmierci Zygmunta BILBINA, za rodziców: Stefanię, Jakuba, Justynę, Władysława, stryjostwo Jana i Julię oraz za krewnych z prośbą o przyjęcie ich do Królestwa Bożego i o Boże błogosławieństwo
+- 12.00: za parafian
+- 17.00 – 17.50; Adoracja Najświętszego Sakramentu
+- 18.00: ✝ za Kazimierza SKARZYŃSKIEGO, za Józefa, Zofię RADZIKOWSKICH i za zmarłych z rodziny
+
 <h3 style="text-align:center;">VI NIEDZIELA WIELKANOCY</h3>
 
 <h3 style="text-align:center;">17 maja 2020</h3>
