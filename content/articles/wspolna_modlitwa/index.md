@@ -4,7 +4,7 @@ title: Wspólna modlitwa
 date: 2020-04-30T15:19:58.225Z
 eventDate: ""
 author: parafia wesoła
-cover: 23-24_maja.png
+cover: 25-31_maja.png
 ---
 <!--StartFragment-->
 
@@ -39,8 +39,6 @@ Stosując się do obecnych rozporządzeń, w naszym kościele może być przebyw
 18.00 Msza Święta (online)
 
 18.40-19.15 Adoracja Najświętszego Sakramentu (kościół otwarty)
-
-19.30 Nieszpory o jedność (tylko online)
 
 **Piątek**
 
