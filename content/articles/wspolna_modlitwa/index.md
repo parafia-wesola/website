@@ -50,7 +50,7 @@ Stosując się do obecnych rozporządzeń, w naszym kościele może być przebyw
 
 **Sobota**
 
-18.00 antycypowana Msza Święta niedzielna (online)
+23.00 antycypowana Msza Święta niedzielna (online)
 
 **Niedziela**
 
