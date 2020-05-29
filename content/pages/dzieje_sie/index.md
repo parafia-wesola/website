@@ -3,7 +3,7 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: "Q&A: pytania i odpowiedzi"
+    title: list do parafian 30 maja
   - size: large
     title: Wspólna modlitwa
   - size: large
