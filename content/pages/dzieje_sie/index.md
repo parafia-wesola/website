@@ -7,7 +7,7 @@ news:
   - size: large
     title: Wspólna modlitwa
   - size: large
-    title: Droga Światła ulicami Wesołej
+    title: Boże Ciało
   - size: medium
     title: "otwarty kościół "
   - size: medium
