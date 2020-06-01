@@ -4,11 +4,9 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
-<h3 style="text-align:center;">**Niedziela Zesłania Ducha Świętego</h3>**
+<h3 style="text-align:center;">Niedziela Zesłania Ducha Świętego</h3>
 
-<h3 style="text-align:center;">**31 maja 2020</h3>**
-
-
+<h3 style="text-align:center;">31 maja 2020</h3>
 
 **NIEDZIELA ZESŁANIA DUCHA ŚWIĘTEGO, 31 maja, *uroczystość***
 
@@ -16,7 +14,8 @@ title: Intencje mszalne
 
 9.00: + za śp. Janusza KURKA i za jego rodziców
 
-10.30: w 7 rocznicę śmierci Zygmunta BILBINA, za rodziców: Stefanię, Jakuba, Justynę, Władysława, stryjostwo Jana i Julię oraz za krewnych z prośbą o przyjęcie ich do Królestwa Bożego i o Boże błogosławieństwo
+10.30: w 7 rocznicę śmierci Zygmunta BILBINA, za rodziców: Stefanię, Jakuba, Justynę, Władysława, stryjostwo Jana\
+i Julię oraz za krewnych z prośbą o przyjęcie ich do Królestwa Bożego i o Boże błogosławieństwo
 
 12.00: za Adama za wstawiennictwem św. Jana Pawła II przez ręce NMP by otworzył się na łaski, które na niego spłynęły
 
@@ -24,15 +23,11 @@ title: Intencje mszalne
 
 18.00: + za Kazimierza SKARZYŃSKIEGO, za Józefa, Zofię RADZIKOWSKICH i za zmarłych z rodziny
 
-
-
 **Poniedziałek, 1 czerwca, Najświętszej Maryi Panny, Matki Kościoła, święto**
 
 7.00: + za Zofię i Andrzeja w 8 rocznicę śmierci
 
 18.00: w intencji osób modlących się w „margaretce” za o. Adama i o. Mariusza
-
-
 
 **Wtorek, 2 czerwca**
 
@@ -42,15 +37,11 @@ title: Intencje mszalne
 
 18.00: o opiekę Matki Bożej nad Markiem i jego rodziną
 
-
-
 **Środa, 3 czerwca, Świętych męczenników Karola Lwangi i Towarzyszy, wspomnienie**
 
 7.00:
 
 18.00: + za duszę Włodzimierza TUSZEWSKIEGO 30 dni po śmierci (Msza św. transmitowana)
-
-
 
 **Czwartek, 4 czerwca, Jezusa Chrystusa, Najwyższego i Wiecznego Kapłana, święto**
 
@@ -59,8 +50,6 @@ title: Intencje mszalne
 18.00: z prośbą o liczne, charyzmatyczne, święte powołania kapłańskie, zakonne i misyjne w naszej Ojczyźnie i na całym świecie oraz o odnowę serc w naszej parafii
 
 18.00: + za śp. Bronisława i Antoniego KUBICKICH oraz za zmarłych z rodziny KUBICKICH i PIOTRKOWICZÓW
-
-
 
 **Piątek, 5 czerwca, Św. Bonifacego, biskupa i męczennika, *wspomnienie***
 
@@ -71,8 +60,6 @@ o radość nieba
 
 18.00: + za Stefanię i Mariana PIEŃKOWSKICH i za zmarłych z rodziny CZARNOCKICH i PIEŃKOWSKICH
 
-
-
 **Sobota, 6 czerwca**
 
 7.00: w intencji wynagradzającej za grzechy przeciwko Niepokalanemu Serca Maryi
@@ -80,8 +67,6 @@ o radość nieba
 16.00:ślub: Jakub Tarantowicz i Aneta Gadomska
 
 18.00: w intencji KŻR
-
-
 
 **NIEDZIELA TRÓJCY ŚWIĘTEJ, 7 czerwca, *uroczystość***
 
@@ -98,8 +83,6 @@ o radość nieba
 18.00: + za śp. Helenę i Stanisława MOMOT
 
 <!--EndFragment-->
-
-
 
 <h3 style="text-align:center;"VII NIEDZIELA WIELKANOCY</h3>
 
