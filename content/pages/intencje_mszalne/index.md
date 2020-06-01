@@ -15,7 +15,7 @@ title: Intencje mszalne
 9.00: + za śp. Janusza KURKA i za jego rodziców
 
 10.30: w 7 rocznicę śmierci Zygmunta BILBINA, za rodziców: Stefanię, Jakuba, Justynę, Władysława, stryjostwo Jana\
-i Julię oraz za krewnych z prośbą o przyjęcie ich do Królestwa Bożego i o Boże błogosławieństwo
+           i Julię oraz za krewnych z prośbą o przyjęcie ich do Królestwa Bożego i o Boże błogosławieństwo
 
 12.00: za Adama za wstawiennictwem św. Jana Pawła II przez ręce NMP by otworzył się na łaski, które na niego spłynęły
 
@@ -47,7 +47,8 @@ i Julię oraz za krewnych z prośbą o przyjęcie ich do Królestwa Bożego i o 
 
 7.00: + za śp. Wacława MIRSKIEGO
 
-18.00: z prośbą o liczne, charyzmatyczne, święte powołania kapłańskie, zakonne i misyjne w naszej Ojczyźnie i na całym świecie oraz o odnowę serc w naszej parafii
+18.00: z prośbą o liczne, charyzmatyczne, święte powołania kapłańskie, zakonne i misyjne w naszej Ojczyźnie i na\
+          całym świecie oraz o odnowę serc w naszej parafii
 
 18.00: + za śp. Bronisława i Antoniego KUBICKICH oraz za zmarłych z rodziny KUBICKICH i PIOTRKOWICZÓW
 
@@ -56,7 +57,7 @@ i Julię oraz za krewnych z prośbą o przyjęcie ich do Królestwa Bożego i o 
 7.00:
 
 18.00: + za dusze śp. Genowefę i Edwarda GOLIJANEK z wdzięcznością za wszystkie daryłaski z prośbą\
-o radość nieba
+           o radość nieba
 
 18.00: + za Stefanię i Mariana PIEŃKOWSKICH i za zmarłych z rodziny CZARNOCKICH i PIEŃKOWSKICH
 
@@ -83,6 +84,8 @@ o radość nieba
 18.00: + za śp. Helenę i Stanisława MOMOT
 
 <!--EndFragment-->
+
+
 
 <h3 style="text-align:center;"VII NIEDZIELA WIELKANOCY</h3>
 
