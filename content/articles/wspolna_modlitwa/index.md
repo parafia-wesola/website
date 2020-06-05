@@ -4,36 +4,30 @@ title: Wspólna modlitwa
 date: 2020-05-25T15:41:45.353Z
 eventDate: ""
 author: parafia wesoła
-cover: 25-31_maja.png
+cover: 6-7_czerwca.png
 ---
 <!--StartFragment-->
 
-***Tydzień 1-7 czerwca***
+***Weekend  6-7 czerwca***
 
+***Jubileuz 70-lecie parafii***
 
+<!--StartFragment-->
 
-**Poniedziałek**
+**Sobota**
 
-20.30 Różaniec (online)
-
-**Wtorek**
-
-20.00 Wieczór uwielbienia (online)
-
-**Środa**
-
-18.00 Msza Święta (online)
-
-18.40-19.15 Adoracja Najświętszego Sakramentu (online)
-
-**Piątek**
-
-15.00 Koronka do Bożego Miłosierdzia (tylko online)
+18.00antycypowana Msza Św.
 
 **Niedziela**
 
-10.30 Msza Święta (online)
+7.00 Msz Święta
 
-18.00 Msza Święta (online)
+9.00 Msza Święta
+
+10.30Msza Święta (online)
+
+12.00Msza Święta przy ołtarzu polowym
+
+18.00Msza Święta (online), której przewodniczy JE ks. Bp. Romuald Kamiński
 
 <!--EndFragment-->
