@@ -12,22 +12,20 @@ cover: 6-7_czerwca.png
 
 ***Jubileuz 70-lecie parafii***
 
-<!--StartFragment-->
-
 **Sobota**
 
-18.00antycypowana Msza Św.
+18.00 antycypowana Msza Św.
 
 **Niedziela**
 
-7.00 Msz Święta
+7.00 Msza Święta
 
 9.00 Msza Święta
 
-10.30Msza Święta (online)
+10.30 Msza Święta (transmitowana)
 
-12.00Msza Święta przy ołtarzu polowym
+12.00 Msza Święta przy ołtarzu polowym
 
-18.00Msza Święta (online), której przewodniczy JE ks. Bp. Romuald Kamiński
+18.00 Msza Święta (transmitowana), której przewodniczy JE ks. bp Romuald Kamiński
 
 <!--EndFragment-->
