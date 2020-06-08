@@ -6,7 +6,7 @@ title: Intencje mszalne
 
 <h3 style="text-align:center;">X Niedziela Zwykła</h3>
 
-<h3 style="text-align:center;">\\*\\*Najświętszej Trójcy 07.06. 2020</h3>
+<h3 style="text-align:center;">Najświętszej Trójcy 07.06. 2020</h3>
 
 **X NIEDZIELA ZWYKŁA, 7 czerwca, TRÓJCY ŚWIĘTEJ, *uroczystość***
 
