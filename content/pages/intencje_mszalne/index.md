@@ -6,7 +6,7 @@ title: Intencje mszalne
 
 <h3 style="text-align:center;">X Niedziela Zwykła</h3>
 
-<h3 style="text-align:center;">\*\*Najświętszej Trójcy 07.06. 2020</h3>\*\*
+<h3 style="text-align:center;">\\*\\*Najświętszej Trójcy 07.06. 2020</h3>
 
 **X NIEDZIELA ZWYKŁA, 7 czerwca, TRÓJCY ŚWIĘTEJ, *uroczystość***
 
@@ -90,17 +90,15 @@ title: Intencje mszalne
 * * za Martę i Wiktora DZIEŁAKOWSKICH
 * * za Ryszarda WIERZBICKIEGO i za zmarłych z rodziny GOŁASZEWSKICH i WIERZBICKICH
 
-10.30: za parafian
+    10.30: za parafian
 
-12.00: w rocznicę urodzin Antosia i Józia MOŚCICKICH
+    12.00: w rocznicę urodzin Antosia i Józia MOŚCICKICH
 
-15.00 – 17.50 Adoracja Najświętszego Sakramentu
+    15.00 – 17.50 Adoracja Najświętszego Sakramentu
 
-18.00: + w 7 rocznicę śmierci oraz w dniu imienin Antoniego MIAŁKOWSKIEGO
+    18.00: + w 7 rocznicę śmierci oraz w dniu imienin Antoniego MIAŁKOWSKIEGO
 
 <!--EndFragment-->
-
-
 
 <h3 style="text-align:center;">Niedziela Zesłania Ducha Świętego</h3>
 
