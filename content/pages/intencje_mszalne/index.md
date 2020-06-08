@@ -50,7 +50,7 @@ title: Intencje mszalne
 
 **Czwartek, 11 czerwca, Najświętszego Ciała i Krwi Chrystusa, *uroczystość***
 
-7.00:
+7.00: + w intencji zmarłych z rodziny DRZEWIECKICH, DĘBNIAKÓW i ROZWADOWSKICH
 
 9.00: + za Jerzego WITKOWSKIEGO w 9 rocznicę śmierci
 
