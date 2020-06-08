@@ -6,9 +6,7 @@ title: Intencje mszalne
 
 <h3 style="text-align:center;">X Niedziela Zwykła</h3>
 
-<h3 style="text-align:center;">**Najświętszej Trójcy 07.06. 2020</h3>**
-
-
+<h3 style="text-align:center;">\*\*Najświętszej Trójcy 07.06. 2020</h3>\*\*
 
 **X NIEDZIELA ZWYKŁA, 7 czerwca, TRÓJCY ŚWIĘTEJ, *uroczystość***
 
@@ -26,8 +24,6 @@ title: Intencje mszalne
 
 18.00: + za Helenę i Stanisława MOMOT
 
-
-
 **Poniedziałek, 8 czerwca, św. Jadwigi Królowej, *wspomnienie***
 
 7.00: + za Sabinę NOWOTKO miesiąc po pogrzebie
@@ -35,8 +31,6 @@ title: Intencje mszalne
 18.00: + za Wilhelma RZESZUTKO miesiąc po pogrzebie
 
 18.00: + za Krystynę Marię NAWŁOKĘ-BIELECKĄ miesiąc po pogrzebie
-
-
 
 **Wtorek, 9 czerwca**
 
@@ -46,8 +40,6 @@ title: Intencje mszalne
 
 18.00: + za Stanisława FAJFERA oraz za dusze w czyśćcu cierpiące
 
-
-
 **Środa, 10 czerwca**
 
 7.00:
@@ -55,8 +47,6 @@ title: Intencje mszalne
 18.00: + za Jerzego ZYCHALAKA 12 lat po śmierci
 
 18.00: + w 10 rocznicę śmierci Leokadii oraz za Klemensa, Henryka, Andrzeja, Michalinę MAJEWSKICH
-
-
 
 **Czwartek, 11 czerwca, Najświętszego Ciała i Krwi Chrystusa, *uroczystość***
 
@@ -70,15 +60,11 @@ title: Intencje mszalne
 
 18.00: + za Stanisławę, Jana HABER i za całą rodzinę HABER oraz za zmarłych z rodziny GRABSKICH i BANACH
 
-
-
 **Piątek, 12 czerwca**
 
 7.00: + za Edwarda SOBIECKIEGO
 
 18.00: w 10 rocznicę ślubu Ewy i Kamila
-
-
 
 **Sobota, 13 czerwca, św. Antoniego z Padwy, prezbitera i doktora Kościoła, *wspomnienie***
 
@@ -90,21 +76,19 @@ title: Intencje mszalne
 
 18.00: + za Reginę i Bolesława JURKIEWICZ
 
-
-
 **NIEDZIELA ZWYKŁA, 14 czerwca**
 
 7.00: o Boże miłosierdzie dla Krzysztofa i Elżbiety
 
 9.00: intencja zbiorowa
 
-* + w 1 rocznicę śmierci Krzysztofa DURCZAK
-* + za Mariannę, Józefa, Stanisława, Janusza WAWRZYNIECKICH
-* + za Władysława JAGIEŁŁO
-* + zaDanutę ROSA
-* + za Mariannę i Stanisława MIKOS
-* + za Martę i Wiktora DZIEŁAKOWSKICH
-* + za Ryszarda WIERZBICKIEGO i za zmarłych z rodziny GOŁASZEWSKICH i WIERZBICKICH
+* * w 1 rocznicę śmierci Krzysztofa DURCZAK
+* * za Mariannę, Józefa, Stanisława, Janusza WAWRZYNIECKICH
+* * za Władysława JAGIEŁŁO
+* * zaDanutę ROSA
+* * za Mariannę i Stanisława MIKOS
+* * za Martę i Wiktora DZIEŁAKOWSKICH
+* * za Ryszarda WIERZBICKIEGO i za zmarłych z rodziny GOŁASZEWSKICH i WIERZBICKICH
 
 10.30: za parafian
 
