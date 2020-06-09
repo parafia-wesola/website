@@ -8,11 +8,13 @@ cover: boze_cialo.png
 ---
 <!--StartFragment-->
 
-W tym roku Boże Ciało świętować będziemy inaczej, gromadząc się w czterech miejscach a nie idąc w klasycznej procesji. Jeśli jako Wspólnota parafialna chcemy dać światu świadectwo wiary, potrzebujemy osób, które przygotują cztery proste ołtarze. Najlepiej żeby każdy ołtarz był w innej dzielnicy Wesołej na terenie naszej parafii.\
-Chcecie, żeby Jezus zatrzymał się koło Waszego domu? Możecie zbudować dla Niego ołtarz? Zgłoście się do nas!![](https://static.xx.fbcdn.net/images/emoji.php/v9/t8a/3/16/1f642.png)
+Kilka dni temu pojawił się komunikat naszego biskupa, żeby Uroczystość Bożego Ciała świętować tylko na terenie przykościelnym ([https://diecezja.waw.pl/​7042](https://diecezja.waw.pl/7042?fbclid=IwAR0qf2vzo5gPOu2W0ZfXU0Se9cUxvqoi7Os8_SywevWrQEEkYTRSxACooVI)). Zgodnie z jego decyzją proponujemy, aby na koniec każdej Mszy Św. modlić się przed Najświętszym Sakramentem. Po Mszy o 12.00 wyjdziemy do ołtarza polowego, gdzie poprowadzimy dłuższą modlitwę. Po niej proponujemy Adorację Najświętszego Sakramentu w otwartym kościele do 22.00. Zapisywać się będzie można na tablicy w zakrystii lub pod linkiem: [zapisy na Adorację](https://docs.google.com/spreadsheets/d/1MqFbbOQtWMG2CTVTDkqn4KbcTl5gPQg8lz2peOMG-J4/edit?ts=5ea99d0f&fbclid=IwAR0n3JM9YO6RE5xLOWYHtV7IAUV-Whg-KMo6Tvo_HkiGoEa3lnU_ec1CZzE#gid=1546521247)\
+Tego dnia spędźmy czas z Tym, który daje nam Swoje Ciało..
+
+<!--EndFragment-->
+
+
 
 [](https://www.facebook.com/ufi/reaction/profile/browser/?ft_ent_identifier=ZmVlZGJhY2s6MTAyMTk3NDA5ODUwOTMyMTY%3D&av=444169575744240)
-
-
 
 <!--EndFragment-->
