@@ -7,7 +7,7 @@ news:
   - size: large
     title: Boże Ciało
   - size: large
-    title: Jubileusz Parafii
+    title: Jubileusz 70-lecia Parafii
   - size: medium
     title: "otwarty kościół "
   - size: medium
