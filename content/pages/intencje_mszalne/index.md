@@ -58,7 +58,7 @@ title: Intencje mszalne
 
 12.00: w 1 urodziny Stasia z prośbą o potrzebne łaski na całe życie
 
-18.00: + za Stanisławę, Jana HABER i za całą rodzinę HABER oraz za zmarłych z rodziny GRABSKICH i BANACH
+18.00: + za Stanisławę, Jana HABER i za całą rodzinę HABER oraz za zmarłych z rodziny GRABSKICH i BARAN
 
 **Piątek, 12 czerwca**
 
@@ -90,13 +90,13 @@ title: Intencje mszalne
 * * za Martę i Wiktora DZIEŁAKOWSKICH
 * * za Ryszarda WIERZBICKIEGO i za zmarłych z rodziny GOŁASZEWSKICH i WIERZBICKICH
 
-10.30: za parafian
+    10.30: za parafian
 
-12.00: w rocznicę urodzin Antosia i Józia MOŚCICKICH
+    12.00: w rocznicę urodzin Antosia i Józia MOŚCICKICH
 
-15.00 – 17.50 Adoracja Najświętszego Sakramentu
+    15.00 – 17.50 Adoracja Najświętszego Sakramentu
 
-18.00: + w 7 rocznicę śmierci oraz w dniu imienin Antoniego MIAŁKOWSKIEGO
+    18.00: + w 7 rocznicę śmierci oraz w dniu imienin Antoniego MIAŁKOWSKIEGO
 
 <!--EndFragment-->
 
