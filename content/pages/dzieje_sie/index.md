@@ -10,4 +10,6 @@ news:
     title: "otwarty kościół "
   - size: medium
     title: Strona w rozbudowie
+  - size: large
+    title: Jubileusz Parafii
 ---
