@@ -6,10 +6,10 @@ news:
     title: list do parafian 30 maja
   - size: large
     title: Boże Ciało
+  - size: large
+    title: Jubileusz Parafii
   - size: medium
     title: "otwarty kościół "
   - size: medium
     title: Strona w rozbudowie
-  - size: large
-    title: Jubileusz Parafii
 ---
