@@ -10,5 +10,6 @@ cover: 140_140p.jpg
 Prezentujemy więc cykl wspomnień o naszej parafii w formie wywiadów, z których w niedługiej przyszłości powstanie film o jej historii. 
 
 * [wywiad z Grzegorzem Łęczyckim](https://www.youtube.com/watch?v=ezYKclMEknQ&t)
+* [wywiad z Katarzyną Zalewską](https://www.youtube.com/watch?v=npRWtXXHXPI&t)
 
 Rozprowadzamy też dalej gadżety, wyprodukowane specjalne na okazję jubileuszu: torby, maseczki, medale, podstawki na świeczki, naklejki. Zebrane pieniądze przeznaczymy na zakup sprzętu nagłośnieniowego do kościoła.
