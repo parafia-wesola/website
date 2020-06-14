@@ -8,14 +8,15 @@ title: Intencje mszalne
 
 7.00: o Boże miłosierdzie dla Krzysztofa i Elżbiety
 
-9.00: intencja zbiorowa •	+ w 1 rocznicę śmierci Krzysztofa DURCZAK
-•	+ za Mariannę, Józefa, Stanisława, Janusza WAWRZYNIECKICH
-•	+ za Władysława JAGIEŁŁO
-•	+ za  Danutę ROSA
-•	+ za Mariannę i Stanisława MIKOS
-•	+ za Martę i Wiktora DZIEŁAKOWSKICH
-•	+ za Ryszarda WIERZBICKIEGO i za zmarłych z rodziny GOŁASZEWSKICH i WIERZBICKICH
-•	+ za Władysława ORLIKOWSKIEGO
+9.00: intencja zbiorowa 
+
+* + w 1 rocznicę śmierci Krzysztofa DURCZAK+ za Mariannę, Józefa, Stanisława, Janusza WAWRZYNIECKICH
+* + za Władysława JAGIEŁŁO
+* + za  Danutę ROSA
+* + za Mariannę i Stanisława MIKOS
+* + za Martę i Wiktora DZIEŁAKOWSKICH
+* + za Ryszarda WIERZBICKIEGO i za zmarłych z rodziny GOŁASZEWSKICH i WIERZBICKICH
+* + za Władysława ORLIKOWSKIEGO
 
 10.30: za parafian
 
