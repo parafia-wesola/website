@@ -2,6 +2,88 @@
 type: text
 title: Intencje mszalne
 ---
+<h3 style="text-align:center;">XI Niedziela Zwykła 07.06. 2020</h3>
+
+**XI NIEDZIELA ZWYKŁA, 14 czerwca** 
+
+7.00: o Boże miłosierdzie dla Krzysztofa i Elżbiety
+
+9.00: intencja zbiorowa
+•	+ w 1 rocznicę śmierci Krzysztofa DURCZAK
+•	+ za Mariannę, Józefa, Stanisława, Janusza WAWRZYNIECKICH
+•	+ za Władysława JAGIEŁŁO
+•	+ za  Danutę ROSA
+•	+ za Mariannę i Stanisława MIKOS
+•	+ za Martę i Wiktora DZIEŁAKOWSKICH
+•	+ za Ryszarda WIERZBICKIEGO i za zmarłych z rodziny GOŁASZEWSKICH i WIERZBICKICH
+•	+ za Władysława ORLIKOWSKIEGO
+
+10.30: za parafian
+
+12.00: w rocznicę urodzin Antosia i Józia MOŚCICKICH
+
+15.00 – 17.50 Adoracja Najświętszego Sakramentu
+
+18.00: + w 2 rocznicę śmierci oraz w dniu imienin Antoniego MIAŁKOWSKIEGO
+
+**Poniedziałek, 15 czerwca**   
+
+7.00: w intencji Panu Bogu wiadomej
+
+18.00: + za Wojciecha MODLIŃSKIEGO miesiąc po pogrzebie 
+
+**Wtorek, 16 czerwca** 
+
+7.00:  + za Alinę ŻYŁA
+
+18.00: + o radość życia wiecznego w Królestwie Bożym dla zmarłych: Jadwigi LACHOWSKIEJ w 20 rocznicę 	śmierci, Władysława LACHOWSKIEGO z okazji imienin, Andrzeja GALIŃSKIEGO w 5 rocznicę śmierci, zmarłych rodzin LACHOWSKICH, RYDZEWSKICH, GALIŃSKICH
+
+**Środa, 17 czerwca, Św. Brata Alberta Chmielowskiego, zakonnika, wspomnienie** 
+
+7.00: 
+
+18.00: + za Krystynę KARWOWSKĄ w 1 rocznicę śmierci i za Henryka KARWOWSKIEGO w 2 rocznicę 	śmierci
+
+**Czwartek, 18 czerwca** 
+
+7.00: do Najśw. Serca Jezusa w 60 rocznicę ślubu Teresy i Stanisława, oraz o wieczny spokój dla męża Stanisława w  13 rocznicę śmierci i za zmarłych rodziców i teściów
+
+18.00: + za duszę Oskara w 10 rocznicę odejścia do Pana oraz za jego rodziców dla mamy Anny, taty Mariusza 	i Dominiki, Damiana o Boże błogosławieństwo oraz za całą rodzinę RAJSKICH
+
+18.00: w 2 rocznicę ślubu Marii i Michała MALISZEWSKICH
+
+**Piątek, 19 czerwca, Najświętszego Serca Pana Jezusa, uroczystość**  
+
+7.00: za Karolinę i Wojtka w 5 rocznicę ślubu
+
+18.00: za małżeństwa w kryzysie
+
+**Sobota, 20 czerwca, Niepokalanego Serca Najświętszej Maryi Panny, wspomnienie** 
+
+7.00: + za śp. Bronisława LIPIŃSKIEGO w 13 rocznicę śmierci i za jego żonę Anastazję i ich rodziców 
+
+14.00: I Komunia św. Zosi Pacheckiej, o błogosławieństwo Boże dla Magdy i Tomka w 22 rocznicę ślubu 
+
+15.00 – 17.50 Adoracja Najświętszego Sakramentu
+
+18.00: + za Jana SABAKA oraz za dusze w czyśćcu cierpiące
+
+**XII NIEDZIELA ZWYKŁA, 21 czerwca** 
+
+7.00: za parafian
+
+9.00: + za Jana GOŁĘBIEWSKIEGO, Jana ZAGÓRSKIEGO, Janinę i Jana KASZOWSKICH oraz za dusze w czyśćcu cierpiące
+
+10.30: + za Tadeusza BAKUNA w rocznicę śmierci
+
+10.30: 25-lecie kapłaństwa o. Andrzeja DUKA
+
+12.00: w 1 rocznicę ślubu Kasi i Macieja PODGÓRSKICH
+
+15.00 – 17.50 Adoracja Najświętszego Sakramentu
+
+18.00: + za Stanisława ZWIERZYŃSKIEGO w 4 rocznicę śmierci i za Hannę ZWIERZYŃSKĄ DRIESEN w 13 rocznicę śmierci
+
 <!--StartFragment-->
 
 <h3 style="text-align:center;">X Niedziela Zwykła</h3>
