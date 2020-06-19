@@ -10,21 +10,21 @@ title: Intencje mszalne
 
 9.00: intencja zbiorowa 
 
-* + w 1 rocznicę śmierci Krzysztofa DURCZAK+ za Mariannę, Józefa, Stanisława, Janusza WAWRZYNIECKICH
-* + za Władysława JAGIEŁŁO
-* + za  Danutę ROSA
-* + za Mariannę i Stanisława MIKOS
-* + za Martę i Wiktora DZIEŁAKOWSKICH
-* + za Ryszarda WIERZBICKIEGO i za zmarłych z rodziny GOŁASZEWSKICH i WIERZBICKICH
-* + za Władysława ORLIKOWSKIEGO
+* * w 1 rocznicę śmierci Krzysztofa DURCZAK+ za Mariannę, Józefa, Stanisława, Janusza WAWRZYNIECKICH
+* * za Władysława JAGIEŁŁO
+* * za  Danutę ROSA
+* * za Mariannę i Stanisława MIKOS
+* * za Martę i Wiktora DZIEŁAKOWSKICH
+* * za Ryszarda WIERZBICKIEGO i za zmarłych z rodziny GOŁASZEWSKICH i WIERZBICKICH
+* * za Władysława ORLIKOWSKIEGO
 
-10.30: za parafian
+    10.30: za parafian
 
-12.00: w rocznicę urodzin Antosia i Józia MOŚCICKICH
+    12.00: w rocznicę urodzin Antosia i Józia MOŚCICKICH
 
-15.00 – 17.50 Adoracja Najświętszego Sakramentu
+    15.00 – 17.50 Adoracja Najświętszego Sakramentu
 
-18.00: + w 2 rocznicę śmierci oraz w dniu imienin Antoniego MIAŁKOWSKIEGO
+    18.00: + w 2 rocznicę śmierci oraz w dniu imienin Antoniego MIAŁKOWSKIEGO
 
 **Poniedziałek, 15 czerwca**   
 
@@ -62,7 +62,7 @@ title: Intencje mszalne
 
 7.00: + za śp. Bronisława LIPIŃSKIEGO w 13 rocznicę śmierci i za jego żonę Anastazję i ich rodziców 
 
-14.00: I Komunia św. Zosi Pacheckiej, o błogosławieństwo Boże dla Magdy i Tomka w 22 rocznicę ślubu 
+12.00: I Komunia św. Zosi Pacheckiej, o błogosławieństwo Boże dla Magdy i Tomka w 22 rocznicę ślubu 
 
 15.00 – 17.50 Adoracja Najświętszego Sakramentu
 
