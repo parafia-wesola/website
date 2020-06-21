@@ -83,28 +83,26 @@ w 13 rocznicę śmierci
 10.30: intencja zbiorowa
 
 * +za Wisława ŚMIGIELSKIEGO
-* + za Eugeniusza WOŹNIAK w 30 rocznicę śmierci
-* + za Zenona i Janinę GÓJSKICH
-* + za Jana i Czesławę OLSZEWSKICH oraz za Piotra i Czesławę KIELCZYK
-* + za Annę i Władysława OSOBIECKICH
-* + za Witolda, Stefana, Bogusława KARASIŃSKICH
-* + za Janinę KRAWCZYK
-* + za Wiesławę DUSZYŃSKĄ oraz za Adelę i Mariana DYBOWSKICH
-* + za Władysława ORLIKOWSKIEGO
-* + za Stanisława FAJFER i za dusze w czyśćcu
-* + za Wojciecha HERDE
+* za Eugeniusza WOŹNIAK w 30 rocznicę śmierci
+* za Zenona i Janinę GÓJSKICH
+* za Jana i Czesławę OLSZEWSKICH oraz za Piotra i Czesławę KIELCZYK
+* za Annę i Władysława OSOBIECKICH
+* za Witolda, Stefana, Bogusława KARASIŃSKICH
+* za Janinę KRAWCZYK
+* za Wiesławę DUSZYŃSKĄ oraz za Adelę i Mariana DYBOWSKICH
+* za Władysława ORLIKOWSKIEGO
+* za Stanisława FAJFER i za dusze w czyśćcu
+* za Wojciecha HERDE
 
-12.00: z okazji 14 rocznicy ślubu Jolanty i Macieja MOŚCICKICH
+  12.00: z okazji 14 rocznicy ślubu Jolanty i Macieja MOŚCICKICH
 
-15.00 – 17.50 Adoracja Najświętszego Sakramentu
+  15.00 – 17.50 Adoracja Najświętszego Sakramentu
 
-18.00: + za Roberta oraz za Janinę i Zdzisława WIERZBOWSKICH
+  18.00: + za Roberta oraz za Janinę i Zdzisława WIERZBOWSKICH
 
 <!--EndFragment-->
 
 <h3 style="text-align:center;">XI Niedziela Zwykła 14.06. 2020</h3>
-
-
 
 **XI NIEDZIELA ZWYKŁA, 14 czerwca** 
 
