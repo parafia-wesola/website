@@ -2,6 +2,106 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+<h3 style="text-align:center;">XII Niedziela Zwykła</h3>
+
+<h3 style="text-align:center;">21.06. 2020</h3>
+
+**XII NIEDZIELA ZWYKŁA, 21 czerwca**
+
+7.00: za parafian
+
+9.00: + za Jana GOŁĘBIEWSKIEGO, Jana ZAGÓRSKIEGO, Janinę i Jana KASZOWSKICH oraz za dusze\
+w czyśćcu cierpiące
+
+10.30: + za Tadeusza BAKUNA w rocznicę śmierci
+
+10.30: 25-lecie kapłaństwa o. Andrzeja DUKA
+
+12.00: w 1 rocznicę ślubu Kasi i Macieja PODGÓRSKICH
+
+15.00 – 17.50 Adoracja Najświętszego Sakramentu
+
+18.00: + za Stanisława ZWIERZYŃSKIEGO w 4 rocznicę śmierci i za Hannę ZWIERZYŃSKĄ DRIESEN\
+w 13 rocznicę śmierci
+
+**Poniedziałek, 22 czerwca**
+
+7.00: w intencji Piotra o łaskę darów Ducha Świętego dla niego i dla jego rodziny
+
+18.00: + za dusze Stefanii w 6 rocznicę śmierci oraz za Stanisława i Zofię i wszystkich zmarłych z rodziny SZYMAŃCZAK
+
+18.00: o pomoc w podjęciu dobrych decyzji
+
+**Wtorek, 23 czerwca**
+
+7.00: + za Wandę, Janinę, Władysławę, Wiesława i Pawła ŚMIGIELSKICH
+
+18.00: + za Marysię MĄDRY
+
+18.00: + za Wiktora KOZIOŁ w dzień ojca
+
+**Środa, 24 czerwca, Narodzenie Jana Chrzciciela, *uroczystość***
+
+7.00: + za śp. Jana GRYZ w dniu imienin
+
+18.00: + za Jana MOSTOWSKIEGO oraz za Jana i Janinę LIPERT i za zmarłych Janów z tej rodziny
+
+18.00: + za Janinę, Jana, Franciszka, Tomasza, Romana BANKIEWICZ
+
+**Czwartek, 25 czerwca**
+
+7.00: podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością miłości miłosiernej we wszystkich rodzinach
+
+18.00: + za Halinę (w 10 rocznicę śmierci) i za Mariana (w 27 rocznicę śmierci) WASILUK
+
+18.00: + za Władysława JAGIEŁŁO miesiąc po pogrzebie
+
+**Piątek, 26 czerwca** 
+
+7.00: w intencji Mirosława w dniu jego urodzin za niego i jego rodzinę
+
+18.00: + za Jana ŚLEDZIEWSKIEGO, Jana BEREDĘ i Jana MIŚKO
+
+18.00: + za Władysławę i Władysława KUŁA oraz Marię KONUCHOWSKĄ
+
+**Sobota, 27 czerwca**
+
+7.00: za Franka w jego 18 urodziny o potrzebne łaski
+
+15.00 – 17.50 Adoracja Najświętszego Sakramentu
+
+18.00: + za Kamila RAK w 9 rocznicę śmierci
+
+**XIII NIEDZIELA ZWYKŁA, 28 czerwca**
+
+7.00: + za zmarłych z rodziny JAKONUK, SAMOCUK, NOWIKOW, WASZKIEWICZ
+
+9.00: + za Janinę, Jadwigę, Kazimierza, Czesława i zmarłych z rodziny JAWOROWSKICH i JACZEWSKICH
+
+10.30: intencja zbiorowa
+
+* +za Wisława ŚMIGIELSKIEGO
+* + za Eugeniusza WOŹNIAK w 30 rocznicę śmierci
+* + za Zenona i Janinę GÓJSKICH
+* + za Jana i Czesławę OLSZEWSKICH oraz za Piotra i Czesławę KIELCZYK
+* + za Annę i Władysława OSOBIECKICH
+* + za Witolda, Stefana, Bogusława KARASIŃSKICH
+* + za Janinę KRAWCZYK
+* + za Wiesławę DUSZYŃSKĄ oraz za Adelę i Mariana DYBOWSKICH
+* + za Władysława ORLIKOWSKIEGO
+* + za Stanisława FAJFER i za dusze w czyśćcu
+* + za Wojciecha HERDE
+
+12.00: z okazji 14 rocznicy ślubu Jolanty i Macieja MOŚCICKICH
+
+15.00 – 17.50 Adoracja Najświętszego Sakramentu
+
+18.00: + za Roberta oraz za Janinę i Zdzisława WIERZBOWSKICH
+
+<!--EndFragment-->
+
 <h3 style="text-align:center;">XI Niedziela Zwykła 14.06. 2020</h3>
 
 **XI NIEDZIELA ZWYKŁA, 14 czerwca** 
