@@ -104,6 +104,8 @@ w 13 rocznicę śmierci
 
 <h3 style="text-align:center;">XI Niedziela Zwykła 14.06. 2020</h3>
 
+
+
 **XI NIEDZIELA ZWYKŁA, 14 czerwca** 
 
 7.00: o Boże miłosierdzie dla Krzysztofa i Elżbiety
