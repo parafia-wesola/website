@@ -13,5 +13,6 @@ Prezentujemy więc cykl wspomnień o naszej parafii w formie wywiadów, z który
 * [wywiad z Katarzyną Zalewską](https://www.youtube.com/watch?v=npRWtXXHXPI&t)
 * [świadectwo Marek Batycki i Michał Marciniuk](https://www.youtube.com/watch?v=04q1eOObdTc)
 * [wywiad z Izabelą Buczyńską](https://www.youtube.com/watch?v=UuiFlqJeSjk&t)
+* [świadectwo Luizy Cybulskiej i Piotra Dawidowicza](https://www.youtube.com/watch?v=vgVCrjOsWF4)
 
 Rozprowadzamy też dalej gadżety, wyprodukowane specjalne na okazję jubileuszu: torby, maseczki, medale, podstawki na świeczki, naklejki. Zebrane pieniądze przeznaczymy na zakup sprzętu nagłośnieniowego do kościoła.
