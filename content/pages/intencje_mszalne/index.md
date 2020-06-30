@@ -4,9 +4,8 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
-**28.06.2020**
 
-**XIII NIEDZIELA ZWYKŁA, 28 czerwca**
+#### XIII NIEDZIELA ZWYKŁA, 28 czerwca
 
 * 7.00: + za zmarłych z rodziny JAKONUK, SAMOCUK, NOWIKOW, WASZKIEWICZ
 * 9.00: + za Janinę, Jadwigę, Kazimierza, Czesława i zmarłych z rodziny JAWOROWSKICH i JACZEWSKICH
@@ -15,14 +14,14 @@ title: Intencje mszalne
   * ✝za Wisława ŚMIEGIELSKIEGO
   * ✝za Eugeniusza WOŹNIAK w 30 rocznicę śmierci
   * ✝za Zenona i Janinę GÓJSKICH
-  * * za Jana i Czesławę OLSZEWSKICH oraz za Piotra i Czesławę KIELCZYK
-  * * za Annę i Władysława OSOBIECKICH
-  * * za Witolda, Stefana, Bogusława KARASIŃSKICH
-  * * za Janinę KRAWCZYK
-  * * za Wiesławę DUSZYŃSKĄ oraz za Adelę i Mariana DYBOWSKICH
-  * * za Władysława ORLIKOWSKIEO
-  * * za Stanisława FAJFER i za dusze w czyśćcu
-  * * za Wojciecha HERDE
+  * ✝za Jana i Czesławę OLSZEWSKICH oraz za Piotra i Czesławę KIELCZYK
+  * ✝za Annę i Władysława OSOBIECKICH
+  * ✝za Witolda, Stefana, Bogusława KARASIŃSKICH
+  * ✝za Janinę KRAWCZYK
+  * ✝za Wiesławę DUSZYŃSKĄ oraz za Adelę i Mariana DYBOWSKICH
+  * ✝za Władysława ORLIKOWSKIEO
+  * ✝za Stanisława FAJFER i za dusze w czyśćcu
+  * ✝za Wojciecha HERDE
 * 12.00: z okazji 14 rocznicy ślubu Jolanty i Macieja MOŚCICKICH
 * 15.00 – 17.50 Adoracja Najświętszego Sakramentu
 
@@ -32,55 +31,55 @@ title: Intencje mszalne
 
 **Poniedziałek, 29 czerwca, Świętych Apostołów Piotra i Pawła, *uroczystość***
 
-7.00: + za Stanisławę i Władysława PIOTRAK i za zmarłych z rodziny PIOTRAK i SEKULAR
+* 7.00: + za Stanisławę i Władysława PIOTRAK i za zmarłych z rodziny PIOTRAK i SEKULAR
 
-18.00: + za Tadeusza i Apolonię
+* 18.00: + za Tadeusza i Apolonię
 
-18.00: w intencji wnuka Pawła, w dniu jego imienin, dziękczynna za opiekę Bożą w jego studiach, z prośbą o światło Ducha Świętego w dalszym życiu
+* 18.00: w intencji wnuka Pawła, w dniu jego imienin, dziękczynna za opiekę Bożą w jego studiach, z prośbą o światło Ducha Świętego w dalszym życiu
 
 **Wtorek, 30 czerwca**
 
-7.00: + za Danutę ROSA miesiąc po pogrzebie
+* 7.00: + za Danutę ROSA miesiąc po pogrzebie
 
-18.00: w dniu imienin synowej Lucyny dziękczynna za pomoc Bożą przy zakupie domu. Za dar zdrowia i miłości w rodzinie, z prośbą o dalsze błogosławieństwo i opiekę Bożą
+* 18.00: w dniu imienin synowej Lucyny dziękczynna za pomoc Bożą przy zakupie domu. Za dar zdrowia i miłości w rodzinie, z prośbą o dalsze błogosławieństwo i opiekę Bożą
 
-18.00: + za Eugeniusza, Jana, Janinę i Zofię MROCZEK
+* 18.00: + za Eugeniusza, Jana, Janinę i Zofię MROCZEK
 
 **Środa, 1 lipca**
 
-7.00: + za Janinę SZUBA, Stefana, Stanisława i Jana
+* 7.00: + za Janinę SZUBA, Stefana, Stanisława i Jana
 
-18.00: + za Zbigniewa FUCHS w 9 rocznicę śmierci i za zmarłych z rodziny FUCHS i STAŃCZAK
+* 18.00: + za Zbigniewa FUCHS w 9 rocznicę śmierci i za zmarłych z rodziny FUCHS i STAŃCZAK
 
 **Czwartek, 2 lipca**
 
-7.00: o dary Ducha Św. mądrości i światła do podjęcia dobrej decyzji
+* 7.00: o dary Ducha Św. mądrości i światła do podjęcia dobrej decyzji
 
-18.00: z prośbą o liczne, charyzmatyczne, święte powołania kapłańskie, zakonne i misyjne w naszej ojczyźnie i na całym świecie oraz o odnowę serc w naszej parafii.
+* 18.00: z prośbą o liczne, charyzmatyczne, święte powołania kapłańskie, zakonne i misyjne w naszej ojczyźnie i na całym świecie oraz o odnowę serc w naszej parafii.
 
 **Piątek, 3 lipca, św. Tomasza, Apostoła, *święto***
 
-7.00: + za śp. Andrzeja BAKIERA w 8 rocznicę śmierci
+* 7.00: + za śp. Andrzeja BAKIERA w 8 rocznicę śmierci
 
-18.00: + za duszę Oskara w 10 rocznicę odejścia do Pana oraz za jego rodziców dla mamy Anny, taty Mariusza i Dominiki i Damiana o Boże błogosławieństwo oraz za całą rodzinę RAJSKICH
+* 18.00: + za duszę Oskara w 10 rocznicę odejścia do Pana oraz za jego rodziców dla mamy Anny, taty Mariusza i Dominiki i Damiana o Boże błogosławieństwo oraz za całą rodzinę RAJSKICH
 
-18.00: w 10 rocznicę ślubu Ireny i Grzegorza dziękczynna za udzielone łaski szczególnie za dzieci Polę i Stasia z prośbą o dalsze błogosławieństwo
+* 18.00: w 10 rocznicę ślubu Ireny i Grzegorza dziękczynna za udzielone łaski szczególnie za dzieci Polę i Stasia z prośbą o dalsze błogosławieństwo
 
 **Sobota, 4 lipca**
 
-7.00:
+* 7.00:
 
-18.00: w intencji KŻR
+* 18.00: w intencji KŻR
 
 **XIV NIEDZIELA ZWYKŁA, 5 lipca**
 
-8.00: za parafian
+* 8.00: za parafian
 
-10.00: błagalno-dziękczynna w 3 rocznicę ślubu Karoliny i Jakuba KUTNIAKÓW oraz za ich syna ANTONIEGO
+* 10.00: błagalno-dziękczynna w 3 rocznicę ślubu Karoliny i Jakuba KUTNIAKÓW oraz za ich syna ANTONIEGO
 
-12.00: + za Alfreda w 4 rocznicę śmierci
+* 12.00: + za Alfreda w 4 rocznicę śmierci
 
-18.00: + za dusze Haliny i Wacława RYCHLIK oraz Grzegorza SOBIECH
+* 18.00: + za dusze Haliny i Wacława RYCHLIK oraz Grzegorza SOBIECH
 
 <!--EndFragment-->
 
