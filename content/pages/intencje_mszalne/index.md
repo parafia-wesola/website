@@ -4,37 +4,35 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
-**XIII Niedziela Zwykła**
-
 **28.06.2020**
 
 **XIII NIEDZIELA ZWYKŁA, 28 czerwca**
 
-7.00: + za zmarłych z rodziny JAKONUK, SAMOCUK, NOWIKOW, WASZKIEWICZ
+* 7.00: + za zmarłych z rodziny JAKONUK, SAMOCUK, NOWIKOW, WASZKIEWICZ
 
-9.00: + za Janinę, Jadwigę, Kazimierza, Czesława i zmarłych z rodziny JAWOROWSKICH i JACZEWSKICH
+* 9.00: + za Janinę, Jadwigę, Kazimierza, Czesława i zmarłych z rodziny JAWOROWSKICH i JACZEWSKICH
 
-10.30: intencja zbiorowa
+* 10.30: intencja zbiorowa
 
-* +za Wisława ŚMIEGIELSKIEGO
-* + za Eugeniusza WOŹNIAK w 30 rocznicę śmierci
-* + zaZenona i Janinę GÓJSKICH
-* + za Jana i Czesławę OLSZEWSKICH oraz za Piotra i Czesławę KIELCZYK
-* + za Annę i Władysława OSOBIECKICH
-* + za Witolda, Stefana, Bogusława KARASIŃSKICH
-* + za Janinę KRAWCZYK
-* + za Wiesławę DUSZYŃSKĄ oraz za Adelę i Mariana DYBOWSKICH
-* + za Władysława ORLIKOWSKIEO
-* + za Stanisława FAJFER i za dusze w czyśćcu
-* + za Wojciecha HERDE
+  * + za Wisława ŚMIEGIELSKIEGO
+  * + za Eugeniusza WOŹNIAK w 30 rocznicę śmierci
+  * + za Zenona i Janinę GÓJSKICH
+  * + za Jana i Czesławę OLSZEWSKICH oraz za Piotra i Czesławę KIELCZYK
+  * + za Annę i Władysława OSOBIECKICH
+  * + za Witolda, Stefana, Bogusława KARASIŃSKICH
+  * + za Janinę KRAWCZYK
+  * + za Wiesławę DUSZYŃSKĄ oraz za Adelę i Mariana DYBOWSKICH
+  * + za Władysława ORLIKOWSKIEO
+  * + za Stanisława FAJFER i za dusze w czyśćcu
+  * + za Wojciecha HERDE
 
-12.00: z okazji 14 rocznicy ślubu Jolanty i Macieja MOŚCICKICH
+* 12.00: z okazji 14 rocznicy ślubu Jolanty i Macieja MOŚCICKICH
 
-15.00 – 17.50 Adoracja Najświętszego Sakramentu
+* 15.00 – 17.50 Adoracja Najświętszego Sakramentu
 
 **Świętych Apostołów Piotra i Pawła, *uroczystość***
 
-18.00: + za Roberta oraz za Janinę i Zdzisława WIERZBOWSKICH
+* 18.00: + za Roberta oraz za Janinę i Zdzisława WIERZBOWSKICH
 
 **Poniedziałek, 29 czerwca, Świętych Apostołów Piotra i Pawła, *uroczystość***
 
