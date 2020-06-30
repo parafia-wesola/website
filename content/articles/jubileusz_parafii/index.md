@@ -2,7 +2,7 @@
 type: article
 title: Jubileusz 70-lecia Parafii
 date: 2020-06-09T20:28:51.818Z
-eventDate: ""
+eventDate: ''
 author: parafia wesoła
 cover: 140_140p.jpg
 ---
