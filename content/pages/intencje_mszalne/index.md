@@ -12,9 +12,9 @@ title: Intencje mszalne
 * 9.00: + za Janinę, Jadwigę, Kazimierza, Czesława i zmarłych z rodziny JAWOROWSKICH i JACZEWSKICH
 * 10.30: intencja zbiorowa
 
-  * * za Wisława ŚMIEGIELSKIEGO
-  * + za Eugeniusza WOŹNIAK w 30 rocznicę śmierci
-  * * za Zenona i Janinę GÓJSKICH
+  * ✝za Wisława ŚMIEGIELSKIEGO
+  * ✝za Eugeniusza WOŹNIAK w 30 rocznicę śmierci
+  * ✝za Zenona i Janinę GÓJSKICH
   * * za Jana i Czesławę OLSZEWSKICH oraz za Piotra i Czesławę KIELCZYK
   * * za Annę i Władysława OSOBIECKICH
   * * za Witolda, Stefana, Bogusława KARASIŃSKICH
