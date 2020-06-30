@@ -9,25 +9,21 @@ title: Intencje mszalne
 **XIII NIEDZIELA ZWYKŁA, 28 czerwca**
 
 * 7.00: + za zmarłych z rodziny JAKONUK, SAMOCUK, NOWIKOW, WASZKIEWICZ
-
 * 9.00: + za Janinę, Jadwigę, Kazimierza, Czesława i zmarłych z rodziny JAWOROWSKICH i JACZEWSKICH
-
 * 10.30: intencja zbiorowa
 
   * + za Wisława ŚMIEGIELSKIEGO
-  * + za Eugeniusza WOŹNIAK w 30 rocznicę śmierci
-  * + za Zenona i Janinę GÓJSKICH
-  * + za Jana i Czesławę OLSZEWSKICH oraz za Piotra i Czesławę KIELCZYK
-  * + za Annę i Władysława OSOBIECKICH
-  * + za Witolda, Stefana, Bogusława KARASIŃSKICH
-  * + za Janinę KRAWCZYK
-  * + za Wiesławę DUSZYŃSKĄ oraz za Adelę i Mariana DYBOWSKICH
-  * + za Władysława ORLIKOWSKIEO
-  * + za Stanisława FAJFER i za dusze w czyśćcu
-  * + za Wojciecha HERDE
-
+  * * za Eugeniusza WOŹNIAK w 30 rocznicę śmierci
+  * * za Zenona i Janinę GÓJSKICH
+  * * za Jana i Czesławę OLSZEWSKICH oraz za Piotra i Czesławę KIELCZYK
+  * * za Annę i Władysława OSOBIECKICH
+  * * za Witolda, Stefana, Bogusława KARASIŃSKICH
+  * * za Janinę KRAWCZYK
+  * * za Wiesławę DUSZYŃSKĄ oraz za Adelę i Mariana DYBOWSKICH
+  * * za Władysława ORLIKOWSKIEO
+  * * za Stanisława FAJFER i za dusze w czyśćcu
+  * * za Wojciecha HERDE
 * 12.00: z okazji 14 rocznicy ślubu Jolanty i Macieja MOŚCICKICH
-
 * 15.00 – 17.50 Adoracja Najświętszego Sakramentu
 
 **Świętych Apostołów Piotra i Pawła, *uroczystość***
@@ -87,8 +83,6 @@ title: Intencje mszalne
 18.00: + za dusze Haliny i Wacława RYCHLIK oraz Grzegorza SOBIECH
 
 <!--EndFragment-->
-
-
 
 #### XII NIEDZIELA ZWYKŁA, 21 czerwca
 
