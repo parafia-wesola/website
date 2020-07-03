@@ -9,7 +9,5 @@ news:
   - size: large
     title: "1, 2, 3,...Kana "
   - size: medium
-    title: "otwarty kościół "
-  - size: medium
     title: Strona w rozbudowie
 ---
