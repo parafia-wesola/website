@@ -12,7 +12,7 @@ cover: whatsapp_image_2020-06-19_at_18.34.22.jpeg
 \
 Jeżeli chcesz odkryć na nowo radość swojego związku to ta propozycja jest dla Ciebie.\
 \
-Kolejne terminy spotkań:
+terminy spotkań:
 
 * 29 Sierpnia 2020
 * 11-13 Września 2020
