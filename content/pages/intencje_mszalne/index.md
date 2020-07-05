@@ -6,87 +6,55 @@ title: Intencje mszalne
 
 **XIV NIEDZIELA ZWYKŁA, 5 lipca**
 
-- 8.00: za parafian
-
-- 10.00: błagalno-dziękczynna w 3 rocznicę ślubu Karoliny i Jakuba KUTNIAKÓW oraz za ich syna ANTONIEGO
-
-- 12.00: + za Alfreda w 4 rocznicę śmierci
-
-- 18.00: + za dusze Haliny i Wacława RYCHLIK oraz za Grzegorza SOBIECH
-
-
+* 8.00: za parafian
+* 10.00: błagalno-dziękczynna w 3 rocznicę ślubu Karoliny i Jakuba KUTNIAKÓW oraz za ich syna ANTONIEGO
+* 12.00: + za Alfreda w 4 rocznicę śmierci
+* 18.00: + za dusze Haliny i Wacława RYCHLIK oraz za Grzegorza SOBIECH
 
 **Poniedziałek, 6 lipca, Bł. Marii Teresy Ledóchowskiej, dziewicy, *wspomnienie***
 
-- 7.00: + za Anielę, Jana, Stanisława TALAREK
-
-- 18.00: + za Mariusza NIEMIRĘ w 16 rocznicę śmierci
-
-
+* 7.00: + za Anielę, Jana, Stanisława TALAREK
+* 18.00: + za Mariusza NIEMIRĘ w 16 rocznicę śmierci
 
 **Wtorek, 7 lipca**
 
-- 7.00: + za Wiesława ŚMIGIELSKIEGO miesiąc po pogrzebie
-
-- 18.00: wypominkowa
-
-
+* 7.00: + za Wiesława ŚMIGIELSKIEGO miesiąc po pogrzebie
+* 18.00: wypominkowa
 
 **Środa, 8 lipca, Św. Jana z Dukli, prezbitera, wspomnienie**
 
-- 7.00: o zdrowie dla Piotrusia
-
-- 18.00: w 60 urodziny Stanisława SUŁECKIEGO z dziękczynieniem za życie męża i taty z prośbą o dalsze błogosławieństwo
-
-
+* 7.00: o zdrowie dla Piotrusia
+* 18.00: w 60 urodziny Stanisława SUŁECKIEGO z dziękczynieniem za życie męża i taty z prośbą o dalsze błogosławieństwo
 
 **Czwartek, 9 lipca**
 
-- 7.00:
-
-- 18.00: + za Józefę, Mariana, Władysława, Annę SKUPÓW
-
-
+* 7.00:
+* 18.00: + za Józefę, Mariana, Władysława, Annę SKUPÓW
 
 **Piątek, 10 lipca**
 
-- 7.00:
-
-- 18.00: + za śp. Teresę i Czesława WIERZBOWSKICH i za ich rodziców o radość życia wiecznego
-
-
+* 7.00:
+* 18.00: + za śp. Teresę i Czesława WIERZBOWSKICH i za ich rodziców o radość życia wiecznego
 
 **Sobota, 11 lipca, Św. Benedykta, Opata, patrona Europy, *święto***
 
-- 7.00: + za śp. Stanisławę GŁUCHOWSKĄ i Zdzisława KALICKIEGO
-
-- 18.00: o opiekę Matki Bożej i o Boże miłosierdzie dla Anny
+* 7.00: + za śp. Stanisławę GŁUCHOWSKĄ i Zdzisława KALICKIEGO
+* 18.00: o opiekę Matki Bożej i o Boże miłosierdzie dla Anny
 
 **XV NIEDZIELA ZWYKŁA, 12 lipca**
 
-- 8.00: intencja zbiorowa
-
--  + za Kazimierę KWIEK w 24 rocznicę śmierci i za Wacława KWIEK w 28 rocznicę śmierci
-
--  + za Wojtka ŁEPSKIEGO
-
--  + za Jolantę IWAŃSKĄ
-
--  + za Czesławę i Jana OLSZEWSKICH oraz za Czesławę i Piotra KIELCZYK
-
--  + za Halinę ŚNITOWSKĄ
-
--  + za Bronisławę IWANEJKO
-
-- 10.00: za parafian
-
-- 12.00: + za śp. Władysławę PODLEŚNĄ
-
-- 18.00: o błogosławieństwo i drogę z Panem Bogiem dla Natalii i Marcina
+* 8.00: intencja zbiorowa\
+  *  za Kazimierę KWIEK w 24 rocznicę śmierci i za Wacława KWIEK w 28 rocznicę śmierci\
+  *  za Wojtka ŁEPSKIEGO\
+  *  za Jolantę IWAŃSKĄ\
+  *  za Czesławę i Jana OLSZEWSKICH oraz za Czesławę i Piotra KIELCZYK\
+  *  za Halinę ŚNITOWSKĄ\
+  *  za Bronisławę IWANEJKO
+* 10.00: za parafian
+* 12.00: + za śp. Władysławę PODLEŚNĄ
+* 18.00: o błogosławieństwo i drogę z Panem Bogiem dla Natalii i Marcina
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
