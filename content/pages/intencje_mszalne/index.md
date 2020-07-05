@@ -43,13 +43,19 @@ title: Intencje mszalne
 
 **XV NIEDZIELA ZWYKŁA, 12 lipca**
 
-* 8.00: intencja zbiorowa\
-  *  za Kazimierę KWIEK w 24 rocznicę śmierci i za Wacława KWIEK w 28 rocznicę śmierci\
-  *  za Wojtka ŁEPSKIEGO\
-  *  za Jolantę IWAŃSKĄ\
-  *  za Czesławę i Jana OLSZEWSKICH oraz za Czesławę i Piotra KIELCZYK\
-  *  za Halinę ŚNITOWSKĄ\
-  *  za Bronisławę IWANEJKO
+* 8.00: intencja zbiorowa
+
+  \*  za Kazimierę KWIEK w 24 rocznicę śmierci i za Wacława KWIEK w 28 rocznicę śmierci
+
+  \*  za Wojtka ŁEPSKIEGO
+
+  \*  za Jolantę IWAŃSKĄ
+
+  \*  za Czesławę i Jana OLSZEWSKICH oraz za Czesławę i Piotra KIELCZYK
+
+  \*  za Halinę ŚNITOWSKĄ
+
+  \*  za Bronisławę IWANEJKO
 * 10.00: za parafian
 * 12.00: + za śp. Władysławę PODLEŚNĄ
 * 18.00: o błogosławieństwo i drogę z Panem Bogiem dla Natalii i Marcina
