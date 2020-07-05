@@ -4,6 +4,91 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XIV NIEDZIELA ZWYKŁA, 5 lipca**
+
+- 8.00: za parafian
+
+- 10.00: błagalno-dziękczynna w 3 rocznicę ślubu Karoliny i Jakuba KUTNIAKÓW oraz za ich syna ANTONIEGO
+
+- 12.00: + za Alfreda w 4 rocznicę śmierci
+
+- 18.00: + za dusze Haliny i Wacława RYCHLIK oraz za Grzegorza SOBIECH
+
+
+
+**Poniedziałek, 6 lipca, Bł. Marii Teresy Ledóchowskiej, dziewicy, *wspomnienie***
+
+- 7.00: + za Anielę, Jana, Stanisława TALAREK
+
+- 18.00: + za Mariusza NIEMIRĘ w 16 rocznicę śmierci
+
+
+
+**Wtorek, 7 lipca**
+
+- 7.00: + za Wiesława ŚMIGIELSKIEGO miesiąc po pogrzebie
+
+- 18.00: wypominkowa
+
+
+
+**Środa, 8 lipca, Św. Jana z Dukli, prezbitera, wspomnienie**
+
+- 7.00: o zdrowie dla Piotrusia
+
+- 18.00: w 60 urodziny Stanisława SUŁECKIEGO z dziękczynieniem za życie męża i taty z prośbą o dalsze błogosławieństwo
+
+
+
+**Czwartek, 9 lipca**
+
+- 7.00:
+
+- 18.00: + za Józefę, Mariana, Władysława, Annę SKUPÓW
+
+
+
+**Piątek, 10 lipca**
+
+- 7.00:
+
+- 18.00: + za śp. Teresę i Czesława WIERZBOWSKICH i za ich rodziców o radość życia wiecznego
+
+
+
+**Sobota, 11 lipca, Św. Benedykta, Opata, patrona Europy, *święto***
+
+- 7.00: + za śp. Stanisławę GŁUCHOWSKĄ i Zdzisława KALICKIEGO
+
+- 18.00: o opiekę Matki Bożej i o Boże miłosierdzie dla Anny
+
+**XV NIEDZIELA ZWYKŁA, 12 lipca**
+
+- 8.00: intencja zbiorowa
+
+-  + za Kazimierę KWIEK w 24 rocznicę śmierci i za Wacława KWIEK w 28 rocznicę śmierci
+
+-  + za Wojtka ŁEPSKIEGO
+
+-  + za Jolantę IWAŃSKĄ
+
+-  + za Czesławę i Jana OLSZEWSKICH oraz za Czesławę i Piotra KIELCZYK
+
+-  + za Halinę ŚNITOWSKĄ
+
+-  + za Bronisławę IWANEJKO
+
+- 10.00: za parafian
+
+- 12.00: + za śp. Władysławę PODLEŚNĄ
+
+- 18.00: o błogosławieństwo i drogę z Panem Bogiem dla Natalii i Marcina
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
 
 #### XIII NIEDZIELA ZWYKŁA, 28 czerwca
 
@@ -32,53 +117,41 @@ title: Intencje mszalne
 **Poniedziałek, 29 czerwca, Świętych Apostołów Piotra i Pawła, *uroczystość***
 
 * 7.00: + za Stanisławę i Władysława PIOTRAK i za zmarłych z rodziny PIOTRAK i SEKULAR
-
 * 18.00: + za Tadeusza i Apolonię
-
 * 18.00: w intencji wnuka Pawła, w dniu jego imienin, dziękczynna za opiekę Bożą w jego studiach, z prośbą o światło Ducha Świętego w dalszym życiu
 
 **Wtorek, 30 czerwca**
 
 * 7.00: + za Danutę ROSA miesiąc po pogrzebie
-
 * 18.00: w dniu imienin synowej Lucyny dziękczynna za pomoc Bożą przy zakupie domu. Za dar zdrowia i miłości w rodzinie, z prośbą o dalsze błogosławieństwo i opiekę Bożą
-
 * 18.00: + za Eugeniusza, Jana, Janinę i Zofię MROCZEK
 
 **Środa, 1 lipca**
 
 * 7.00: + za Janinę SZUBA, Stefana, Stanisława i Jana
-
 * 18.00: + za Zbigniewa FUCHS w 9 rocznicę śmierci i za zmarłych z rodziny FUCHS i STAŃCZAK
 
 **Czwartek, 2 lipca**
 
 * 7.00: o dary Ducha Św. mądrości i światła do podjęcia dobrej decyzji
-
 * 18.00: z prośbą o liczne, charyzmatyczne, święte powołania kapłańskie, zakonne i misyjne w naszej ojczyźnie i na całym świecie oraz o odnowę serc w naszej parafii.
 
 **Piątek, 3 lipca, św. Tomasza, Apostoła, *święto***
 
 * 7.00: + za śp. Andrzeja BAKIERA w 8 rocznicę śmierci
-
 * 18.00: + za duszę Oskara w 10 rocznicę odejścia do Pana oraz za jego rodziców dla mamy Anny, taty Mariusza i Dominiki i Damiana o Boże błogosławieństwo oraz za całą rodzinę RAJSKICH
-
 * 18.00: w 10 rocznicę ślubu Ireny i Grzegorza dziękczynna za udzielone łaski szczególnie za dzieci Polę i Stasia z prośbą o dalsze błogosławieństwo
 
 **Sobota, 4 lipca**
 
 * 7.00:
-
 * 18.00: w intencji KŻR
 
 **XIV NIEDZIELA ZWYKŁA, 5 lipca**
 
 * 8.00: za parafian
-
 * 10.00: błagalno-dziękczynna w 3 rocznicę ślubu Karoliny i Jakuba KUTNIAKÓW oraz za ich syna ANTONIEGO
-
 * 12.00: + za Alfreda w 4 rocznicę śmierci
-
 * 18.00: + za dusze Haliny i Wacława RYCHLIK oraz Grzegorza SOBIECH
 
 <!--EndFragment-->
