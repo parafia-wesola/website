@@ -2,7 +2,7 @@
 type: article
 title: Jubileusz 70-lecia Parafii
 date: 2020-06-09T20:28:51.818Z
-eventDate: ''
+eventDate: ""
 author: parafia wesoła
 cover: 140_140p.jpg
 ---
@@ -14,5 +14,6 @@ Prezentujemy więc cykl wspomnień o naszej parafii w formie wywiadów, z który
 * [świadectwo Marek Batycki i Michał Marciniuk](https://www.youtube.com/watch?v=04q1eOObdTc)
 * [wywiad z Izabelą Buczyńską](https://www.youtube.com/watch?v=UuiFlqJeSjk&t)
 * [świadectwo Luizy Cybulskiej i Piotra Dawidowicza](https://www.youtube.com/watch?v=vgVCrjOsWF4)
+* [świadectwo Julii Stepniewskiej i Doroty Szewczyk](https://www.youtube.com/watch?v=vpuRMamj4eo&t)
 
 Rozprowadzamy też dalej gadżety, wyprodukowane specjalne na okazję jubileuszu: torby, maseczki, medale, podstawki na świeczki, naklejki. Zebrane pieniądze przeznaczymy na zakup sprzętu nagłośnieniowego do kościoła.
