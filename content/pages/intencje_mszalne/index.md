@@ -6,13 +6,13 @@ title: Intencje mszalne
 
 8.00: intencja zbiorowa
 
-* + za Kazimierę KWIEK w 24 rocznicę śmierci i za Wacława KWIEK w 28 rocznicę śmierci
-* + za Wojtka ŁEPSKIEGO
-* + za Jolantę IWAŃSKĄ
-* + za Czesławę i Jana OLSZEWSKICH oraz za Czesławę i Piotra KIELCZYK
-* + za Halinę ŚNITOWSKĄ
-* + za Bronisławę IWANEJKO
-* Za Dorotę i Piotra w rocznicę ślubu
+* za Kazimierę KWIEK w 24 rocznicę śmierci i za Wacława KWIEK w 28 rocznicę śmierci
+* za Wojtka ŁEPSKIEGO
+* za Jolantę IWAŃSKĄ
+* za Czesławę i Jana OLSZEWSKICH oraz za Czesławę i Piotra KIELCZYK
+* za Halinę ŚNITOWSKĄ
+* za Bronisławę IWANEJKO
+* za Dorotę i Piotra w rocznicę ślubu
 
 10.00: za parafian
 
@@ -56,13 +56,14 @@ Piątek, 17 lipca**
 
 18.00: za małżeństwa w kryzysie
 
-+ za śp Jerzego PRAJSNAR
+* za śp Jerzego PRAJSNAR
 
 
 
 **Sobota, 18 lipca**
 
-7.00: + za śp. Pawła CHARAŃCZUK w 25 rocznicę śmierci oraz zmarłych z rodziny CHARAŃCZUK, BANASZKIEWICZ    i LISZEWSKICH
+7.00: + za śp. Pawła CHARAŃCZUK w 25 rocznicę śmierci oraz zmarłych z rodziny CHARAŃCZUK, \
+          BANASZKIEWICZ i LISZEWSKICH
 
 18.00: + za śp. Stanisława BAKIERA oraz zmarłych z rodziny ROGALA i BAKIERA
 
@@ -77,6 +78,8 @@ Piątek, 17 lipca**
 12.00: + za śp. Wacława KOBZĘ w 10 r. śmierci
 
 18.00: w 20 rocznicę ślubu Anety i Piotra
+
+
 
 
 
