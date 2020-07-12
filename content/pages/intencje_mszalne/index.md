@@ -14,11 +14,11 @@ title: Intencje mszalne
 * za Bronisławę IWANEJKO
 * za Dorotę i Piotra w rocznicę ślubu
 
-10.00: za parafian
+  10.00: za parafian
 
-12.00: + za śp. Władysławę PODLEŚNĄ
+  12.00: + za śp. Władysławę PODLEŚNĄ
 
-18.00: o błogosławieństwo i drogę z Panem Bogiem dla Natalii i Marcina
+  18.00: o błogosławieństwo i drogę z Panem Bogiem dla Natalii i Marcina
 
 **\
 Poniedziałek, 13 lipca, Św. pustelników Andrzeja Świerada i Benedykta,*wspomnienie***
@@ -41,8 +41,6 @@ Wtorek, 14 lipca**
 
 18.00: + za Czesławę DĘBOWCZYK
 
-
-
 **Czwartek, 16 lipca, Najświętszej Maryi Panny z Góry Karmel,*wspomnienie***
 
 7.00: + Anielę KIRYLUK w 24. rocznicę śmierci oraz za zmarłych: Stanisławę, Franciszkę i Pawła KIRYLUK z prośbą o życie wieczne
@@ -56,7 +54,7 @@ Piątek, 17 lipca**
 
 18.00: za małżeństwa w kryzysie
 
-* za śp Jerzego PRAJSNAR
+za śp Jerzego PRAJSNAR
 
 
 
@@ -78,8 +76,6 @@ Piątek, 17 lipca**
 12.00: + za śp. Wacława KOBZĘ w 10 r. śmierci
 
 18.00: w 20 rocznicę ślubu Anety i Piotra
-
-
 
 
 
