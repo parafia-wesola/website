@@ -2,6 +2,84 @@
 type: text
 title: Intencje mszalne
 ---
+**XV NIEDZIELA ZWYKŁA, 12 lipca**
+
+8.00: intencja zbiorowa
+
+* + za Kazimierę KWIEK w 24 rocznicę śmierci i za Wacława KWIEK w 28 rocznicę śmierci
+* + za Wojtka ŁEPSKIEGO
+* + za Jolantę IWAŃSKĄ
+* + za Czesławę i Jana OLSZEWSKICH oraz za Czesławę i Piotra KIELCZYK
+* + za Halinę ŚNITOWSKĄ
+* + za Bronisławę IWANEJKO
+* Za Dorotę i Piotra w rocznicę ślubu
+
+10.00: za parafian
+
+12.00: + za śp. Władysławę PODLEŚNĄ
+
+18.00: o błogosławieństwo i drogę z Panem Bogiem dla Natalii i Marcina
+
+**\
+Poniedziałek, 13 lipca, Św. pustelników Andrzeja Świerada i Benedykta,*wspomnienie***
+
+7.00:
+
+18.00: + za Macieja i Mirosława MORAWSKICH w 10 rocznicę śmierci
+
+**\
+Wtorek, 14 lipca**
+
+7.00: za Krzysztofa w dniu jego urodzin z prośbą o Bożą opiekę i błogosławieństwo
+
+18.00: + za Eugeniusza GRYZ w 12 r. śmierci.\
+\
+\
+**Środa, 15 lipca, Św. Bonawentury, biskupa i doktora Kościoła,*wspomnienie***
+
+7.00: + za Ryszarda ŁUPIŃSKIEGO, zmarłych z rodziny WIŚNIEWSKICH i Mirosława MACHNACKIEGO
+
+18.00: + za Czesławę DĘBOWCZYK
+
+
+
+**Czwartek, 16 lipca, Najświętszej Maryi Panny z Góry Karmel,*wspomnienie***
+
+7.00: + Anielę KIRYLUK w 24. rocznicę śmierci oraz za zmarłych: Stanisławę, Franciszkę i Pawła KIRYLUK z prośbą o życie wieczne
+
+18.00: w 18 rocznicę urodzin Jakuba
+
+[](<>)**\
+Piątek, 17 lipca**
+
+7.00:
+
+18.00: za małżeństwa w kryzysie
+
++ za śp Jerzego PRAJSNAR
+
+
+
+**Sobota, 18 lipca**
+
+7.00: + za śp. Pawła CHARAŃCZUK w 25 rocznicę śmierci oraz zmarłych z rodziny CHARAŃCZUK, BANASZKIEWICZ    i LISZEWSKICH
+
+18.00: + za śp. Stanisława BAKIERA oraz zmarłych z rodziny ROGALA i BAKIERA
+
+
+
+**XVI NIEDZIELA ZWYKŁA, 19 lipca**
+
+8.00: za parafian
+
+10.00: + w 36 r. śmierci Sabiny oraz Jana, Romana MOSTOWSKICH i zmarłych z rodziny LIPERTÓW
+
+12.00: + za śp. Wacława KOBZĘ w 10 r. śmierci
+
+18.00: w 20 rocznicę ślubu Anety i Piotra
+
+
+
 <!--StartFragment-->
 
 **XIV NIEDZIELA ZWYKŁA, 5 lipca**
