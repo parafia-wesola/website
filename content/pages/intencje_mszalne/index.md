@@ -2,15 +2,7 @@
 type: text
 title: Intencje mszalne
 ---
-
-
 <!--StartFragment-->
-
-**XVI Niedziela Zwykła**
-
-**19.07.2020**
-
-
 
 **XVI NIEDZIELA ZWYKŁA, 19 lipca**
 
@@ -22,15 +14,11 @@ title: Intencje mszalne
 
 18.00: w 20 rocznicę ślubu Anety i Piotra
 
-
-
 **Poniedziałek, 20 lipca,**
 
 7.00: + za Wojciecha HERDE w miesiąc po pogrzebie
 
 18.00: + za śp. Czesławę i Romana DAWIDOWICZ, Jadwigę i Wacława KUPSKICH oraz Wiesława TATARKA
-
-
 
 **Wtorek, 21 lipca**
 
@@ -38,15 +26,11 @@ title: Intencje mszalne
 
 18.00: + za śp. Janinę i Tadeusza KRZYŻANOWSKICH.
 
-
-
 **Środa, 22 lipca, Św. Marii Magdaleny, *święto***
 
 7.00: o zdrowie i potrzebne łaski dla Małgorzaty
 
 18.00: + za dusze śp. Henryki i Tadeusza
-
-
 
 **Czwartek, 23 lipca, św. Brygidy, zakonnicy, patronki Europy, *święto***
 
@@ -54,15 +38,11 @@ title: Intencje mszalne
 
 18.00: + za śp. Kazimierza JOZŁOCKIEGO
 
-
-
 **Piątek, 24 lipca*,*św. Kingi, dziewicy*, wspomnienie***
 
 7.00: + za śp. Wojciecha Łepskiego w miesiąc po pogrzebie
 
 18.00: + za Hannę i Zdzisława GAWĘCKICH oraz Waldemara i Jana BUCZYŃSKICH
-
-
 
 **Sobota, 25 lipca, św. Jakuba, Apostoła, *święto***
 
@@ -70,37 +50,26 @@ title: Intencje mszalne
 
 18.00: w intencji dzieci Jakuba i Anny w dniu ich imienin z podziękowaniem za wszelkie dary i łaski otrzymane od Pana Boga i z prośbą o dalsze zdrowie, pokój i radość w wykonywaniu woli Bożej
 
-
-
 **XVII NIEDZIELA ZWYKŁA, 26 lipca**
 
 8.00: + śp. Annę GRYKIEŃ i Michała MULICA
 
 10.00: intencje zbiorowe:
 
-<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Stefanię i Karola, Stanisławę i Mariana i wszystkich zmarłych z ich rodzin
-
-<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Mariusza NIEMIRA w 16. r. śmierci
-
-<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Ewę WOŁODŹKO
-
-<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Roberta WALCZAK
-
-<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Zenona MIKOŁAJEWSKIEGO
-
-<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Mirosława STRADOWSKIEGO
-
-<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Elżbietę KOBZA
-
-<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Zofię RATYŃSKĄ
+* + za śp. Stefanię i Karola, Stanisławę i Mariana i wszystkich zmarłych z ich rodzin
+* + za śp. Mariusza NIEMIRA w 16. r. śmierci
+* + za śp. Ewę WOŁODŹKO
+* + za śp. Roberta WALCZAK
+* + za śp. Zenona MIKOŁAJEWSKIEGO
+* + za śp. Mirosława STRADOWSKIEGO
+* + za śp. Elżbietę KOBZA
+* + za śp. Zofię RATYŃSKĄ
 
 12:00: za parafian
 
 18.00: o opiekę św. Joachima i Anny dla Anny i jej rodziny
 
 <!--EndFragment-->
-
-
 
 **XV NIEDZIELA ZWYKŁA, 12 lipca**
 
