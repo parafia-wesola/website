@@ -2,6 +2,106 @@
 type: text
 title: Intencje mszalne
 ---
+
+
+<!--StartFragment-->
+
+**XVI Niedziela Zwykła**
+
+**19.07.2020**
+
+
+
+**XVI NIEDZIELA ZWYKŁA, 19 lipca**
+
+8.00: za parafian
+
+10.00: + w 36 r. śmierci Sabiny oraz Jana, Romana MOSTOWSKICH i zmarłych z rodziny LIPERTÓW
+
+12.00: + za śp. Wacława KOBZA w 10 r. śmierci oraz śp. Elżbietę KOBZA zmarłą kilka dni temu
+
+18.00: w 20 rocznicę ślubu Anety i Piotra
+
+
+
+**Poniedziałek, 20 lipca,**
+
+7.00: + za Wojciecha HERDE w miesiąc po pogrzebie
+
+18.00: + za śp. Czesławę i Romana DAWIDOWICZ, Jadwigę i Wacława KUPSKICH oraz Wiesława TATARKA
+
+
+
+**Wtorek, 21 lipca**
+
+7.00: + za śp. Janinę
+
+18.00: + za śp. Janinę i Tadeusza KRZYŻANOWSKICH.
+
+
+
+**Środa, 22 lipca, Św. Marii Magdaleny, *święto***
+
+7.00: o zdrowie i potrzebne łaski dla Małgorzaty
+
+18.00: + za dusze śp. Henryki i Tadeusza
+
+
+
+**Czwartek, 23 lipca, św. Brygidy, zakonnicy, patronki Europy, *święto***
+
+7.00:
+
+18.00: + za śp. Kazimierza JOZŁOCKIEGO
+
+
+
+**Piątek, 24 lipca*,*św. Kingi, dziewicy*, wspomnienie***
+
+7.00: + za śp. Wojciecha Łepskiego w miesiąc po pogrzebie
+
+18.00: + za Hannę i Zdzisława GAWĘCKICH oraz Waldemara i Jana BUCZYŃSKICH
+
+
+
+**Sobota, 25 lipca, św. Jakuba, Apostoła, *święto***
+
+7.00: podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu Jaśniejącej Światłością Miłości Miłosiernej we wszystkich rodzinach
+
+18.00: w intencji dzieci Jakuba i Anny w dniu ich imienin z podziękowaniem za wszelkie dary i łaski otrzymane od Pana Boga i z prośbą o dalsze zdrowie, pokój i radość w wykonywaniu woli Bożej
+
+
+
+**XVII NIEDZIELA ZWYKŁA, 26 lipca**
+
+8.00: + śp. Annę GRYKIEŃ i Michała MULICA
+
+10.00: intencje zbiorowe:
+
+<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Stefanię i Karola, Stanisławę i Mariana i wszystkich zmarłych z ich rodzin
+
+<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Mariusza NIEMIRA w 16. r. śmierci
+
+<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Ewę WOŁODŹKO
+
+<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Roberta WALCZAK
+
+<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Zenona MIKOŁAJEWSKIEGO
+
+<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Mirosława STRADOWSKIEGO
+
+<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Elżbietę KOBZA
+
+<!--\[if !supportLists]-->·<!--\[endif]-->+ za śp. Zofię RATYŃSKĄ
+
+12:00: za parafian
+
+18.00: o opiekę św. Joachima i Anny dla Anny i jej rodziny
+
+<!--EndFragment-->
+
+
+
 **XV NIEDZIELA ZWYKŁA, 12 lipca**
 
 8.00: intencja zbiorowa
@@ -14,11 +114,11 @@ title: Intencje mszalne
 * za Bronisławę IWANEJKO
 * za Dorotę i Piotra w rocznicę ślubu
 
-10.00: za parafian
+  10.00: za parafian
 
-12.00: + za śp. Władysławę PODLEŚNĄ
+  12.00: + za śp. Władysławę PODLEŚNĄ
 
-18.00: o błogosławieństwo i drogę z Panem Bogiem dla Natalii i Marcina
+  18.00: o błogosławieństwo i drogę z Panem Bogiem dla Natalii i Marcina
 
 **\
 Poniedziałek, 13 lipca, Św. pustelników Andrzeja Świerada i Benedykta,*wspomnienie***
@@ -41,8 +141,6 @@ Wtorek, 14 lipca**
 
 18.00: + za Czesławę DĘBOWCZYK
 
-
-
 **Czwartek, 16 lipca, Najświętszej Maryi Panny z Góry Karmel,*wspomnienie***
 
 7.00: + Anielę KIRYLUK w 24. rocznicę śmierci oraz za zmarłych: Stanisławę, Franciszkę i Pawła KIRYLUK z prośbą o życie wieczne
@@ -58,16 +156,12 @@ Piątek, 17 lipca**
 
 za śp Jerzego PRAJSNAR
 
-
-
 **Sobota, 18 lipca**
 
 7.00: + za śp. Pawła CHARAŃCZUK w 25 rocznicę śmierci oraz zmarłych z rodziny CHARAŃCZUK, \
           BANASZKIEWICZ i LISZEWSKICH
 
 18.00: + za śp. Stanisława BAKIERA oraz zmarłych z rodziny ROGALA i BAKIERA
-
-
 
 **XVI NIEDZIELA ZWYKŁA, 19 lipca**
 
