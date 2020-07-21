@@ -56,14 +56,14 @@ title: Intencje mszalne
 
 10.00: intencje zbiorowe:
 
-* + za śp. Stefanię i Karola, Stanisławę i Mariana i wszystkich zmarłych z ich rodzin
-* + za śp. Mariusza NIEMIRA w 16. r. śmierci
-* + za śp. Ewę WOŁODŹKO
-* + za śp. Roberta WALCZAK
-* + za śp. Zenona MIKOŁAJEWSKIEGO
-* + za śp. Mirosława STRADOWSKIEGO
-* + za śp. Elżbietę KOBZA
-* + za śp. Zofię RATYŃSKĄ
+* za śp. Stefanię i Karola, Stanisławę i Mariana i wszystkich zmarłych z ich rodzin
+* za śp. Mariusza NIEMIRA w 16. r. śmierci
+* za śp. Ewę WOŁODŹKO
+* za śp. Roberta WALCZAK
+* za śp. Zenona MIKOŁAJEWSKIEGO
+* za śp. Mirosława STRADOWSKIEGO
+* za śp. Elżbietę KOBZA
+* za śp. Zofię RATYŃSKĄ
 
 12:00: za parafian
 
