@@ -10,8 +10,8 @@ news:
     title: Rekolekcje ignacjańskie dla młodzieży
   - size: medium
     title: Weekend Next Step dla młodzieży
-  - size: large
-    title: "1, 2, 3,...Kana "
+  - size: medium
+    title: "1, 2, 3,...Kana: propozycja dla małżeństw"
   - size: medium
     title: Strona w rozbudowie
 ---
