@@ -6,10 +6,10 @@ news:
     title: "Q&A: pytania i odpowiedzi"
   - size: large
     title: Jubileusz 70-lecia Parafii
-  - size: large
+  - size: medium
     title: Rekolekcje ignacjańskie dla młodzieży
-  - size: large
-    title: Weekend Next Step
+  - size: medium
+    title: Weekend Next Step dla młodzieży
   - size: large
     title: "1, 2, 3,...Kana "
   - size: medium
