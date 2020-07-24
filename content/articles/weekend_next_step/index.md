@@ -1,6 +1,6 @@
 ---
 type: article
-title: Weekend Next Step
+title: Weekend Next Step dla młodzieży
 date: 2020-07-24T15:13:01.030Z
 eventDate: ""
 author: parafia wesoła
