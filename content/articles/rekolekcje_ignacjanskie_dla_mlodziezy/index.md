@@ -8,9 +8,9 @@ cover: kopia_rekolekcje_ignacjanskie_plakat_1_.jpg
 ---
 <!--StartFragment-->
 
-**termin**: 10 sierpnia o 11:00 – 16 sierpnia o 16:00
+**termin: 10 sierpnia o 11:00 – 16 sierpnia o 16:00**
 
-**miejsce**: Dom Wspólnoty Chemin Neuf, Łódź
+**miejsce: Dom Wspólnoty Chemin Neuf, Łódź**
 
 Zatrzymaj się, by wsłuchać się w Słowo Życia!\
 \
