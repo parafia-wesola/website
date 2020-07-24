@@ -1,6 +1,6 @@
 ---
 type: article
-title: "1, 2, 3,...Kana "
+title: "1, 2, 3,...Kana: propozycja dla małżeństw"
 date: 2020-06-19T19:55:20.370Z
 eventDate: ""
 author: parafia wesoła
