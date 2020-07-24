@@ -8,11 +8,13 @@ cover: we_next_step.jpg
 ---
 <!--StartFragment-->
 
+**termin: 7 sierpnia o 18:00 – 9 sierpnia o 16:00**
+
+**miejsce: Dom Wspólnoty Chemin Neuf w Łodzi**
+
 Rok 2020 się jeszcze nie skończył! Lato to pora na kolejny krok wiary! Zrób go dziś!\
 \
 W tym roku nie będzie międzynarodowego festiwalu NEXT STEP w Hautecombe, dlatego zapraszamy na jego weekendową wersję w Polsce, w Łodzi! 
-
-**7 sierpnia o 18:00 – 9 sierpnia o 16:00**
 
 Znasz NEXT STEP? Odkryj go na nowo w polsko-międzynarodowej wersji! Po raz pierwszy słyszysz o NEXT STEP? Dołącz do nas i korzystaj z jego odnowionej formuły!\
 \
