@@ -8,21 +8,19 @@ title: Intencje mszalne
 
 10.00: intencje zbiorowe:
 
-* + za śp. Stefanię i Karola, Stanisławę i Mariana i wszystkich zmarłych z ich rodzin
-* + za śp. Mariusza NIEMIRA w 16. r. śmierci
-* + za śp. Ewę WOŁODŹKO
-* + za śp. Roberta WALCZAK
-* + za śp. Zenona MIKOŁAJEWSKIEGO
-* + za śp. Mirosława STRADOWSKIEGO
-* + za śp. Elżbietę KOBZA
-* + za śp. Zofię RATYŃSKĄ
-* + za śp. Roberta GRYZA
+* za śp. Stefanię i Karola, Stanisławę i Mariana i wszystkich zmarłych z ich rodzin
+* za śp. Mariusza NIEMIRA w 16. r. śmierci
+* za śp. Ewę WOŁODŹKO
+* za śp. Roberta WALCZAK
+* za śp. Zenona MIKOŁAJEWSKIEGO
+* za śp. Mirosława STRADOWSKIEGO
+* za śp. Elżbietę KOBZA
+* za śp. Zofię RATYŃSKĄ
+* za śp. Roberta GRYZA
 
 12:00: za parafian
 
 18.00: o opiekę św. Joachima i Anny dla Anny i jej rodziny
-
-
 
 **Poniedziałek, 27 lipca,**
 
@@ -32,15 +30,11 @@ title: Intencje mszalne
 
 18.00:
 
-
-
 **Wtorek, 28 lipca**
 
 7.00: o dar wiary dla Krzysztofa
 
 18.00: + za śp. Bronisławę IWANEJKO(od Koła Różańcowego z Woli Grzybowskiej)
-
-
 
 **Środa, 29 lipca, Św. Marty, *wspomnienie***
 
@@ -48,15 +42,11 @@ title: Intencje mszalne
 
 18.00: + za śp. Kazimierza, Stanisławę i Henryka ZAWADĘ
 
-
-
 **Czwartek, 30 lipca**
 
 7.00: + za śp. Annę i Aleksandra o życie wieczne
 
 18.00: + za śp. Halinę KALINOWSKĄ i zmarłych z rodziny KALINOWSKICH, PLUTÓW, LENARTÓW i ŚLIWIŃSKICH
-
-
 
 **Piątek, 31 lipca, Św. Ignacego z Loyoli*,* prezbitera,*wspomnienie***
 
@@ -64,25 +54,23 @@ title: Intencje mszalne
 
 18.00: + za śp. Henryka WRZEŚNIEWSKIEGO w 1 rocznicę śmierci
 
-
-
 **Sobota, 1 sierpnia, Św. Alfonsa Marii Liguoriego, biskupa i doktora Kościoła, *wspomnienie***
 
 7.00: w intencji wynagradzającej za grzechy przeciwko Niepokalanemu Sercu Maryi
 
 18.00: w intencji Kół Żywego Różańca
 
-
-
 **XVIII NIEDZIELA ZWYKŁA, 2 sierpnia**
 
 8.00: za parafian
 
-10.00: w intencji błagalno-dziękczynnej w 39 rocznicę ślubu Izabeli i Andrzeja KOTUNIAKÓW oraz za ich dzieci Annę, Jakuba, Karolinę oraz wnuka Antoniego
+10.00: w intencji błagalno-dziękczynnej w 39 rocznicę ślubu Izabeli i Andrzeja KOTUNIAKÓW oraz za ich dzieci     \
+            Annę, Jakuba, Karolinę oraz wnuka Antoniego
 
-12:00: w 30 rocznicę ślubu Urszuli i Sławomira PODGRÓRSKICH – intencja dziękczynna za otrzymane łaski, z prośbą o błogosławieństwo dla całej rodziny
+12:00: w 30 rocznicę ślubu Urszuli i Sławomira PODGRÓRSKICH – intencja dziękczynna za otrzymane łaski, z  \
+          prośbą o błogosławieństwo dla całej rodziny
 
-18.00: + za śp. Mariannę, Stanisława, Romana i Waldemara KĄ
+18.00: + za śp. Mariannę, Stanisława, Romana i Waldemara KĄCA
 
 <!--EndFragment-->
 
