@@ -2,6 +2,90 @@
 type: text
 title: Intencje mszalne
 ---
+
+
+
+
+**XVIII NIEDZIELA ZWYKŁA, 2 sierpnia**
+
+8.00: za parafian
+
+10.00: w intencji błagalno-dziękczynnej w 39 rocznicę ślubu Izabeli i Andrzeja KOTUNIAKÓW oraz za ich dzieci Annę, Jakuba, Karolinę oraz wnuka Antoniego
+
+12:00: w 30 rocznicę ślubu Urszuli i Sławomira PODGÓRSKICH – intencja dziękczynna za otrzymane łaski, \
+z prośbą o błogosławieństwo dla całej rodziny
+
+18.00: + za śp. Mariannę, Stanisława, Romana i Waldemara KĄCA
+
+
+
+**Poniedziałek, 3 sierpnia,**
+
+7.00: za dusze w czyśćcu cierpiące
+
+18.00: + za śp. Jadwigę OLĘDZKĄ i zmarłych z rodzin OLĘDZKICH i BACHORKÓW
+
+
+
+**Wtorek, 4 sierpnia, św. Jana Marii Vianneya, *wspomnienie***
+
+7.00: o dar nieba dla Henryka oraz o łaskę nawrócenia i zmiany życia dla Czesława
+
+18.00: za zmarłych polecanych w wypominkach rocznych
+
+
+
+**Środa, 5 sierpnia,**
+
+7.00:
+
+18.00: + za śp. Roberta GRYZA od rodziny z Dąbrówki
+
+
+
+**Czwartek, 6 sierpnia, Przemienienie Pańskie, *święto***
+
+7.00: W intencji licznych, charyzmatycznych, świętych powołań kapłańskich, zakonnych i misyjnych w naszej Ojczyźnie i na całym świecie oraz o odnowę serc w naszej parafii (intencja od Koła Przyjaciół Radia Maryja)
+
+18.00: + za Grzegorza w 2. rocznicę śmierci
+
+
+
+**Piątek, 7 sierpnia,**
+
+7.00:
+
+18.00: + za śp. Annę REPLIN
+
+
+
+**Sobota, 8 sierpnia, św. Dominika prezbitera, *wspomnienie***
+
+7.00:
+
+18.00: + o życie wieczne dla Wiesława
+
+
+
+**XIX NIEDZIELA ZWYKŁA, 9 sierpnia**
+
+8.00: intencje zbiorowe:
+
+* + za śp. Anielę, Aleksandra oraz Mariannę WĄSOWSKĄ
+* + za śp. Stanisławę, Eugeniusza i zmarłych z rodziny KAŁASZA
+* za Małgorzatę ZYCHALAK w dniu 25. rocznicy urodzin
+* + za śp. Irenę SZCZUDLIŃSKĄ
+
+10.00: za Teresę i Marka BATYCKICH w 50. rocznicę ślubu
+
+12:00: + w intencji śp. Grażyny i Gustawa KORDAS
+
+18.00: w pierwszą rocznicę ślubu Joanny i Pawła z prośbą o Boże błogosławieństwo i dary Ducha Świętego
+
+<!--EndFragment-->
+
+
+
 **XVII NIEDZIELA ZWYKŁA, 26 lipca**
 
 8.00: + śp. Annę GRYKIEŃ i Michała MULICA
@@ -73,8 +157,6 @@ title: Intencje mszalne
 18.00: + za śp. Mariannę, Stanisława, Romana i Waldemara KĄCA
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
