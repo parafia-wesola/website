@@ -92,7 +92,7 @@ module.exports = {
 				icon: 'src/assets/images/icon.png',
 			},
 		},
-		'gatsby-plugin-offline',
+		'gatsby-plugin-remove-serviceworker',
 		'gatsby-plugin-netlify',
 		'gatsby-plugin-netlify-cache',
 	],
