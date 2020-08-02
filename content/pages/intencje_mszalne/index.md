@@ -2,10 +2,6 @@
 type: text
 title: Intencje mszalne
 ---
-
-
-
-
 **XVIII NIEDZIELA ZWYKŁA, 2 sierpnia**
 
 8.00: za parafian
@@ -17,15 +13,11 @@ z prośbą o błogosławieństwo dla całej rodziny
 
 18.00: + za śp. Mariannę, Stanisława, Romana i Waldemara KĄCA
 
-
-
 **Poniedziałek, 3 sierpnia,**
 
 7.00: za dusze w czyśćcu cierpiące
 
 18.00: + za śp. Jadwigę OLĘDZKĄ i zmarłych z rodzin OLĘDZKICH i BACHORKÓW
-
-
 
 **Wtorek, 4 sierpnia, św. Jana Marii Vianneya, *wspomnienie***
 
@@ -33,15 +25,11 @@ z prośbą o błogosławieństwo dla całej rodziny
 
 18.00: za zmarłych polecanych w wypominkach rocznych
 
-
-
 **Środa, 5 sierpnia,**
 
 7.00:
 
 18.00: + za śp. Roberta GRYZA od rodziny z Dąbrówki
-
-
 
 **Czwartek, 6 sierpnia, Przemienienie Pańskie, *święto***
 
@@ -49,15 +37,11 @@ z prośbą o błogosławieństwo dla całej rodziny
 
 18.00: + za Grzegorza w 2. rocznicę śmierci
 
-
-
 **Piątek, 7 sierpnia,**
 
 7.00:
 
 18.00: + za śp. Annę REPLIN
-
-
 
 **Sobota, 8 sierpnia, św. Dominika prezbitera, *wspomnienie***
 
@@ -65,16 +49,14 @@ z prośbą o błogosławieństwo dla całej rodziny
 
 18.00: + o życie wieczne dla Wiesława
 
-
-
 **XIX NIEDZIELA ZWYKŁA, 9 sierpnia**
 
 8.00: intencje zbiorowe:
 
-* + za śp. Anielę, Aleksandra oraz Mariannę WĄSOWSKĄ
-* + za śp. Stanisławę, Eugeniusza i zmarłych z rodziny KAŁASZA
+* za śp. Anielę, Aleksandra oraz Mariannę WĄSOWSKĄ
+* za śp. Stanisławę, Eugeniusza i zmarłych z rodziny KAŁASZA
 * za Małgorzatę ZYCHALAK w dniu 25. rocznicy urodzin
-* + za śp. Irenę SZCZUDLIŃSKĄ
+* za śp. Irenę SZCZUDLIŃSKĄ
 
 10.00: za Teresę i Marka BATYCKICH w 50. rocznicę ślubu
 
