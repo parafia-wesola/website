@@ -101,6 +101,7 @@ collections:
         widget: list
         required: false
         field:
+          name: zdjecia
           widget: image
       - label: Treść
         name: body
