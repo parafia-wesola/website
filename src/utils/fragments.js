@@ -6,7 +6,7 @@ export const sectionFields = graphql`
 		cover {
 			childImageSharp {
 				fluid(quality: 75, maxWidth: 1360) {
-					...GatsbyImageSharpFluid
+					...GatsbyImageSharpFluid_withWebp
 				}
 			}
 		}
@@ -28,8 +28,21 @@ export const bioFields = graphql`
 			cover {
 				childImageSharp {
 					fixed(quality: 75, cropFocus: CENTER, width: 200, height: 200) {
-						...GatsbyImageSharpFixed
+						...GatsbyImageSharpFixed_withWebp
 					}
+				}
+			}
+		}
+	}
+`;
+
+export const imagesFields = graphql`
+	fragment imagesFields on MarkdownRemarkFrontmatter {
+		images {
+			id
+			childImageSharp {
+				fluid(maxWidth: 1360) {
+					...GatsbyImageSharpFluid_withWebp
 				}
 			}
 		}
@@ -44,7 +57,7 @@ export const tilesFields = graphql`
 			image {
 				childImageSharp {
 					fixed(quality: 50, cropFocus: CENTER, width: 200, height: 200) {
-						...GatsbyImageSharpFixed
+						...GatsbyImageSharpFixed_withWebp
 					}
 				}
 			}

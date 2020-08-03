@@ -13,22 +13,19 @@ const Hero = () => {
 					heading
 				}
 			}
-			hero: allImageSharp(
-				filter: { fluid: { originalName: { eq: "heroBg.jpg" } } }
-			) {
-				edges {
-					node {
-						fluid(quality: 75, maxWidth: 1360) {
-							...GatsbyImageSharpFluid
-						}
+			hero: file(relativePath: { eq: "heroBg.jpg" }) {
+				childImageSharp {
+					fluid(quality: 50, maxWidth: 1360) {
+						...GatsbyImageSharpFluid_withWebp
 					}
 				}
 			}
 		}
 	`);
+
 	return (
 		<Wrapper as={SectionWrapper}>
-			<Background as={Img} fluid={hero.edges[0].node.fluid} />
+			<Background as={Img} fluid={hero.childImageSharp.fluid} />
 			<Title>{site.siteMetadata.heading}</Title>
 		</Wrapper>
 	);

@@ -23,7 +23,7 @@ const Navbar = () => {
 			file(name: { eq: "icon" }) {
 				childImageSharp {
 					fluid(maxHeight: 100) {
-						...GatsbyImageSharpFluid
+						...GatsbyImageSharpFluid_withWebp
 					}
 				}
 			}

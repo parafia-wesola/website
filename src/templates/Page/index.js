@@ -74,16 +74,9 @@ export const query = graphql`
 			html
 			frontmatter {
 				...sectionFields
+				...imagesFields
 				type
 				author
-				images {
-					id
-					childImageSharp {
-						fluid(maxWidth: 1360) {
-							...GatsbyImageSharpFluid
-						}
-					}
-				}
 			}
 		}
 	}

@@ -26,15 +26,15 @@ const News = ({ id }) => {
 								date: eventDate(formatString: "DD.MM.YYYY")
 								medium: cover {
 									childImageSharp {
-										fluid(maxHeight: 200) {
-											...GatsbyImageSharpFluid
+										fluid(quality: 25, maxHeight: 200) {
+											...GatsbyImageSharpFluid_withWebp
 										}
 									}
 								}
 								large: cover {
 									childImageSharp {
-										fluid(maxHeight: 400) {
-											...GatsbyImageSharpFluid
+										fluid(quality: 25, maxHeight: 400) {
+											...GatsbyImageSharpFluid_withWebp
 										}
 									}
 								}
