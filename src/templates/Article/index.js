@@ -51,17 +51,10 @@ export const query = graphql`
 			html
 			frontmatter {
 				...sectionFields
+				...imagesFields
 				date(formatString: "DD.MM.YYYY")
 				eventDate(formatString: "DD.MM.YYYY")
 				author
-				images {
-					id
-					childImageSharp {
-						fluid(maxWidth: 1360) {
-							...GatsbyImageSharpFluid
-						}
-					}
-				}
 			}
 		}
 		allMarkdownRemark(

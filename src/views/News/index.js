@@ -27,14 +27,14 @@ const News = ({ id }) => {
 								medium: cover {
 									childImageSharp {
 										fluid(maxHeight: 200) {
-											...GatsbyImageSharpFluid
+											...GatsbyImageSharpFluid_withWebp
 										}
 									}
 								}
 								large: cover {
 									childImageSharp {
 										fluid(maxHeight: 400) {
-											...GatsbyImageSharpFluid
+											...GatsbyImageSharpFluid_withWebp
 										}
 									}
 								}
