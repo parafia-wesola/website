@@ -93,7 +93,5 @@ module.exports = {
 			},
 		},
 		'gatsby-plugin-remove-serviceworker',
-		'gatsby-plugin-netlify',
-		'gatsby-plugin-netlify-cache',
 	],
 };
