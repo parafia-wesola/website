@@ -14,4 +14,6 @@ news:
     title: "1, 2, 3,...Kana: propozycja dla małżeństw"
   - size: medium
     title: Strona w rozbudowie
+  - size: medium
+    title: Artykul testowy
 ---
