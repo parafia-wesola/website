@@ -109,6 +109,5 @@ module.exports = {
 				icon: 'src/assets/images/icon.png',
 			},
 		},
-		'gatsby-plugin-remove-serviceworker',
 	],
 };
