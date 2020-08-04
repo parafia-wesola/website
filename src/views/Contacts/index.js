@@ -7,13 +7,20 @@ import ContactInfo from 'components/Contacts';
 import Map from 'components/Map';
 import Annoucement from 'components/Annoucement';
 import { SectionWrapper, SectionTitle } from 'components/Share';
-import { ContactsWrapper, StyledContactInfo, MapWrapper, Card } from './styles';
+import {
+	ContactsWrapper,
+	StyledContactInfo,
+	MapWrapper,
+	StyledMap,
+	Card,
+} from './styles';
 
 const Contacts = ({ id }) => {
 	const {
 		contactFirstColumn,
 		contactSecondColumn,
 		contactMap,
+		mapIcon,
 	} = useStaticQuery(graphql`
 		{
 			contactFirstColumn: markdownRemark(
@@ -34,6 +41,9 @@ const Contacts = ({ id }) => {
 				frontmatter {
 					...infoFields
 				}
+			}
+			mapIcon: file(relativePath: { eq: "circle.svg" }) {
+				publicURL
 			}
 		}
 	`);
@@ -60,7 +70,12 @@ const Contacts = ({ id }) => {
 				</ContactsWrapper>
 			)}
 			<MapWrapper>
-				<Map />
+				<StyledMap
+					as={Map}
+					mapPos={[52.252167, 21.215]}
+					targetPos={[52.252167, 21.212835]}
+					iconImg={mapIcon.publicURL}
+				/>
 				{isMap && (
 					<Card>
 						{filteredMap.map(({ title }) => (

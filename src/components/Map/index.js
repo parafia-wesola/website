@@ -1,43 +1,43 @@
-/* eslint-disable global-require */
-/* eslint-disable no-underscore-dangle */
-import * as React from 'react';
-import { Map, TileLayer, Marker, Popup } from 'react-leaflet';
-import 'leaflet/dist/leaflet.css';
+import React from 'react';
+import PropTypes from 'prop-types';
 import L from 'leaflet';
-import { StyledMap } from './styles';
+import { Map, TileLayer, Marker } from 'react-leaflet';
 
-const MapChart = () => {
-	const positionOfChurch = [52.252167, 21.212835];
-	const positionOfMap = [52.252167, 21.22];
+const LeafletMap = ({ targetPos, mapPos, iconImg, zoom, className }) => {
+	if (typeof window === 'undefined') return null;
 
-	let iconPerson;
-	if (typeof window !== 'undefined') {
-		iconPerson = new L.Icon({
-			iconUrl: require('assets/images/circle.svg'),
-			iconAnchor: null,
-			popupAnchor: null,
-			shadowUrl: null,
-			shadowSize: null,
-			shadowAnchor: null,
-			iconSize: new L.Point(75, 75),
-		});
-	}
+	const icon = new L.Icon({
+		iconUrl: iconImg,
+		iconSize: new L.Point(75, 75),
+	});
 
-	if (typeof window !== 'undefined') {
-		return (
-			<StyledMap as={Map} center={positionOfMap} zoom={14}>
-				<TileLayer
-					attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-					url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-				/>
-				<Marker position={positionOfChurch} icon={iconPerson}>
-					<Popup>Parafia Opatrzności Bożej Warszawa Wesoła</Popup>
-				</Marker>
-			</StyledMap>
-		);
-	}
-
-	return null;
+	return (
+		<Map
+			center={mapPos || targetPos}
+			zoom={zoom}
+			className={className}
+			dragging={!L.Browser.mobile}
+			scrollWheelZoom={false}
+		>
+			<TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+			<Marker position={targetPos} icon={icon} />
+		</Map>
+	);
 };
 
-export default MapChart;
+LeafletMap.propTypes = {
+	targetPos: PropTypes.arrayOf(PropTypes.number).isRequired,
+	mapPos: PropTypes.arrayOf(PropTypes.number),
+	iconImg: PropTypes.string,
+	zoom: PropTypes.number,
+	className: PropTypes.string,
+};
+
+LeafletMap.defaultProps = {
+	mapPos: null,
+	iconImg: null,
+	zoom: 15,
+	className: null,
+};
+
+export default LeafletMap;
