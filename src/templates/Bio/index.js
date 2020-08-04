@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing';
@@ -6,49 +6,30 @@ import { ModalRoutingContext } from 'gatsby-plugin-modal-routing';
 import SEO from 'components/SEO';
 import Close from 'components/Close';
 import Bio from 'components/Bio';
-import { ModalBio, PageBio } from './styles';
+import { ModalWrapper, PageWrapper } from './styles';
 
 const BioTemplate = ({ data }) => {
+	const { modal, closeTo } = useContext(ModalRoutingContext);
 	const { title, cover, bio } = data.markdownRemark.frontmatter;
 	const text = data.markdownRemark.html;
 	const { slug } = data.markdownRemark.fields;
 
+	const Wrapper = modal ? ModalWrapper : PageWrapper;
+
 	return (
-		<ModalRoutingContext.Consumer>
-			{({ modal, closeTo }) => (
-				<>
-					{modal ? (
-						<>
-							<Close closeTo={closeTo} />
-							<ModalBio
-								as={Bio}
-								title={title}
-								cover={cover}
-								job={bio.job}
-								phone={bio.phone}
-								mail={bio.mail}
-								to={slug}
-								text={text}
-							/>
-						</>
-					) : (
-						<>
-							<SEO title={title} />
-							<PageBio
-								as={Bio}
-								title={title}
-								cover={cover}
-								job={bio.job}
-								phone={bio.phone}
-								mail={bio.mail}
-								to={slug}
-								text={text}
-							/>
-						</>
-					)}
-				</>
-			)}
-		</ModalRoutingContext.Consumer>
+		<>
+			{modal ? <Close closeTo={closeTo} /> : <SEO title={title} />}
+			<Wrapper
+				as={Bio}
+				title={title}
+				cover={cover}
+				job={bio.job}
+				phone={bio.phone}
+				mail={bio.mail}
+				to={slug}
+				text={text}
+			/>
+		</>
 	);
 };
 

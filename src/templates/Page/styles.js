@@ -17,7 +17,7 @@ export const PageWrapper = styled.article`
 	}
 `;
 
-export const SpecialWrapper = styled.section`
+export const AsideWrapper = styled.aside`
 	max-width: 1000px;
 	margin: 0 auto 6em;
 `;

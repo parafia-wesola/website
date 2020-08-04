@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing';
@@ -8,7 +8,7 @@ import Close from 'components/Close';
 import ArticleMain from 'components/ArticleMain';
 import Crew from 'views/Crew';
 import Council from 'views/Council';
-import { ModalWrapper, PageWrapper, SpecialWrapper } from './styles';
+import { ModalWrapper, PageWrapper, AsideWrapper } from './styles';
 
 const PageTemplate = ({ data }) => {
 	const {
@@ -19,46 +19,29 @@ const PageTemplate = ({ data }) => {
 		author,
 	} = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
+	const { modal, closeTo } = useContext(ModalRoutingContext);
+
+	const Wrapper = modal ? ModalWrapper : PageWrapper;
+	const Aside = (
+		<AsideWrapper>
+			{type === 'pageCrew' && <Crew id="crew" />}
+			{type === 'pageCouncil' && <Council id="council" />}
+		</AsideWrapper>
+	);
 
 	return (
-		<ModalRoutingContext.Consumer>
-			{({ modal, closeTo }) => (
-				<>
-					{modal ? (
-						<>
-							<Close closeTo={closeTo} />
-
-							<ModalWrapper
-								as={ArticleMain}
-								cover={cover}
-								title={title}
-								content={content}
-								images={images}
-								author={author}
-							/>
-						</>
-					) : (
-						<>
-							<SEO title={title} />
-							<PageWrapper
-								as={ArticleMain}
-								cover={cover}
-								title={title}
-								content={content}
-								images={images}
-								author={author}
-							/>
-							{type !== 'page' && (
-								<SpecialWrapper>
-									{type === 'pageCrew' && <Crew id="crew" />}
-									{type === 'pageCouncil' && <Council id="council" />}
-								</SpecialWrapper>
-							)}
-						</>
-					)}
-				</>
-			)}
-		</ModalRoutingContext.Consumer>
+		<>
+			{modal ? <Close closeTo={closeTo} /> : <SEO title={title} />}
+			<Wrapper
+				as={ArticleMain}
+				cover={cover}
+				title={title}
+				content={content}
+				images={images}
+				author={author}
+			/>
+			{type !== 'page' && Aside}
+		</>
 	);
 };
 

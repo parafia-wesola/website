@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import PropTypes from 'prop-types';
-import Img from 'gatsby-image';
 import { graphql } from 'gatsby';
+import Img from 'gatsby-image';
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing';
 
 import SEO from 'components/SEO';
@@ -14,6 +14,7 @@ import { SectionTitle, TileList, TileItem, Background } from 'components/Share';
 import { ModalWrapper, PageWrapper } from './styles';
 
 const TileTemplate = ({ data }) => {
+	const { modal, closeTo } = useContext(ModalRoutingContext);
 	const { title, tiles, cover } = data.markdownRemark.frontmatter;
 	const id = data.markdownRemark.fields.slug.slice(1);
 
@@ -22,63 +23,32 @@ const TileTemplate = ({ data }) => {
 	if (id === 'propozycje') {
 		tile = <Suggestions id={id} />;
 	}
-	if (id === 'sakaramenty_i_sakramentalia') {
+	if (id === 'sakramenty_i_sakramentalia') {
 		tile = <Sacraments id={id} />;
 	}
 	if (id === 'wspolnoty_i_grupy') {
 		tile = <Communites id={id} />;
 	}
 
+	const Wrapper = modal ? ModalWrapper : PageWrapper;
+
 	return (
-		<ModalRoutingContext.Consumer>
-			{({ modal, closeTo }) => (
-				<>
-					{modal ? (
-						<>
-							<Close closeTo={closeTo} />
-							{tile || (
-								<ModalWrapper id={id}>
-									<Background
-										tile
-										as={Img}
-										fluid={cover.childImageSharp.fluid}
-									/>
-									<SectionTitle dark>{title}</SectionTitle>
-									<TileList muzzle>
-										{tiles.map(node => (
-											<TileItem key={node.title}>
-												<TileText title={node.title} to={node.to} />
-											</TileItem>
-										))}
-									</TileList>
-								</ModalWrapper>
-							)}
-						</>
-					) : (
-						<>
-							<SEO title={title} />
-							{tile || (
-								<PageWrapper id={id}>
-									<Background
-										tile
-										as={Img}
-										fluid={cover.childImageSharp.fluid}
-									/>
-									<SectionTitle dark>{title}</SectionTitle>
-									<TileList muzzle>
-										{tiles.map(node => (
-											<TileItem key={node.title}>
-												<TileText title={node.title} to={node.to} />
-											</TileItem>
-										))}
-									</TileList>
-								</PageWrapper>
-							)}
-						</>
-					)}
-				</>
+		<>
+			{modal ? <Close closeTo={closeTo} /> : <SEO title={title} />}
+			{tile || (
+				<Wrapper id={id}>
+					<Background tile as={Img} fluid={cover.childImageSharp.fluid} />
+					<SectionTitle dark>{title}</SectionTitle>
+					<TileList muzzle>
+						{tiles.map(node => (
+							<TileItem key={node.title}>
+								<TileText title={node.title} to={node.to} />
+							</TileItem>
+						))}
+					</TileList>
+				</Wrapper>
 			)}
-		</ModalRoutingContext.Consumer>
+		</>
 	);
 };
 

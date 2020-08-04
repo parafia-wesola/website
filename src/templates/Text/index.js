@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing';
@@ -10,29 +10,26 @@ import { SectionWrapper } from 'components/Share';
 import { ModalWrapper, PageWrapper } from './styles';
 
 const ModalTemplate = ({ data }) => {
+	const { modal, closeTo } = useContext(ModalRoutingContext);
 	const { title, cover } = data.markdownRemark.frontmatter;
 	const text = data.markdownRemark.html;
 
+	if (modal) {
+		return (
+			<ModalWrapper>
+				<Close closeTo={closeTo} />
+				<Sacraments title={title} cover={cover} text={text} />
+			</ModalWrapper>
+		);
+	}
+
 	return (
-		<ModalRoutingContext.Consumer>
-			{({ modal, closeTo }) => (
-				<>
-					{modal ? (
-						<ModalWrapper>
-							<Close closeTo={closeTo} />
-							<Sacraments title={title} cover={cover} text={text} />
-						</ModalWrapper>
-					) : (
-						<>
-							<SEO title={title} />
-							<PageWrapper as={SectionWrapper}>
-								<Sacraments title={title} cover={cover} text={text} />
-							</PageWrapper>
-						</>
-					)}
-				</>
-			)}
-		</ModalRoutingContext.Consumer>
+		<>
+			<SEO title={title} />
+			<PageWrapper as={SectionWrapper}>
+				<Sacraments title={title} cover={cover} text={text} />
+			</PageWrapper>
+		</>
 	);
 };
 
