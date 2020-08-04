@@ -1,22 +1,25 @@
 /* eslint react/prop-types:0 */
 /* eslint consistent-return:0 */
-const React = require('react');
-const Layout = require('./src/layouts/Main/index').default;
-const { getOffset, smoothScroll } = require('./src/utils/index');
+
 require('./src/assets/styles/fonts.css');
 require('./src/assets/styles/global.css');
 require('./src/assets/styles/modal.css');
 
+const React = require('react');
+const Layout = require('./src/layouts/Main/index').default;
+const { getOffset, smoothScroll } = require('./src/utils/index');
+
 exports.wrapPageElement = ({ element }) => <Layout>{element}</Layout>;
 
-exports.shouldUpdateScroll = ({ routerProps: { location } }, opts = {}) => {
+exports.shouldUpdateScroll = (
+	{ routerProps: { location }, prevRouterProps },
+	opts = {},
+) => {
 	const { offsetElement = '#navbar', duration = 1000 } = opts;
 
-	if (location.hash.includes('#')) {
-		const destinationElement = location.hash
-			? document.querySelector(location.hash)
-			: null;
-		if (!destinationElement) return true;
+	if (!!location.hash && !!prevRouterProps) {
+		const destinationElement = document.querySelector(location.hash);
+		if (!destinationElement) return false;
 
 		const destination = destinationElement.getBoundingClientRect().top;
 		const offset = getOffset(offsetElement);
