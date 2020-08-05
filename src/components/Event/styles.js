@@ -2,21 +2,17 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.div`
 	display: grid;
-	grid-template-columns: 7.5rem auto;
+	grid-template-columns:
+		${({ reverse }) => reverse ? 'auto 7.5rem' : '7.5rem auto'};
 	margin: 0 auto;
 	padding: 2em 0;
+	transition: all 0.2s ease-in-out;
 	color: ${({ theme }) => theme.colors.dark};
 	text-decoration: none;
-	transition: all 0.2s ease-in-out;
-
-	${({ reverse }) => reverse === 'reverse'
-		&& `
-		grid-template-columns: auto 7.5rem;
-	`}
 
 	&:hover {
-		background: ${({ theme }) => theme.colors.eventHoverBg};
 		transform: scale(1.05);
+		background: ${({ theme }) => theme.colors.eventHoverBg};
 	}
 
 	${({ theme }) => theme.mq.tablet} {
@@ -27,30 +23,26 @@ export const Wrapper = styled.div`
 
 export const Date = styled.div`
 	display: flex;
+	grid-column: ${({ reverse }) => (reverse ? '2/3' : '1/2')};
 	grid-row: 1/2;
-	grid-column: 1/2;
 	align-items: center;
 	justify-content: center;
 	width: 6.25em;
 	height: 6.25em;
-	font-weight: 600;
-	font-size: 1em;
-	line-height: 1.3;
-	white-space: pre-line;
-	text-align: center;
-	border-color: ${({ theme }) => theme.colors.eventCircle};
-	border-style: solid;
 	border-width: 0.625em;
+	border-style: solid;
 	border-radius: 50%;
+	border-color: ${({ theme }) => theme.colors.eventCircle};
+	font-size: 1em;
+	font-weight: 600;
+	line-height: 1.3;
+	text-align: center;
+	white-space: pre-line;
+	justify-self: ${({ reverse }) => (reverse ? 'end' : 'auto')};
 
-	${({ reverse }) => reverse === 'reverse'
-	&& `
-	grid-column: 2/3;
-	justify-self: end;
-	`}
 	${({ theme }) => theme.mq.tablet} {
-		grid-row: 1/3;
 		grid-column: 1/2;
+		grid-row: 1/3;
 		width: 8em;
 		height: 8em;
 		margin: auto;
@@ -58,18 +50,14 @@ export const Date = styled.div`
 `;
 
 export const Title = styled.h3`
+	grid-column: ${({ reverse }) => (reverse ? '1/2' : '2/3')};
 	grid-row: 1/2;
-	grid-column: 2/3;
 	align-self: center;
 	margin: 0;
-	font-weight: 600;
 	font-size: 1.25em;
+	font-weight: 600;
 	line-height: 1.35;
 
-	${({ reverse }) => reverse === 'reverse'
-	&& `
-	grid-column: 1/2;
-	`}
 	${({ theme }) => theme.mq.tablet} {
 		grid-column: 2/3;
 		align-self: end;
@@ -78,8 +66,8 @@ export const Title = styled.h3`
 `;
 
 export const Content = styled.p`
-	grid-row: 2/3;
 	grid-column: 1/3;
+	grid-row: 2/3;
 	line-height: 1.35;
 	text-align: justify;
 	text-justify: inter-word;

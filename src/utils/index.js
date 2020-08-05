@@ -1,4 +1,4 @@
-import polishMonths from './config';
+import { polishMonths, abbreviatedMonths } from './config';
 
 export function verticalPosition(element, offset) {
 	const el = document.querySelector(element);
@@ -15,6 +15,12 @@ export function getFormattedDate() {
 	const year = actualDate.getFullYear();
 	const formattedDate = `${day} ${polishMonths[month]} ${year}`;
 	return [formattedDate, actualDate];
+}
+
+export function getEventDate(date) {
+	const [eventDay, eventMonth] = date.split(' ').map(el => parseInt(el, 10));
+
+	return [eventDay, abbreviatedMonths[eventMonth]];
 }
 
 export async function getReadings() {

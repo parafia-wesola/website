@@ -1,20 +1,20 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import EventItem from './Item/index';
+import Event from 'components/Event';
 import { List } from './styles';
 
-const EventList = ({ events, scrollAnimation, className }) => (
+const EventList = ({ events, animIndex, className }) => (
 	<List className={className}>
 		{events.map(({ node }, index) => (
 			<li key={node.id}>
-				<EventItem
-					scrollAnimation={scrollAnimation}
-					index={index}
+				<Event
 					title={node.frontmatter.title}
-					reference={node.fields.slug}
 					eventDate={node.frontmatter.eventDate}
 					content={node.excerpt}
+					reference={node.fields.slug}
+					isAnimated={!!animIndex && animIndex <= index + 1}
+					index={index}
 				/>
 			</li>
 		))}
@@ -23,12 +23,12 @@ const EventList = ({ events, scrollAnimation, className }) => (
 
 EventList.propTypes = {
 	events: PropTypes.arrayOf(PropTypes.object).isRequired,
-	scrollAnimation: PropTypes.string,
+	animIndex: PropTypes.number,
 	className: PropTypes.string,
 };
 
 EventList.defaultProps = {
-	scrollAnimation: null,
+	animIndex: 0,
 	className: null,
 };
 

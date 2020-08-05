@@ -1,22 +1,24 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
-import { SectionWrapper, SectionTitle } from 'components/Share';
+
 import EventList from 'components/EventList';
+import { SectionWrapper, SectionTitle } from 'components/Share';
 import { StyledEventList, Text } from './styles';
 
 const EventSection = () => {
-	const { eventsFirst, eventsSecond } = useStaticQuery(graphql`
+	const { events } = useStaticQuery(graphql`
 		{
-			eventsFirst: allMarkdownRemark(
+			events: allMarkdownRemark(
 				sort: { fields: frontmatter___eventDate }
 				filter: {
 					isFuture: { eq: true }
 					frontmatter: { type: { eq: "article" } }
 				}
-				limit: 3
 			) {
 				edges {
 					node {
+						id
+						excerpt(pruneLength: 320)
 						frontmatter {
 							eventDate(formatString: "DD MM")
 							title
@@ -24,47 +26,20 @@ const EventSection = () => {
 						fields {
 							slug
 						}
-						excerpt(pruneLength: 320)
-						id
-					}
-				}
-			}
-			eventsSecond: allMarkdownRemark(
-				sort: { fields: frontmatter___eventDate }
-				filter: {
-					frontmatter: { eventDate: { gt: "0" }, type: { eq: "article" } }
-				}
-				skip: 3
-			) {
-				edges {
-					node {
-						frontmatter {
-							eventDate(formatString: "DD MM")
-							title
-						}
-						fields {
-							slug
-						}
-						excerpt(pruneLength: 320)
-						id
 					}
 				}
 			}
 		}
 	`);
+
 	return (
 		<SectionWrapper>
 			<SectionTitle dark>Nadchodzące wydarzenia</SectionTitle>
-			{eventsFirst.edges.length ? (
-				<StyledEventList as={EventList} events={eventsFirst.edges} />
+			{events.edges.length ? (
+				<StyledEventList as={EventList} events={events.edges} animIndex={4} />
 			) : (
 				<Text>Aktualnie nie ma żadnych nadchodzących wydarzeń...</Text>
 			)}
-			<StyledEventList
-				as={EventList}
-				events={eventsSecond.edges}
-				scrollAnimation="zoom-out-up"
-			/>
 		</SectionWrapper>
 	);
 };

@@ -1,4 +1,4 @@
-const polishMonths = {
+export const polishMonths = {
 	0: 'stycznia',
 	1: 'lutego',
 	2: 'marca',
@@ -13,4 +13,17 @@ const polishMonths = {
 	11: 'grudnia',
 };
 
-export default polishMonths;
+export const abbreviatedMonths = {
+	1: 'STY',
+	2: 'LUT',
+	3: 'MAR',
+	4: 'KWI',
+	5: 'MAJ',
+	6: 'CZE',
+	7: 'LIP',
+	8: 'SIE',
+	9: 'WRZ',
+	10: 'PAŹ',
+	11: 'LIS',
+	12: 'GRU',
+};
