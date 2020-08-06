@@ -10,7 +10,7 @@ require('slick-carousel/slick/slick.css');
 require('./src/assets/styles/slick.css');
 
 const React = require('react');
-const Layout = require('./src/layouts/Main/index').default;
+const Layout = require('./src/layouts/index').default;
 const { getOffset, smoothScroll } = require('./src/utils/index');
 
 exports.wrapPageElement = ({ element }) => <Layout>{element}</Layout>;
