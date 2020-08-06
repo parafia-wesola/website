@@ -19,6 +19,7 @@ const PageTemplate = ({ data }) => {
 		author,
 	} = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
+	const { excerpt } = data.markdownRemark;
 	const { modal, closeTo } = useContext(ModalRoutingContext);
 
 	const Wrapper = modal ? ModalWrapper : PageWrapper;
@@ -31,7 +32,11 @@ const PageTemplate = ({ data }) => {
 
 	return (
 		<>
-			{modal ? <Close closeTo={closeTo} /> : <SEO title={title} />}
+			{modal ? (
+				<Close closeTo={closeTo} />
+			) : (
+				<SEO title={title} description={excerpt} image={cover} />
+			)}
 			<Wrapper
 				as={ArticleMain}
 				cover={cover}
@@ -55,6 +60,7 @@ export const query = graphql`
 	query PageTemplate($id: String!) {
 		markdownRemark(id: { eq: $id }) {
 			html
+			excerpt
 			frontmatter {
 				...sectionFields
 				...imagesFields

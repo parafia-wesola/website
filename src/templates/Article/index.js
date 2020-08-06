@@ -18,10 +18,11 @@ const ArticleTemplate = ({ data }) => {
 		author,
 	} = data.markdownRemark.frontmatter;
 	const content = data.markdownRemark.html;
+	const { excerpt } = data.markdownRemark;
 	const moreArticles = data.allMarkdownRemark.edges;
 	return (
 		<>
-			<SEO title={title} />
+			<SEO title={title} description={excerpt} image={cover} article />
 			<Wrapper as={SectionWrapper}>
 				<StyledMain
 					as={ArticleMain}
@@ -49,6 +50,7 @@ export const query = graphql`
 	query ArticleTemplate($id: String!) {
 		markdownRemark(id: { eq: $id }) {
 			html
+			excerpt
 			frontmatter {
 				...sectionFields
 				...imagesFields

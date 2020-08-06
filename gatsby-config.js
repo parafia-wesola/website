@@ -5,6 +5,7 @@ module.exports = {
 		title: 'Parafia Opatrzności Bożej\nWarszawa Wesoła',
 		description:
 			'Strona Rzymskokatolickiej Parafii Opatrzności Bożej w Warszawie-Wesołej',
+		url: 'https://parafiawesola.pl',
 		author: '@lasmedia',
 		heading: 'Witaj na stronie Parafii Opatrzności Bożej\nw Warszawie Wesołej',
 	},

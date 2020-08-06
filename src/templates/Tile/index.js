@@ -34,7 +34,11 @@ const TileTemplate = ({ data }) => {
 
 	return (
 		<>
-			{modal ? <Close closeTo={closeTo} /> : <SEO title={title} />}
+			{modal ? (
+				<Close closeTo={closeTo} />
+			) : (
+				<SEO title={title} image={cover} />
+			)}
 			{tile || (
 				<Wrapper id={id}>
 					<Background tile as={Img} fluid={cover.childImageSharp.fluid} />

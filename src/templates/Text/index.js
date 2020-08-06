@@ -13,6 +13,7 @@ const ModalTemplate = ({ data }) => {
 	const { modal, closeTo } = useContext(ModalRoutingContext);
 	const { title, cover } = data.markdownRemark.frontmatter;
 	const text = data.markdownRemark.html;
+	const { excerpt } = data.markdownRemark;
 
 	if (modal) {
 		return (
@@ -25,7 +26,7 @@ const ModalTemplate = ({ data }) => {
 
 	return (
 		<>
-			<SEO title={title} />
+			<SEO title={title} description={excerpt} image={cover} />
 			<PageWrapper as={SectionWrapper}>
 				<Sacraments title={title} cover={cover} text={text} />
 			</PageWrapper>
@@ -43,6 +44,7 @@ export const query = graphql`
 	query ModalTemplate($id: String!) {
 		markdownRemark(id: { eq: $id }) {
 			html
+			excerpt
 			frontmatter {
 				...sectionFields
 			}

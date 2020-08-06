@@ -12,13 +12,18 @@ const BioTemplate = ({ data }) => {
 	const { modal, closeTo } = useContext(ModalRoutingContext);
 	const { title, cover, bio } = data.markdownRemark.frontmatter;
 	const text = data.markdownRemark.html;
+	const { excerpt } = data.markdownRemark;
 	const { slug } = data.markdownRemark.fields;
 
 	const Wrapper = modal ? ModalWrapper : PageWrapper;
 
 	return (
 		<>
-			{modal ? <Close closeTo={closeTo} /> : <SEO title={title} />}
+			{modal ? (
+				<Close closeTo={closeTo} />
+			) : (
+				<SEO title={title} description={excerpt} image={cover} />
+			)}
 			<Wrapper
 				as={Bio}
 				title={title}
@@ -43,6 +48,7 @@ export const query = graphql`
 	query BioTemplate($id: String!) {
 		markdownRemark(id: { eq: $id }) {
 			html
+			excerpt
 			...bioFields
 		}
 	}

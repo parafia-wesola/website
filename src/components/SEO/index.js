@@ -3,49 +3,51 @@ import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
 import { useStaticQuery, graphql } from 'gatsby';
 
-const SEO = ({ title, description, lang, meta }) => {
-	const { site } = useStaticQuery(
+const SEO = ({ title, description, image, article }) => {
+	const { site, defaultImage } = useStaticQuery(
 		graphql`
-			query {
+			{
 				site {
 					siteMetadata {
-						title
-						description
-						author
+						defaultTitle: title
+						defaultDescription: description
+						url
 					}
+				}
+				defaultImage: file(relativePath: { eq: "heroBg.jpg" }) {
+					publicURL
 				}
 			}
 		`,
 	);
 
-	const metaDescription = description || site.siteMetadata.description;
+	const { defaultTitle, defaultDescription, url } = site.siteMetadata;
+	const { publicURL } = image || defaultImage;
+
+	const seo = {
+		title: title || defaultTitle,
+		titleTemplate: '%s',
+		description: description || defaultDescription,
+		image: `${url}${publicURL}`,
+		type: article ? 'article' : 'website',
+		html: {
+			lang: 'pl-PL',
+		},
+	};
 
 	return (
 		<Helmet
-			htmlAttributes={{
-				lang,
-			}}
-			title={title}
-			titleTemplate={`%s | ${site.siteMetadata.title}`}
-			meta={[
-				{
-					name: 'description',
-					content: metaDescription,
-				},
-				{
-					property: 'og:title',
-					content: title,
-				},
-				{
-					property: 'og:description',
-					content: metaDescription,
-				},
-				{
-					property: 'og:type',
-					content: 'website',
-				},
-			].concat(meta)}
+			title={seo.title}
+			titleTemplate={seo.titleTemplate}
+			htmlAttributes={seo.html}
 		>
+			<meta name="description" content={seo.description} />
+			<meta name="image" content={seo.image} />
+			<meta property="og:type" content={seo.type} />
+			<meta property="og:title" content={seo.title} />
+			<meta property="og:description" content={seo.description} />
+			<meta property="og:image" content={seo.image} />
+
 			<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 		</Helmet>
 	);
@@ -54,14 +56,14 @@ const SEO = ({ title, description, lang, meta }) => {
 SEO.propTypes = {
 	title: PropTypes.string.isRequired,
 	description: PropTypes.string,
-	lang: PropTypes.string,
-	meta: PropTypes.arrayOf(PropTypes.object),
+	image: PropTypes.shape(),
+	article: PropTypes.bool,
 };
 
 SEO.defaultProps = {
-	description: '',
-	lang: 'pl',
-	meta: [],
+	description: null,
+	image: null,
+	article: false,
 };
 
 export default SEO;

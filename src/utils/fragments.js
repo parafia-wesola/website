@@ -4,6 +4,7 @@ export const sectionFields = graphql`
 	fragment sectionFields on MarkdownRemarkFrontmatter {
 		title
 		cover {
+			publicURL
 			childImageSharp {
 				fluid(quality: 75, maxWidth: 1360) {
 					...GatsbyImageSharpFluid_withWebp
@@ -26,6 +27,7 @@ export const bioFields = graphql`
 				mail
 			}
 			cover {
+				publicURL
 				childImageSharp {
 					fixed(quality: 75, cropFocus: CENTER, width: 200, height: 200) {
 						...GatsbyImageSharpFixed_withWebp
