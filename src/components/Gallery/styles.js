@@ -1,10 +1,8 @@
 import styled from 'styled-components';
 
-export const SliderImg = styled.div`
-	width: 100%;
-	max-height: 35em;
+export const Slide = styled.div`
 	border-radius: 5px;
 	cursor: pointer;
 `;
 
-export default SliderImg;
+export default Slide;

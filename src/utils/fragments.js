@@ -42,6 +42,7 @@ export const imagesFields = graphql`
 			id
 			childImageSharp {
 				fluid(maxWidth: 1360) {
+					aspectRatio
 					...GatsbyImageSharpFluid_withWebp
 				}
 			}

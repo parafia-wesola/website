@@ -1,44 +1,32 @@
 import React from 'react';
-import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
+import Img from 'gatsby-image';
 import Slider from 'react-slick';
 
-import { SliderImg } from './styles';
-import 'slick-carousel/slick/slick.css';
-import 'slick-carousel/slick/slick-theme.css';
-import 'assets/styles/slick.css';
+import { Slide } from './styles';
 
-const Gallery = ({ images }) => {
-	const sliderSettings = {
-		dots: true,
-		arrows: false,
-		centerMode: true,
-		slidesToShow: 1,
-		slidesToScroll: 1,
-		centerPadding: 30,
-	};
-
-	return (
-		<>
-			{images && (
-				<Slider
-					dots={sliderSettings.dots}
-					infinite={sliderSettings.infinite}
-					arrows={sliderSettings.arrows}
-					fade={sliderSettings.fade}
-				>
-					{images.map(image => (
-						<SliderImg
-							as={Img}
-							fluid={image.childImageSharp.fluid}
-							key={image.id}
-						/>
-					))}
-				</Slider>
-			)}
-		</>
-	);
-};
+const Gallery = ({ images }) => (
+	<>
+		{images && (
+			<Slider
+				dots
+				infinite={false}
+				arrows={false}
+				variableWidth
+				centerMode
+			>
+				{images.map(({ id, childImageSharp: { fluid } }) => (
+					<Slide
+						key={id}
+						as={Img}
+						fluid={fluid}
+						style={{ width: 500 * fluid.aspectRatio }}
+					/>
+				))}
+			</Slider>
+		)}
+	</>
+);
 
 Gallery.propTypes = {
 	images: PropTypes.arrayOf(PropTypes.object),
