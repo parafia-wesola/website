@@ -63,7 +63,7 @@ const Annoucements = ({ id }) => {
 				{isMain && (
 					<StyledMain
 						as={Main}
-						id="annoucement"
+						id="ogloszenia_parafialne_i_intencje"
 						title={annoucement.frontmatter.title}
 						text={annoucement.html}
 					/>

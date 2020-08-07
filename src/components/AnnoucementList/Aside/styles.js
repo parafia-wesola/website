@@ -12,7 +12,7 @@ export const Wrapper = styled.ul`
 
 	${({ theme }) => theme.mq.tabletMid} {
 		display: block;
-		padding: 3em 2rem;
+		padding: 0 2rem 3em;
 		border: 1px solid ${({ theme }) => theme.colors.annoucementBorder};
 	}
 `;
@@ -22,8 +22,8 @@ export const ListItem = styled.li`
 	background: ${({ theme }) => theme.colors.annoucementBackground};
 
 	${({ theme }) => theme.mq.mobileMid} {
-		padding: 2em 1.5rem;
 		flex: 50%;
+		padding: 2em 1.5rem;
 		${({ moved }) => moved
 			&& `
 			transform: translateY(-4em);
@@ -33,9 +33,5 @@ export const ListItem = styled.li`
 	${({ theme }) => theme.mq.tabletMid} {
 		padding: 4em 0 0;
 		transform: none;
-
-		&:first-of-type {
-			padding: 0;
-		}
 	}
 `;

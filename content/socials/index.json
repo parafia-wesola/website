@@ -18,7 +18,7 @@
 		{
 			"title": "Youtube",
 			"cover": "youtube.svg",
-			"to": "https://www.youtube.com/channel/UCydI-tJHrPj-KT_JTwAi2vw?view_as=subscriber",
+			"to": "https://www.youtube.com/channel/UCydI-tJHrPj-KT_JTwAi2vw",
 			"mobile": false,
 			"text": "Zasubskrybuj nasz kanał na Youtube"
 		}

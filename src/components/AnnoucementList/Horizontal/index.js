@@ -2,18 +2,18 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import Annoucement from 'components/Annoucement';
-import { Wrapper, Content } from './styles';
+import { Wrapper, Item, Content } from './styles';
 
 const Horizontal = ({ className, data }) => (
 	<Wrapper className={className}>
 		{data.map(({ title }) => (
-			<li key={title.id}>
+			<Item key={title.id} id={title.frontmatter.id}>
 				<Content
 					as={Annoucement}
 					title={title.frontmatter.title}
 					text={title.html}
 				/>
-			</li>
+			</Item>
 		))}
 	</Wrapper>
 );

@@ -1,6 +1,7 @@
 ---
 type: info
 title: dojazd
+id: dojazd
 ---
 
 SKM S2\
