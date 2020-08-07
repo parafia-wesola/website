@@ -1,13 +1,9 @@
 /* eslint react/prop-types:0 */
 /* eslint consistent-return:0 */
-
 require('./src/assets/styles/fonts.css');
-require('./src/assets/styles/global.css');
-require('./src/assets/styles/modal.css');
 require('leaflet/dist/leaflet.css');
 require('slick-carousel/slick/slick-theme.css');
 require('slick-carousel/slick/slick.css');
-require('./src/assets/styles/slick.css');
 
 const React = require('react');
 const Layout = require('./src/layouts/index').default;
