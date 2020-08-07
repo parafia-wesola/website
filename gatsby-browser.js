@@ -1,10 +1,6 @@
 /* eslint react/prop-types:0 */
 /* eslint consistent-return:0 */
 
-require('leaflet/dist/leaflet.css');
-require('slick-carousel/slick/slick-theme.css');
-require('slick-carousel/slick/slick.css');
-
 const React = require('react');
 const Layout = require('./src/layouts/index').default;
 const { getOffset, smoothScroll } = require('./src/utils/index');
