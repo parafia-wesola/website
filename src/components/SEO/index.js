@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet';
 import { useStaticQuery, graphql } from 'gatsby';
 
 const SEO = ({ title, description, image, article }) => {
-	const { site, defaultImage } = useStaticQuery(
+	const { site, defaultImage, fonts } = useStaticQuery(
 		graphql`
 			{
 				site {
@@ -15,6 +15,9 @@ const SEO = ({ title, description, image, article }) => {
 					}
 				}
 				defaultImage: file(relativePath: { eq: "heroBg.jpg" }) {
+					publicURL
+				}
+				fonts: file(relativePath: { eq: "fonts.css" }) {
 					publicURL
 				}
 			}
@@ -48,6 +51,7 @@ const SEO = ({ title, description, image, article }) => {
 			<meta property="og:description" content={seo.description} />
 			<meta property="og:image" content={seo.image} />
 
+			<link rel="stylesheet" href={fonts.publicURL} />
 			<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 		</Helmet>
 	);

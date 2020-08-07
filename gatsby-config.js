@@ -60,6 +60,13 @@ module.exports = {
 			},
 		},
 		{
+			resolve: 'gatsby-source-filesystem',
+			options: {
+				name: 'styles',
+				path: `${__dirname}/src/assets/styles`,
+			},
+		},
+		{
 			resolve: 'gatsby-plugin-root-import',
 			options: {
 				src: path.join(__dirname, 'src'),

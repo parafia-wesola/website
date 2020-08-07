@@ -1,6 +1,6 @@
 /* eslint react/prop-types:0 */
 /* eslint consistent-return:0 */
-require('./src/assets/styles/fonts.css');
+
 require('leaflet/dist/leaflet.css');
 require('slick-carousel/slick/slick-theme.css');
 require('slick-carousel/slick/slick.css');
