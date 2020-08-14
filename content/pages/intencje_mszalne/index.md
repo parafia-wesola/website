@@ -16,35 +16,25 @@ title: Intencje mszalne
 * 12:00: ✝ w intencji śp. Grażyny i Gustawa KORDAS
 * 18.00: w pierwszą rocznicę ślubu Joanny i Pawła z prośbą o Boże błogosławieństwo i dary Ducha Świętego
 
-
-
 **Poniedziałek, 10 sierpnia, Św. Wawrzyńca, diakona i męczennika,** *święto*
 
 * 7.00: ✝ za śp. Ewę WOŁODŹKO w miesiąc po pogrzebie;
 * 18.00: ✝ o wieczną radość o łaskę przyjęcia do grona zbawionych dla śp. Wiesława ŚMIGIELSKIEGO;
-
-
 
 **Wtorek, 11 sierpnia, św. Klary, dziewicy,** *wspomnienie*
 
 * 7.00: ✝ za śp. Roberta WALCZAK w miesiąc po pogrzebie;
 * 18.00: ✝ za śp. Zenona MIKOŁAJEWSKIEGO w miesiąc po śmierci;
 
-
-
 **Środa, 12 sierpnia,** *dzień powszedni*
 
 * 7.00: ✝ za śp. Władysławę i Józefa MOLSKICH
 * 18.00: ✝ za śp. Mariannę, Władysława, Józefę, Antoniego i Eugeniusza;
 
-
-
 **Czwartek, 13 sierpnia,** *dzień powszedni*
 
 * 7.00: ✝ za śp. Mirosława STRADOWSKIEGO w miesiąc po pogrzebie;
 * 18.00: o Boże błogosławieństwo i potrzebne łaski dla Hanny w dniu 16 urodzin;
-
-
 
 **Piątek, 14 sierpnia, Św. Maksymiliana Marii Kolbego, prezbitera i męczennika,** *wspomnienie*
 
@@ -52,15 +42,11 @@ title: Intencje mszalne
 * 18.00: o Bożą obecność w życiu i mieszkaniu Wandy;\
   (do modl. wiernych: za Klaudię i Piotra, którzy jutro udzielą sobie sakramentu małżeństwa)
 
-
-
 **Sobota, 15 sierpnia, WNIEBOWZIĘCIE NAJŚWIĘTSZEJ MARYI PANNY, MATKI BOŻEJ ZWYCIĘSKIEJ, głównej Patronki diecezji Warszawsko-Praskiej**
 
 * 7.00: za parafian;
 * 10:30 za Małgorzatę i Dominika w 1 rocznicę ślubu (chrzest: Helena Dębowska);
 * 18.00: za Magdalenę i Sławomira WITKOWSKICH w 7 rocz ślubu;
-
-
 
 **XX NIEDZIELA ZWYKŁA, 16 sierpnia**
 
@@ -69,6 +55,8 @@ title: Intencje mszalne
 * 12:00: ✝ za śp. Grzegorza MŁYNARCZYKOWSKIEGO;\
   (w modl. wiernych: o łaskę łagodnego przejścia przez chorobę dla Agnieszki SZYMAŃSKIEJ)
 * 18.00: O światło i dary Ducha Św. dla Daniela;
+
+
 
 <!--EndFragment-->
 
