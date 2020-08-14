@@ -4,8 +4,6 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
-
-
 #### XIX NIEDZIELA ZWYKŁA, 9 sierpnia
 
 * 8.00: intencje zbiorowe:
