@@ -4,6 +4,77 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+
+
+**XX NIEDZIELA ZWYKŁA, 16 sierpnia**
+
+* 8.00: za parafian;
+* 10.00: ✝ za śp. Genowefę, Wacława, Kostka, Romana GADOMSKICH;
+* 12:00: ✝ za śp. Grzegorza MŁYNARCZYKOWSKIEGO;
+
+  (w modl. wiernych: o łaskę łagodnego przejścia przez chorobę dla Agnieszki SZYMAŃSKIEJ)
+* 18.00: O światło i dary Ducha Św. dla Daniela;
+
+
+
+**Poniedziałek, 17 sierpnia, Św. Jacka, prezbitera, *wspomnienie***
+
+* 7.00:
+* 18.00: z okazji 40-lecia urodzin o potrzebne łaski dla Oleński i o opiekę Niepokalanej dla niej i dla całej rodziny;
+
+
+
+**Wtorek, 18 sierpnia**
+
+* 7.00: ✝ za śp. Zofię RATYŃSKĄ miesiąc po pogrzebie;
+* 18.00: ✝ za śp. Romana CHOIŃSKIEGO;
+
+
+
+**Środa, 19 sierpnia**
+
+* 7.00:
+* 18.00: ✝ za duszę śp. Eugenii GNIAZDOWSKIEJ i wszystkich z rodziny BRZOSTOWSKICH;
+
+
+
+**Czwartek, 20 sierpnia, Św. Bernarda, opata i doktora Kościoła, *wspomnienie***
+
+* 7.00:
+* 18.00: ✝ za śp. Mariannę BODZOŃ-SZCZEPKOWICZ (od rodziny siostry z Wesołej);
+
+
+
+**Piątek, 21 sierpnia, Św. Piusa X, papieża, *wspomnienie***
+
+* 7.00: ✝ za śp. Roberta GRYZ, miesiąc po pogrzebie;
+* 18.00: za małżeństwa w kryzysie;
+
+
+
+**Sobota, 22 sierpnia, Najświętszej Maryi Panny, Królowej, *wspomnienie***
+
+* 7.00:
+* 18.00: ✝ za śp. Jana KRUPĘ i za Zofię, Jana i Tadeusza NOWICKICH oraz za Józefa SOBAŃSKIEGO;
+
+
+
+**XXI NIEDZIELA ZWYKŁA, 23 sierpnia**
+
+* 8.00: ✝ za śp. Wandę, Mariana, Jana SKIBNIEWSKICH;
+* 10.00: intencja zbiorowa
+
+  * ✝ za śp. Józefę, Stanisława, Wojciecha, Stefana SZCZEPEK oraz za Eugeniusza, Jana, Zofia, Janinę MROCZEK
+  * ✝ za śp. Eugeniusza OBRĘPALSKIEGO w 25 rocznicę śmierci
+* 12:00: za parafian;
+* 18.00:  ✝ za śp. Stanisława PEŁKĘ i za zmarłych z rodziny;
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 #### XIX NIEDZIELA ZWYKŁA, 9 sierpnia
 
 * 8.00: intencje zbiorowe:
@@ -55,8 +126,6 @@ title: Intencje mszalne
 * 12:00: ✝ za śp. Grzegorza MŁYNARCZYKOWSKIEGO;\
   (w modl. wiernych: o łaskę łagodnego przejścia przez chorobę dla Agnieszki SZYMAŃSKIEJ)
 * 18.00: O światło i dary Ducha Św. dla Daniela;
-
-
 
 <!--EndFragment-->
 
