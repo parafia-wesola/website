@@ -3,20 +3,17 @@ type: info
 title: kancelaria parafialna
 id: kancelaria_parafialna
 ---
-
 tel. 22 773 56 35\
 kancelaria@parafiawesola.pl
 
 **w okresie letnim:**
 
-- **Wtorek**\
+* **Wtorek**\
   18.45 - 19.30
-- **Czwartek**\
+* **Czwartek**\
   18.45 - 19.30
 
-**_w sprawach pilnych prosimy o kontakt przed lub po Mszy Św. lub kontakt telefoniczny z księdzem dyżurującym_**
+***w sprawach pilnych prosimy o kontakt przed lub po Mszy Św. lub kontakt telefoniczny z księdzem dyżurującym***
 
-**od 6 lipca do 11 lipca** ks. Artur, tel. 885 902 200 \
-**od 12 lipca do 2 sierpnia** o. Adam, tel. 668 332 443\
-**od 3 sierpnia do 23 sierpnia** o. Krzysztof, tel. 664 050 978\
+**We wtorek, 25 sierpnia wyjątkowo kancelaria parafialna będzie nieczynna, bardzo przepraszamy i prosimy o kontakt telefoniczny.**\
 **od 24 sierpnia do 31 sierpnia** o. Adam, tel. 668 332 443
