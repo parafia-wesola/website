@@ -2,9 +2,73 @@
 type: text
 title: Intencje mszalne
 ---
+**XXI NIEDZIELA ZWYKŁA, 23 sierpnia**
+
+* 8.00: ✝ za śp. Wandę, Mariana i Jana SKIBNIEWSKICH
+* 10.00 intencje zbiorowe:
+
+  * o zdrowie dla Marka i potrzebne łaski dla całej rodziny
+  * ✝ za zmarłych z rodzin Haber, Grabskich i Baran.
+  * ✝ za śp. Józefę, Stanisława, Wojciecha, Stefana SZCZEPEK oraz za Eugeniusza, Jana, Zofię i Janinę MROCZEK.
+  * ✝ za śp. Eugeniusza OBRĘPALSKIEGO, w 25 r. śmierci
+  * ✝ za śp. Feliksa WĄSOWSKIEGO
+* 12:00 za parafian
+
+  CHRZTY: Franciszek Przeziński i Oliwia Joanna Klocek
+* 18.00 + za śp. Stanisławę PEŁKĘ oraz za zmarłych z rodziny
+
+
+
+**Poniedziałek, 24 sierpnia, św. Bartłomieja, apostoła, *święto***
+
+* 7.00 ✝ za śp. Danutę HORDNICZY
+* 18.00 ✝za śp. Helenę NESTOROWICZ, w 1 r. śmierci
+
+
+
+**Wtorek, 25 sierpnia**
+
+* 7.00 intencja dziękczynna z prośbą o obecność Najświętszej Rodziny z Nazaretu jaśniejącą światłością miłości miłosiernej we wszystkich rodzinach.
+* 18.00: ✝ za śp. Ewę, w 9 r. śmierci
+
+
+
+**Środa, 26 sierpnia, Najświętszej Maryi Panny Częstochowskiej, *uroczystość***
+
+* 7.00 ✝ za śp. Kazimierza, Mariannę, Antoniego, Bogdana i Janusza z rodziny ZAWADZKICH.
+* 18.00: ✝ za śp. Romana i Tomasza BANKIEWICZ oraz zmarłych z rodziny.
+
+**Czwartek, 27 sierpnia, Św. Moniki, *wspomnienie***
+
+* 7.00
+* 18.00 intencja dziękczynno-błagalna z okazji 35 urodzin Doroty.
+
+**Piątek, 28 sierpnia, Św. Augustyna, biskupa i doktora Kościoła, *wspomnienie***
+
+* 7.00 ✝ za śp. Słodkowskiego Jana i Zdzisława
+* 18.00
+
+
+
+**Sobota, 29 sierpnia, Męczeństwo św. Jana Chrzciciela, *wspomnienie***
+
+* 7.00
+* 18.00 za Barbarę i Mariana w 61 r. ślubu
+
+**XXII NIEDZIELA ZWYKŁA, 30 sierpnia**
+
+* 8.00 za parafian;
+* 10.00 za Kasię w 27 r. urodzin i Pawła w 31 r. urodzin
+* 12:00 ✝ za śp. Marię Górską, w 10 r. śmierci oraz za Mieczysława i Barbarę Górskich.
+
+  Chrzest: Barbara Pocztowska
+* 18.00: ✝ za śp. Andrzeja Chojeckiego, w 10 r. śmierci oraz zmarłych z rodziny Chojeckich i Potopczuk
+
+<!--EndFragment-->
+
+
+
 <!--StartFragment-->
-
-
 
 **XX NIEDZIELA ZWYKŁA, 16 sierpnia**
 
@@ -15,49 +79,35 @@ title: Intencje mszalne
   (w modl. wiernych: o łaskę łagodnego przejścia przez chorobę dla Agnieszki SZYMAŃSKIEJ)
 * 18.00: O światło i dary Ducha Św. dla Daniela;
 
-
-
 **Poniedziałek, 17 sierpnia, Św. Jacka, prezbitera, *wspomnienie***
 
 * 7.00:
 * 18.00: z okazji 40-lecia urodzin o potrzebne łaski dla Oleński i o opiekę Niepokalanej dla niej i dla całej rodziny;
-
-
 
 **Wtorek, 18 sierpnia**
 
 * 7.00: ✝ za śp. Zofię RATYŃSKĄ miesiąc po pogrzebie;
 * 18.00: ✝ za śp. Romana CHOIŃSKIEGO;
 
-
-
 **Środa, 19 sierpnia**
 
 * 7.00:
 * 18.00: ✝ za duszę śp. Eugenii GNIAZDOWSKIEJ i wszystkich z rodziny BRZOSTOWSKICH;
-
-
 
 **Czwartek, 20 sierpnia, Św. Bernarda, opata i doktora Kościoła, *wspomnienie***
 
 * 7.00:
 * 18.00: ✝ za śp. Mariannę BODZOŃ-SZCZEPKOWICZ (od rodziny siostry z Wesołej);
 
-
-
 **Piątek, 21 sierpnia, Św. Piusa X, papieża, *wspomnienie***
 
 * 7.00: ✝ za śp. Roberta GRYZ, miesiąc po pogrzebie;
 * 18.00: za małżeństwa w kryzysie;
 
-
-
 **Sobota, 22 sierpnia, Najświętszej Maryi Panny, Królowej, *wspomnienie***
 
 * 7.00:
 * 18.00: ✝ za śp. Jana KRUPĘ i za Zofię, Jana i Tadeusza NOWICKICH oraz za Józefa SOBAŃSKIEGO;
-
-
 
 **XXI NIEDZIELA ZWYKŁA, 23 sierpnia**
 
@@ -70,8 +120,6 @@ title: Intencje mszalne
 * 18.00:  ✝ za śp. Stanisława PEŁKĘ i za zmarłych z rodziny;
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
