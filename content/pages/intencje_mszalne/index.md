@@ -13,8 +13,6 @@ title: Intencje mszalne
   * ✝ za śp. Eugeniusza OBRĘPALSKIEGO, w 25 r. śmierci
   * ✝ za śp. Feliksa WĄSOWSKIEGO
 * 12:00 za parafian
-
-  CHRZTY: Franciszek Przeziński i Oliwia Joanna Klocek
 * 18.00 + za śp. Stanisławę PEŁKĘ oraz za zmarłych z rodziny
 
 
@@ -60,8 +58,6 @@ title: Intencje mszalne
 * 8.00 za parafian;
 * 10.00 za Kasię w 27 r. urodzin i Pawła w 31 r. urodzin
 * 12:00 ✝ za śp. Marię Górską, w 10 r. śmierci oraz za Mieczysława i Barbarę Górskich.
-
-  Chrzest: Barbara Pocztowska
 * 18.00: ✝ za śp. Andrzeja Chojeckiego, w 10 r. śmierci oraz zmarłych z rodziny Chojeckich i Potopczuk
 
 <!--EndFragment-->
