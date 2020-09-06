@@ -2,6 +2,64 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**XXIII NIEDZIELA ZWYKŁA, 6 września**
+
+* 7.00: za parafian
+* 9.00: ✝ za śp. Mariannę KIELEWSKĄ
+* 10.30: ✝ za śp. Gustawa ŁĘCZYCKIEGO i rodziców
+* 12:00: za Janka w 12 rocznicę urodzin
+* 18.00: za Mateusza w 11 rocznicę urodzin
+
+**Poniedziałek, 7 września, Bł. Ignacego Kłopotowskiego, prezbitera, *wspomnienie***
+
+* 7.00: ✝ za śp. Józefę, Aleksandra, Jana, Józefa, Mariannę, Rozalię z rodziny ZAWADZKICH
+* 18.00 ✝ za śp. Anielę ZBIEĆ
+
+**Wtorek, 8 września, Narodzenie Najświętszej Maryi Panny, *święto***
+
+* 7.00: ✝ za śp. Mariannę BODZON-SZCZEPKOWICZ miesiąc po pogrzebie
+* 18.00: ✝ za śp. Władysława ORLIKOWSKIEGO w 2 rocznicę śmierci
+
+**Środa, 9 września**
+
+* 7.00: ✝ za śp. Marię WĄSOWSKĄ miesiąc po pogrzebie
+* 18.00: ✝ za śp. Józefa WIERZBOWSKIEGO w 1 rocznicę śmierci
+
+**Czwartek, 10 września**
+
+* 7.00: o zdrowie dla Marka i potrzebne łaski dla rodziny
+* 18.00: ✝ za śp. Stanisława FAJFER oraz za dusze w czyśćcu cierpiące i znikąd nie mające pomocy
+
+**Piątek, 11 września**
+
+* 7.00: ✝ za śp. Marię oraz za zmarłych z rodziny DĘBNIAKÓW i STUDNIARSKICH o życie wieczne
+* 18.00: ✝ za śp. Wandę DZIĄBA w 1 rocznicę śmierci
+
+**Sobota, 12 września**
+
+* 7.00: ✝ za śp. Krzysztofa SOBIESZUK 4 miesiące po śmierci oraz za jego rodziców Władysławę\
+  i Mikołaja
+* 18.00: o łaskę wiary i właściwe rozeznanie dla Michała
+
+**XXIV NIEDZIELA ZWYKŁA, 13 września**
+
+* 7.00: ✝ za śp. Kazimierza RYTLA w 20 rocznicę śmierci
+* 9.00: intencja zbiorowa
+
+  * ✝ za śp. Helenę i Wiktora oraz za zmarłych z rodziny TURSKICH
+  * ✝ za śp. Mariannę WIŚNIEWSKĄ oraz za rodzinę WIŚNIEWSKICH i SKRZESZEWSKICH
+  * ✝ za śp. Izabelę, Stefanię, Halinę, za zmarłego Gerda i za zmarłych z rodziny RÓŻYCKICH i TROCHIMIUKÓW
+  * ✝ za śp. Wacława WETOSZKA
+* 10.30: za parafian
+* 12:00: ✝ za śp. Stefanię i Eugeniusza JAŹMIŃSKICH i za zmarłych z rodziny JAŹMIŃSKICH i KUTYŁOWSKICH
+* 18.00: ✝ za śp. Ryszarda ŁUPIŃSKIEGO i za zmarłych z rodziny WIŚNIEWSKICH oraz za Mirosława MACHNACKIEGO
+
+<!--EndFragment-->
+
+
+
 **XXI NIEDZIELA ZWYKŁA, 23 sierpnia**
 
 * 8.00: ✝ za śp. Wandę, Mariana i Jana SKIBNIEWSKICH
@@ -15,21 +73,15 @@ title: Intencje mszalne
 * 12:00 za parafian
 * 18.00 + za śp. Stanisławę PEŁKĘ oraz za zmarłych z rodziny
 
-
-
 **Poniedziałek, 24 sierpnia, św. Bartłomieja, apostoła, *święto***
 
 * 7.00 ✝ za śp. Danutę HORDNICZY
 * 18.00 ✝za śp. Helenę NESTOROWICZ, w 1 r. śmierci
 
-
-
 **Wtorek, 25 sierpnia**
 
 * 7.00 intencja dziękczynna z prośbą o obecność Najświętszej Rodziny z Nazaretu jaśniejącą światłością miłości miłosiernej we wszystkich rodzinach.
 * 18.00: ✝ za śp. Ewę, w 9 r. śmierci
-
-
 
 **Środa, 26 sierpnia, Najświętszej Maryi Panny Częstochowskiej, *uroczystość***
 
@@ -46,8 +98,6 @@ title: Intencje mszalne
 * 7.00 ✝ za śp. Słodkowskiego Jana i Zdzisława
 * 18.00
 
-
-
 **Sobota, 29 sierpnia, Męczeństwo św. Jana Chrzciciela, *wspomnienie***
 
 * 7.00
@@ -61,8 +111,6 @@ title: Intencje mszalne
 * 18.00: ✝ za śp. Andrzeja Chojeckiego, w 10 r. śmierci oraz zmarłych z rodziny Chojeckich i Potopczuk
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
