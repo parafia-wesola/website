@@ -9,11 +9,11 @@ title: Intencje mszalne
 * 7.00: + za śp. Kazimierza RYTLA w 20 rocznicę śmierci
 * 9.00: intencja zbiorowa:
 
-  * * za śp. Helenę i Wiktora oraz za zmarłych z rodziny TURSKICH
-  * * za śp. Mariannę WIŚNIEWSKĄ oraz za rodzinę WIŚNIEWSKICH i SKRZESZEWSKICH
-  * * za śp. Izabelę, Stefanię, Halinę, za zmarłego Gerda i za zmarłych z rodziny RÓŻYCKICH i TROCHIMIUKÓW
-  * * za śp. Wacława WETOSZKA
-  * * za śp. Kornela i Monikę KIESZKOWSKICH oraz Agnieszkę i Czesława ZASADA
+  * za śp. Helenę i Wiktora oraz za zmarłych z rodziny TURSKICH
+  * za śp. Mariannę WIŚNIEWSKĄ oraz za rodzinę WIŚNIEWSKICH i SKRZESZEWSKICH
+  * za śp. Izabelę, Stefanię, Halinę, za zmarłego Gerda i za zmarłych z rodziny RÓŻYCKICH i TROCHIMIUKÓW
+  * za śp. Wacława WETOSZKA
+  * za śp. Kornela i Monikę KIESZKOWSKICH oraz Agnieszkę i Czesława ZASADA
 * 10.30: za parafian
 * 12:00: + za śp. Stefanię i Eugeniusza JAŹWIŃSKICH i za zmarłych z rodziny JAŹWIŃSKICH i KUTYŁOWSKICH
 * 18.00: + za śp. Ryszarda ŁUPIŃSKIEGO i za zmarłych z rodziny WIŚNIEWSKICH oraz za Mirosława MACHNACKIEGO
