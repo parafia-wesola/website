@@ -4,6 +4,70 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+
+
+**XXIV NIEDZIELA ZWYKŁA, 13 września**
+
+* 7.00: + za śp. Kazimierza RYTLA w 20 rocznicę śmierci
+* 9.00: intencja zbiorowa:
+
+  * + za śp. Helenę i Wiktora oraz za zmarłych z rodziny TURSKICH
+  * + za śp. Mariannę WIŚNIEWSKĄ oraz za rodzinę WIŚNIEWSKICH i SKRZESZEWSKICH
+  * + za śp. Izabelę, Stefanię, Halinę, za zmarłego Gerda i za zmarłych z rodziny RÓŻYCKICH i TROCHIMIUKÓW
+  * + za śp. Wacława WETOSZKA
+  * + za śp. Kornela i Monikę KIESZKOWSKICH oraz Agnieszkę i Czesława ZASADA
+* 10.30: za parafian
+* 12:00: + za śp. Stefanię i Eugeniusza JAŹWIŃSKICH i za zmarłych z rodziny JAŹWIŃSKICH i KUTYŁOWSKICH
+* 18.00: + za śp. Ryszarda ŁUPIŃSKIEGO i za zmarłych z rodziny WIŚNIEWSKICH oraz za Mirosława MACHNACKIEGO
+
+**Poniedziałek, 14 września, Podwyższenie Krzyża Świętego, *święto***
+
+* 7.00: + za śp. Józefa, Janinę BARTNICKICH oraz Annę i Jana GRYGLAS
+* 18.00: w intencji wnuczki Ewy w dniu jej 32 urodzin, z prośbą o dar wiary, nadziei i miłości oraz o łaskę zaplanowania dalszego życia zgodnie z Wolą Bożą.
+
+**Wtorek, 15 września, Najświętszej Maryi Panny Bolesnej, *wspomnienie***
+
+* 7.00: + za śp. Prałata Stefana Wysockiego o życie wieczne
+* 18.00: + za śp. Agatę i Czesława BIELECKICH oraz Symeona i Józefa CHACIŃSKICH
+
+**Środa, 16 września, świętych męczenników Korneliusza, papieża i Cypriana, biskupa, *wspomnienie***
+
+* 7.00: o zdrowie dla Joanny, o Bożą opiekę dla Kingi i Julki oraz o siły i dary Ducha Świętego dla Wojciecha
+* 18.00: + za śp. Jana PAWŁOWSKIEGO o dar nieba
+
+**Czwartek, 17 września, św. Zygmunta Szczęsnego Felińskiego, biskupa, *wspomnienie***
+
+* 7.00: za Franciszka z okazji imienin
+* 18.00: Bierzmowanie
+
+**Piątek, 18 września, św. Stanisława Kostki, zakonnika, patrona Polski, *święto***
+
+* 7.00: + za śp. Feliksa WĄSOWSKIEGO w miesiąc po śmierci
+* 18.00: za małżeństwa w kryzysie
+
+**Sobota, 19 września**
+
+* 7.00:
+* 9:30: I Komunia św.
+* 11:00: I Komunia św.
+* 12:30: I Komunia św.
+* 18.00: + za śp. Bolesławę, Apolonię, Jana SAŁAŃSKICH i zmarłych z rodziny
+
+**XXV NIEDZIELA ZWYKŁA, 20 września**
+
+* 7.00: za Anetę i Tomka w 6. Rocznicę ślubu z prośbą o Boże błogosławieństwo
+* 9.00: + za śp. Janinę, Jadwigę, Kazimierza, Czesława i zmarłych z rodziny JAWOROWSKICH i JACZEWSKICH
+* 10.30: za Wiesławę i Stanisława MIELCARZ w 60 rocznicę ślubu z prośbą o zdrowie i Boże błogosławieństwo oraz opiekę Bożą dla ich dzieci, wnuków i prawnuków
+* 12:00: + za śp. Pawła Woźniaka\
+  w modlitwie wiernych za śp. Roberta ŁYSZKIEWICZ
+* 18.00: + za śp. Marię BOGUCKĄ w rocznicę śmierci
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXIII NIEDZIELA ZWYKŁA, 6 września**
 
 * 7.00: za parafian
@@ -57,8 +121,6 @@ title: Intencje mszalne
 * 18.00: ✝ za śp. Ryszarda ŁUPIŃSKIEGO i za zmarłych z rodziny WIŚNIEWSKICH oraz za Mirosława MACHNACKIEGO
 
 <!--EndFragment-->
-
-
 
 **XXI NIEDZIELA ZWYKŁA, 23 sierpnia**
 
