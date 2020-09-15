@@ -5,11 +5,9 @@ news:
   - size: large
     title: "Q&A: pytania i odpowiedzi"
   - size: large
-    title: Jubileusz 70-lecia Parafii
+    title: "otwarty kościół "
   - size: large
-    title: Weekend Laudato Si
-  - size: medium
-    title: "1, 2, 3,...Kana: propozycja dla małżeństw"
+    title: Jubileusz 70-lecia Parafii
   - size: medium
     title: Strona w rozbudowie
 ---
