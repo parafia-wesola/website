@@ -9,7 +9,7 @@ cover: bierzmowanie.jpg
 > Sobór Watykański II, Konst. Lumen gentium, 11, cyt. w KKK 1285
 
 \
-Na przygotowanie do bierzmowania w naszej parafii zapraszamy młodzież klas szóstych szkoły podstawowej oraz klas starszych. Na przestrzeni półtora roku, poczynając od połowy września, przygotowanie toczy się poprzez:
+Na przygotowanie do bierzmowania w naszej parafii zapraszamy młodzież klas ósmych szkoły podstawowej oraz klas starszych. Na przestrzeni półtora roku, poczynając od połowy września, przygotowanie toczy się poprzez:
 
 - osobiste zaangażowanie w wierze poprzez codzienną modlitwę,
 - przyjmowanie sakramentów świętych (niedzielna i świąteczna Eucharystia, w tym chociaż raz w miesiącu udział w Mszy wieczornej w naszej parafii, regularna spowiedź),
