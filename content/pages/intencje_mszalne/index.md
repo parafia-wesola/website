@@ -4,6 +4,67 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXV NIEDZIELA ZWYKŁA, 20 września**
+
+* 7.00: za Anetę i Tomka w 6. Rocznicę ślubu z prośbą o Boże błogosławieństwo
+* 9.00: + za śp. Janinę, Jadwigę, Kazimierza, Czesława i zmarłych z rodziny JAWOROWSKICH i JACZEWSKICH
+* 10.30: za Wiesławę i Stanisława MIELCARZ w 60 rocznicę ślubu z prośbą o zdrowie i Boże błogosławieństwo oraz opiekę Bożą dla ich dzieci, wnuków i prawnuków
+* 12:00: + za śp. Pawła Woźniaka\
+  (w modlitwie wiernych za śp. Roberta ŁYSZKIEWICZ)
+* 18.00: + za śp. Marię BOGUCKĄ w rocznicę śmierci
+
+**Poniedziałek, 21 września, Św. Mateusza, Apostoła i Ewangelisty, *święto***
+
+* 7.00: + za śp. Feliksa WĄSOWSKIEGO miesiąc po pogrzebie
+* 18.00: + za śp. Stanisława PEŁKĘ i za zmarłych z rodziny
+
+**Wtorek, 22 września**
+
+* 7.00: + za śp. Martę
+* 18.00: o dobre przeżycie czasu narzeczeństwa dla Asi i Rafała
+
+**Środa, 23 września, św. Pio z Pietralciny, prezbitera, *wspomnienie***
+
+* 7.00: o Boże błogosławieństwo i opiekę dla Anai
+* 18.00: + za śp. Walerię i Tadeusza MAJEK w rocznicę śmierci
+
+**Czwartek, 24 września**
+
+* 7.00: + za śp. Franciszkę, Władysława, Teresę, Zdzisława KIELISZCZYK
+* 18.00: + za śp. Kazimierza JACKIEWICZA
+
+**Piątek, 25 września**
+
+* 7.00: podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu Jaśniejącej Światłością Miłości Miłosiernej we wszystkich rodzinach
+* 18.00: + za śp. Bożenę MASZKIEWICZ, jej mamę Helenę oraz Alinę i Leszka WIŚNIEWSKICH
+
+**Sobota, 26 września**
+
+* 7.00: o łaskę uzdrowienia z choroby dla Jolanty
+* 18.00: + za śp. Marianne WYGANOWSKĄ o życie wieczne
+
+**XXVI NIEDZIELA ZWYKŁA, 27 września**
+
+* 7.00: o Boże błogosławieństwo dla Marcina i Weronikę KRASOWSKICH z okazji urodzin
+* 9.00: + za śp. Rafała KIELEWSKIEGO
+* 10.30: intencje zbiorowe
+
+  * + za śp. Kazimierę GOLĘDOWSKĄ w 8 rocznicę śmierci oraz za Franciszka, Annę, Walentego i Józefa GOLĘDOWSKICH
+  * + za śp. Roberta ŁYSZKIEWICZA
+  * + za śp. Andrzeja BĄKOWSKIEGO
+  * + za śp. Zygmunta KĘDZIERSKIEGO
+  * + za śp. Wojciecha STELMACHA
+  * + za śp. Michała i zmarłych z rodziny
+  * o uzdrowienie dla Joli
+* 12:00: za parafian
+* 18.00: + za śp. Tomasza BARAN i jego rodziców Marię i Jana oraz za z
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXIV NIEDZIELA ZWYKŁA, 13 września**
 
 * 7.00: + za śp. Kazimierza RYTLA w 20 rocznicę śmierci
