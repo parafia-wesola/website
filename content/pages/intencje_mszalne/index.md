@@ -49,19 +49,17 @@ title: Intencje mszalne
 * 9.00: + za śp. Rafała KIELEWSKIEGO
 * 10.30: intencje zbiorowe
 
-  * + za śp. Kazimierę GOLĘDOWSKĄ w 8 rocznicę śmierci oraz za Franciszka, Annę, Walentego i Józefa GOLĘDOWSKICH
-  * + za śp. Roberta ŁYSZKIEWICZA
-  * + za śp. Andrzeja BĄKOWSKIEGO
-  * + za śp. Zygmunta KĘDZIERSKIEGO
-  * + za śp. Wojciecha STELMACHA
-  * + za śp. Michała i zmarłych z rodziny
+  * za śp. Kazimierę GOLĘDOWSKĄ w 8 rocznicę śmierci oraz za Franciszka, Annę, Walentego i Józefa GOLĘDOWSKICH
+  * za śp. Roberta ŁYSZKIEWICZA
+  * za śp. Andrzeja BĄKOWSKIEGO
+  * za śp. Zygmunta KĘDZIERSKIEGO
+  * za śp. Wojciecha STELMACHA
+  * za śp. Michała i zmarłych z rodziny
   * o uzdrowienie dla Joli
 * 12:00: za parafian
 * 18.00: + za śp. Tomasza BARAN i jego rodziców Marię i Jana oraz za z
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
