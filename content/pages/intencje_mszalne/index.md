@@ -4,6 +4,74 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXVI NIEDZIELA ZWYKŁA, 27 września**
+
+* 7.00: o Boże błogosławieństwo dla Marcina i Weronikę KRASOWSKICH z okazji urodzin
+* 9.00: + za śp. Rafała KIELEWSKIEGO
+* 10.30: intencje zbiorowe
+
+  * + za śp. Kazimierę GOLĘDOWSKĄ w 8 rocznicę śmierci oraz za Franciszka, Annę, Walentego i Józefa GOLĘDOWSKICH
+  * + za śp. Roberta ŁYSZKIEWICZA
+  * + za śp. Andrzeja BĄKOWSKIEGO
+  * + za śp. Zygmunta KĘDZIERSKIEGO
+  * + za śp. Wojciecha STELMACHA
+  * + za śp. Michała i zmarłych z rodziny
+  * O uzdrowienie dla Joli
+  * + za śp. Stefanię, Stanisława, Władysława WIECZOREK
+  * + za śp. Urszulę LEWANDOWSKĄ
+* 12:00: za parafian
+* 18.00: + za śp. Tomasza BARAN i jego rodziców Marię i Jana oraz za zmarłych z rodziny BARAN
+
+
+
+**Poniedziałek, 28 września, Św. Wacława, męczennika, *wspomnienie***
+
+* 7.00: w intencji uczestniczek katofitnesu o Boże prowadzenie i potrzebne łaski
+* 18.00: + za śp. Danutę KOPCIŃSKĄ, aby Pan Bóg w swoim miłosierdziu wziął ją do swojego Królestwa
+
+**Wtorek, 29 września, Rocznica Poświęcenia Bazyliki Katedralnej w Warszawie-Pradze, *święto***
+
+* 7.00:
+* 18.00: + za śp. Kazimierza Jackiewicza w 18 rocznicę śmierci
+
+**Środa, 30 września, św. Hieronima, prezbitera i doktora Kościoła, *wspomnienie***
+
+* 7.00:
+* 18.00: + za śp. Stanisława GÓRSKIEGO w 4 rocznicę śmierci raz za jego rodziców i całą rodzinę
+
+**Czwartek, 1 października, św. Teresy od Dzieciątka Jezus, dziewicy i doktora Kościoła, *wspomnienie***
+
+* 7.00: z prośbą o liczne i święte powołania kapłańskie, zakonne i misyjne w naszej Ojczyźnie i na całym świecie oraz o odnowę serc w naszej parafii.
+* 18.00: z okazji 50 urodzin Piotra
+
+**Piątek, 2 października, świętych Aniołów Stróżów, *wspomnienie***
+
+* 7.00: + za śp. Krzysztofa SOBIESZUKA w dniu jego urodzin
+* 18.00: + za śp. Pawła RAKOWIECKIEGO, Krzysztofa i zmarłych z rodziny RAKOWIECKICH i STĘPNIÓW
+
+**Sobota, 3 października, świętych Archaniołów Michała, Gabriela i Rafała, *święto***
+
+* 7.00:
+* 15.00-15.55 Adoracja Najświętszego Sakramentu
+* 16.00: ślub Aleksandry Maciążek i Rafała Trynieckiego
+* 17.00 Nabożeństwo pierwszo-sobotnie
+* 18.00: w intencji Kół Żywego Różańca
+
+**XXVII NIEDZIELA ZWYKŁA, 4 października**
+
+* 7.00: za parafian
+* 9.00: + za śp. Zbigniewa NAWROCKIEGO w 4 rocznicę śmierci
+* 10.30: dziękczynna w 10 rocznicę przywrócenia Edwarda do życia po ciężkiej chorobie (w modlitwie wiernych: w intencji seniorów naszej parafii)
+* 12:00: za Kingę i Pawła w 6 rocznicę ślubu oraz za ich dzieci Alę i Adasia
+* 15.00-17.50 Adoracja Najświętszego Sakramentu
+* 18.00: za Macieja SUŁECKIEGO w 25 rocznicę urodzin
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXV NIEDZIELA ZWYKŁA, 20 września**
 
 * 7.00: za Anetę i Tomka w 6. Rocznicę ślubu z prośbą o Boże błogosławieństwo
