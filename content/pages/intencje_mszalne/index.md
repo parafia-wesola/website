@@ -10,19 +10,17 @@ title: Intencje mszalne
 * 9.00: + za śp. Rafała KIELEWSKIEGO
 * 10.30: intencje zbiorowe
 
-  * + za śp. Kazimierę GOLĘDOWSKĄ w 8 rocznicę śmierci oraz za Franciszka, Annę, Walentego i Józefa GOLĘDOWSKICH
-  * + za śp. Roberta ŁYSZKIEWICZA
-  * + za śp. Andrzeja BĄKOWSKIEGO
-  * + za śp. Zygmunta KĘDZIERSKIEGO
-  * + za śp. Wojciecha STELMACHA
-  * + za śp. Michała i zmarłych z rodziny
+  * za śp. Kazimierę GOLĘDOWSKĄ w 8 rocznicę śmierci oraz za Franciszka, Annę, Walentego i Józefa GOLĘDOWSKICH
+  * za śp. Roberta ŁYSZKIEWICZA
+  * za śp. Andrzeja BĄKOWSKIEGO
+  * za śp. Zygmunta KĘDZIERSKIEGO
+  * za śp. Wojciecha STELMACHA
+  * za śp. Michała i zmarłych z rodziny
   * O uzdrowienie dla Joli
-  * + za śp. Stefanię, Stanisława, Władysława WIECZOREK
-  * + za śp. Urszulę LEWANDOWSKĄ
+  * za śp. Stefanię, Stanisława, Władysława WIECZOREK
+  * za śp. Urszulę LEWANDOWSKĄ
 * 12:00: za parafian
 * 18.00: + za śp. Tomasza BARAN i jego rodziców Marię i Jana oraz za zmarłych z rodziny BARAN
-
-
 
 **Poniedziałek, 28 września, Św. Wacława, męczennika, *wspomnienie***
 
@@ -67,8 +65,6 @@ title: Intencje mszalne
 * 18.00: za Macieja SUŁECKIEGO w 25 rocznicę urodzin
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
