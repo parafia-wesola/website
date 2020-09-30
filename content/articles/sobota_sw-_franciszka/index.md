@@ -8,6 +8,6 @@ cover: sobota_sw._franciszka.jpg
 ---
 <!--StartFragment-->
 
-1. Za tydzień obchodzimy Niedzielę Św. Franciszka. W związku z tym zapraszamy na ***ora et labora* ze św. Franciszkiem** w sobotę, 10 października od 9.30 do 14.00. Będzie to radosny, wspólnie spędzony czas przy pracach ogrodowych na terenie wokół kościoła, plebanii i domu rekolekcyjnego, czas wspólnej modlitwy i chwili odpoczynku przy kawie, herbacie i ciastku. Zapraszamy zarówno panie jak i panów! Jeśli możecie to weźcie ze sobą własne narzędzia ogrodowe.
+Za tydzień obchodzimy Niedzielę Św. Franciszka. W związku z tym zapraszamy na ***ora et labora* ze św. Franciszkiem** w sobotę, 10 października od 9.30 do 14.00. Będzie to radosny, wspólnie spędzony czas przy pracach ogrodowych na terenie wokół kościoła, plebanii i domu rekolekcyjnego, czas wspólnej modlitwy i chwili odpoczynku przy kawie, herbacie i ciastku. Zapraszamy zarówno panie jak i panów! Jeśli możecie to weźcie ze sobą własne narzędzia ogrodowe.
 
 <!--EndFragment-->
