@@ -66,7 +66,7 @@ collections:
     slug: '{{slug}}'
     path: '{{slug}}/index'
     editor:
-      preview: false
+      preview: true
     fields:
       - label: Typ
         name: type
