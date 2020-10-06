@@ -21,12 +21,12 @@ export const Overlap = styled.div`
 	right: 20px;
 	height: 40px;
 	padding: 10px 40px;
-	color: ${({ theme }) => theme.colors.overlapColor};
-	text-transform: lowercase;
-	text-decoration: none;
-	background: ${({ theme }) => theme.colors.overlapBackground};
-	border-radius: 20px 20px 0 0;
 	transform: translateX(50%) rotate(270deg);
+	border-radius: 20px 20px 0 0;
+	background: ${({ theme }) => theme.colors.overlapBackground};
+	color: ${({ theme }) => theme.colors.overlapColor};
+	text-decoration: none;
+	text-transform: lowercase;
 
 	${({ theme }) => theme.mq.tabletMid} {
 		top: -40px;
@@ -41,28 +41,17 @@ export const Content = styled.div`
 	padding: 0 0 1em;
 	overflow: ${({ open }) => (open ? 'visible' : 'hidden')};
 
-	/* inside markdown lists */
-	ul,
-	ol {
-		padding: 0;
-		list-style-position: inside;
-
-		li {
-			margin-top: 1.5em;
-		}
-	}
-
 	/* foggy text effect */
 	::before {
+		content: '';
+		display: ${({ open }) => (open ? 'none' : 'block')};
 		position: absolute;
 		bottom: 0;
-		display: ${({ open }) => (open ? 'none' : 'block')};
 		width: 100%;
 		height: 100%;
 		box-shadow:
 			inset 0 -100px 42px -39px
 			${({ theme }) => theme.colors.annoucementBackground};
-		content: '';
 	}
 `;
 
@@ -73,32 +62,32 @@ export const Footer = styled.footer`
 `;
 
 export const ReadMore = styled.button`
-	position: relative;
 	display: flex;
+	position: relative;
 	justify-content: center;
 	margin: 0 auto;
 	padding: 1em 1.5em 1.5em;
+	border: none;
+	background: transparent;
 	color: ${({ theme }) => theme.colors.annoucementColor};
 	font: inherit;
-	font-weight: 600;
 	font-size: 0.75em;
+	font-weight: 600;
 	text-transform: lowercase;
-	background: transparent;
-	border: none;
 	cursor: pointer;
 
 	::after {
+		content: '';
 		position: absolute;
 		bottom: 0.25em;
 		width: 1.25em;
 		height: 1.25em;
-		background-image: url(${arrow});
-		background-repeat: no-repeat;
-		background-size: contain;
 		transform:
 			${({ open }) => open ? 'translateY(0.2em) rotate(-90deg)' : 'rotate(90deg)'};
 		transition: transform 0.3s linear;
-		content: '';
+		background-image: url(${arrow});
+		background-repeat: no-repeat;
+		background-size: contain;
 	}
 
 	:hover,
