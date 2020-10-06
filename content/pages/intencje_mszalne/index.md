@@ -4,6 +4,69 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXVII NIEDZIELA ZWYKŁA, 4 października**
+
+* 7.00: za parafian
+* 9.00: + za śp. Zbigniewa NAWROCKIEGO w 4 rocznicę śmierci
+* 10.30: + za śp. Stanisława FAJFER\
+  (w modlitwie wiernych: w intencji seniorów naszej parafii)
+* 12:00: za Kingę i Pawła w 6 rocznicę ślubu oraz za ich dzieci Alę i Adasia
+* 15.00-17.50 Adoracja Najświętszego Sakramentu
+* 18.00: za Macieja SUŁECKIEGO w 25 rocznicę urodzin
+
+**Poniedziałek, 5 października, Św. Faustyny Kowalskiej, dziewicy, *wspomnienie***
+
+* 7.00: o łaskę opieki Bożej dla Joanny, Kingi, Tomka i Julii
+* 18.00: + za duszę śp. Wojciecha STELMACHA (od sióstr Felicjanek i podopiecznych)
+
+**Wtorek, 6 października**
+
+* 7.00:
+* 18.00: wypominkowa
+
+**Środa, 7 października, Najświętszej Maryi Panny Różańcowej, *wspomnienie***
+
+* 7.00: + za śp. Andrzeja BĄKOWSKIEGO miesiąc po pogrzebie
+* 18.00: + za śp. Czesława i jego rodziców prosząc o łaskę Nieba
+
+**Czwartek, 8 października**
+
+* 7.00:
+* 18.00: o uzdrowienie dla mamy (Joli)
+
+**Piątek, 9 października**
+
+* 7.00: + za śp. Zygmunta KĘDZIERSKIEGO miesiąc po pogrzebie
+* 18.00: w 45 rocznicę ślubu Marianny i Marka dziękując za otrzymane łaski, z prośbą o dalsze błogosławieństwo dla całej rodziny
+
+**Sobota, 10 października**
+
+* 7.00: + za śp. Wojciecha STELMACHA miesiąc po pogrzebie
+* 15.00 Msza z chrztem Weroniki
+* 15.45-17.50 Adoracja Najświętszego Sakramentu
+* 18.00: + za śp. zmarłych z rodziny ŁĘTOWSKICH i SKONIECZNYCH
+
+**XXVIII NIEDZIELA ZWYKŁA, 11 października**
+
+* 7.00:
+* 9.00: intencja zbiorowa
+
+  * + za śp. Barbarę GÓRSKĄ w 45 rocznicę śmierci oraz za dusze ich rodziców Marii i Mieczysława GÓRSKICH
+  * + za śp. Czesławę i Jana OLSZEWSKICH i za zmarłych z rodziny
+  * + za śp. Mariannę TATAREK
+  * + za śp. Janusza PODNIESIŃSKIEGO
+  * + za śp. Janinę CZUBAK
+* 10.30: za parafian
+* 12:00: w 10 urodziny Zosi
+* 15.00-17.50 Adoracja Najświętszego Sakramentu
+* 18.00: + za śp. Wacławę, Władysława, Leszka i zmarłych z rodziny GAŁADYKÓW i WYSOCKICH
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXVI NIEDZIELA ZWYKŁA, 27 września**
 
 * 7.00: o Boże błogosławieństwo dla Marcina i Weronikę KRASOWSKICH z okazji urodzin
