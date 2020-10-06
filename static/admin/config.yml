@@ -17,8 +17,6 @@ collections:
     folder: content/annoucements
     create: true
     slug: 'ogloszenia-{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}'
-    editor:
-      preview: false
     fields:
       - label: Typ
         name: type
