@@ -51,19 +51,17 @@ title: Intencje mszalne
 * 7.00:
 * 9.00: intencja zbiorowa
 
-  * + za śp. Barbarę GÓRSKĄ w 45 rocznicę śmierci oraz za dusze ich rodziców Marii i Mieczysława GÓRSKICH
-  * + za śp. Czesławę i Jana OLSZEWSKICH i za zmarłych z rodziny
-  * + za śp. Mariannę TATAREK
-  * + za śp. Janusza PODNIESIŃSKIEGO
-  * + za śp. Janinę CZUBAK
+  * za śp. Barbarę GÓRSKĄ w 45 rocznicę śmierci oraz za dusze ich rodziców Marii i Mieczysława GÓRSKICH
+  * za śp. Czesławę i Jana OLSZEWSKICH i za zmarłych z rodziny
+  * za śp. Mariannę TATAREK
+  * za śp. Janusza PODNIESIŃSKIEGO
+  * za śp. Janinę CZUBAK
 * 10.30: za parafian
 * 12:00: w 10 urodziny Zosi
 * 15.00-17.50 Adoracja Najświętszego Sakramentu
 * 18.00: + za śp. Wacławę, Władysława, Leszka i zmarłych z rodziny GAŁADYKÓW i WYSOCKICH
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
