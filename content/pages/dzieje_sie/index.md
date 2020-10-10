@@ -14,4 +14,5 @@ news:
     title: Jubileusz 70-lecia Parafii
   - size: medium
     title: Strona w rozbudowie
+  - title: Strona w rozbudowie
 ---
