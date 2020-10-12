@@ -10,13 +10,13 @@ title: Intencje mszalne
 * 9.00: intencja zbiorowa
 
   * w intencji Renaty z okazji urodzin
-  * + za śp. Barbarę GÓRSKĄ w 45 rocznicę śmierci oraz za dusze rodziców Marii i Mieczysława GÓRSKICH
-  * + za śp. Czesławę i Jana OLSZEWSKICH i za zmarłych z rodziny
-  * + za śp. Mariannę TATAREK
-  * + za śp. Janusza PODNIESIŃSKIEGO
-  * + za śp. Janinę CZUBAK
-  * + za śp. Teresę TUSZEWSKĄ
-  * + za śp. Franciszka, Władysławę i Marię WIELGO
+  * za śp. Barbarę GÓRSKĄ w 45 rocznicę śmierci oraz za dusze rodziców Marii i Mieczysława GÓRSKICH
+  * za śp. Czesławę i Jana OLSZEWSKICH i za zmarłych z rodziny
+  * za śp. Mariannę TATAREK
+  * za śp. Janusza PODNIESIŃSKIEGO
+  * za śp. Janinę CZUBAK
+  * za śp. Teresę TUSZEWSKĄ
+  * za śp. Franciszka, Władysławę i Marię WIELGO
 * 10.30: za parafian
 * 12:00: w 10 urodziny Zosi
 * 18.00: + za śp. Wacławę, Władysława, Leszka i zmarłych z rodziny GAŁADYKÓW i WYSOCKICH
@@ -54,8 +54,6 @@ title: Intencje mszalne
 * 18.00: + za śp. Mariana WYGANOWSKIEGO o życie wieczne
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
