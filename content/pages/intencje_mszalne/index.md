@@ -4,6 +4,61 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXVIII NIEDZIELA ZWYKŁA, 11 października**
+
+* 7.00:
+* 9.00: intencja zbiorowa
+
+  * w intencji Renaty z okazji urodzin
+  * + za śp. Barbarę GÓRSKĄ w 45 rocznicę śmierci oraz za dusze rodziców Marii i Mieczysława GÓRSKICH
+  * + za śp. Czesławę i Jana OLSZEWSKICH i za zmarłych z rodziny
+  * + za śp. Mariannę TATAREK
+  * + za śp. Janusza PODNIESIŃSKIEGO
+  * + za śp. Janinę CZUBAK
+  * + za śp. Teresę TUSZEWSKĄ
+  * + za śp. Franciszka, Władysławę i Marię WIELGO
+* 10.30: za parafian
+* 12:00: w 10 urodziny Zosi
+* 18.00: + za śp. Wacławę, Władysława, Leszka i zmarłych z rodziny GAŁADYKÓW i WYSOCKICH
+
+**Poniedziałek, 12 października**
+
+* 18.00: + za Edwarda oraz Genowefę GOLIJANEK o radość nieba
+
+**Wtorek, 13 października, Bł. Honorata Koźmińskiego, prezbitera, *wspomnienie***
+
+* 18.00: + za śp. Wiktora
+
+**Środa, 14 października**
+
+* 18.00: + za śp. Mariannę RECHNIO w 11 rocznicę śmierci oraz za Jana i Bolesława RECHNIO
+
+**Czwartek, 15 października, św. Teresy od Jezusa, dziewicy i doktora Kościoła, *wspomnienie***
+
+* 18.00: + za śp. Jadwigę LACHOWSKĄ w dniu imienin oraz z zmarłych z rodziny LACHOWSKICH, GALIŃSKICH, RYDZEWSKICH
+
+**Piątek, 16 października, św. Jadwigi Śląskiej, *wspomnienie***
+
+* 18.00: za małżeństwa w kryzysie
+
+**Sobota, 17 października, św. Ignacego Antiocheńskiego, biskupa i męczennika, *wspomnienie***
+
+* 18.00: w rocznicę chrztu Marii o Boże błogosławieństwo
+
+**XXIX NIEDZIELA ZWYKŁA, 18 października**
+
+* 7.00: za parafian
+* 9.00: + za śp. Anielę WOJDYNA
+* 10.30: + za śp. Elżbietę KALISZEWSKĄ w 13 rocznicę śmierci oraz za jej ojca Henryka GOWINA w 6 rocznicę śmierci
+* 12:00: + za Jadwigę i Piotra GÓRSKICH w 8 rocznicę śmierci
+* 18.00: + za śp. Mariana WYGANOWSKIEGO o życie wieczne
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXVII NIEDZIELA ZWYKŁA, 4 października**
 
 * 7.00: za parafian
