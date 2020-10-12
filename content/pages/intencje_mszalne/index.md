@@ -27,7 +27,7 @@ title: Intencje mszalne
 
 **Wtorek, 13 października, Bł. Honorata Koźmińskiego, prezbitera, *wspomnienie***
 
-* 18.00: + za śp. Wiktora
+* 18.00: + za śp. Wiktora KOZIOŁ
 
 **Środa, 14 października**
 
