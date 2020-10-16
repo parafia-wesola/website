@@ -7,6 +7,8 @@ news:
   - size: large
     title: "Q&A: pytania i odpowiedzi"
   - size: large
+    title: Kurs przedmałżeński
+  - size: large
     title: "otwarty kościół "
   - size: large
     title: Jubileusz 70-lecia Parafii
