@@ -3,7 +3,7 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Koronawirus w Parafii
+    title: korona-komunikat 16.10.
   - size: large
     title: "Q&A: pytania i odpowiedzi"
   - size: large
