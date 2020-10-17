@@ -20,7 +20,7 @@ Ordynariusz naszej Diecezji Ks. Bp Romuald Kamiński 16 października b.r. wyda�
 
 Według nowej zasady przebywania 1 osoby na 7 m2, do naszego kościoła obecnie może wejść jednocześnie **35 osób** (nie licząc posługujących). W niedługim czasie pewnie uruchomimy na nowo transmisje online z naszego kościoła. W najbliższą niedzielę na kanale YouTube naszej parafii proponujemy **transmisję** Mszy św., którą Wspólnota Chemin Neuf, pozostająca na kwarantannie w Domu rekolekcyjnym, odprawi o **11.30** pod przewodnictwem o. Krzysztofa. [link do Mszy św.](https://youtu.be/rJuH6EFnx74)
 
-**Rozkład Mszy niedzielnych pozostaje bez zmian.** W ten weekend odprawiać będzie ks. Krzysztof Przesmycki oraz pallotyn ks. Józef Górzyński. Bardzo dziękujemy im za pomoc!
+**Rozkład Mszy niedzielnych pozostaje bez zmian.** W ten weekend odprawiać będzie ks. Krzysztof Przesmycki oraz pallotyn ks. Łukasz Górzyński. Bardzo dziękujemy im za pomoc!
 
 **W tygodniu będą odprawiane Msze św. o 7.00 i 18.00**. Zachowamy też wieczorną **Adorację Najśw. Sakramentu** i możliwość **spowiedzi** wieczorem.
 
