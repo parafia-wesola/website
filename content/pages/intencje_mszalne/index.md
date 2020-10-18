@@ -52,14 +52,12 @@ title: Intencje mszalne
 * 10.30: INTENCJE ZBIOROWE
 
   * Dziękczynna za 70 lat życia Danuty, z prośbą o Boże błogosławieństwo i zdrowie;
-  * + za śp. Irenę i Czesława oraz zmarłych z rodzin WISNIEWSKICH i SAWICKICH
-  * + za śp. Halinę GRONEK
+  * za śp. Irenę i Czesława oraz zmarłych z rodzin WISNIEWSKICH i SAWICKICH
+  * za śp. Halinę GRONEK
 * 12:00: ZA PARAFIAN
 * 18.00: za Jolantę i Grzegorza w 32 rocznicę ślubu.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
