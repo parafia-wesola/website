@@ -4,6 +4,65 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXIX NIEDZIELA ZWYKŁA, 18 października**
+
+* 7.00: za parafian
+* 9.00: + za śp. Anielę WOJDYNA
+* 10.30: + za śp. Elżbietę KALISZEWSKĄ, w 13 r. ś., i jej ojca śp. Henryka GOWIN, w 6 r. ś.
+* 12:00: + za śp. Jadwigę i Piotra GÓRSKICH, w 8 r. ś.
+* 18.00: + za śp. Mariana WYGANOWSKIEGO, o życie wieczne.
+
+**Poniedziałek, 19 października**
+
+* 7.00: + za Jadwigę, Antoniego, Józefa SOBICZEWSKICH
+* 18.00 za Marysię Śniecką z ok. 30 urodzin
+
+**Wtorek, 20 października, Św. Jana Kantego, prezbitera, *wspomnienie***
+
+* 7.00
+* 18.00: + za śp. Lucynę WRÓBEL, w 1 r. ś. oraz za zmarłych z rodziny
+
+**Środa, 21 października**
+
+* 7.00 za Urszulę z ok. imienin
+* 18.00: + za śp. Iwonę PRESZ
+
+**Czwartek, 22 października, św. Jana Pawła II, *wspomnienie***
+
+* 7.00 w dniu 95 urodzin Eligiusza z prośbą o Boże błogosławieństwo i zdrowie
+* 18.00: + za śp. Krzysztofa SOBIESZUKA
+
+**Piątek, 23 października**
+
+* 7.00 + za śp. Mirosława PIETRZAK, w miesiąc po pogrzebie
+* 16.00 za Emilię i Michała w dniu ślubu
+* 18.00: + za śp. Olę BERNAŚ, w 4 r. ś., śp. Stanisławę i Stanisława FELTER oraz za śp. Irenę SZCZUDLIŃSKĄ.
+
+**Sobota, 24 października**
+
+* 7.00 + za śp. Stanisławę, Alfreda i ich rodziców
+* 13.00 za Milenę i Radosława w dniu ślubu
+* 15.00 za Justynę i Karola w dniu ślubu
+* 18.00: + za śp. Mariannę ŚLIWOŃ, w 6 r. ś., oraz za śp. Kazimierę, Waleriana, Adelajdę i Bolesława, Ireneusza, Barbarę i Alfreda, Janinę i Antoniego.
+
+**XXX NIEDZIELA ZWYKŁA, 25 października**
+
+* 7.00: podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością miłości miłosiernej we wszystkich rodzinach.
+* 9.00: + za śp. Kamilę i Jana WĄSOWSKICH, Annę i Teofila SKIBNIEWSKICH
+* 10.30: INTENCJE ZBIOROWE
+
+  * Dziękczynna za 70 lat życia Danuty, z prośbą o Boże błogosławieństwo i zdrowie;
+  * + za śp. Irenę i Czesława oraz zmarłych z rodzin WISNIEWSKICH i SAWICKICH
+  * + za śp. Halinę GRONEK
+* 12:00: ZA PARAFIAN
+* 18.00: za Jolantę i Grzegorza w 32 rocznicę ślubu.
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXVIII NIEDZIELA ZWYKŁA, 11 października**
 
 * 7.00:
