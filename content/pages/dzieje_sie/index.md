@@ -3,9 +3,7 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: korona-komunikat 16.10.
-  - size: large
-    title: "Q&A: pytania i odpowiedzi"
+    title: Ogłoszenia parafialne 25.10
   - size: large
     title: Spotkanie Wiara i Praca online
   - size: large
