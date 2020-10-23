@@ -7,7 +7,7 @@ news:
   - size: large
     title: "Q&A: pytania i odpowiedzi"
   - size: large
-    title: Kurs przedmałżeński
+    title: Spotkanie Wiara i Praca online
   - size: large
     title: "otwarty kościół "
   - size: large
