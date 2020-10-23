@@ -1,0 +1,37 @@
+---
+type: article
+title: Ogłoszenia parafialne 25.10
+date: 2020-10-23T20:46:58.333Z
+eventDate: ""
+author: parafia wesoła
+cover: koronawirus_w_parafii.png
+---
+<!--StartFragment-->
+
+**Ogłoszenia duszpasterskie**
+
+1. **Dziękujemy** za troskę i modlitwę podczas ostatnich trzech tygodni, kiedy o. Adam przechodził covid-19 razem z dwiema innymi osobami mieszkającymi w domu rekolekcyjnym, kiedy plebania i dom rekolekcyjny pozostawały szczelnie zamknięte. **Polecamy Waszej modlitwie** wszystkich chorych w naszej parafii. Łączmy się razem w dalszej modlitwie o bezpieczeństwo, o nierozprzestrzenianie się wirusa, za służbę zdrowia i o ustanie pandemii w Polsce i na świecie.
+
+2. Przypominamy o **obostrzeniach**: w naszym kościele może przebywać 35 osób, obowiązują maseczki zakrywające nos i usta, dezynfekcja rąk, zachowanie odległości między osobami. Komunii udzielamy rozdzielając dwa sposoby jej udzielania: na rękę i do ust.
+
+3. W przyszłym tygodniu **kancelaria** parafialna będzie czynna według normalnego rytmu w poniedziałek, środę i piątek.
+
+4. Zapraszamy na **Adorację Najświętszego Sakramentu** od poniedziałku do piątku po Mszy wieczornej do 19.15. W weekendy na nowo proponujemy Adorację między 15.00 a 18.00.
+
+5. **Spowiadamy** w tygodniu po Mszy wieczornej, a w niedziele i sobotę wieczór – 15 min przed każdą Mszą.
+
+6. Wracamy do transmisji internetowej Mszy niedzielnej z naszej parafii. Transmitować będziemy na kanale YouTube naszej parafii **Mszę o godz. 18** [link do Mszy św ](https://youtu.be/5Y6PWK6snfI)
+
+7. W niedzielę 25 października zapraszamy **młodzież** na pierwsze spotkanie. Odbędzie się online, na stronie [Młodzi OPEN](<https://www.facebook.com/mlodzi.open>). Zaczniemy od spotkania na Facebooku, a potem w grupach na zoomie.
+
+8. Z powodu epidemii koronawirusa nie jest możliwe zorganizowanie spotkania weekendowego ***Wiara i Praca*** na żywo. Aby jednak spotkanie się odbyło, proponujemy krótszy wariant: „Kochaj bliźniego swego …w pracy” część I, w formie online na zoomie 7 listopada, od 15.00 do 20.00 z przerwą na kawę (2 x 2 godz.). Zapisy przez stronę internetową: [pod linkiem](<https://www.chemin-neuf.pl/pl/homepage/nasze-propozycje/wiara-i-praca/5f6087e5396588b6769de2c0/weekend-wiara-i-praca>). Mamy nadzieję, że w okresie wiosennym możliwe będzie zrealizowanie II części tematu o relacjach zawodowych na żywo w formie 2-dniowego spotkania. Termin będzie ustalony w zależności od sytuacji epidemicznej.
+
+9. Zapowiadany **Kurs dla narzeczonych** również **nie** odbędzie się teraz. Przenosimy go na wiosnę. Jeśli wtedy również jeszcze nie będzie mógł odbywać się poprzez spotkania na żywo, to zaproponujemy wersję online.
+
+10. W przyszłą niedzielę wypada **Uroczystość Wszystkich Świętych** a po niej **Wspomnienie Wszystkich Zmarłych**. W tym roku pasterze Kościoła jak i władze świeckie zachęcają, by nawiedzenie grobów rozłożyć na dłuższy czas. Odpust związany z modlitwą za zmarłych można uzyskać przez cały listopad. W naszej parafii nie odbędzie procesja na cmentarzu. Proponujemy **wypominki za zmarłych** w trzech wariantach: jednorazowe (przeczytamy je w niedzielę na cmentarzu po Mszy św. na 12.00), oktawalne (od 2 do 8 listopada sprawujemy Mszę wieczorną a czytamy wypominki od 17.30), oraz roczne (w każdy pierwszy wtorek miesiąca ofiarujemy Mszę św. i czytamy intencje od 17.30). Zachęcamy, by w wypominkach rocznych podawać tylko najbliższe osoby. Kartki do wypisania wypominek są z tyłu kościoła. Wypominki można wysłać mailem na adres kancelarii : kancelaria@parafiawesola.pl, a ofiarę złożyć przez przelew na konto parafii: \
+28 8019 1010 2002 0007 0714 0001\
+Bank Spółdzielczy w Halinowie, oddział Wesoła
+
+<!--EndFragment-->
+
+<!--EndFragment-->
