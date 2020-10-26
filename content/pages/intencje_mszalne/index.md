@@ -4,6 +4,71 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXIX NIEDZIELA ZWYKŁA, 25 października**
+
+* 7.00 podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością miłości miłosiernej we wszystkich rodzinach.
+* 9.00 + za śp. Kamilę i Jana WĄSOWSKICH, Annę i Teofila SKIBNIEWSKICH
+* 10.30 INTENCJE ZBIOROWE
+
+  * Dziękczynna za 70 lat życia Danuty, z prośbą o Boże błogosławieństwo i zdrowie;
+  * Za Józefa ABRAMCZYKA o łaskę powrotu do zdrowia;
+  * Za Weronikę, z okazji 22 rocznicy urodzin z prośbą o Boże błogosławieństwo i dary Ducha Św;
+  * Za Marię i Piotra z ok. 24 r. ślubu z prośbą o Boże błogosławieństwo i zgodę oraz wszelkie łaski dla całej rodziny z dziećmi;
+  * O łaskę udanej operacji i zdrowia dla Szymonka;
+  * + za śp. Irenę i Czesława oraz zmarłych z rodzin WISNIEWSKICH i SAWICKICH
+  * + za śp. Halinę GRONEK
+  * + za śp. Wacława DOMAŃSKIEGO
+* 12:00 ZA PARAFIAN
+* 18.00 za Jolantę i Grzegorza w 32 rocznicę ślubu.
+
+**Poniedziałek, 26 października**
+
+* 7.00:
+* 13.30 pogrzeb śp. Andrzeja CWOJDZIŃSKIEGO
+* 18.00 + za śp. Jadwigę MŁYNARSKĄ w 1 rocznicę śmierci oraz Czesława MŁYNARSKIEGO w 9 rocznicę śmierci
+
+**Wtorek, 27 października**
+
+* 7.00 za Marię i Józefa w 47 rocznicę ślubu z prośbą o dalsze błogosławieństwa na drodze małżeńskiej.
+* 14.30 pogrzeb śp. Ryszarda KORDAS
+* 18.00 Za Kubę z okazji 18 urodzin z prośbą o Boże błogosławieństwo.
+
+**Środa, 28 października, Świętych Apostołów Szymona i Judy Tadeusza, *święto***
+
+* 7.00 + za śp. duszę Panu Bogu znaną.
+* 18.00 + za śp. Antoniego RUMIAKA, w 5 rocznicę śmierci
+
+**Czwartek, 29 października**
+
+* 7.00 + za śp. Macieja PACHOCKIEGO w 15 rocznicę śmierci oraz za zmarłych z rodzin PACHOCKICH i SKRZECZKOWSKICH
+* 18.00 za Jagodę z okazji 13 urodzin
+* 18.00 za Halinę i Zbigniewa MIKOS z okazji 58 rocznicy ślubu.
+
+**Piątek, 30 października**
+
+* 7.00 + za śp. Janusza Krzysztofa PODNIESIŃSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Łukasza KRYSZTOWIKA w 10 rocznicę śmierci
+* 18.00 + za zmarłych z rodzin KAŻMIERCZUKÓW, HRYCIUKÓW, KOZIATKÓW i ŚNITKÓW
+
+**Sobota, 31 października**
+
+* 7.00 + za śp. Adelę w 15 rocznicę śmierci oraz śp. Wacława i Danutę REDO
+* 18.00 + za śp. Zdzisława oraz Janinę i Roberta WIERZBOWSKICH
+
+**XXXI NIEDZIELA ZWYKŁA, WSZYSTKICH ŚWIĘTYCH, *uroczystość*, 1 listopada**
+
+* 7.00 za parafian
+* 9.00 + za śp. Zygmunta BILBIN w 7 rocznicę śmierci, jego Rodziców: Justyny i Władysława, jego Teściów: Stefanii i Jakuba, jego Stryjostwa: Julii i Jana z prośbą o łaski i Boże Błogosławieństwo w życiu wiecznym
+* 10.30 + za śp. Zofię i Tadeusza KOŚCIESZÓW
+* 12:00 INTENCJE WYPOMINKOWE ZBIOROWE
+* 18.00 O Boże błogosławieństwo dla Pauliny z okazji rocznicy Chrztu św.
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXIX NIEDZIELA ZWYKŁA, 18 października**
 
 * 7.00: za parafian
