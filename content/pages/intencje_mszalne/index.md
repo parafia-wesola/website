@@ -15,9 +15,9 @@ title: Intencje mszalne
   * Za Weronikę, z okazji 22 rocznicy urodzin z prośbą o Boże błogosławieństwo i dary Ducha Św;
   * Za Marię i Piotra z ok. 24 r. ślubu z prośbą o Boże błogosławieństwo i zgodę oraz wszelkie łaski dla całej rodziny z dziećmi;
   * O łaskę udanej operacji i zdrowia dla Szymonka;
-  * + za śp. Irenę i Czesława oraz zmarłych z rodzin WISNIEWSKICH i SAWICKICH
-  * + za śp. Halinę GRONEK
-  * + za śp. Wacława DOMAŃSKIEGO
+  * za śp. Irenę i Czesława oraz zmarłych z rodzin WISNIEWSKICH i SAWICKICH
+  * za śp. Halinę GRONEK
+  * za śp. Wacława DOMAŃSKIEGO
 * 12:00 ZA PARAFIAN
 * 18.00 za Jolantę i Grzegorza w 32 rocznicę ślubu.
 
@@ -64,8 +64,6 @@ title: Intencje mszalne
 * 18.00 O Boże błogosławieństwo dla Pauliny z okazji rocznicy Chrztu św.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
