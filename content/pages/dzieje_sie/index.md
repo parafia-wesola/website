@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Cmentarz 31.10-2.11
+  - size: large
     title: Ogłoszenia parafialne 25.10
   - size: large
     title: Spotkanie Wiara i Praca online
