@@ -10,4 +10,6 @@ cover: msza_sw.png
 
 Zapraszamy na niedzielną Mszę św. z naszej Parafii. 1 listopada, godz. 18.00
 
+[link do Mszy św.](https://youtu.be/tmWmlzfAuUQ)
+
 <!--EndFragment-->
