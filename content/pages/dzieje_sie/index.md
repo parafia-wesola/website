@@ -14,6 +14,4 @@ news:
     title: Spotkanie Wiara i Praca online
   - size: medium
     title: "otwarty kościół "
-  - title: Strona w rozbudowie
-    size: medium
 ---
