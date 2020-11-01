@@ -7,8 +7,6 @@ news:
   - size: large
     title: Msza św. online
   - size: large
-    title: Ogłoszenia parafialne 25.10
-  - size: large
     title: Jubileusz 70-lecia Parafii
   - size: medium
     title: Spotkanie Wiara i Praca online
