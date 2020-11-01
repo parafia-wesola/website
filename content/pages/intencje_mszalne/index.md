@@ -4,6 +4,69 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXXI NIEDZIELA ZWYKŁA, 1 listopada, Uroczystość Wszystkich Świętych**
+
+* 7.00 za parafian
+* 9.00 + za śp. Zygmunta BILBIN w 7 r. ś., jego Rodziców: Justyny i Władysława, jego Teściów: Stefanii i Jakuba, jego Stryjostwa: Julii i Jana z prośbą o łaski i Boże Błogosławieństwo w życiu wiecznym
+* 10.30 + za śp. Zofię i Tadeusza KOSIESZÓW
+* 12:00 INTENCJE WYPOMINKOWE ZBIOROWE (wypominki jednorazowe)
+* 18.00 O Boże błogosławieństwo dla Pauliny, w rocznicę Chrztu św.
+
+**Poniedziałek, 2 listopada, Wspomnienie Wszystkich Wiernych Zmarłych**
+
+* 7.00 + za Mariannę, Edwarda, Mirosława, Wiesława WEREDÓW
+* 18.00 + za zmarłych polecanych Bogu w wypominkach oktawalnych
+
+**Wtorek, 3 listopada**
+
+* 7.00 + za śp. Jana WÓJCIKA w 30 rocznicę śmierci
+* 18.00 + za zmarłych polecanych Bogu w wypominkach oktawalnych
+
+**Środa, 4 listopada, św. Karola Boromeusza, wspomnienie**
+
+* 7.00 + za śp. Mariannę TATAREK w miesiąc po pogrzebie
+* 18.00 + za zmarłych polecanych Bogu w wypominkach oktawalnych
+
+**Czwartek, 5 listopada**
+
+* 7.00 z prośbą o liczne, charyzmatyczne, święte powołania kapłańskie, zakonne i misyjne w naszej Ojczyźnie i na całym świecie oraz o odnowę serc w naszej parafii
+* 18.00 + za zmarłych polecanych Bogu w wypominkach oktawalnych
+* 18.00 + za śp. Jerzego RAKOWSKIEGO i zmarłych rodziców Stefana i Czesławę
+
+**Piątek, 6 listopada**
+
+* 7.00 O Boże błogosławieństwo i miłosierdzie dla rodziny
+* 18.00 + za zmarłych polecanych Bogu w wypominkach oktawalnych
+
+**Sobota, 7 listopada**
+
+* 7.00 + za śp. Janinę CZUBAK w miesiąc po pogrzebie
+* 18.00 + za zmarłych polecanych Bogu w wypominkach oktawalnych
+
+**XXXII NIEDZIELA ZWYKŁA, 8 listopada**
+
+* 7.00 + za śp. Eugeniusza BORUC w 11 rocznicę śmierci, za jego rodziców i rodzinę
+* 9.00 INTENCJE ZBIOROWE
+
+  * O błogosławieństwo Boże dla Helenki w 1 rocznicę urodzin
+  * + za śp. Tadeusza Grabowskiego
+  * + za zmarłych z rodziny ŁUCZAKÓW, STERNIKÓW i KOTWIŃSKICH
+  * + za śp. Krystynę BURZEC
+  * + za śp. Juliannę i Eugeniusza BAREJA w 9 rocznicę śmierci
+  * + za śp. Sylwię DIONIZIAK
+  * + za śp. Andrzeja CWOJDZIŃSKIEGO
+  * + za śp. Leszka JACHOWICZA
+  * + za śp. Ryszarda KORDAS
+* 10.30 ZA PARAFIAN
+* 12.00 + za śp. Antoniego i Janinę JANISZEWSKICH
+* 18.00 + za zmarłych polecanych Bogu w wypominkach oktawalnych
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXIX NIEDZIELA ZWYKŁA, 25 października**
 
 * 7.00 podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością miłości miłosiernej we wszystkich rodzinach.
