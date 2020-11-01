@@ -49,21 +49,19 @@ title: Intencje mszalne
 * 9.00 INTENCJE ZBIOROWE
 
   * O błogosławieństwo Boże dla Helenki w 1 rocznicę urodzin
-  * + za śp. Tadeusza Grabowskiego
-  * + za zmarłych z rodziny ŁUCZAKÓW, STERNIKÓW i KOTWIŃSKICH
-  * + za śp. Krystynę BURZEC
-  * + za śp. Juliannę i Eugeniusza BAREJA w 9 rocznicę śmierci
-  * + za śp. Sylwię DIONIZIAK
-  * + za śp. Andrzeja CWOJDZIŃSKIEGO
-  * + za śp. Leszka JACHOWICZA
-  * + za śp. Ryszarda KORDAS
+  * za śp. Tadeusza Grabowskiego
+  * za zmarłych z rodziny ŁUCZAKÓW, STERNIKÓW i KOTWIŃSKICH
+  * za śp. Krystynę BURZEC
+  * za śp. Juliannę i Eugeniusza BAREJA w 9 rocznicę śmierci
+  * za śp. Sylwię DIONIZIAK
+  * za śp. Andrzeja CWOJDZIŃSKIEGO
+  * za śp. Leszka JACHOWICZA
+  * za śp. Ryszarda KORDAS
 * 10.30 ZA PARAFIAN
 * 12.00 + za śp. Antoniego i Janinę JANISZEWSKICH
 * 18.00 + za zmarłych polecanych Bogu w wypominkach oktawalnych
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
