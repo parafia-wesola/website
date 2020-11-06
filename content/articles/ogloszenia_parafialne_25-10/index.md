@@ -1,6 +1,6 @@
 ---
 type: article
-title: Ogłoszenia parafialne 25.10
+title: List do parafian 6 listopada
 date: 2020-10-23T20:46:58.333Z
 eventDate: ""
 author: parafia wesoła
@@ -8,21 +8,26 @@ cover: koronawirus_w_parafii.png
 ---
 <!--StartFragment-->
 
-**Ogłoszenia duszpasterskie**
+***Drodzy Parafianie i Przyjaciele naszej Parafii,***
 
-1. **Dziękujemy** za troskę i modlitwę podczas ostatnich trzech tygodni, kiedy o. Adam przechodził covid-19 razem z dwiema innymi osobami mieszkającymi w domu rekolekcyjnym, kiedy plebania i dom rekolekcyjny pozostawały szczelnie zamknięte. **Polecamy Waszej modlitwie** wszystkich chorych w naszej parafii. Łączmy się razem w dalszej modlitwie o bezpieczeństwo, o nierozprzestrzenianie się wirusa, za służbę zdrowia i o ustanie pandemii w Polsce i na świecie.
-2. Przypominamy o **obostrzeniach**: w naszym kościele może przebywać 35 osób, obowiązują maseczki zakrywające nos i usta, dezynfekcja rąk, zachowanie odległości między osobami. Komunii udzielamy rozdzielając dwa sposoby jej udzielania: na rękę i do ust.
-3. W przyszłym tygodniu **kancelaria** parafialna będzie czynna według normalnego rytmu w poniedziałek, środę i piątek.
-4. Zapraszamy na **Adorację Najświętszego Sakramentu** od poniedziałku do piątku po Mszy wieczornej do 19.15. W weekendy na nowo proponujemy Adorację między 15.00 a 18.00. Można zapisywać się na półgodzinne dyżury [pod linkiem](https://docs.google.com/spreadsheets/d/1F1O_4-tC36sXy0VuqLTh3pOFqSjeeMkBDA8fy_-cAtQ/edit?fbclid=IwAR1rvYzgY2mq3qeqGUwdydDDeWdaQ927xoY_xa_wVTo8BCHwsRxWUY_q6zo#gid=541890420)
-5. **Spowiadamy** w tygodniu po Mszy wieczornej, a w niedziele i sobotę wieczór – 15 min przed każdą Mszą.
-6. Wracamy do transmisji internetowej Mszy niedzielnej z naszej parafii. Transmitować będziemy na kanale YouTube naszej parafii **Mszę o godz. 18** [link do Mszy św ](https://youtu.be/5Y6PWK6snfI)
-7. W niedzielę 25 października zapraszamy **młodzież** na pierwsze spotkanie. Odbędzie się online, na stronie [Młodzi OPEN](https://www.facebook.com/mlodzi.open). Zaczniemy od spotkania na Facebooku, a potem w grupach na zoomie.
-8. Z powodu epidemii koronawirusa nie jest możliwe zorganizowanie spotkania weekendowego ***Wiara i Praca*** na żywo. Aby jednak spotkanie się odbyło, proponujemy krótszy wariant: „Kochaj bliźniego swego …w pracy” część I, w formie online na zoomie 7 listopada, od 15.00 do 20.00 z przerwą na kawę (2 x 2 godz.). Zapisy przez stronę internetową: [pod linkiem](https://www.chemin-neuf.pl/pl/homepage/nasze-propozycje/wiara-i-praca/5f6087e5396588b6769de2c0/weekend-wiara-i-praca). Mamy nadzieję, że w okresie wiosennym możliwe będzie zrealizowanie II części tematu o relacjach zawodowych na żywo w formie 2-dniowego spotkania. Termin będzie ustalony w zależności od sytuacji epidemicznej.
-9. Zapowiadany **Kurs dla narzeczonych** również **nie** odbędzie się teraz. Przenosimy go na wiosnę. Jeśli wtedy również jeszcze nie będzie mógł odbywać się poprzez spotkania na żywo, to zaproponujemy wersję online.
-10. W przyszłą niedzielę wypada **Uroczystość Wszystkich Świętych** a po niej **Wspomnienie Wszystkich Zmarłych**. W tym roku pasterze Kościoła jak i władze świeckie zachęcają, by nawiedzenie grobów rozłożyć na dłuższy czas. Odpust związany z modlitwą za zmarłych można uzyskać przez cały listopad. W naszej parafii nie odbędzie procesja na cmentarzu. Proponujemy **wypominki za zmarłych** w trzech wariantach: jednorazowe (przeczytamy je w niedzielę na cmentarzu po Mszy św. na 12.00), oktawalne (od 2 do 8 listopada sprawujemy Mszę wieczorną a czytamy wypominki od 17.30), oraz roczne (w każdy pierwszy wtorek miesiąca ofiarujemy Mszę św. i czytamy intencje od 17.30). Zachęcamy, by w wypominkach rocznych podawać tylko najbliższe osoby. Kartki do wypisania wypominek są z tyłu kościoła. Wypominki można wysłać mailem na adres kancelarii : kancelaria@parafiawesola.pl, a ofiarę złożyć przez przelew na konto parafii: \
-    28 8019 1010 2002 0007 0714 0001\
-    Bank Spółdzielczy w Halinowie, oddział Wesoła
+Pandemia Covid-19 zbiera coraz większe żniwo a do tego doszły napięcia społeczne po decyzji Trybunału Konstytucyjnego. W tym czasie potrzebujemy modlić się, być narzędziami pokoju i jedności, otwierać serca na potrzebujących, a także przestrzegać norm sanitarnych. Bądźmy razem świadkami Boga, który jest Dawcą życia i któremu zależy na każdym życiu…, na życiu dziecka od jego poczęcia, rodzica, polityka, demonstranta, człowieka młodego i podeszłego w latach, pobożnego i nie, gorliwego członka naszej parafii i tego, który kościół omija szerokim łukiem. Módlmy się, by Kościół, był autentycznym głosicielem Ewangelii życia i wspólnotą, w której każdy znajdzie pomoc, przyjęcie i towarzyszenie w drodze osobistego i wspólnotowego nawracania się. Oby ten trudny czas doświadczania kruchości życia, zdrowia, relacji… był czasem większego zaangażowania w relację z Bogiem i człowiekiem.
 
-<!--EndFragment-->
+W tych warunkach według nowych wytycznych obowiązują nas konkretne obostrzenia. Od soboty 7 listopada, według normy 1 osoba na 15 m2, **w naszym kościele może przebywać jednocześnie 17 osób** (nie licząc posługujących w celebracjach). Prosimy, aby zajmować pojedynczo miejsca oznaczone kolorową kartką, co pozwoli zachować dystans i rozpoznać pozostające wolne miejsca. Można też stanąć wokół kościoła, gdzie włączone głośniki ułatwią uczestnictwo we Mszy. 
+
+Transmitujemy w internecie na kanale YouTube naszej parafii niedzielną Mszę świętą o godzinie 18.00 [link do Mszy](https://youtu.be/1nCxwRR7hKU)
+
+Zrezygnujemy ze **zbierania tacy** podczas Mszy świętej. Ofiarę złożyć będzie można do koszyka przed ołtarzem lub przy wejściu do kościoła lub przez przelew bankowy (konto podane jest na stronie internetowej Parafii). Dziękujemy wszystkim, którzy sami przeżywając trudny czas, potrafią się dzielić, wspierać potrzebujących oraz brać odpowiedzialność za utrzymanie naszej parafii.
+
+W niedzielę 8 listopada na Mszy św. o 12.00, krótko przed Dniem Niepodległości obchodzonym 11 listopada, **modlić się będziemy za Ojczyznę i za seniorów**. Po Mszy odbędzie się pół godzinny koncert w wykonaniu p. Doroty Czajkowskiej. Msza i koncert po niej również będą transmitowane w internecie, zapraszamy [link do Mszy](https://youtu.be/X--S08Zio9Q)
+
+Przypominamy, że przez cały listopad można ofiarować za zmarłych łaskę **odpustu zupełnego**.
+
+Zachęcamy do korzystania z możliwości **Adoracji Najświętszego Sakramentu**: codziennie w tygodniu po Mszy wieczornej a w weekendy między 15.00 a 18.00 (prosimy o wpisywanie się na półgodzinne dyżury) [link do zapisów](https://docs.google.com/spreadsheets/d/1F1O_4-tC36sXy0VuqLTh3pOFqSjeeMkBDA8fy_-cAtQ/edit?fbclid=IwAR0exerN6zc2AiSMTuQf4_lSAB4PvZEiikOTwJZSrhSX_GIYaGwH2AbuPWs#gid=541890420)
+
+Zachęcamy też do korzystania z propozycji online dla młodzieży i dorosłych. [Facebook](https://www.facebook.com/Parafia-Opatrzno%C5%9Bci-Bo%C5%BCej-Weso%C5%82a-444169575744240), [YouTube](https://www.youtube.com/channel/UCydI-tJHrPj-KT_JTwAi2vw/)
+
+Modlimy się codziennie o zdrowie i ochronę dla naszej Parafii,
+
+o. Adam proboszcz z ekipą parafialną
 
 <!--EndFragment-->
