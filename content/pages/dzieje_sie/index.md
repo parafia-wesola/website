@@ -9,7 +9,7 @@ news:
   - size: medium
     title: Msza św. online
   - size: medium
-    title: Msza Święta z modlitwą za Ojczyznę i seniorów
+    title: Msza Święta online z modlitwą za Ojczyznę i seniorów
   - size: large
     title: Jubileusz 70-lecia Parafii
   - size: medium
