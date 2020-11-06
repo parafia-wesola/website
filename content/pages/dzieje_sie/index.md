@@ -3,9 +3,9 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Pamiętajmy!
+    title: List do parafian 6 listopada
   - size: large
-    title: Cmentarz 31.10-2.11
+    title: Pamiętajmy!
   - size: large
     title: Msza św. online
   - size: large
