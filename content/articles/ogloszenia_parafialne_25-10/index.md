@@ -14,7 +14,8 @@ Pandemia Covid-19 zbiera coraz większe żniwo a do tego doszły napięcia społ
 
 W tych warunkach według nowych wytycznych obowiązują nas konkretne obostrzenia. Od soboty 7 listopada, według normy 1 osoba na 15 m2, **w naszym kościele może przebywać jednocześnie 17 osób** (nie licząc posługujących w celebracjach). Prosimy, aby zajmować pojedynczo miejsca oznaczone kolorową kartką, co pozwoli zachować dystans i rozpoznać pozostające wolne miejsca. Można też stanąć wokół kościoła, gdzie włączone głośniki ułatwią uczestnictwo we Mszy. 
 
-Transmitujemy w internecie na kanale YouTube naszej parafii niedzielną Mszę świętą o godzinie 18.00 [link do Mszy](https://youtu.be/1nCxwRR7hKU)
+Transmitujemy w internecie na kanale YouTube naszej parafii niedzielną Mszę świętą o godzinie 18.00 [link do Mszy](https://youtu.be/1nCxwRR7hKU)\
+Dla tych, którzy uczestniczyli w transmisji, będzie udzielana Komunia św. 15 min. po zakończeniu Mszy św.
 
 Zrezygnujemy ze **zbierania tacy** podczas Mszy świętej. Ofiarę złożyć będzie można do koszyka przed ołtarzem lub przy wejściu do kościoła lub przez przelew bankowy (konto podane jest na stronie internetowej Parafii). Dziękujemy wszystkim, którzy sami przeżywając trudny czas, potrafią się dzielić, wspierać potrzebujących oraz brać odpowiedzialność za utrzymanie naszej parafii.
 
