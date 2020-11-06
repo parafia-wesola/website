@@ -1,6 +1,6 @@
 ---
 type: article
-title: Msza Święta z modlitwą za Ojczyznę i seniorów
+title: Msza Święta online z modlitwą za Ojczyznę i seniorów
 date: 2020-11-06T20:44:29.838Z
 eventDate: ""
 author: parafia wesoła
