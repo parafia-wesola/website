@@ -13,14 +13,14 @@ title: Intencje mszalne
   * zdrowie dla Kingi, opiekę dla Wojciecha, Joanny, oraz ochronę przed koronawirusem dla całej rodziny
   * o ulgę w chorobie i cierpieniu dla dziadzia Romka
   * za dziecko poczęte pod sercem mamy Bogu wiadomej
-  * + za śp. Tadeusza Grabowskiego
-  * + za zmarłych z rodziny ŁUCZAKÓW, STERNIKÓW i KOTWIŃSKICH
-  * + za śp. Krystynę BURZEC
-  * + za śp. Juliannę i Eugeniusza BAREJA w 8 rocznicę śmierci
-  * + za śp. Sylwię DIONIZIAK
-  * + za śp. Andrzeja CWOJDZIŃSKIEGO
-  * + za śp. Leszka JACHOWICZA
-  * + za śp. Ryszarda KORDAS
+  * za śp. Tadeusza Grabowskiego
+  * za zmarłych z rodziny ŁUCZAKÓW, STERNIKÓW i KOTWIŃSKICH
+  * za śp. Krystynę BURZEC
+  * za śp. Juliannę i Eugeniusza BAREJA w 8 rocznicę śmierci
+  * za śp. Sylwię DIONIZIAK
+  * za śp. Andrzeja CWOJDZIŃSKIEGO
+  * za śp. Leszka JACHOWICZA
+  * za śp. Ryszarda KORDAS
 * 10.30 ZA PARAFIAN
 * 12.00 + za śp. Antoniego i Janinę JANISZEWSKICH
 * 18.00 + za zmarłych polecanych Bogu w wypominkach oktawalnych
@@ -66,8 +66,6 @@ title: Intencje mszalne
 * 18.00 + za śp. Zofię i Zdzisława KOSICKICH w 100 rocznicę urodzin
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
