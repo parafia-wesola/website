@@ -4,6 +4,73 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXXII NIEDZIELA ZWYKŁA, 8 listopada**
+
+* 7.00 + za śp. Eugeniusza BORUC w 11 rocznicę śmierci, za jego rodziców i rodzinę
+* 9.00 INTENCJE ZBIOROWE
+
+  * O błogosławieństwo Boże dla Helenki w 1 rocznicę urodzin
+  * zdrowie dla Kingi, opiekę dla Wojciecha, Joanny, oraz ochronę przed koronawirusem dla całej rodziny
+  * o ulgę w chorobie i cierpieniu dla dziadzia Romka
+  * za dziecko poczęte pod sercem mamy Bogu wiadomej
+  * + za śp. Tadeusza Grabowskiego
+  * + za zmarłych z rodziny ŁUCZAKÓW, STERNIKÓW i KOTWIŃSKICH
+  * + za śp. Krystynę BURZEC
+  * + za śp. Juliannę i Eugeniusza BAREJA w 8 rocznicę śmierci
+  * + za śp. Sylwię DIONIZIAK
+  * + za śp. Andrzeja CWOJDZIŃSKIEGO
+  * + za śp. Leszka JACHOWICZA
+  * + za śp. Ryszarda KORDAS
+* 10.30 ZA PARAFIAN
+* 12.00 + za śp. Antoniego i Janinę JANISZEWSKICH
+* 18.00 + za zmarłych polecanych Bogu w wypominkach oktawalnych
+
+**Poniedziałek, 9 listopada, rocznica poświęcenia Bazyliki Laterańskiej, *święto***
+
+* 7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (1/30)
+* 18.00 + za śp. Jerzego SIELANKO o życie wieczne
+
+**Wtorek, 10 listopada, św. Leona Wielkiego, papieża i doktora Kościoła, *wspomnienie***
+
+* 7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (2/30)
+* 18.00 + za sp. Bogdana ŻARSKIEGO w 33 rocznicę śmierci
+
+**Środa, 11 listopada, św. Marcina z Tours, biskupa, *wspomnienie***
+
+* 7.00 + za śp. Romana ANTOSIEWICZA w 21 rocznicę śmierci oraz za jego rodziców Zofię i Ludwika
+* 7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (3/30)
+* 18:00 + za śp. Wacława DOMAŃSKIEGO miesiąc po pogrzebie
+* 18.00 + za śp. Zygmunta i Aleksandrę WŁOSTOWSKICH
+
+**Czwartek, 12 listopada, św. Jozafata, biskupa i męczennika, *wspomnienie***
+
+* 7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (4/30)
+* 18.00 + za śp. Jana GRYZ w 4 rocznicę śmierci
+
+**Piątek, 13 listopada, św. Benedykta, Jana, Mateusza, Izaaka i Krystyna, pierwszych męczenników Polski, *wspomnienie***
+
+* 7.00 + za śp. Halinę GRONEK miesiąc po pogrzebie
+* 18.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (5/30)
+
+**Sobota, 14 listopada**
+
+* 7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (6/30)
+* 18.00 w 100 rocznicę urodzin Jana KIELEWSKIEGO
+
+**XXXIII NIEDZIELA ZWYKŁA, 15 listopada**
+
+* 7.00 za parafian
+* 9.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (7/30)
+* 10.30 + za śp. Teodorę i Stanisława BAREJA, zmarłych z rodziny BAREJÓW i TARASZEWSKICH
+* 12.00 + za śp. Ludwikę MOŚCICKĄ w 5 rocznicę śmierci
+* 18.00 + za śp. Zofię i Zdzisława KOSICKICH w 100 rocznicę urodzin
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXXI NIEDZIELA ZWYKŁA, 1 listopada, Uroczystość Wszystkich Świętych**
 
 * 7.00 za parafian
