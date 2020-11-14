@@ -9,8 +9,6 @@ news:
   - size: large
     title: Prace ogrodowe w parafii
   - size: medium
-    title: Msza św. online
-  - size: medium
     title: Jubileusz 70-lecia Parafii
   - size: medium
     title: "otwarty kościół "
