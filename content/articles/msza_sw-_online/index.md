@@ -2,14 +2,18 @@
 type: article
 title: Msza św. online
 date: 2020-10-31T15:01:07.140Z
-eventDate: 2020-11-01T17:00:00.000Z
+eventDate: 2020-11-15T17:00:00.000Z
 author: parafia wesoła
-cover: msza_sw_18.00.png
+cover: msza_sw.online.png
 ---
 <!--StartFragment-->
 
-Zapraszamy na niedzielną Mszę św. z naszej Parafii. 1 listopada, godz. 18.00
+Niedziela, 15 listopada, 18.00
 
-[link do Mszy św.](https://youtu.be/1nCxwRR7hKU)
+* transmisja Mszy św. na *[You Tube Parafia Opatrzności Bożej Wesoła](https://www.youtube.com/channel/UCydI-tJHrPj-KT_JTwAi2vw)*
+* ​retransmisja z kościoła do kaplicy\
+  17 osób może wejśc do kościoła, 23 osoby mogą być w kaplicy\
+  Podczas Komunii św. jeden z szfarzy przyjdzie do kaplicy\
+  Możliwe jest również przyjęcie Komunii św. o 15.00 na początku Adoracji i 15 min po Mszy św. transmitowanej
 
 <!--EndFragment-->
