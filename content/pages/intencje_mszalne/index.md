@@ -4,6 +4,85 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXXIII NIEDZIELA ZWYKŁA, 15 listopada**
+
+7.00 za parafian
+
+9.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (7/30)
+
+10.30 + za śp. Teodorę i Stanisława BAREJA, zmarłych z rodziny BAREJÓW i TARASZEWSKICH
+
+12.00 + za śp. Ludwikę MOŚCICKĄ w 5 rocznicę śmierci
+
+18.00 + za śp. Zofię i Zdzisława KOSICKICH w 100 rocznicę urodzin
+
+**Poniedziałek, 16 listopada, Najświętszej Maryi Panny Ostrobramskiej, Matki Miłosierdzia, *wspomnienie***
+
+7.00 + za zmarłych z rodziny WACHOL i WYSOCKICH
+
+18.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (8/30)
+
+**Wtorek, 17 listopada, św. Elżbiety Węgierskiej, zakonnicy, *wspomnienie***
+
+7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (9/30)
+
+18.00 + za śp. Zofię, Józefa. Bożenę MASZKIEWICZ i Roberta MAKULSKIEGO
+
+**Środa, 18 listopada, Bł. Karoliny Kózkówny, dziewicy i męczennicy, *wspomnienie***
+
+7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (10/30)
+
+18.00 + za śp. Mariana ZBIEĆ
+
+**Czwartek, 19 listopada**
+
+7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (11/30)
+
+18.00 + za śp. Zofię i Kazimierza RATYŃSKICH
+
+**Piątek, 20 listopada, św. Rafała Kalinowskiego, prezbitera, *wspomnienie***
+
+7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (12/30)
+
+14.00 pogrzeb śp. Władysława Mazurka
+
+18.00 za małżeństwa w kryzysie
+
+**Sobota, 21 listopada, Ofiarowanie Najświętszej Maryi Panny, *wspomnienie***
+
+7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (13/30)
+
+18.00 + za śp. Janusza, Antoniego, Bogdana, Kazimierza i Mariannę z rodziny ZAWADZKICH
+
+(do modlitwy wiernych: + za śp. Sylwestrę DIONIZIAK miesiąc po pogrzebie)
+
+**XXXIV NIEDZIELA ZWYKŁA, 22 listopada, Jezusa Chrystusa Króla Wszechświata, *uroczystość***
+
+7.00 + za śp. Tadeusz Jerzego OKOŃ oraz za rodziców Helenę i Józefa
+
+9.00 + za śp. Rafała KIELEWSKIEGO
+
+10.30 intencje zbiorowe
+
+* + za śp. Mariannę i Stanisława PIEKARSKICH w 2 rocznicę śmierci o radość Nieba
+* + za śp. Marka GRABSKIEGO
+* + za śp. Jerzego WĄSOWSKIEGO miesiąc po odejściu
+* + za śp. tragicznie zmarłego 22-letniego Kubę oraz o siły i pocieszenie dla jego rodziców
+* + za śp. Józefa NOWACKIEGO w 19 rocznicę śmierci
+* + za śp. Elżbietę BAZYL
+* + za śp. Pawła KIRYLUK w 35 rocznicę śmierci oraz za zmarłą Anielę, Franciszkę i Celinę
+* + za śp. Władysława ŻMIEJKO
+* + za śp. Marię PENK
+* + za śp. Alicję KUCZYŃSKĄ
+
+12.00 za parafian
+
+18.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (14/30)
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXXII NIEDZIELA ZWYKŁA, 8 listopada**
 
 * 7.00 + za śp. Eugeniusza BORUC w 11 rocznicę śmierci, za jego rodziców i rodzinę
