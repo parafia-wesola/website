@@ -64,16 +64,16 @@ title: Intencje mszalne
 
 10.30 intencje zbiorowe
 
-* + za śp. Mariannę i Stanisława PIEKARSKICH w 2 rocznicę śmierci o radość Nieba
-* + za śp. Marka GRABSKIEGO
-* + za śp. Jerzego WĄSOWSKIEGO miesiąc po odejściu
-* + za śp. tragicznie zmarłego 22-letniego Kubę oraz o siły i pocieszenie dla jego rodziców
-* + za śp. Józefa NOWACKIEGO w 19 rocznicę śmierci
-* + za śp. Elżbietę BAZYL
-* + za śp. Pawła KIRYLUK w 35 rocznicę śmierci oraz za zmarłą Anielę, Franciszkę i Celinę
-* + za śp. Władysława ŻMIEJKO
-* + za śp. Marię PENK
-* + za śp. Alicję KUCZYŃSKĄ
+* za śp. Mariannę i Stanisława PIEKARSKICH w 2 rocznicę śmierci o radość Nieba
+* za śp. Marka GRABSKIEGO
+* za śp. Jerzego WĄSOWSKIEGO miesiąc po odejściu
+* za śp. tragicznie zmarłego 22-letniego Kubę oraz o siły i pocieszenie dla jego rodziców
+* za śp. Józefa NOWACKIEGO w 19 rocznicę śmierci
+* za śp. Elżbietę BAZYL
+* za śp. Pawła KIRYLUK w 35 rocznicę śmierci oraz za zmarłą Anielę, Franciszkę i Celinę
+* za śp. Władysława ŻMIEJKO
+* za śp. Marię PENK
+* za śp. Alicję KUCZYŃSKĄ
 
 12.00 za parafian
 
