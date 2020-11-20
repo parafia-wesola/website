@@ -5,8 +5,6 @@ news:
   - size: large
     title: List do parafian 6 listopada
   - size: large
-    title: formularz do zapisów na kolędę
-  - size: large
     title: Pamiętajmy!
   - size: large
     title: Prace ogrodowe w parafii
