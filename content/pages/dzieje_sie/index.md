@@ -5,9 +5,9 @@ news:
   - size: large
     title: List do parafian 6 listopada
   - size: large
-    title: Pamiętajmy!
+    title: Msza św. online
   - size: large
-    title: Prace ogrodowe w parafii
+    title: Pamiętajmy!
   - size: medium
     title: Jubileusz 70-lecia Parafii
   - size: medium
