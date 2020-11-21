@@ -4,7 +4,7 @@ title: Msza św. online
 date: 2020-10-31T15:01:07.140Z
 eventDate: 2020-11-15T17:00:00.000Z
 author: parafia wesoła
-cover: msza_sw.online.png
+cover: msza_sw.online_1_.png
 ---
 <!--StartFragment-->
 
