@@ -12,22 +12,22 @@ title: Intencje mszalne
 
 10.30 intencje zbiorowe
 
-* + za śp. Mariannę i Stanisława PIEKARSKICH w 2 rocznicę śmierci o radość Nieba
-* + za śp. Marka GRABSKIEGO
-* + za śp. Jerzego WĄSOWSKIEGO miesiąc po odejściu
-* + za śp. tragicznie zmarłego 22-letniego Kubę oraz o siły i pocieszenie dla jego rodziców
-* + za śp. Józefa NOWACKIEGO w 19 rocznicę śmierci
-* + za śp. Elżbietę BAZYL
-* + za śp. Pawła KIRYLUK w 35 rocznicę śmierci oraz za zmarłą Anielę, Franciszkę i Celinę
-* + za śp. Władysława ŻMIEJKO
-* + za śp. Marię PENK
-* + za śp. Alicję KUCZYŃSKĄ
-* + za śp. Kazimierę i całą rodzinę KAŁASZÓW
-* + za śp. Władysławę, Franciszka, Marię WIELGO
+* za śp. Mariannę i Stanisława PIEKARSKICH w 2 rocznicę śmierci o radość Nieba
+* za śp. Marka GRABSKIEGO
+* za śp. Jerzego WĄSOWSKIEGO miesiąc po odejściu
+* za śp. tragicznie zmarłego 22-letniego Kubę oraz o siły i pocieszenie dla jego rodziców
+* za śp. Józefa NOWACKIEGO w 19 rocznicę śmierci
+* za śp. Elżbietę BAZYL
+* za śp. Pawła KIRYLUK w 35 rocznicę śmierci oraz za zmarłą Anielę, Franciszkę i Celinę
+* za śp. Władysława ŻMIEJKO
+* za śp. Marię PENK
+* za śp. Alicję KUCZYŃSKĄ
+* za śp. Kazimierę i całą rodzinę KAŁASZÓW
+* za śp. Władysławę, Franciszka, Marię WIELGO
 
-12.00 za parafian
+  12.00 za parafian
 
-18.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (14/30)
+  18.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (14/30)
 
 **Poniedziałek, 23 listopada**
 
@@ -92,8 +92,6 @@ Poza kościołem parafialnym: + za śp. Albertynę SMIRNOF – Msza św. gregori
 18.00 + za śp. Ludwika, Mariannę, Gustawa i Danutę
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
