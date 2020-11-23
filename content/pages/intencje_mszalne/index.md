@@ -4,6 +4,99 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXXIV NIEDZIELA ZWYKŁA, 22 listopada, Jezusa Chrystusa Króla Wszechświata, *uroczystość***
+
+7.00 + za śp. Tadeusz Jerzego OKOŃ oraz za rodziców Helenę i Józefa
+
+9.00 + za śp. Rafała KIELEWSKIEGO
+
+10.30 intencje zbiorowe
+
+* + za śp. Mariannę i Stanisława PIEKARSKICH w 2 rocznicę śmierci o radość Nieba
+* + za śp. Marka GRABSKIEGO
+* + za śp. Jerzego WĄSOWSKIEGO miesiąc po odejściu
+* + za śp. tragicznie zmarłego 22-letniego Kubę oraz o siły i pocieszenie dla jego rodziców
+* + za śp. Józefa NOWACKIEGO w 19 rocznicę śmierci
+* + za śp. Elżbietę BAZYL
+* + za śp. Pawła KIRYLUK w 35 rocznicę śmierci oraz za zmarłą Anielę, Franciszkę i Celinę
+* + za śp. Władysława ŻMIEJKO
+* + za śp. Marię PENK
+* + za śp. Alicję KUCZYŃSKĄ
+* + za śp. Kazimierę i całą rodzinę KAŁASZÓW
+* + za śp. Władysławę, Franciszka, Marię WIELGO
+
+12.00 za parafian
+
+18.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (14/30)
+
+**Poniedziałek, 23 listopada**
+
+7.00 + za śp. Janinę, Stefana i Jana SZUBA
+
+18.00 + za śp. Marysię, Mariana, Cecylię, Antoniego MĄDRY
+
+18.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (15/30)
+
+**Wtorek, 24 listopada, Świętych męczenników Andrzeja Dung-Lac, prezbitera i Towarzyszy, *wspomnienie***
+
+7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (16/30)
+
+18.00 + za śp. Stanisława PEŁKĘ i zmarłych z rodziny
+
+**Środa, 25 listopada**
+
+7.00 podziękowanie i prośba o obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością miłości miłosiernej we wszystkich rodzinach
+
+18.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (17/30)
+
+18.00 + za śp. Józefa ROMAŃCZUK
+
+**Czwartek, 26 listopada**
+
+7.00 + za śp. Andrzeja CWOJDZIŃSKIEGO miesiąc po pogrzebie
+
+Poza kościołem parafialnym: + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (18/30)
+
+18.00 + za śp. Reginę i Bohdana NIEDZIELSKICH
+
+**Piątek, 27 listopada**
+
+7.00 + za śp. Leszka JACHOWICZA miesiąc po pogrzebie
+
+Poza kościołem parafialnym: + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (19/30)
+
+18.00 + w 6 rocznicę śmierci Laury JANCZEWSKIEJ oraz za Zygmunta JANCZEWSKIEGO i Irenę PERYCZKO
+
+18.00 + za śp. Jerzego RAKOWSKIEGO i zmarłych z rodziny Stefana i Czesławę
+
+**Sobota, 28 listopada**
+
+7.00 + za śp. Ryszarda KORDAS miesiąc po pogrzebie
+
+Poza kościołem parafialnym: + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (20/30)
+
+18.00 + za śp. Anastazję LIPIŃSKĄ w 7 rocznicę śmierci i męża Bronisława i ich rodziców
+
+**I NIEDZIELA ADWENTU, 29 listopada**
+
+7.00 za parafian
+
+9.00 dziękczynno-błagalna z okazji imienin Andrzeja KOTUNIAKA
+
+10.30 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (21/30)
+
+12.00 + za śp. Antoninę i Franciszka PANUFIK
+
+(w modlitwie wiernych: za śp. Laurę w 6 rocznicę śmierci)
+
+18.00 + za śp. Ludwika, Mariannę, Gustawa i Danutę
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXXIII NIEDZIELA ZWYKŁA, 15 listopada**
 
 7.00 za parafian
@@ -75,9 +168,9 @@ title: Intencje mszalne
 * za śp. Marię PENK
 * za śp. Alicję KUCZYŃSKĄ
 
-12.00 za parafian
+  12.00 za parafian
 
-18.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (14/30)
+  18.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (14/30)
 
 <!--EndFragment-->
 
