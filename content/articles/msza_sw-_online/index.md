@@ -8,7 +8,7 @@ cover: msza_sw.online_1_.png
 ---
 <!--StartFragment-->
 
-Niedziela, 22 listopada, 18.00
+Niedziela, 29 listopada, I Niedziela Adwentu18.00
 
 * transmisja Mszy św. na *[You Tube Parafia Opatrzności Bożej Wesoła](https://www.youtube.com/channel/UCydI-tJHrPj-KT_JTwAi2vw)*
 * ​retransmisja z kościoła do kaplicy\
