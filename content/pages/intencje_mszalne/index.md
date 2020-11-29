@@ -4,6 +4,78 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**I NIEDZIELA ADWENTU, 29 listopada**
+
+7.00 za parafian
+
+9.00 dziękczynno-błagalna z okazji imienin Andrzeja KOTUNIAKA
+
+10.30 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (21/30)
+
+12.00 + za śp. Antoninę i Franciszka PANUFNIK
+
+(w modlitwie wiernych: za śp. Laurę w 6 rocznicę śmierci)
+
+18.00 + za śp. Ludwika, Mariannę, Gustawa i Danutę
+
+**Poniedziałek, 30 listopada, Świętego Andrzeja, Apostoła, *święto***
+
+7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (22/30)
+
+18.00 + za śp. Grzegorza KOZAKIEWICZ w 6 rocznicę śmierci i o zbawienie duszy nienarodzonego Michała
+
+**Wtorek, 1 grudnia**
+
+7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (23/30)
+
+18.00 wypominkowa
+
+**Środa, 2 grudnia**
+
+7.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (24/30)
+
+18.00 + za śp. Grzegorza KOZAKIEWICZA w 6 rocznicę śmierci
+
+**Czwartek, 3 grudnia, Świętego Franciszka Ksawerego, prezbitera, *wspomnienie***
+
+7.00 z prośbą o liczne, charyzmatyczne, święte powołania kapłańskie, zakonne i misyjne w naszej Ojczyźnie i na całym świecie oraz o odnowę serc w naszej parafii.
+
+18.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (25/30)
+
+**Piątek, 4 grudnia**
+
+7.00 + za śp. Feliksa PIEŃKOWSKIEGO
+
+Poza kościołem parafialnym: + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (16/30)
+
+18.00 + za śp. Waldemara NOWIKOW w 29 rocznicę śmierci
+
+**Sobota, 5 grudnia**
+
+7.00 + za śp. Juliana KOŁODZIEJCZYK miesiąc po pogrzebie
+
+Poza kościołem parafialnym: + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (27/30)
+
+18.00 W intencji Kół Żywego Różańca
+
+**II NIEDZIELA ADWENTU, 6 grudnia**
+
+7.00 za parafian
+
+9.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (28/30)
+
+10.30 + za śp. Ryszarda ŁUPIŃSKIEGO i zmarłych z rodziny WIŚNIEWSKICH oraz Mirosława MACHNACKIEGO
+
+12.00 w intencji mieszkańców Osiedla „Mleczarskiego” ul. A. Krajowej 56
+
+18.00 + za śp. Artura w 3 rocznicę śmierci
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXXIV NIEDZIELA ZWYKŁA, 22 listopada, Jezusa Chrystusa Króla Wszechświata, *uroczystość***
 
 7.00 + za śp. Tadeusz Jerzego OKOŃ oraz za rodziców Helenę i Józefa
