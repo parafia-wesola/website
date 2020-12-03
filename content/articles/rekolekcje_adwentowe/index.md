@@ -1,6 +1,6 @@
 ---
 type: article
-title: Rekolekcje Adwentowe
+title: Rekolekcje Adwentowe 6-9 grudnia 2020
 date: 2020-12-03T21:27:35.326Z
 eventDate: 2020-12-05T23:00:00.000Z
 author: parafia wesoła
