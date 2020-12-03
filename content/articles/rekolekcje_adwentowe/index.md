@@ -14,7 +14,7 @@ cover: kopia_plakat_rekolekcje.png
 ***Niedziela***: 7.00, 9.00, 10.30, 12.00, 18.00\
 ***Poniedziałek-Środa:***\
 8.30 retransmisja audio do kaplicy\
-17.00 transmitowana z kościoła do kaplicy i na You Tube parafii\
+17.00 transmitowana z kościoła do kaplicy i na [You Tube parafii ](https://www.youtube.com/channel/UCydI-tJHrPj-KT_JTwAi2vw?view_as)\
 19.00 retransmisja do kaplicy
 
 **Spowiedź**\
