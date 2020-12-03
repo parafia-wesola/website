@@ -3,7 +3,7 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Rekolekcje Adwentowe
+    title: Rekolekcje Adwentowe 6-9 grudnia 2020
   - size: large
     title: zgłoszenia na kolędę
   - size: large
