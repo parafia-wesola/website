@@ -11,11 +11,12 @@ cover: msza_sw.online.png
 Zapraszamy na Mszę Św. w **drugą Niedzielę Adwentu, 6 grudnia**. \
 Pierwszy dzień rekolekcji adwentowych w parafii, które poprowadzi o. Wojciech Jędrzejewski, dominikanin.
 
-*  **Msza św. o 10.30** nagłośnienie z kościoła będzie włączone w kaplicy
-* **Msza św. o 12.00 i o 18.00** będzie retransmitowana z kościoła do kaplicy i na kanale You Tube Parafia Opatrzności Bożej Wesoła
+* **Msza św. o 10.30** nagłośnienie z kościoła będzie włączone w kaplicy
+* **Msza św. o 12.00 i o 18.00** będzie retransmitowana z kościoła do kaplicy \
+  i na kanale [You Tube Parafia Opatrzności Bożej Wesoła](https://www.youtube.com/channel/UCydI-tJHrPj-KT_JTwAi2vw)
 
-W kościele według obecnych restrykcji może być jednocześnie 17 osób, w kaplicy dodatkowo 23 osoby.
+W kościele **według obecnych restrykcji** może być jednocześnie 17 osób, w kaplicy dodatkowo 23 osoby. Podczas Komunii św. jeden z szafarzy przyjdzie do kaplicy
 
-Możliwe jest również przyjęcie Komunii św. o 15.00 na początku Adoracji i 15 min po Mszy św. transmitowanej
+Możliwe jest również **przyjęcie Komunii św**. o 15.00 na początku Adoracji i 15 min po Mszy św. transmitowanej
 
 <!--EndFragment-->
