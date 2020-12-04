@@ -1,6 +1,6 @@
 ---
 type: article
-title: Msza św. online
+title: Msze św. online
 date: 2020-12-04T23:03:37.449Z
 eventDate: 2020-12-05T23:00:00.000Z
 author: parafia wesoła
