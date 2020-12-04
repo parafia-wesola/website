@@ -1,6 +1,6 @@
 ---
 type: article
-title: propozycje adwentowe dla dzeieci
+title: propozycje adwentowe dla dzieci
 date: 2020-12-04T15:35:46.664Z
 eventDate: ""
 author: parafia wesoła
