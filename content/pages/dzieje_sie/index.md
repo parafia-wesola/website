@@ -7,6 +7,8 @@ news:
   - size: large
     title: zgłoszenia na kolędę
   - size: large
+    title: propozycje adwentowe dla dzieci
+  - size: large
     title: Msza św. online
   - size: large
     title: Pamiętajmy!
