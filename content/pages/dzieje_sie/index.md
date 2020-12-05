@@ -9,7 +9,7 @@ news:
   - size: large
     title: Msze św. online
   - size: large
-    title: propozycje adwentowe dla dzieci
+    title: Propozycje adwentowe dla dzieci
   - size: large
     title: Pamiętajmy!
   - size: medium
