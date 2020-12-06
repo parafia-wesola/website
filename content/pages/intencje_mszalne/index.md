@@ -4,6 +4,76 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**II NIEDZIELA ADWENTU, 6 grudnia**
+
+* 7.00 za parafian
+* 9.00 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (28/30)
+* 10.30 + za śp. Ryszarda ŁUPIŃSKIEGO i zmarłych z rodziny WIŚNIEWSKICH oraz Mirosława MACHNACKIEGO
+* 12.00 w intencji mieszkańców Osiedla „Mleczarskiego” ul. A. Krajowej 56
+* 18.00 + za śp. Artura w 3 rocznicę śmierci
+
+**Poniedziałek, 7 grudnia, Św. Ambrożego, biskupa i doktora Kościoła, wspomnienie**
+
+* 8.30 + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (29/30)
+* 17.00 + za śp. Roberta PUŹ miesiąc po pogrzebie
+* 19.00 dziękując za wnuków Kubę i Bartka z prośbą o dary Ducha Św. i opiekę Niepokalanej
+
+**Wtorek, 8 grudnia, Niepokalane Poczęcie Najświętszej Maryi Panny, *uroczystość***
+
+* 8.30 + za śp. Krystynę CZECH miesiąc po pogrzebie\
+  Poza kościołem parafialnym + za śp. Albertynę SMIRNOF – Msza św. gregoriańska (30/30)
+* 17.00 w intencji wnuka Krzysztofa w dniu w dniu jego 31 urodzin dziękczynna za otrzymane dary w jego życiu rodzinnym i zawodowym, z prośbą o dalsze błogosławieństwo dla niego, Moniki i Emilki
+* 19.00 o zdrowie dla Joli
+
+**Środa, 9 grudnia**
+
+* 8.30 + za śp. Grzegorza oraz Halinę SOBIECH oraz Wacława RYCHLIK
+* 17.00 + za śp. Marka STRUMIŁOWSKIEGO
+* 19.00 + za śp. Piotra DRZEWIECKIEGO w 77 rocznicę śmierci o życie wieczne oraz za zmarłych\
+  z rodziny
+
+**Czwartek, 10 grudnia, Najświętszej Maryi Panny Loretańskiej, *wspomnienie***
+
+* 7.00 + za śp. Grzegorza oraz Halinę SOBIECH oraz Wacława RYCHLIK
+* 18.00 + za śp. Mariannę i Wiesławę KESLER
+
+**Piątek, 11 grudnia**
+
+* 7.00 + za śp. Marka GRABSKIEGO miesiąc po pogrzebie
+* 18.00 + za śp. Wojciecha STELMACHA oraz za Annę KOWALCZYK w 9 rocznicę śmierci
+
+**Sobota, 12 grudnia**
+
+* 7.00 + za śp. Elżbietę BAZYL miesiąc po pogrzebie
+* 18.00 Mariannę, Jana i Tomasza oraz zmarłych z rodziny BARAN
+
+**III NIEDZIELA ADWENTU, 13 grudnia**
+
+* 7.00 + za śp. Grzegorza oraz Halinę SOBIECH oraz Wacława RYCHLIK
+* 9.00 intencja zbiorowa
+
+  * za Olę i Sebastiana o wiarę dla nich
+  * + za śp. Franciszka PIÓRO
+  * + za śp. Danutę KAŹMIERCZUK
+  * + za śp. Halinę WŁODARCZYK w 1 rocznicę śmierci oraz za śp. Henryka WŁODARCZYKA w 3 rocznicę śmierci
+  * + za śp. Jana i Czesławę OLSZEWSKICH oraz za zmarłych z rodziny KAŁASZÓW
+  * + za śp. Władysława MAZUREK
+  * + za śp. Krystynę Irenę ZYCHALAK
+  * + za śp. Jadwigę SŁODKOWSKĄ
+  * + za śp. Wojciecha LANGE
+  * + za śp. Dariusza JĘDRZEJEWSKIEGO
+  * + za śp. Mieczysława BARSZCZ
+  * + za śp. Marka GRABSKIEGO oraz za zmarłych z rodziny
+* 10.30 za parafian
+* 12.00 + za sp. Leokadię SIADKOWSKĄ i Jana SIOCHA
+* 18.00 + za śp. Mieczysława NIEMALEC w 25 rocznicę śmierci oraz za Witolda JÓŹWIAK
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **I NIEDZIELA ADWENTU, 29 listopada**
 
 7.00 za parafian
@@ -71,8 +141,6 @@ Poza kościołem parafialnym: + za śp. Albertynę SMIRNOF – Msza św. gregori
 18.00 + za śp. Artura w 3 rocznicę śmierci
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
