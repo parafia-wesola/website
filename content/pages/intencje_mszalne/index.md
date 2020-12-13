@@ -11,17 +11,17 @@ title: Intencje mszalne
 
   * za Olę i Sebastiana o wiarę dla nich
   * dziękczynna z okazji urodzin Emiliana
-  * + za śp. Franciszka PIÓRO
-  * + za śp. Danutę KAŹMIERCZUK
-  * + za śp. Halinę WŁODARCZYK w 1 rocznicę śmierci oraz za śp. Henryka WŁODARCZYKA w 3 rocznicę śmierci
-  * + za śp. Jana i Czesławę OLSZEWSKICH oraz za zmarłych z rodziny KAŁASZÓW
-  * + za śp. Władysława MAZUREK
-  * + za śp. Krystynę Irenę ZYCHALAK
-  * + za śp. Jadwigę SŁODKOWSKĄ
-  * + za śp. Wojciecha LANGE
-  * + za śp. Dariusza JĘDRZEJEWSKIEGO
-  * + za śp. Mieczysława BARSZCZ
-  * + za śp. Marka GRABSKIEGO oraz za zmarłych z rodziny
+  * za śp. Franciszka PIÓRO
+  * za śp. Danutę KAŹMIERCZUK
+  * za śp. Halinę WŁODARCZYK w 1 rocznicę śmierci oraz za śp. Henryka WŁODARCZYKA w 3 rocznicę śmierci
+  * za śp. Jana i Czesławę OLSZEWSKICH oraz za zmarłych z rodziny KAŁASZÓW
+  * za śp. Władysława MAZUREK
+  * za śp. Krystynę Irenę ZYCHALAK
+  * za śp. Jadwigę SŁODKOWSKĄ
+  * za śp. Wojciecha LANGE
+  * za śp. Dariusza JĘDRZEJEWSKIEGO
+  * za śp. Mieczysława BARSZCZ
+  * za śp. Marka GRABSKIEGO oraz za zmarłych z rodziny
 * 10.30 za parafian
 * 12.00 + za śp. Leokadię SIADKOWSKĄ i Jana SIOCHA
 * 18.00 + za śp. Mieczysława NIEMALEC w 25 rocznicę śmierci oraz za Witolda JÓŹWIAK
@@ -65,8 +65,6 @@ title: Intencje mszalne
 * 18.00 o światło i dary Ducha św. dla Judyty
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
