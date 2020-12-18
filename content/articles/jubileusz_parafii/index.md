@@ -15,5 +15,7 @@ Prezentujemy więc cykl wspomnień o naszej parafii w formie wywiadów, z który
 * [wywiad z Izabelą Buczyńską](https://www.youtube.com/watch?v=UuiFlqJeSjk&t)
 * [świadectwo Luizy Cybulskiej i Piotra Dawidowicza](https://www.youtube.com/watch?v=vgVCrjOsWF4)
 * [świadectwo Julii Stępniewskiej i Doroty Szewczyk](https://www.youtube.com/watch?v=vpuRMamj4eo&t)
+* [świadectwo Emilii Buczyńskiej](https://www.youtube.com/watch?v=8N930iMtL7M&t)
+* [wywiad z Iwoną Maroulis](https://www.youtube.com/watch?v=hpq56lu0yl4)
 
 Rozprowadzamy też dalej gadżety, wyprodukowane specjalne na okazję jubileuszu: torby, maseczki, medale, podstawki na świeczki, naklejki. Zebrane pieniądze przeznaczymy na zakup sprzętu nagłośnieniowego do kościoła.
