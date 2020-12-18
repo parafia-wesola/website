@@ -4,16 +4,15 @@ title: Msze św. online
 date: 2020-12-11T20:39:04.854Z
 eventDate: 2020-12-05T23:00:00.000Z
 author: parafia wesoła
-cover: msza_sw.online.png
+cover: msze_sw.online.png
 ---
 <!--StartFragment-->
 
-Zapraszamy na Mszę Św. w **trzecią Niedzielę Adwentu, 13 grudnia**. 
+Zapraszamy na Mszę Św. w czwartą **Niedzielę Adwentu, 20 grudnia**. 
 
 * **Msza św. o 10.30** nagłośnienie z kościoła będzie włączone w kaplicy
-* **Msza św. o 12.00** będzie retransmitowana z kościoła do kaplicy 
-* **Msza św. o 18.00** będzie retransmitowana z kościoła do kaplicy \
-  i na kanale [You Tube Parafia Opatrzności Bożej Wesoła](https://www.youtube.com/channel/UCydI-tJHrPj-KT_JTwAi2vw)
+* **Msza św. o 12.00** będzie retransmitowana z kościoła do kaplicy [link do Mszy](https://youtu.be/_rayiM3MGwA)
+* **Msza św. o 18.00** będzie retransmitowana z kościoła do kaplicy i na You Tube [link do Mszy](https://youtu.be/nTbVNMJ5odY)
 
 W kościele **według obecnych restrykcji** może być jednocześnie 17 osób, w kaplicy dodatkowo 23 osoby. Podczas Komunii św. jeden z szafarzy przyjdzie do kaplicy
 
