@@ -3,8 +3,6 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: zgłoszenia na kolędę
-  - size: large
     title: Msze św. online
   - size: large
     title: Propozycje adwentowe dla dzieci
