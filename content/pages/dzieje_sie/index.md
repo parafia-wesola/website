@@ -5,6 +5,8 @@ news:
   - size: large
     title: zgłoszenia na kolędę
   - size: large
+    title: Msze św. online
+  - size: large
     title: Propozycje adwentowe dla dzieci
   - size: large
     title: Pamiętajmy!
