@@ -53,26 +53,24 @@ title: Intencje mszalne
 * 10.30 intencje zbiorowe:
 
   * o łaskę Miłosierdzia Bożego dla Radosława w 33 rocznicę urodzin
-  * + za śp. Teresę MOMOT
-  * + za śp. Tadeusza ZALEWSKIEGO
-  * + za śp. Małgorzatę TWARDOWSKĄ
-  * + za śp. Stanisława SIENKIEWICZ
-  * + za śp. Jerzego SOBKIEWICZ
-  * + za śp. Mariannę WIŚNIEWSKĄ oraz zmarłych z rodzin WIŚNIEWSKICH i SKRZESZEWSKICH
-  * + za śp. Marię i Jerzego WĄSOWSKICH
-  * + za śp. Wiktorię PRZESŁAW (w 25 r. śm.) i Stanisława PRZESŁAW (w 35 r. śm.)
-  * + za śp. Marka GRABSKIEGO
-  * + za śp. Eugeniusza KAŁASZA, całą rodzinę KAŁASZÓW
-  * + za śp. Jacka GALIMSKIEGO
-  * + za śp. Elżbietę BIEDRZYCKĄ
-  * + za śp. Antoniego DUK
-  * + za śp. Czesława MIKOS
+  * za śp. Teresę MOMOT
+  * za śp. Tadeusza ZALEWSKIEGO
+  * za śp. Małgorzatę TWARDOWSKĄ
+  * za śp. Stanisława SIENKIEWICZ
+  * za śp. Jerzego SOBKIEWICZ
+  * za śp. Mariannę WIŚNIEWSKĄ oraz zmarłych z rodzin WIŚNIEWSKICH i SKRZESZEWSKICH
+  * za śp. Marię i Jerzego WĄSOWSKICH
+  * za śp. Wiktorię PRZESŁAW (w 25 r. śm.) i Stanisława PRZESŁAW (w 35 r. śm.)
+  * za śp. Marka GRABSKIEGO
+  * za śp. Eugeniusza KAŁASZA, całą rodzinę KAŁASZÓW
+  * za śp. Jacka GALIMSKIEGO
+  * za śp. Elżbietę BIEDRZYCKĄ
+  * za śp. Antoniego DUK
+  * za śp. Czesława MIKOS
 * 12.00 za parafian
 * 18.00 + za śp. Janinę, Jana, Zdzisława, Stanisława, Mariana, Tadeusza, Józefa KASZOWSKICH oraz za dusze w czyśćcu cierpiące
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
