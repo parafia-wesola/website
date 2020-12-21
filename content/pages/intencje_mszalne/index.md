@@ -2,6 +2,78 @@
 type: text
 title: Intencje mszalne
 ---
+**IV NIEDZIELA ADWENTU, 20 grudnia**
+
+* 7.00 + za śp. Grzegorza SOBIECH oraz Halinę i Wacława RYCHLIK
+* 9.00 + za śp. Marię KUŹMĘ i za zmarłych z rodziny MULICÓW
+* 10.30 + za śp. Wacławę KOSYL w 2 rocznicę śmierci, za Albina i Tadeusza KOSYL
+* 12.00 + za śp. Reginę i Bolesława JURKIEWICZ
+* 18.00 o światło i dary Ducha św. dla Judyty
+
+**Poniedziałek, 21 grudnia**
+
+* 7.00 + za śp. Krystynę ZYCHALAK w miesiąc po pogrzebie
+* 18.00 o łaskę zdrowia dla Lucyny w dniu 90. urodzin
+
+**Wtorek, 22 grudnia**
+
+* 7.00 
+* 18.00 za Helenkę w 11 rocznicę urodzin
+
+**Środa, 23 grudnia**
+
+* 7.00 + za śp. Wojciecha LANGE w miesiąc po śmierci
+* 18.00 za Ludwikę i Stefana JANUCHTOWSKICH, ich syna i wnuczki
+
+**Czwartek, 24 grudnia, Wigilia**
+
+* 7.00 + za śp. Dariusza JĘDRZEJEWSKIEGO w miesiąc po pogrzebie
+* 22.00 **(Pasterka)**
+* 24.00 **(Pasterka)** podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+
+**Piątek, 25 grudnia, NARODZENIE PAŃSKIE, *uroczystość***
+
+* 9.00 + za śp. Zdzisława LEWANDOWSKIEGO i zmarłych z rodziny LEWANDOWSKICH, PAŹDZIORÓW i CUDNYCH
+* 10.30 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
+* 12.00 + za śp. Czesława OLĘDZKIEGO w 15. r. śmierci i Henrykę OLĘDZKĄ w 25. r. śmierci
+* 18.00 + za śp. Monikę PALKA
+
+**Sobota, 26 grudnia, św. Szczepana, pierwszego męczennika, *święto***
+
+* 7.00 + za duszę śp. Ewy
+* 9.00 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
+* 10.30 + za śp. Zofię, Kazimierza, Andrzeja i Adama CHOJECKICH i zmarłych z rodziny PAROBCZYK
+* 12.00 + za śp. Eugeniusza STRUPIECHOWSKIEGO i zmarłych z rodziny oraz za dusze w czyśćcu cierpiące
+* 18.00 o światło i dary Ducha Świętego dla Daniela
+
+**NIEDZIELA ŚWIĘTEJ RODZINY: JEZUSA, MARYI I JÓZEFA, 27 grudnia**
+
+* 7.00 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
+* 9.00 + za śp. Mariannę KIELEWSKĄ
+* 10.30 intencje zbiorowe:
+
+  * o łaskę Miłosierdzia Bożego dla Radosława w 33 rocznicę urodzin
+  * + za śp. Teresę MOMOT
+  * + za śp. Tadeusza ZALEWSKIEGO
+  * + za śp. Małgorzatę TWARDOWSKĄ
+  * + za śp. Stanisława SIENKIEWICZ
+  * + za śp. Jerzego SOBKIEWICZ
+  * + za śp. Mariannę WIŚNIEWSKĄ oraz zmarłych z rodzin WIŚNIEWSKICH i SKRZESZEWSKICH
+  * + za śp. Marię i Jerzego WĄSOWSKICH
+  * + za śp. Wiktorię PRZESŁAW (w 25 r. śm.) i Stanisława PRZESŁAW (w 35 r. śm.)
+  * + za śp. Marka GRABSKIEGO
+  * + za śp. Eugeniusza KAŁASZA, całą rodzinę KAŁASZÓW
+  * + za śp. Jacka GALIMSKIEGO
+  * + za śp. Elżbietę BIEDRZYCKĄ
+  * + za śp. Antoniego DUK
+  * + za śp. Czesława MIKOS
+* 12.00 za parafian
+* 18.00 + za śp. Janinę, Jana, Zdzisława, Stanisława, Mariana, Tadeusza, Józefa KASZOWSKICH oraz za dusze w czyśćcu cierpiące
+
+<!--EndFragment-->
+
+
+
 <!--StartFragment-->
 
 **III NIEDZIELA ADWENTU, 13 grudnia**
