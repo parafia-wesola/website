@@ -4,18 +4,38 @@ title: Msze św. online
 date: 2020-12-11T20:39:04.854Z
 eventDate: 2020-12-05T23:00:00.000Z
 author: parafia wesoła
-cover: msze_sw.online.png
+cover: boze_narodzenie.png
 ---
 <!--StartFragment-->
 
-Zapraszamy na Mszę Św. w czwartą **Niedzielę Adwentu, 20 grudnia**. 
+**24 grudnia**
 
-* **Msza św. o 10.30** nagłośnienie z kościoła będzie włączone w kaplicy
-* **Msza św. o 12.00** będzie retransmitowana z kościoła do kaplicy [link do Mszy](https://youtu.be/_rayiM3MGwA)
-* **Msza św. o 18.00** będzie retransmitowana z kościoła do kaplicy i na You Tube [link do Mszy](https://youtu.be/nTbVNMJ5odY)
+7.00 Roraty
 
-W kościele **według obecnych restrykcji** może być jednocześnie 17 osób, w kaplicy dodatkowo 23 osoby. Podczas Komunii św. jeden z szafarzy przyjdzie do kaplicy
+22.00 Pasterka transmitowana do kaplicy
 
-Możliwe jest również **przyjęcie Komunii św**. o 15.00 na początku Adoracji i 15 min po Mszy św. transmitowanej
+24.00 Pasterka transmitowana na You Tube
+
+**25 grudnia**
+
+9.00, 10.30
+
+12.00 transmisja do kaplicy
+
+18.00 transmisja na You Tube
+
+**26 grudnia**
+
+7.00, 9.00, 10.30, 12.00, 18.00
+
+**27 grudnia**
+
+7.00, 9.00, 10.30
+
+12.00 transmisja do kaplicy
+
+18.00 transmisja na You Tube
+
+19.30 kolędowe uwielbienie na You Tube
 
 <!--EndFragment-->
