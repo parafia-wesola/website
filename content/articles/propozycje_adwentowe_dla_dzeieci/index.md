@@ -1,7 +1,7 @@
 ---
 type: article
-title: Propozycje adwentowe dla dzieci
-date: 2020-12-04T15:35:46.664Z
+title: Niedzielne animacje dla dzieci
+date: 2020-12-25T23:31:17.356Z
 eventDate: ""
 author: parafia wesoła
 cover: kopia_kopia_msza_sw.online.png
