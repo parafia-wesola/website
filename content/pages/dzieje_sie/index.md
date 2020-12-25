@@ -5,7 +5,7 @@ news:
   - size: large
     title: Msze św. online
   - size: large
-    title: Propozycje adwentowe dla dzieci
+    title: Niedzielne animacje dla dzieci
   - size: large
     title: Pamiętajmy!
   - size: medium
