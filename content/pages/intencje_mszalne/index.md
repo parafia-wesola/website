@@ -2,6 +2,81 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**NIEDZIELA ŚWIĘTEJ RODZINY: JEZUSA, MARYI I JÓZEFA, 27 grudnia**
+
+* 7.00 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
+* 9.00 + za śp. Mariannę KIELEWSKĄ
+* 10.30 intencje zbiorowe:
+
+  * o łaskę Miłosierdzia Bożego dla Radosława w 33 rocznicę urodzin
+  * + za śp. Teresę MOMOT
+  * + za śp. Tadeusza ZALEWSKIEGO
+  * + za śp. Małgorzatę TWARDOWSKĄ
+  * + za śp. Stanisława SIENKIEWICZ
+  * + za śp. Jerzego SOBKIEWICZ
+  * + za śp. Mariannę WIŚNIEWSKĄ oraz zmarłych z rodzin WIŚNIEWSKICH i SKRZESZEWSKICH
+  * + za śp. Marię i Jerzego WĄSOWSKICH
+  * + za śp. Wiktorię PRZESŁAW (w 25 r. śm.) i Stanisława PRZESŁAW (w 35 r. śm.)
+  * + za śp. Marka GRABSKIEGO
+  * + za śp. Eugeniusza KAŁASZA, całą rodzinę KAŁASZÓW
+  * + za śp. Jacka GALIMSKIEGO
+  * + za śp. Elżbietę BIEDRZYCKĄ
+  * + za śp. Antoniego DUK
+  * + za śp. Czesława MIKOS
+* 12.00 za parafian
+* 18.00 + za śp. Janinę, Jana, Zdzisława, Stanisława, Mariana, Tadeusza, Józefa KASZOWSKICH\
+  oraz za dusze w czyśćcu cierpiące
+
+**Poniedziałek, 28 grudnia, Świętych Młodzianków, męczenników, *święto***
+
+* 7.00 Intencja dziękczynna za otrzymane łaski z prośbą o dalsze Boże błogosławieństwo dla Emiliana
+* 18.00 + za śp. Krzysztofa JANICKIEGO, śp. Bogusława JANICKIEGO oraz zmarłych z rodzin: JANICKICH, ŻEBROWSKICH, TOSIŃSKICH, , SACZUKÓW, PYTLIŃSKICH i TOMCZUKÓW
+
+**Wtorek, 29 grudnia**
+
+* 7.00 + za śp. Zofię, Czesława i Mariana GŁUCHOWSKICH
+* 18.00 + za śp. Mieczysława WOJDAKA w 8 r. śm.
+
+**Środa, 30 grudnia**
+
+* 7.00 + za śp. Bronisława JASZCZYK oraz zmarłych z rodziny JASZCZYK i MURASZEWSKICH
+* 18.00 + za śp. Eugeniusza MROCZEK
+
+**Czwartek, 31 grudnia,**
+
+* 7.00 + za śp. Janinę i Bronisława REMISZEWSKICH o dar nieba
+* 18:00 + za śp. Oskara
+
+**Piątek, 1 stycznia, ŚWIĘTEJ BOŻEJ RODZICIELKI, *uroczystość***
+
+* 9.00 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
+* 10.30 w dniu 50 urodzin Krzysztofa z prośbą o Boże błogosławieństwo dla niego, żony Moniki, synów Kacpra i Mikołaja
+* 12.00
+* 18.00 za zmarłych z rodziny SZCZUCIŃSKICH
+
+**Sobota, 2 stycznia**
+
+* 7.00 + za Henryka GOWINA oraz za Elżbietę KALISZEWSKĄ
+* 18.00 w intencji fabryki wnętrz Hobot
+* 18.00 w intencji Kół Żywego Różańca
+
+**II NIEDZIELA PO NARODZENIU PAŃSKIM, 3 stycznia**
+
+* 7.00 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
+* 9.00 Intencja zbiorowa
+
+  * + za duszę śp. Mieczysława GÓRSKIEGO
+  * + za śp. Jolę ŁĘCZYCKĄ
+* 10.30 + za śp. Jerzego GROMKA w 4 rocznicę śmierci
+* 12.00 + o spokój duszy śp. Hani ZASIKOWSKIEJ z d. OTYŃSKIEJ
+* 18.00 + za duszę Wacława i Haliny RYCHLIK oraz za duszę Grzegorza SOBIECH
+
+<!--EndFragment-->
+
+
+
 **IV NIEDZIELA ADWENTU, 20 grudnia**
 
 * 7.00 + za śp. Grzegorza SOBIECH oraz Halinę i Wacława RYCHLIK
