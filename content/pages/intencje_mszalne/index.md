@@ -37,7 +37,7 @@ title: Intencje mszalne
 **Wtorek, 29 grudnia**
 
 * 7.00 + za śp. Zofię, Czesława i Mariana GŁUCHOWSKICH
-* 18.00 + za śp. Mieczysława WOJDAKA w 8 r. śm.
+* 18.00 + za śp. Mieczysława WOJDAKA w 8 r. śmierci
 
 **Środa, 30 grudnia**
 
@@ -53,7 +53,7 @@ title: Intencje mszalne
 
 * 9.00 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
 * 10.30 w dniu 50 urodzin Krzysztofa z prośbą o Boże błogosławieństwo dla niego, żony Moniki, synów Kacpra i Mikołaja
-* 12.00
+* 12.00 + za śp. Urszulę LEWANDOWSKĄ
 * 18.00 za zmarłych z rodziny SZCZUCIŃSKICH
 
 **Sobota, 2 stycznia**
