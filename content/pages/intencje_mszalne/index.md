@@ -4,6 +4,71 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**II NIEDZIELA PO NARODZENIU PAŃSKIM, 3 stycznia**
+
+* 7.00 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
+* 9.00 Intencja zbiorowa
+
+  * + za duszę śp. Mieczysława GÓRSKIEGO
+  * + za śp. Jolę ŁĘCZYCKĄ
+  * + za śp. Jerzego TOMASZEWSKIEGO
+  * + za śp. Stefanię SKWARSKĄ-KUCHARSKĄ
+  * O łaskę zdrowia dla Eugeniusza
+  * O zdrowie dla Piotra
+* 10.30 + za śp. Jerzego GROMKA w 4 rocznicę śmierci
+* 12.00 + o spokój duszy śp. Hani ZASIKOWSKIEJ zd. OTYŃSKIEJ
+* 18.00 + za duszę Wacława i Haliny RYCHLIK oraz za duszę Grzegorza SOBIECH
+
+**Poniedziałek, 4 stycznia**
+
+* 7.00 + za śp. Wandę i Mieczysława NIEMALEC
+* 18.00 + za śp. Apolonię KOSTRZEWSKĄ w 1. rocznicę śmierci
+
+**Wtorek, 5 stycznia**
+
+* 7.00 za Edwarda w dniu imienin
+* 18.00 wypominkowa
+
+**Środa, 6 stycznia**, **OBJAWIENIE PAŃSKIE, *uroczystość***
+
+* 7.00 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
+* 9.00 + za śp. Antoniego DUKA w miesiąc po śmierci
+* 10.30 + za śp. Bogusława MAZOWSKIEGO w 34. r. śm.
+* 12.00 + za śp. Roberta PUŹ – intencja od dzieci z IIb i ich rodziców
+* 18.00 + za śp. Waldemara KAPLER
+
+**Czwartek, 7 stycznia**
+
+* 7.00 + za śp. Danutę KAŹMIERCZUK w miesiąc po pogrzebie
+* 18:00 + za śp. Elżbietę BAZYL (od Krystyny Stusek)
+
+**Piątek, 8 stycznia**
+
+* 7.00 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
+* 18.00 + za śp. Marka GRABSKIEGO (od Koła Żywego Różańca)
+
+**Sobota, 9 stycznia**
+
+* 7.00 + za śp. Bronisławę RYCHNOWSKĄ w 12 r. śmierci
+* 18.00 intencja Kół Żywego Różańca
+* 18.00 + za śp. Barbarę i Józefa ŁĘCZYCKICH
+
+**NIEDZIELA CHRZTU PAŃSKIEGO, 10 stycznia**
+
+* 7.00 o łaskę zdrowia dla Eugeniusza oraz za personel medyczny
+* 9.00 Intencja zbiorowa
+
+  * + za śp. Józefę GOŁĘBIEWSKĄ w 8 rocznicę śmierci, za Jana ZAGORSKIEGHO i dziadków ZAGÓRSKICH i za dusze w czyśćcu cierpiące
+  * + za śp. Jerzego KMIECIKA zmarłego 28 grudnia
+  * + za śp. Hannę JARZYNĘ
+* 10.30 za parafian
+* 12.00 + o łaskę miłosierdzia Bożego w 14. r. śmierci Stanisława KOWALSKIEGO i jego zmarłych rodziców (od siostry z mężem)
+* 18.00 + za śp. Zofię i Jana MUĆKÓW i zmarłych z rodziny MUĆKÓW
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **NIEDZIELA ŚWIĘTEJ RODZINY: JEZUSA, MARYI I JÓZEFA, 27 grudnia**
 
 * 7.00 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
