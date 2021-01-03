@@ -9,12 +9,12 @@ title: Intencje mszalne
 * 7.00 + za śp. Grzegorza SOBIECH oraz Wacława i Helenę RYCHLIK
 * 9.00 Intencja zbiorowa
 
-  * + za duszę śp. Mieczysława GÓRSKIEGO
-  * + za śp. Jolę ŁĘCZYCKĄ
-  * + za śp. Jerzego TOMASZEWSKIEGO
-  * + za śp. Stefanię SKWARSKĄ-KUCHARSKĄ
-  * O łaskę zdrowia dla Eugeniusza
-  * O zdrowie dla Piotra
+  * za duszę śp. Mieczysława GÓRSKIEGO
+  * za śp. Jolę ŁĘCZYCKĄ
+  * za śp. Jerzego TOMASZEWSKIEGO
+  * za śp. Stefanię SKWARSKĄ-KUCHARSKĄ
+  * o łaskę zdrowia dla Eugeniusza
+  * o zdrowie dla Piotra
 * 10.30 + za śp. Jerzego GROMKA w 4 rocznicę śmierci
 * 12.00 + o spokój duszy śp. Hani ZASIKOWSKIEJ zd. OTYŃSKIEJ
 * 18.00 + za duszę Wacława i Haliny RYCHLIK oraz za duszę Grzegorza SOBIECH
@@ -58,9 +58,9 @@ title: Intencje mszalne
 * 7.00 o łaskę zdrowia dla Eugeniusza oraz za personel medyczny
 * 9.00 Intencja zbiorowa
 
-  * + za śp. Józefę GOŁĘBIEWSKĄ w 8 rocznicę śmierci, za Jana ZAGORSKIEGHO i dziadków ZAGÓRSKICH i za dusze w czyśćcu cierpiące
-  * + za śp. Jerzego KMIECIKA zmarłego 28 grudnia
-  * + za śp. Hannę JARZYNĘ
+  * za śp. Józefę GOŁĘBIEWSKĄ w 8 rocznicę śmierci, za Jana ZAGORSKIEGHO i dziadków ZAGÓRSKICH i za dusze w czyśćcu cierpiące
+  * za śp. Jerzego KMIECIKA zmarłego 28 grudnia
+  * za śp. Hannę JARZYNĘ
 * 10.30 za parafian
 * 12.00 + o łaskę miłosierdzia Bożego w 14. r. śmierci Stanisława KOWALSKIEGO i jego zmarłych rodziców (od siostry z mężem)
 * 18.00 + za śp. Zofię i Jana MUĆKÓW i zmarłych z rodziny MUĆKÓW
