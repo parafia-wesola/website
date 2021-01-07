@@ -22,5 +22,7 @@ W każdą 3. niedzielę zapraszamy dzieci na Mszę Świętą o godzinie 12, któ
   [link do filmu](https://youtu.be/x-SnoFJRotc)
 * **Niedziela, 3 stycznia**\
   [link do filmu](https://youtu.be/GEw3reWRPWw)
+* **3 Niedziela po Bożym Narodzeniu, 10 stycznia**\
+  [link do filmu](https://youtu.be/aUk_qi34n5A)
 
 <!--EndFragment-->
