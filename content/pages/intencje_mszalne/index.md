@@ -9,18 +9,16 @@ title: Intencje mszalne
 * 7.00 + za śp. Eugeniusza BAŁABUCH o radość wieczną
 * 9.00 Intencja zbiorowa
 
-  * + za śp. Józefę GOŁĘBIEWSKĄ w 8 rocznicę śmierci, za Jana ZAGÓRSKIEGHO i dziadków ZAGÓRSKICH i za dusze w czyśćcu cierpiące
-  * + za śp. Jerzego KMIECIKA zmarłego 28 grudnia
-  * + za śp. Hannę JARZYNĘ
-  * + za śp. Jolantę ŁĘCZYCKĄ w rocznicę urodzin
-  * + za śp. Marka Grabskiego
-  * + o Boże Miłosierdzie dla śp. Tadeusza ZALEWSKIEGO. Przyjmij go, Panie, do swego Królestwa i obdarz swoim pokojem
+  * za śp. Józefę GOŁĘBIEWSKĄ w 8 rocznicę śmierci, za Jana ZAGÓRSKIEGHO i dziadków ZAGÓRSKICH i za dusze w czyśćcu cierpiące
+  * za śp. Jerzego KMIECIKA zmarłego 28 grudnia
+  * za śp. Hannę JARZYNĘ
+  * za śp. Jolantę ŁĘCZYCKĄ w rocznicę urodzin
+  * za śp. Marka Grabskiego
+  * o Boże Miłosierdzie dla śp. Tadeusza ZALEWSKIEGO. Przyjmij go, Panie, do swego Królestwa i obdarz swoim pokojem
   * Intencja dziękczynna za pielgrzymów i za wszystkie osoby, które okazały nam wsparcie duchowe i modlitwę za śp. Tadeusza i całą rodzinę
 * 10.30 za parafian
 * 12.00 + o łaskę miłosierdzia Bożego w 14. r. śmierci Stanisława KOWALSKIEGO i jego zmarłych rodziców (od siostry z mężem)
 * 18.00 + za śp. Zofię i Jana MUĆKÓW i zmarłych z rodziny MUĆKÓW
-
-
 
 **Poniedziałek, 11 stycznia**
 
@@ -59,9 +57,9 @@ title: Intencje mszalne
 * 10.30 Intencja zbiorowa
 
   * za Pawła PRUSKIEGO – intencja imieninowa i urodzinowa oraz o błogosławieństwo dla jego rodziców
-  * + za śp. Marcina PIENIĄŻKA w 1. rocznicę śmierci
-  * + za śp. Jerzego KMIECIK (intencja od Danuty i Krzysztofa Czarnota)
-  * + za śp. Eugeniusza BAŁABUCH
+  * za śp. Marcina PIENIĄŻKA w 1. rocznicę śmierci
+  * za śp. Jerzego KMIECIK (intencja od Danuty i Krzysztofa Czarnota)
+  * za śp. Eugeniusza BAŁABUCH
 * 12.00 + za śp. Annę KRAJEWSKĄ
 * 18.00 + za śp. Antoninę KONDEJ w rocznicę urodzin
 
