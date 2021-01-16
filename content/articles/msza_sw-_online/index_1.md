@@ -8,11 +8,11 @@ cover: msza_sw.online.png
 ---
 <!--StartFragment-->
 
-**10 stycznia**
+**17 stycznia**
 
 7.00, 9.00, 10.30
 
-12.00 transmisja do kaplicy
+12.00 Msza św. dla dzieci, transmisja do kaplicy  na You Tube
 
 18.00 transmisja do kaplicy i na You Tube
 
