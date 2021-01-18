@@ -4,6 +4,62 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**II NIEDZIELA ZWYKŁA, 17 stycznia**
+
+* 7.00 za parafian
+* 9.00 + za śp. Stanisława ZIELIŃSKIEGO w 2. rocznicę śmierci
+* 10.30 Intencja zbiorowa
+
+  * za Pawła PRUSKIEGO – intencja imieninowa i urodzinowa oraz o błogosławieństwo dla jego rodziców
+  * + za śp. Marcina PIENIĄŻKA w 1. rocznicę śmierci
+  * + za śp. Jerzego KMIECIK (intencja od Danuty i Krzysztofa Czarnota)
+  * + za śp. Eugeniusza BAŁABUCH
+* 12.00 + za śp. Annę KRAJEWSKĄ
+* 18.00 + za śp. Antoninę KONDEJ w rocznicę urodzin
+
+**Poniedziałek, 18 stycznia**
+
+* 7.00 + za śp. Danutę Elżbietę BIEDRZYCKĄ w miesiąc po pogrzebie
+* 18.00 za Wiktorię w dniu 18. urodzin z prośbą o Boże błogosławieństwo i opiekę Matki Bożej
+
+**Wtorek, 19 stycznia, św. Józefa Sebastiana Pelczara, biskupa**
+
+* 7.00 + za śp. Stanisława SIENKIEWICZ w miesiąc po pogrzebie
+* 18.00 + za śp. Mariusza NIEMIRA z okazji imienin
+
+**Środa, 20 stycznia**
+
+* 7.00 + za śp. Jerzego SOBKIEWICZ w miesiąc po pogrzebie
+* 18.00 za Małgorzatę i Mariusza w 20. Rocznicę ślubu z prośbą o wszelkie łaski Boże na dalsze lata życia
+
+**Czwartek, 21 stycznia, św. Agnieszki, dziewicy i męczennicy, *wspomnienie***
+
+* 7.00 za Jakuba o łaskę uwolnienia od nałogów i narkotyków
+* 18:00 Dziękując Bogu za opiekę nad Firmą, proszę o potrzebne łaski oraz opiekę Niepokalanej na każdy dzień dla pracowników i ich rodzin oraz dla zmarłych o łaskę Nieba
+
+**Piątek, 22 stycznia**
+
+* 7.00 + za śp. Stanisława, Mariannę, Romana i Waldemara KĄCA
+* 18.00 + Józefa BOGUSZEWSKIEGO w 12. rocznicę śmierci oraz za Mariannę, Wacława, Stanisława BOGUSZEWSKICH i zmarłych z rodziny STRUPIECHOWSKICH
+* 18:00 za małżeństwa w kryzysie 
+
+**Sobota, 23 stycznia**
+
+* 7.00 + za śp. Jolantę ŁĘCZYCKĄ w miesiąc po pogrzebie
+* 18.00 za Michała w 7. rocznicę urodzin
+
+**III NIEDZIELA ZWYKŁA, 24 stycznia**
+
+* 7.00 + za śp. Jana MIODUSZEWSKIEGO w 3. rocznicę śmierci
+* 9.00 + za śp. Aleksandra GŁÓWKA w 12. rocznicę śmierci
+* 10.30 Intencja zbiorowa:
+* 12.00 za parafian
+* 18.00 za Kazimierę i Jana MACIĄŻEK w 58. rocznicę ślubu – intencja dziękczynna z prośbą o Boże błogosławieństwo dla dzieci i wnuków
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **NIEDZIELA CHRZTU PAŃSKIEGO, 10 stycznia**
 
 * 7.00 + za śp. Eugeniusza BAŁABUCH o radość wieczną
