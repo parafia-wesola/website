@@ -52,7 +52,7 @@ title: Intencje mszalne
 
 * 7.00 + za śp. Jana MIODUSZEWSKIEGO w 3. rocznicę śmierci
 * 9.00 + za śp. Aleksandra GŁÓWKA w 12. rocznicę śmierci
-* 10.30 Intencja zbiorowa:
+* 10.30 intencja zbiorowa:
 * 12.00 za parafian
 * 18.00 za Kazimierę i Jana MACIĄŻEK w 58. rocznicę ślubu – intencja dziękczynna z prośbą o Boże błogosławieństwo dla dzieci i wnuków
 
