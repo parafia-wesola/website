@@ -9,7 +9,7 @@ news:
   - size: large
     title: Pamiętajmy!
   - size: medium
-    title: Jubileusz 70-lecia Parafii
+    title: Pamiętajmy!
   - title: "otwarty kościół "
     size: medium
 ---
