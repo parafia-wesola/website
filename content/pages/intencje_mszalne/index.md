@@ -10,11 +10,11 @@ title: Intencje mszalne
 * 9.00 + za śp. Aleksandra GŁÓWKA w 12. rocznicę śmierci
 * 10.30 Intencja zbiorowa:
 
-  * + za zmarłych z rodziny ROGACZEWSKICH: za śp. Salomeę w 49 rocznicę śmierci, Konrada\
+  * za zmarłych z rodziny ROGACZEWSKICH: za śp. Salomeę w 49 rocznicę śmierci, Konrada\
     w 40 rocznicę śmierci i Jerzego w 14 rocznicę śmierci
-  * + za śp. Eugeniusza BAŁABUCH oraz o potrzebne łaski pocieszenia i dalszego Bożego prowadzenia dla żony Janiny
-  * + za śp. Mariana GŁUCHOWSKIEGO w 3 rocznicę śmierci
-  * + za śp. Zdzisława PIENIĄŻEK
+  * za śp. Eugeniusza BAŁABUCH oraz o potrzebne łaski pocieszenia i dalszego Bożego prowadzenia dla żony Janiny
+  * za śp. Mariana GŁUCHOWSKIEGO w 3 rocznicę śmierci
+  * za śp. Zdzisława PIENIĄŻEK
 * 12.00 za parafian
 * 18.00 za Kazimierę i Jana MACIĄŻEK w 58. rocznicę ślubu – intencja dziękczynna z prośbą o Boże błogosławieństwo dla dzieci i wnuków
 
@@ -55,7 +55,7 @@ title: Intencje mszalne
 * 7.00 za parafian
 * 9.00 intencja zbiorowa
 
-  * + za śp. Danutę GADOMSKĄ
+  * za śp. Danutę GADOMSKĄ
 * 10.30 + za śp. Romana SKROBEK w rocznicę śmierci
 * 12.00 + za całą rodzinę KLIMUKÓW, za rodzinę ZAJĄCZKOWSKICH, za rodzinę RADZKICH
 * 18.00 o łaskę wiary, nadziei i miłości przez wstawiennictwo Maryi dla Ali
