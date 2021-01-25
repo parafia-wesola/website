@@ -4,6 +4,66 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**III NIEDZIELA ZWYKŁA, 24 stycznia**
+
+* 7.00 + za śp. Jana MIODUSZEWSKIEGO w 3. rocznicę śmierci
+* 9.00 + za śp. Aleksandra GŁÓWKA w 12. rocznicę śmierci
+* 10.30 Intencja zbiorowa:
+
+  * + za zmarłych z rodziny ROGACZEWSKICH: za śp. Salomeę w 49 rocznicę śmierci, Konrada\
+    w 40 rocznicę śmierci i Jerzego w 14 rocznicę śmierci
+  * + za śp. Eugeniusza BAŁABUCH oraz o potrzebne łaski pocieszenia i dalszego Bożego prowadzenia dla żony Janiny
+  * + za śp. Mariana GŁUCHOWSKIEGO w 3 rocznicę śmierci
+  * + za śp. Zdzisława PIENIĄŻEK
+* 12.00 za parafian
+* 18.00 za Kazimierę i Jana MACIĄŻEK w 58. rocznicę ślubu – intencja dziękczynna z prośbą o Boże błogosławieństwo dla dzieci i wnuków
+
+**Poniedziałek, 25 stycznia, Nawrócenie św. Pawła, Apostoła, *święto***
+
+* 7.00 o zdrowie dla Henryki i Danieli przez wstawiennictwo MB Nieustającej Pomocy
+* 18.00 + w 7 rocznicę śmierci Beaty GUTOWSKIEJ oraz za zmarłych z rodziny GUTOWSKICH\
+  i PIETRUSZYŃSKICH
+* 19.00 Nieszpory o Jedność Chrześcijan
+
+**Wtorek, 26 stycznia, świętych biskupów Tymoteusza i Tytusa, *wspomnienie***
+
+* 7.00 w 21 rocznicę śmierci Zbigniewa SZOSTEK
+* 18.00 + za dusze śp. Wandy i Ady KRALKOWSKICH w 24 rocznicę śmierci oraz z okazji urodzin Aliny
+
+**Środa, 27 stycznia**
+
+* 7.00 + za śp. Janinę, Feliksa, Wiktora i Ryszarda WIELGUS
+* 18.00 + za śp. Stanisława GALIMSKIEGO
+
+**Czwartek, 28 stycznia, św. Tomasza z Akwinu, prezbitera i doktora Kościoła, *wspomnienie***
+
+* 7.00 o laskę zrozumienia i pojednania w rodzinie
+* 18:00 o łaskę nawrócenia Marii i o światło Ducha świętego
+
+**Piątek, 29 stycznia**
+
+* 7.00 + za śp. Jerzego TOMASZEWSKIEGO miesiąc po pogrzebie
+* 18.00 + za śp. Honoratę i Kazimierza KAMIŃSKICH
+
+**Sobota, 30 stycznia**
+
+* 7.00 + za śp. Stefanię SKWARSKĄ - KUCHARSKĄ miesiąc po pogrzebie
+* 18.00 + za zmarłych z rodziny GODZIMIRSKICH
+
+**IV NIEDZIELA ZWYKŁA, 31 stycznia**
+
+* 7.00 za parafian
+* 9.00 intencja zbiorowa
+
+  * + za śp. Danutę GADOMSKĄ
+* 10.30 + za śp. Romana SKROBEK w rocznicę śmierci
+* 12.00 + za całą rodzinę KLIMUKÓW, za rodzinę ZAJĄCZKOWSKICH, za rodzinę RADZKICH
+* 18.00 o łaskę wiary, nadziei i miłości przez wstawiennictwo Maryi dla Ali
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **II NIEDZIELA ZWYKŁA, 17 stycznia**
 
 * 7.00 za parafian
@@ -11,9 +71,9 @@ title: Intencje mszalne
 * 10.30 Intencja zbiorowa
 
   * za Pawła PRUSKIEGO – intencja imieninowa i urodzinowa oraz o błogosławieństwo dla jego rodziców
-  * + za śp. Marcina PIENIĄŻKA w 1. rocznicę śmierci
-  * + za śp. Jerzego KMIECIK (intencja od Danuty i Krzysztofa Czarnota)
-  * + za śp. Eugeniusza BAŁABUCH
+  * za śp. Marcina PIENIĄŻKA w 1. rocznicę śmierci
+  * za śp. Jerzego KMIECIK (intencja od Danuty i Krzysztofa Czarnota)
+  * za śp. Eugeniusza BAŁABUCH
 * 12.00 + za śp. Annę KRAJEWSKĄ
 * 18.00 + za śp. Antoninę KONDEJ w rocznicę urodzin
 
