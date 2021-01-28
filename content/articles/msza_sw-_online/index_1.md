@@ -8,7 +8,7 @@ cover: msza_sw.online.png
 ---
 <!--StartFragment-->
 
-**24 stycznia, III Niedziela Zwykła**
+**31 stycznia, IV Niedziela Zwykła**
 
 7.00, 9.00, 10.30
 
