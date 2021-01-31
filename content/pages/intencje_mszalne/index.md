@@ -4,6 +4,66 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**IV NIEDZIELA ZWYKŁA, 31 stycznia**
+
+* 7.00 za parafian
+* 9.00 intencja zbiorowa
+
+  * + za śp. Danutę GADOMSKĄ
+  * + za śp. Marie MROCZEK
+  * + za śp. Władysławę i Józefa MOLSKICH
+  * + za śp. Antonię i Mariana KĄDEJ
+* 10.30 + za śp. Romana SKROBEK w rocznicę śmierci
+* 12.00 + za całą rodzinę KLIMUKÓW, za rodzinę ZAJĄCZKOWSKICH, za rodzinę RADZKICH
+* 18.00 o łaskę wiary, nadziei i miłości przez wstawiennictwo Maryi dla Ali
+
+**Poniedziałek, 1 lutego**
+
+* 7.00 + za śp. Hannę JARZYNĘ miesiąc po pogrzebie
+* 18.00
+
+**Wtorek, 2 lutego, Ofiarowanie Pańskie, *święto***
+
+* 7.00 + za śp. Stanisława FAJFER i zmarłych z rodziny FAJFER, GAJEWSKICH i HULICKICH i za dusze w czyśćcu cierpiące
+* 18.00 wypominkowa
+
+**Środa, 3 lutego**
+
+* 7.00 + za śp. Danutę KONARSKĄ w 12 rocznicę śmierci i za Tadeusza KONARSKIEGO w 32 rocznicę śmierci
+* 18.00 + za zmarłych z rodziny GALIMSKICH i PRZEWŁOCKICH
+
+**Czwartek, 4 lutego**
+
+* 7.00 + za śp. Eugeniusza BAŁABUCHA
+* 18:00 + za śp. Anielę KIRYLUK oraz Danutę i Jana WOLSKICH
+
+**Piątek, 5 lutego, św. Agaty, dziewicy i męczennicy, *wspomnienie***
+
+* 7.00
+* 18.00 + za śp. Jerzego KMIECIK miesiąc po pogrzebie
+
+**Sobota, 6 lutego, św. męczenników Pawła Miki i Towarzyszy, *wspomnienie***
+
+* 7.00 + za śp. Eugeniusza BAŁABUCHA miesiąc po pogrzebie
+* 18.00 w intencji Kół Żywego Różańca
+
+**V NIEDZIELA ZWYKŁA, 7 lutego**
+
+* 7.00 za parafian
+* 9.00 intencja zbiorowa
+
+  * z okazji urodzin w intencji dziękczynnej za dar życia Krysi, z prośbą o Boże błogosławieństwo
+  * błagalno-dziękczynna w rocznicę urodzin Jakuba KOTUNIAKA oraz w 25 rocznicę śmierci Ryszarda KOTUNIAKA
+  * + za śp. Jana NIKODEMA
+  * + za śp. Juliana KOŁODZIEJCZYKA w 91 rocznicę urodzin
+* 10.30 + za śp. Mariannę ZDANOWICZ w 3 rocznicę śmierci
+* 12.00 + za śp. Jadwigę i Zdzisława SŁODKOWSKICH w 2 rocznicę śmierci
+* 18.00 intencja dziękczynna za wyjście z choroby kowidowej rodziny KAMIŃSKICH i ich bliskich
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **III NIEDZIELA ZWYKŁA, 24 stycznia**
 
 * 7.00 + za śp. Jana MIODUSZEWSKIEGO w 3. rocznicę śmierci
