@@ -8,7 +8,7 @@ news:
     title: Kurs przedmałżeński
   - size: large
     title: Niedzielne animacje dla dzieci
-  - size: large
+  - size: medium
     title: Pamiętajmy!
   - size: medium
     title: "otwarty kościół "
