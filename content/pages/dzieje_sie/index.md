@@ -5,6 +5,8 @@ news:
   - size: large
     title: Msze św. online
   - size: large
+    title: Kurs przedmałżeński
+  - size: large
     title: Niedzielne animacje dla dzieci
   - size: large
     title: Pamiętajmy!
