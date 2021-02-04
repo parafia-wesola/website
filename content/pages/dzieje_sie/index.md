@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Koronawirus w Parafii
+  - size: large
     title: Msze św. online
   - size: large
     title: Kurs przedmałżeński
