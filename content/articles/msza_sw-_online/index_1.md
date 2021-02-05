@@ -1,14 +1,14 @@
 ---
 type: article
 title: Msze św. online
-date: 2021-01-09T12:02:11.994Z
-eventDate: 2021-01-10T12:02:17.667Z
+date: 2021-02-05T17:14:36.891Z
+eventDate: 2021-02-07T11:00:00.000Z
 author: parafia wesoła
 cover: msza_sw.online.png
 ---
 <!--StartFragment-->
 
-**31 stycznia, IV Niedziela Zwykła**
+**7 luty, V Niedziela Zwykła**
 
 7.00, 9.00, 10.30
 
