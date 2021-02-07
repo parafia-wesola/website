@@ -2,6 +2,69 @@
 type: text
 title: Intencje mszalne
 ---
+**V NIEDZIELA ZWYKŁA, 7 luty**
+
+* 7.00 za parafian
+* 9.00 intencja zbiorowa
+
+  * z okazji urodzin w intencji dziękczynnej za dar życia Krysi, z prośbą o Boże błogosławieństwo
+  * błagalno-dziękczynna w rocznicę urodzin Jakuba KOTUNIAKA oraz w 25 rocznicę śmierci Ryszarda KOTUNIAKA
+  * + za śp. Jana NIKODEMA
+  * + za śp. Juliana KOŁODZIEJCZYKA w 91 rocznicę urodzin
+  * O Boże błogosławieństwo i opiekę św. Józefa oraz o uzdrowienie z choroby i nawrócenie Zuzi (prosi babcia)
+  * + za śp. Jana JELIŃSKIEGO
+  * + za śp. Kazimierę KWIEK z DOBRZYNIECKICH w 77 rocznicę śmierci oraz w 49 rocznicę śmierci Zygmunta KWIEKA
+* 10.30 + za śp. Mariannę ZDANOWICZ w 3 rocznicę śmierci
+* 12.00 + za śp. Jadwigę i Zdzisława SŁODKOWSKICH w 2 rocznicę śmierci
+* 18.00 intencja dziękczynna za wyjście z choroby kowidowej rodziny KAMIŃSKICH i ich bliskich
+
+**Poniedziałek, 8 luty**
+
+* 7.00 + za śp. Antoniego KRUCZKOWSKIEGO (Msza św. żałobna w intencji dziecka)
+* 18.00 + w 22 rocznicę śmierci Franciszka oraz Władysławy i Marii WIELGO
+
+**Wtorek, 9 luty, Ofiarowanie Pańskie, *święto***
+
+* 7.00 + za śp. Jana JELIŃSKIEGO (od rodziny Kowalskich)
+* 18.00 + za śp. Józefa SOSNOWSKIEGO miesiąc po pogrzebie
+
+**Środa, 10 luty, św. Scholastyki, dziewicy, *wspomnienie***
+
+* 7.00 + za śp. Jana JELIŃSKIEGO (od pracowników przedszkola nr. 261)
+* 18.00 + za śp. Irenę i Włodzimierza MAREK
+
+**Czwartek, 11 luty**
+
+* 7.00 + za śp. Celinę KOŁAKOWSKĄ w 30 dni po śmierci i za śp. Teresę KOŁAKOWSKĄ w 2 rocznicę odejścia do Pana
+* 18:00 + za śp. Tadeusza ZALEWSKIEGO o Boże miłosierdzie i pokój wieczny oraz za zmarłych Cecylię i Roberta SZYMAŃSKICH
+
+**Piątek, 12 luty, św. Agaty, dziewicy i męczennicy, *wspomnienie***
+
+* 7.00 + za śp. Władysława MALINOWSKIEGO oraz zmarłych z rodziny BOJARSKICH\
+  i MALINOWSKICH
+* 18.00 + za śp. Eugeniusza KAŁASZA w 19 rocznicę śmierci
+
+**Sobota, 13 luty, św. męczenników Pawła Miki i Towarzyszy, *wspomnienie***
+
+* 7.00 + za śp. Marka ŁUCZAJA (od Barbary Grabek)
+* 18.00 + za śp. Marka GRABSKIEGO (od rodziny Kazimierczaków z dziećmi)
+
+**VI NIEDZIELA ZWYKŁA, 14 luty**
+
+* 7.00 + za śp. Adama CHOJECKIEGO w 1 rocznicę śmierci
+* 9.00 intencja zbiorowa
+
+  * z okazji urodzin Patryka
+  * + za śp. Eugeniusza KAŁASZA w 19 rocznicę śmierci i zmarłych z rodziny KAŁASZA
+  * + za śp. Mirosławę RYDZEWSKĄ
+  * + za śp. Marka ŁUCZAJA
+  * + za śp. Krystynę PIEŃKOWSKĄ
+* 10.30 za parafian
+* 12.00 + za śp. Teodorę i Stanisława BAREJA oraz za zmarłych z rodziny BAREJÓW i TARASZEWSKICH
+* 18.00 + za śp. Tomasza MECHLIŃSKICGO o wszelkie potrzebne łaski do zbawienia
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **IV NIEDZIELA ZWYKŁA, 31 stycznia**
@@ -9,10 +72,10 @@ title: Intencje mszalne
 * 7.00 za parafian
 * 9.00 intencja zbiorowa
 
-  * + za śp. Danutę GADOMSKĄ
-  * + za śp. Marie MROCZEK
-  * + za śp. Władysławę i Józefa MOLSKICH
-  * + za śp. Antonię i Mariana KĄDEJ
+  * * za śp. Danutę GADOMSKĄ
+  * * za śp. Marie MROCZEK
+  * * za śp. Władysławę i Józefa MOLSKICH
+  * * za śp. Antonię i Mariana KĄDEJ
 * 10.30 + za śp. Romana SKROBEK w rocznicę śmierci
 * 12.00 + za całą rodzinę KLIMUKÓW, za rodzinę ZAJĄCZKOWSKICH, za rodzinę RADZKICH
 * 18.00 o łaskę wiary, nadziei i miłości przez wstawiennictwo Maryi dla Ali
@@ -54,8 +117,8 @@ title: Intencje mszalne
 
   * z okazji urodzin w intencji dziękczynnej za dar życia Krysi, z prośbą o Boże błogosławieństwo
   * błagalno-dziękczynna w rocznicę urodzin Jakuba KOTUNIAKA oraz w 25 rocznicę śmierci Ryszarda KOTUNIAKA
-  * + za śp. Jana NIKODEMA
-  * + za śp. Juliana KOŁODZIEJCZYKA w 91 rocznicę urodzin
+  * * za śp. Jana NIKODEMA
+  * * za śp. Juliana KOŁODZIEJCZYKA w 91 rocznicę urodzin
 * 10.30 + za śp. Mariannę ZDANOWICZ w 3 rocznicę śmierci
 * 12.00 + za śp. Jadwigę i Zdzisława SŁODKOWSKICH w 2 rocznicę śmierci
 * 18.00 intencja dziękczynna za wyjście z choroby kowidowej rodziny KAMIŃSKICH i ich bliskich
