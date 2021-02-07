@@ -9,11 +9,11 @@ title: Intencje mszalne
 
   * z okazji urodzin w intencji dziękczynnej za dar życia Krysi, z prośbą o Boże błogosławieństwo
   * błagalno-dziękczynna w rocznicę urodzin Jakuba KOTUNIAKA oraz w 25 rocznicę śmierci Ryszarda KOTUNIAKA
-  * + za śp. Jana NIKODEMA
-  * + za śp. Juliana KOŁODZIEJCZYKA w 91 rocznicę urodzin
+  * za śp. Jana NIKODEMA
+  * za śp. Juliana KOŁODZIEJCZYKA w 91 rocznicę urodzin
   * O Boże błogosławieństwo i opiekę św. Józefa oraz o uzdrowienie z choroby i nawrócenie Zuzi (prosi babcia)
-  * + za śp. Jana JELIŃSKIEGO
-  * + za śp. Kazimierę KWIEK z DOBRZYNIECKICH w 77 rocznicę śmierci oraz w 49 rocznicę śmierci Zygmunta KWIEKA
+  * za śp. Jana JELIŃSKIEGO
+  * za śp. Kazimierę KWIEK z DOBRZYNIECKICH w 77 rocznicę śmierci oraz w 49 rocznicę śmierci Zygmunta KWIEKA
 * 10.30 + za śp. Mariannę ZDANOWICZ w 3 rocznicę śmierci
 * 12.00 + za śp. Jadwigę i Zdzisława SŁODKOWSKICH w 2 rocznicę śmierci
 * 18.00 intencja dziękczynna za wyjście z choroby kowidowej rodziny KAMIŃSKICH i ich bliskich
@@ -55,10 +55,10 @@ title: Intencje mszalne
 * 9.00 intencja zbiorowa
 
   * z okazji urodzin Patryka
-  * + za śp. Eugeniusza KAŁASZA w 19 rocznicę śmierci i zmarłych z rodziny KAŁASZA
-  * + za śp. Mirosławę RYDZEWSKĄ
-  * + za śp. Marka ŁUCZAJA
-  * + za śp. Krystynę PIEŃKOWSKĄ
+  * * za śp. Eugeniusza KAŁASZA w 19 rocznicę śmierci i zmarłych z rodziny KAŁASZA
+  * * za śp. Mirosławę RYDZEWSKĄ
+  * * za śp. Marka ŁUCZAJA
+  * * za śp. Krystynę PIEŃKOWSKĄ
 * 10.30 za parafian
 * 12.00 + za śp. Teodorę i Stanisława BAREJA oraz za zmarłych z rodziny BAREJÓW i TARASZEWSKICH
 * 18.00 + za śp. Tomasza MECHLIŃSKICGO o wszelkie potrzebne łaski do zbawienia
