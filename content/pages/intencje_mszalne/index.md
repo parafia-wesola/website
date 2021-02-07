@@ -55,10 +55,10 @@ title: Intencje mszalne
 * 9.00 intencja zbiorowa
 
   * z okazji urodzin Patryka
-  * * za śp. Eugeniusza KAŁASZA w 19 rocznicę śmierci i zmarłych z rodziny KAŁASZA
-  * * za śp. Mirosławę RYDZEWSKĄ
-  * * za śp. Marka ŁUCZAJA
-  * * za śp. Krystynę PIEŃKOWSKĄ
+  * za śp. Eugeniusza KAŁASZA w 19 rocznicę śmierci i zmarłych z rodziny KAŁASZA
+  * za śp. Mirosławę RYDZEWSKĄ
+  * za śp. Marka ŁUCZAJA
+  * za śp. Krystynę PIEŃKOWSKĄ
 * 10.30 za parafian
 * 12.00 + za śp. Teodorę i Stanisława BAREJA oraz za zmarłych z rodziny BAREJÓW i TARASZEWSKICH
 * 18.00 + za śp. Tomasza MECHLIŃSKICGO o wszelkie potrzebne łaski do zbawienia
@@ -72,10 +72,10 @@ title: Intencje mszalne
 * 7.00 za parafian
 * 9.00 intencja zbiorowa
 
-  * * za śp. Danutę GADOMSKĄ
-  * * za śp. Marie MROCZEK
-  * * za śp. Władysławę i Józefa MOLSKICH
-  * * za śp. Antonię i Mariana KĄDEJ
+  * za śp. Danutę GADOMSKĄ
+  * za śp. Marie MROCZEK
+  * za śp. Władysławę i Józefa MOLSKICH
+  * za śp. Antonię i Mariana KĄDEJ
 * 10.30 + za śp. Romana SKROBEK w rocznicę śmierci
 * 12.00 + za całą rodzinę KLIMUKÓW, za rodzinę ZAJĄCZKOWSKICH, za rodzinę RADZKICH
 * 18.00 o łaskę wiary, nadziei i miłości przez wstawiennictwo Maryi dla Ali
@@ -117,8 +117,8 @@ title: Intencje mszalne
 
   * z okazji urodzin w intencji dziękczynnej za dar życia Krysi, z prośbą o Boże błogosławieństwo
   * błagalno-dziękczynna w rocznicę urodzin Jakuba KOTUNIAKA oraz w 25 rocznicę śmierci Ryszarda KOTUNIAKA
-  * * za śp. Jana NIKODEMA
-  * * za śp. Juliana KOŁODZIEJCZYKA w 91 rocznicę urodzin
+  * za śp. Jana NIKODEMA
+  * za śp. Juliana KOŁODZIEJCZYKA w 91 rocznicę urodzin
 * 10.30 + za śp. Mariannę ZDANOWICZ w 3 rocznicę śmierci
 * 12.00 + za śp. Jadwigę i Zdzisława SŁODKOWSKICH w 2 rocznicę śmierci
 * 18.00 intencja dziękczynna za wyjście z choroby kowidowej rodziny KAMIŃSKICH i ich bliskich
