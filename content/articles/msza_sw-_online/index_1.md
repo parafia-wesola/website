@@ -8,7 +8,7 @@ cover: msza_sw.online.png
 ---
 <!--StartFragment-->
 
-**7 luty, V Niedziela Zwykła**
+**14 luty, VI Niedziela Zwykła**
 
 7.00, 9.00, 10.30
 
