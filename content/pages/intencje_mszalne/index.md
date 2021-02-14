@@ -13,11 +13,11 @@ title: Intencje mszalne
   * w dniu urodzin Roberta i Bartosza
   * w podziękowaniu za 45 lat wspólnego pożycia Danuty i Henryka
   * za szczęśliwy przebieg operacji i wyjście z ciężkiej choroby
-  * + za śp. Eugeniusza KAŁASZA w 19 rocznicę śmierci i zmarłych z rodziny KAŁASZA
-  * + za śp. Mirosławę RYDZEWSKĄ
-  * + za śp. Marka ŁUCZAJA
-  * + za śp. Krystynę PIEŃKOWSKĄ
-  * + za śp. Wiktora
+  * za śp. Eugeniusza KAŁASZA w 19 rocznicę śmierci i zmarłych z rodziny KAŁASZA
+  * za śp. Mirosławę RYDZEWSKĄ
+  * za śp. Marka ŁUCZAJA
+  * za śp. Krystynę PIEŃKOWSKĄ
+  * za śp. Wiktora
 * 10.30 za parafian
 * 12.00 + za śp. Teodorę i Stanisława BAREJA oraz za zmarłych z rodziny BAREJÓW\
   i TARASZEWSKICH
@@ -69,8 +69,8 @@ title: Intencje mszalne
 * 10.30 intencja zbiorowa:
 
   * za Szymona w pierwsze urodziny
-  * + za śp. Hannę JAROSIEWICZ
-  * + w 25 rocznicę śmierci Jadwigi WILKIEWICZ oraz Michaliny i Jana WILKIEWICZ
+  * za śp. Hannę JAROSIEWICZ
+  * w 25 rocznicę śmierci Jadwigi WILKIEWICZ oraz Michaliny i Jana WILKIEWICZ
 * 12.00 + za śp. Przemysława KOWALCZYKA w 4 rocznicę śmierci
 * 17.15 Gorzkie Żale
 * 18.00 za wszystkie osoby, które wspierały rodzinę KAMIŃSKICH w trudnych chwilach
