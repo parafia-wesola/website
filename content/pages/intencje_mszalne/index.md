@@ -2,6 +2,81 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**VI NIEDZIELA ZWYKŁA, 14 luty**
+
+* 7.00 + za śp. Adama CHOJECKIEGO w 1 rocznicę śmierci
+* 9.00 intencja zbiorowa
+
+  * z okazji urodzin Patryka
+  * w dniu urodzin Roberta i Bartosza
+  * w podziękowaniu za 45 lat wspólnego pożycia Danuty i Henryka
+  * za szczęśliwy przebieg operacji i wyjście z ciężkiej choroby
+  * + za śp. Eugeniusza KAŁASZA w 19 rocznicę śmierci i zmarłych z rodziny KAŁASZA
+  * + za śp. Mirosławę RYDZEWSKĄ
+  * + za śp. Marka ŁUCZAJA
+  * + za śp. Krystynę PIEŃKOWSKĄ
+  * + za śp. Wiktora
+* 10.30 za parafian
+* 12.00 + za śp. Teodorę i Stanisława BAREJA oraz za zmarłych z rodziny BAREJÓW\
+  i TARASZEWSKICH
+* 18.00 + za śp. Tomasza MECHLIŃSKIEGO o wszelkie potrzebne łaski do zbawienia
+
+**Poniedziałek, 15 luty**
+
+* 7.00 + za śp. Pelagię i Stefana ŁASKAWIEC, Zofię OSTATKIEWICZ, Halinę NOWAKOWSKĄ\
+  i MARIĘ SPAŁA
+* 18.00 + za śp. Eugeniusza BAŁABUCH
+* 18.00 za parafię – za mieszkańców Grzybowej
+
+**Wtorek, 16 luty**
+
+* 7.00 
+* 18.00 + za śp. Józefa ROMAŃCZUKA o pokój duszy oraz za Juliana WZOREK
+* 18.00 za parafię – za mieszkańców Groszówki
+
+**Środa, 17 luty, ŚRODA POPIELCOWA**
+
+* 7.00 + za śp. Wisława SIUCIAK w 4 rocznicę śmierci
+* 18.00 o Boże błogosławieństwo, opiekę Matki Bożej i Jezusa, umacnianie wiary, zdrowie, długich lat życia w dniu urodzin i imienin dla Marty
+* 19.30
+
+**Czwartek, 18 luty**
+
+* 7.00 w intencji odnalezienia drogi dla Kasi i o łaskę spotkanie Boga
+* 18:00 + za śp. Stanisławę SPOCZYŃSKĄ w 20 rocznicę śmierci i za zmarłych z rodziny SPOCZYŃSKICH, POTĘGÓW i WODCZYŃSKICH
+* 19.00 Nieszpory o Jedność Chrześcijan
+
+**Piątek, 19 luty**
+
+* 7.00
+* 16.30 Droga Krzyżowa (dzieci)
+* 18.00 za małżeństwa w kryzysie
+* 18.00 za parafię – za mieszkańców Centrum
+* 19.00 Droga Krzyżowa
+
+**Sobota, 20 luty**
+
+* 7.00 + za śp. Felicję, Stefana i Marię PENK
+* 18.00 + za śp. Jadwigę i Eugeniusza o życie wieczne oraz o błogosławieństwo dla Emilii i jej rodziny
+
+**I NIEDZIELA WIELKIEGO POSTU, 21 luty**
+
+* 7.00 za parafian
+* 9.00 w intencji Krystyny w dniu 50 urodzin o błogosławieństwo Boże i zdrowie\
+  oraz za Bolesława SĘDKA o zdrowie i opiekę Bożą
+* 10.30 intencja zbiorowa:
+
+  * za Szymona w pierwsze urodziny
+  * + za śp. Hannę JAROSIEWICZ
+  * + w 25 rocznicę śmierci Jadwigi WILKIEWICZ oraz Michaliny i Jana WILKIEWICZ
+* 12.00 + za śp. Przemysława KOWALCZYKA w 4 rocznicę śmierci
+* 17.15 Gorzkie Żale
+* 18.00 za wszystkie osoby, które wspierały rodzinę KAMIŃSKICH w trudnych chwilach
+
+<!--EndFragment-->
+
 **V NIEDZIELA ZWYKŁA, 7 luty**
 
 * 7.00 za parafian
