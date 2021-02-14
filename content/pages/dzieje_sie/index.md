@@ -7,11 +7,13 @@ news:
   - size: large
     title: Msze św. online
   - size: large
-    title: Kurs przedmałżeński
+    title: Msze święte w intencji parafian
   - size: large
+    title: Kurs przedmałżeński
+  - size: medium
     title: Niedzielne animacje dla dzieci
   - size: medium
     title: Pamiętajmy!
-  - size: medium
+  - size: large
     title: "otwarty kościół "
 ---
