@@ -5,15 +5,13 @@ news:
   - size: large
     title: Koronawirus w Parafii
   - size: large
-    title: Msze św. online
-  - size: large
     title: Msze święte w intencji parafian
   - size: large
     title: Kurs przedmałżeński
-  - size: medium
+  - size: large
     title: Niedzielne animacje dla dzieci
   - size: medium
-    title: Pamiętajmy!
-  - size: large
     title: "otwarty kościół "
+  - size: medium
+    title: Pamiętajmy!
 ---
