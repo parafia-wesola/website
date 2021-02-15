@@ -4,7 +4,7 @@ title: Msze święte w intencji parafian
 date: 2021-02-14T15:01:11.066Z
 eventDate: ""
 author: parafia wesoła
-cover: kopia_msza_sw.online.png
+cover: kopia_msza_sw.online_1_.png
 ---
 <!--StartFragment-->
 
