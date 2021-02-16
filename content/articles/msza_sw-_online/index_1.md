@@ -1,19 +1,19 @@
 ---
 type: article
 title: Msze św. online
-date: 2021-02-05T17:14:36.891Z
-eventDate: 2021-02-07T11:00:00.000Z
+date: 2021-02-16T14:56:39.455Z
+eventDate: 2021-02-17T17:00:00.000Z
 author: parafia wesoła
-cover: msza_sw.online.png
+cover: sroda_popielcowa.png
 ---
 <!--StartFragment-->
 
-**14 luty, VI Niedziela Zwykła**
+**17 lutego, Środa Popielcowa**
 
-7.00, 9.00, 10.30
+7.00
 
-12.00 transmisja do kaplicy  na You Tube
+18.00 transmisja do kaplicy  na You Tube
 
-18.00 transmisja do kaplicy i na You Tube
+19.30 transmisja do kaplicy i na You Tube
 
 <!--EndFragment-->
