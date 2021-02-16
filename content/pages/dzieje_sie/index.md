@@ -3,7 +3,7 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Koronawirus w Parafii
+    title: Msze św. online
   - size: large
     title: Msze święte w intencji parafian
   - size: large
