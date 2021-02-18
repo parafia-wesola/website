@@ -7,6 +7,8 @@ news:
   - size: large
     title: Msze święte w intencji parafian
   - size: large
+    title: Droga Krzyżowa
+  - size: large
     title: Kurs przedmałżeński
   - size: large
     title: Niedzielne animacje dla dzieci
