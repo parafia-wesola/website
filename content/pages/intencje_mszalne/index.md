@@ -4,6 +4,76 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**I NIEDZIELA WIELKIEGO POSTU, 21 lutego**
+
+* 7.00 za parafian
+* 9.00 w intencji Krystyny w dniu 50 urodzin o błogosławieństwo Boże i zdrowie oraz za Bolesława SĘDKA o zdrowie i opiekę Bożą
+* 10.30 intencja zbiorowa:
+
+  * za Szymona w pierwsze urodziny
+  * + za śp. Hannę JAROSIEWICZ
+  * + w 25. rocznicę śmierci Jadwigi WILKIEWICZ oraz za śp. Michalinę i Jana WILKIEWICZ
+  * + za śp. Janusza WĄSOWSKIEGO
+  * + za śp. Annę FABISZOWĄ w 55. rocznicę śmierci o spokój duszy
+* 12.00 + za śp. Przemysława KOWALCZYKA w 4. rocznicę śmierci
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 17.15 Gorzkie Żale
+* 18.00 za wszystkie osoby, które wspierały rodzinę KAMIŃSKICH w trudnych chwilach
+
+**Poniedziałek, 22 lutego, Katedry św. Piotra i Pawła, Apostoła, *święto***
+
+* 7.00 O Boże prowadzenie dla Joanny
+* 18.00 + za śp. Henryka ROZWADOWSKIEGO w dniu urodzin
+* 18.00 za parafię – za mieszkańców Woli Grzybowskiej
+
+**Wtorek, 23 lutego**
+
+* 7.00 O szczęśliwe rozwiązanie dla Natalii
+* 18.00 + za śp. Danutę GADOMSKĄ miesiąc po pogrzebie
+
+**Środa, 24 lutego**
+
+* 7.00 O zgodę w rodzinie
+* 18.00 w dniu 30. urodzin Karoliny o Boże błogosławieństwo i opiekę NMP
+
+**Czwartek, 25 lutego**
+
+* 7.00 podziękowanie i prośba o stałą opiekę Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+* 18:00 + za śp. Marcina GRUŻEWSKIEGO
+
+**Piątek, 26 lutego**
+
+* 7.00
+* 16.45 Droga Krzyżowa (dla dzieci)
+* 18.00 + za śp. Aleksandra GŁÓWKĘ
+* 18.40-20.00 czas na indywidualną Drogę Krzyżową
+
+**Sobota, 27 lutego**
+
+* 7.00 + za śp. Mariana IWANIAKA w 11. rocznicę śmierci
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 18.00 + za śp. Aleksandra GŁÓWKĘ
+
+**II NIEDZIELA WIELKIEGO POSTU, 28 lutego**
+
+* 7.00 + za duszę śp. Stanisława w 15. rocznicę śmierci i za sp. Jadwigę MUĆKA oraz za zmarłych z rodziny MUĆKA i CHUDZIK-LIPKA
+* 9.00 + za śp. Marka GRABSKIEGO oraz za zmarłych z rodzin z obu stron
+* 10.30 intencja zbiorowa:
+
+  * + za śp. Edwarda DĄBKOWSKIEGO w 4 rocznicę śmierci
+  * + za śp. Janusza WĄSOWSKIEGO
+  * + za śp. Zygmunta i Teodora BANASZEK
+  * + za śp. Henryka ZIĘBA
+  * + za śp. Małgorzatę ANISZEWSKĄ
+* 12.00 za parafian
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 17.15 Gorzkie Żale
+* 18.00 + za śp. Marka GRABSKIEGO (od firmy Instalbud, właściciela i pracowników)
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **VI NIEDZIELA ZWYKŁA, 14 luty**
 
 * 7.00 + za śp. Adama CHOJECKIEGO w 1 rocznicę śmierci
