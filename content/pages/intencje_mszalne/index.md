@@ -11,10 +11,10 @@ title: Intencje mszalne
 * 10.30 intencja zbiorowa:
 
   * za Szymona w pierwsze urodziny
-  * + za śp. Hannę JAROSIEWICZ
-  * + w 25. rocznicę śmierci Jadwigi WILKIEWICZ oraz za śp. Michalinę i Jana WILKIEWICZ
-  * + za śp. Janusza WĄSOWSKIEGO
-  * + za śp. Annę FABISZOWĄ w 55. rocznicę śmierci o spokój duszy
+  * za śp. Hannę JAROSIEWICZ
+  * w 25. rocznicę śmierci Jadwigi WILKIEWICZ oraz za śp. Michalinę i Jana WILKIEWICZ
+  * za śp. Janusza WĄSOWSKIEGO
+  * za śp. Annę FABISZOWĄ w 55. rocznicę śmierci o spokój duszy
 * 12.00 + za śp. Przemysława KOWALCZYKA w 4. rocznicę śmierci
 * 15.00 - 17.45 Adoracja Najświętszego Sakramentu
 * 17.15 Gorzkie Żale
@@ -60,11 +60,11 @@ title: Intencje mszalne
 * 9.00 + za śp. Marka GRABSKIEGO oraz za zmarłych z rodzin z obu stron
 * 10.30 intencja zbiorowa:
 
-  * + za śp. Edwarda DĄBKOWSKIEGO w 4 rocznicę śmierci
-  * + za śp. Janusza WĄSOWSKIEGO
-  * + za śp. Zygmunta i Teodora BANASZEK
-  * + za śp. Henryka ZIĘBA
-  * + za śp. Małgorzatę ANISZEWSKĄ
+  * za śp. Edwarda DĄBKOWSKIEGO w 4 rocznicę śmierci
+  * za śp. Janusza WĄSOWSKIEGO
+  * za śp. Zygmunta i Teodora BANASZEK
+  * za śp. Henryka ZIĘBA
+  * za śp. Małgorzatę ANISZEWSKĄ
 * 12.00 za parafian
 * 15.00 - 17.45 Adoracja Najświętszego Sakramentu
 * 17.15 Gorzkie Żale
