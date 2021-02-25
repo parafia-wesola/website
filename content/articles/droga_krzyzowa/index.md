@@ -8,7 +8,9 @@ cover: droga_krzyzowa.png
 ---
 <!--StartFragment-->
 
-<h4 style="text-align:center;">DROGA KRZYŻOWA</h4><h4 style="text-align:center;">2. Piątek Wielkiego Postu</h4>
+<h4 style="text-align:center;">DROGA KRZYŻOWA</h4>
+
+<h4 style="text-align:center;">2. Piątek Wielkiego Postu</h4>
 
 Na ten piątek proponujemy Drogę Krzyżową w formie modlitwy osobistej. Może być to ważny moment w tygodniu, który w Wielkim Poście może przybliżyć każdego do osoby Jezusa, pozwolić na spotkanie Go: wreszcie lub na nowo, inaczej…, przynieść nadzieję, nowe życie..
 
