@@ -6,7 +6,7 @@ news:
     title: Msze św. online
   - size: large
     title: Droga Krzyżowa
-  - size: medium
+  - size: large
     title: Niedzielne animacje dla dzieci
   - size: large
     title: Kurs przedmałżeński
