@@ -21,5 +21,7 @@ W każdą 3. niedzielę zapraszamy dzieci na Mszę Świętą o godzinie 12, któ
   [link do filmu](https://youtu.be/x_Xh2SmQRw8)
 * **6 Niedziela Zwykła, 14 luty**\
   [link do filmu](https://youtu.be/mEhp6ae3awE)
+* **2 Niedziela Wielkiego Postu**\
+  [link do filmu](https://youtu.be/y6gbB7fF3UU)
 
 <!--EndFragment-->
