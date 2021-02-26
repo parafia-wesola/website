@@ -8,7 +8,7 @@ cover: niedziela.png
 ---
 <!--StartFragment-->
 
-**1 Niedziela Wielkiego Postu, 21 lutego**
+**II Niedziela Wielkiego Postu, 28 lutego**
 
 7.00, 9.00. 10.30 Msza św.
 
