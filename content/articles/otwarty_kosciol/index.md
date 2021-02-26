@@ -1,7 +1,7 @@
 ---
 type: article
-title: "otwarty kościół "
-date: 2020-09-15T18:19:51.736Z
+title: Adoracja w weekendy
+date: 2021-02-26T16:00:46.416Z
 eventDate: ""
 author: parafia wesoła
 cover: otwarty_kosciol.png
