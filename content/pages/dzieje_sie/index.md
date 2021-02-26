@@ -11,7 +11,7 @@ news:
   - size: large
     title: Kurs przedmałżeński
   - size: medium
-    title: "otwarty kościół "
+    title: Adoracja w weekendy
   - title: Pamiętajmy!
     size: medium
 ---
