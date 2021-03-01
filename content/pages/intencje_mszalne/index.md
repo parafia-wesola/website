@@ -4,6 +4,74 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**II NIEDZIELA WIELKIEGO POSTU, 28 lutego**
+
+* 7.00 + za duszę śp. Stanisława w 15. rocznicę śmierci i za sp. Jadwigę MUĆKA oraz za zmarłych\
+  z rodziny MUĆKA i CHUDZIK-LIPKA
+* 9.00 + za śp. Marka GRABSKIEGO oraz za zmarłych z rodzin z obu stron
+* 10.30 intencja zbiorowa:
+
+  * + za śp. Edwarda DĄBKOWSKIEGO w 4 rocznicę śmierci
+  * + za śp. Janusza WĄSOWSKIEGO
+  * + za śp. Zygmunta i Teodora BANASZEK
+  * + za śp. Henryka ZIĘBA
+  * + za śp. Małgorzatę ANISZEWSKĄ
+  * + za sp. Zuzannę KRZEMIEŃ
+* 12.00 za parafian
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 17.15 Gorzkie Żale
+* 18.00 + za śp. Marka GRABSKIEGO (od firmy Instalbud, właściciela i pracowników)
+
+**Poniedziałek, 1 marca**
+
+* 7.00 + za śp. Marka GRABSKIEGO
+* 18.00 + za śp. Irenę SZCZUDLIŃSKĄ
+
+**Wtorek, 2 marca**
+
+* 7.00 + za śp. Anielę MALINOWSKĄ w 20 rocznicę śmierci oraz za zmarłych z rodziny BOJARSKICH i MALINOWSKICH
+* 18.00 wypominkowa
+
+**Środa, 3 marca**
+
+* 7.00 + za śp. Mirosławę i Apolinarego MATUSZEWSKICH
+* 18.00 + za śp. Kazimierza JACKIEWICZA
+
+**Czwartek, 4 marca, św. Kazimierza, królewicza, *święto***
+
+* 7.00 + za śp. Jana JELIŃSKIEGO miesiąc po pogrzebie
+* 18:00 + za śp. Zofię i Andrzeja SOBÓL
+
+**Piątek, 5 marca**
+
+* 7.00 + za śp. Mirosławę RYDZEWSKĄ miesiąc po pogrzebie
+* 18.00 + za śp. Jana RECHNIO w 5 rocznicę śmierci oraz za Mariannę i Bolesława RECHNIO
+* 18.45 Droga Krzyżowa (dorośli)
+
+**Sobota, 6 marca**
+
+* 7.00 + za śp. Ryszarda ŁAPIŃSKIEGO oraz za zmarłych z rodziny WIŚNIEWSKICH oraz za śp. Mirosława MACHNACKIEGO
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 17.00 Nabożeństwo pierwszosobotnie
+* 18.00 w intencji Kół Żywego Różańca
+
+**III NIEDZIELA WIELKIEGO POSTU, 7 marca**
+
+* 7.00 za parafian
+* 9.00 intencja zbiorowa
+
+  * + za śp. Kamilę, Jana WĄSOWSKICH oraz za Annę i Teofila SKIBNIEWSKICH
+  * + za śp. Edwarda KOPCIŃSKIEGO w 20 rocznicę śmierci i za duszę śp. Kazimiery KOPCIŃSKIEJ
+* 10.30 w rocznicę urodzin Stefanii, Bożeny i Romy
+* 12.00 + za śp. Teodorę i Stanisława BAREJA oraz za zmarłych z rodziny BAREJÓW i TARSZEWSKICH
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 17.15 Gorzkie Żale
+* 18.00 + za śp. Tadeusza ZALEWSKIEGO o Boże Miłosierdzie i pokój wieczny oraz dziękczynna za pielgrzymów oraz wszystkie osoby, które okazały nam wsparcie duchowe i modliły za śp. Tadeusza i naszą rodzinę
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **I NIEDZIELA WIELKIEGO POSTU, 21 lutego**
 
 * 7.00 za parafian
@@ -60,12 +128,12 @@ title: Intencje mszalne
 * 9.00 + za śp. Marka GRABSKIEGO oraz za zmarłych z rodzin z obu stron
 * 10.30 intencja zbiorowa:
 
-  * + za śp. Edwarda DĄBKOWSKIEGO w 4 rocznicę śmierci
-  * + za śp. Janusza WĄSOWSKIEGO
-  * + za śp. Zygmunta i Teodora BANASZEK
-  * + za śp. Henryka ZIĘBA
-  * + za śp. Małgorzatę ANISZEWSKĄ
-  * + za śp. Zuzannę KRZEMIEŃ
+  * * za śp. Edwarda DĄBKOWSKIEGO w 4 rocznicę śmierci
+  * * za śp. Janusza WĄSOWSKIEGO
+  * * za śp. Zygmunta i Teodora BANASZEK
+  * * za śp. Henryka ZIĘBA
+  * * za śp. Małgorzatę ANISZEWSKĄ
+  * * za śp. Zuzannę KRZEMIEŃ
 * 12.00 za parafian
 * 15.00 - 17.45 Adoracja Najświętszego Sakramentu
 * 17.15 Gorzkie Żale
