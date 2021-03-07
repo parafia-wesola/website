@@ -4,6 +4,79 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**III NIEDZIELA WIELKIEGO POSTU, 7 marca**
+
+* 7.00 za parafian
+* 9.00 intencja zbiorowa
+
+  * + za śp. Kamilę, Jana WĄSOWSKICH oraz za Annę i Teofila SKIBNIEWSKICH
+  * + za śp. Edwarda KOPCIŃSKIEGO w 20 rocznicę śmierci i za duszę śp. Kazimiery KOPCIŃSKIEJ
+  * + za śp. Bartosza SZOTOWSKIEGO, Irenę i Stanisława TRZEWICZEK
+  * + za śp. Elżbietę BARTMAN
+  * + za śp. Antoninę i Mariana KĄDEJ
+* 10.30 w rocznicę urodzin Stefanii, Bożeny i Romy
+* 12.00 + za śp. Teodorę i Stanisława BAREJA oraz za zmarłych z rodziny BAREJÓW i TARSZEWSKICH
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 17.15 Gorzkie Żale
+* 18.00 + za śp. Tadeusza ZALEWSKIEGO o Boże Miłosierdzie i pokój wieczny oraz dziękczynna za pielgrzymów oraz wszystkie osoby, które okazały nam wsparcie duchowe i modliły za śp. Tadeusza i naszą rodzinę
+
+**Poniedziałek, 8 marca**
+
+* 7.00 + za śp. Roberta GRYZ oraz z okazji 75 urodzin Haliny, jego mamy i o zdrowie dla brata Piotra
+* 18.00 + za śp. Franciszkę i Tomasza PASTEK
+
+**Wtorek, 9 marca**
+
+* 7.00 + za duszę śp. Grzegorza SOBIECH w dniu jego urodzin oraz za Wacławę i Halinę RYCHLIK
+* 18.00 + za śp. Wandę MAMCARZ, Leokadię RAUSZ i Stanisławę ZALEWSKĄ
+
+**Środa, 10 marca**
+
+* 7.00 + za śp. Kazimierza, Mariana, Antoniego, Bogdana, Janusza z rodziny ZAWADZKICH
+* 18.00 Msza św. dziękczynna w 1 rocznicę urodzin Klary oraz o błogosławieństwo dla jej rodziców Alicji\
+  i Mateusza
+
+**Czwartek, 11 marca, św. Kazimierza, królewicza, *święto***
+
+* 7.00 + za śp. Władysława, Stanisławę PIOTRAK oraz zmarłych z rodziny PIOTRAK i SEKULAR
+* 18:00 + za śp. Marka i Reginę CHOIŃSKICH w kolejną rocznicę śmierci
+
+**Piątek, 12 marca**
+
+* 7.00 + za duszę śp. Grzegorza SOBIECH w dniu imienin oraz za śp. Krzysztofa KIEŁCZEWSKIEGO
+* 16.45 Droga Krzyżowa (dzieci)
+* 18.00 + za ś. Eugeniusza BAŁABUCH oraz za łaskę zdrowia dla Piotrka
+* 18.45 Droga Krzyżowa (dorośli)
+
+**Sobota, 13 marca**
+
+* 7.00 + za śp. Marka ŁUCZAJ miesiąc po pogrzebie
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 18.00 + za śp. Stanisława FELTER w 29 rocznicę śmierci
+
+**IV NIEDZIELA WIELKIEGO POSTU, 14 marca**
+
+* 7.00 dziękczynna za dar życia dla osoby Bogu znanej
+* 9.00 intencja zbiorowa
+
+  * błagalno-dziękczynna w rocznicę urodzin Izabeli KOTUNIAK i Andrzeja KOTUNIAK oraz ich wnuka Antoniego
+  * w 90 urodziny Zygmunta BARAN
+  * w 91 urodziny Jadwigi STOJANOWSKIEJ z prośbą o wiele łask Bożych i o błogosławieństwo\
+    i zdrowie
+  * + za śp. Czesławę i Piotra KIELCZYK
+  * + za śp. Stanisławę GŁÓWKA
+  * + za śp. Thu Hoa GRABOWSKĄ
+  * + za śp. Barbarę RATAJCZYK
+* 10.30 + za śp. ks. Zbigniewa Wojciechowskiego, byłego proboszcza naszej parafii
+* 12.00 + za śp. Barbarę i Franciszka GADOMSKICH w rocznicę śmierci oraz za sp. Zofię i Tadeusza TOKARSKICH
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 17.15 Gorzkie Żale
+* 18.00 w 26 rocznicę urodzin Dominika
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **II NIEDZIELA WIELKIEGO POSTU, 28 lutego**
 
 * 7.00 + za duszę śp. Stanisława w 15. rocznicę śmierci i za sp. Jadwigę MUĆKA oraz za zmarłych\
@@ -11,12 +84,12 @@ title: Intencje mszalne
 * 9.00 + za śp. Marka GRABSKIEGO oraz za zmarłych z rodzin z obu stron
 * 10.30 intencja zbiorowa:
 
-  * + za śp. Edwarda DĄBKOWSKIEGO w 4 rocznicę śmierci
-  * + za śp. Janusza WĄSOWSKIEGO
-  * + za śp. Zygmunta i Teodora BANASZEK
-  * + za śp. Henryka ZIĘBA
-  * + za śp. Małgorzatę ANISZEWSKĄ
-  * + za sp. Zuzannę KRZEMIEŃ
+  * * za śp. Edwarda DĄBKOWSKIEGO w 4 rocznicę śmierci
+  * * za śp. Janusza WĄSOWSKIEGO
+  * * za śp. Zygmunta i Teodora BANASZEK
+  * * za śp. Henryka ZIĘBA
+  * * za śp. Małgorzatę ANISZEWSKĄ
+  * * za sp. Zuzannę KRZEMIEŃ
 * 12.00 za parafian
 * 15.00 - 17.45 Adoracja Najświętszego Sakramentu
 * 17.15 Gorzkie Żale
@@ -60,8 +133,8 @@ title: Intencje mszalne
 * 7.00 za parafian
 * 9.00 intencja zbiorowa
 
-  * + za śp. Kamilę, Jana WĄSOWSKICH oraz za Annę i Teofila SKIBNIEWSKICH
-  * + za śp. Edwarda KOPCIŃSKIEGO w 20 rocznicę śmierci i za duszę śp. Kazimiery KOPCIŃSKIEJ
+  * * za śp. Kamilę, Jana WĄSOWSKICH oraz za Annę i Teofila SKIBNIEWSKICH
+  * * za śp. Edwarda KOPCIŃSKIEGO w 20 rocznicę śmierci i za duszę śp. Kazimiery KOPCIŃSKIEJ
 * 10.30 w rocznicę urodzin Stefanii, Bożeny i Romy
 * 12.00 + za śp. Teodorę i Stanisława BAREJA oraz za zmarłych z rodziny BAREJÓW i TARSZEWSKICH
 * 15.00 - 17.45 Adoracja Najświętszego Sakramentu
