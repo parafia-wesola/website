@@ -9,11 +9,11 @@ title: Intencje mszalne
 * 7.00 za parafian
 * 9.00 intencja zbiorowa
 
-  * + za śp. Kamilę, Jana WĄSOWSKICH oraz za Annę i Teofila SKIBNIEWSKICH
-  * + za śp. Edwarda KOPCIŃSKIEGO w 20 rocznicę śmierci i za duszę śp. Kazimiery KOPCIŃSKIEJ
-  * + za śp. Bartosza SZOTOWSKIEGO, Irenę i Stanisława TRZEWICZEK
-  * + za śp. Elżbietę BARTMAN
-  * + za śp. Antoninę i Mariana KĄDEJ
+  * za śp. Kamilę, Jana WĄSOWSKICH oraz za Annę i Teofila SKIBNIEWSKICH
+  * za śp. Edwarda KOPCIŃSKIEGO w 20 rocznicę śmierci i za duszę śp. Kazimiery KOPCIŃSKIEJ
+  * za śp. Bartosza SZOTOWSKIEGO, Irenę i Stanisława TRZEWICZEK
+  * za śp. Elżbietę BARTMAN
+  * za śp. Antoninę i Mariana KĄDEJ
 * 10.30 w rocznicę urodzin Stefanii, Bożeny i Romy
 * 12.00 + za śp. Teodorę i Stanisława BAREJA oraz za zmarłych z rodziny BAREJÓW i TARSZEWSKICH
 * 15.00 - 17.45 Adoracja Najświętszego Sakramentu
@@ -63,10 +63,10 @@ title: Intencje mszalne
   * w 90 urodziny Zygmunta BARAN
   * w 91 urodziny Jadwigi STOJANOWSKIEJ z prośbą o wiele łask Bożych i o błogosławieństwo\
     i zdrowie
-  * + za śp. Czesławę i Piotra KIELCZYK
-  * + za śp. Stanisławę GŁÓWKA
-  * + za śp. Thu Hoa GRABOWSKĄ
-  * + za śp. Barbarę RATAJCZYK
+  * za śp. Czesławę i Piotra KIELCZYK
+  * za śp. Stanisławę GŁÓWKA
+  * za śp. Thu Hoa GRABOWSKĄ
+  * za śp. Barbarę RATAJCZYK
 * 10.30 + za śp. ks. Zbigniewa Wojciechowskiego, byłego proboszcza naszej parafii
 * 12.00 + za śp. Barbarę i Franciszka GADOMSKICH w rocznicę śmierci oraz za sp. Zofię i Tadeusza TOKARSKICH
 * 15.00 - 17.45 Adoracja Najświętszego Sakramentu
