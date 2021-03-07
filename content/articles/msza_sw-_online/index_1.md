@@ -8,11 +8,15 @@ cover: niedziela.png
 ---
 <!--StartFragment-->
 
-**II Niedziela Wielkiego Postu, 28 lutego**
+**III Niedziela Wielkiego Postu, 7 marca**
 
-7.00, 9.00. 10.30 Msza św.
+7.00, 9.00
+
+10.30 Msza św. transmitowana do kaplicy
 
 12.00 Msza św. transmitowana do kaplicy  na You Tube
+
+15.00-17.15 Adoracja Najświętszego Sakramentu
 
 17.15 Gorzkie Żale
 
