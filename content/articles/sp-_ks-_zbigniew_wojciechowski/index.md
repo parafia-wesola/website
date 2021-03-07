@@ -15,10 +15,11 @@ Po czterech latach, w lipcu 1992 roku, został administratorem Parafii Chrystusa
 Śp. ks. kan. Zbigniew Wojciechowski był kapelanem Ochotniczych Straży Pożarnych m.st. Warszawy (od kwietnia 2011 roku).\
 Przez abp. Sławoja Leszka Głódzia został odznaczony przywilejem rokiety i mantoletu (5 kwietnia 2007).
 
-Uroczystości pogrzebowa będą przebiegały według następującego porządku:\
-- w poniedziałek, 8 marca: o godz. 20.00 Msza święta żałobna w Parafii św. Włodzimierza (ul. Kondratowicza 2) dla parafian i Dekanatu Bródnowskiego;\
-- we wtorek, 9 marca: o godz. 12.30 Msza święta pogrzebowa w Parafii św. Wita w Karczewie (ul. Ks. Żaboklickiego 12).\
-Po Eucharystii nastąpi złożenie Ciała Zmarłego w grobie rodzinnym na miejscowym cmentarzy Parafialnym.
+Uroczystości pogrzebowa będą przebiegały według następującego porządku:
+
+* w poniedziałek, 8 marca: o godz. 20.00 Msza święta żałobna w Parafii św. Włodzimierza (ul. Kondratowicza 2) dla parafian i Dekanatu Bródnowskiego
+* we wtorek, 9 marca: o godz. 12.30 Msza święta pogrzebowa w Parafii św. Wita w Karczewie (ul. Ks. Żaboklickiego 12)\
+  Po Eucharystii nastąpi złożenie Ciała Zmarłego w grobie rodzinnym na miejscowym cmentarzy Parafialnym.
 
 Dobry Jezu, okaż Księdzu Zbigniewowi swoje miłosierdzie!
 
