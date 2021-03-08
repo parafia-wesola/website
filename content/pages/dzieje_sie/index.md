@@ -9,6 +9,8 @@ news:
   - size: large
     title: Droga Krzyżowa
   - size: large
+    title: Droga Krzyżowa dla dzieci
+  - size: large
     title: Niedzielne animacje dla dzieci
   - size: large
     title: Kurs przedmałżeński
