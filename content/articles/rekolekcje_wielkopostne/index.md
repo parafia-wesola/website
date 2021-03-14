@@ -24,11 +24,13 @@ niedziela: 7.00, 9.00, 10.30 \
 poniedziałek - środa: 8.00, 17.00 \
                                   19.00 transmitowana 
 
-\* W naszym kościele może przebywać jednocześnie 17 osób nie licząc posługi, w kaplicy dodatkowo 25 osób
+\*W naszym kościele może przebywać jednocześnie 17 osób nie licząc posługi, w kaplicy dodatkowo 25 osób
 
 **Spowiedź** \
 niedziela: przed Mszą świętą \
 poniedziałek: 7.30, 16.00, 18.00, 20.00-22.00 (wieczór pojednania) \
 wtorek- środa: 7.30, 16.00, 18.00 
+
+**Zespół Mocni w Duchu** jest zawodową drużyną ewangelizacyjną z Łodzi, prowadzą rekolekcje, koncerty, duże wydarzenia halowe i plenerowe, warsztaty muzyczne i taneczne, rekolekcje ignacjańskie oraz nagrywają płyty, głoszą konferencje. Zespół Mocni w Duchu posługuje wraz z kapłanem - jezuitą o. Jackiem Olczykiem SJ. 
 
 <!--EndFragment-->
