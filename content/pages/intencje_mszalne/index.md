@@ -4,6 +4,91 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**IV NIEDZIELA WIELKIEGO POSTU, 14 marca**
+
+* 7.00 dziękczynna za dar życia dla osoby Bogu znanej
+* 9.00 intencja zbiorowa
+
+  * błagalno-dziękczynna w rocznicę urodzin Izabeli KOTUNIAK i Andrzeja KOTUNIAK oraz ich wnuka Antoniego
+  * w 90 urodziny Zygmunta BARAN
+  * o zdrowie dla Kuby w dniu urodzin
+  * o uzdrowienie Zofii
+  * w 91 urodziny Jadwigi STOJANOWSKIEJ z prośbą o wiele łask Bożych i o błogosławieństwo i zdrowie
+  * + za śp. Czesławę i Piotra KIELCZYK
+  * + za śp. Stanisławę GŁÓWKA
+  * + za śp. Thu Hoa GRABOWSKĄ
+  * + za śp. Barbarę RATAJCZYK
+  * + za duszę śp. Andrzeja w 2 rocznicę śmierci oraz za Ludwikę i Wiktora
+  * + za śp. Barbarę RATAJCZYK i Kazimierę LASKOWSKĄ
+  * O szczęśliwy przebieg operacji dla Dariusza
+* 10.30 + za śp. ks. Zbigniewa Wojciechowskiego, byłego proboszcza naszej parafii
+* 12.00 + za śp. Barbarę i Franciszka GADOMSKICH w rocznicę śmierci oraz za sp. Zofię i Tadeusza TOKARSKICH
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 17.15 Gorzkie Żale
+* 18.00 w 26 rocznicę urodzin Dominika
+
+**Poniedziałek, 15 marca**
+
+* 7.00 + za śp. Krystynę PIEŃKOWSKĄ miesiąc po pogrzebie
+* 18.00 dziękczynna z okazji 90 urodzin Tatusia Zygmunta z prośbą o Boże błogosławieństwo i opiekę Matki Bożej i dla całej rodziny
+
+**Wtorek, 16 marca**
+
+* 7.00 + za śp. Hannę JAROSIEWICZ miesiąc po pogrzebie
+* 18.00 + za śp. Wandę LEWANDOWSKĄ w 2 rocznicę śmierci
+
+**Środa, 17 marca**
+
+* 7.00 + za duszę śp. Ewy
+* 18.00 w dniu imienin syna Zbigniewa, dziękczynna za wszelkie dary i opiekę Bożą, z gorącą prośbą\
+  o moc Ducha w pełnieniu posługi we Wspólnocie i w swojej Rodzinie
+
+**Czwartek, 18 marca, św. Kazimierza, królewicza, *święto***
+
+* 7.00 + za śp. Janusza WĄSOWSKIEGO miesiąc po pogrzebie
+* 18:00 + za śp. Józefa ROMANIUKA (od KŻR)
+
+**Piątek, 19 marca, św. Józefa, Oblubieńca Najświętszej Maryi Panny, *uroczystość***
+
+* 7.00 + za śp. Józefa GOŁĘBIEWSKĄ, dziadków GOŁĘBIEWSKICH i zmarłych z rodziny KASZOWSKICH
+* 16.45 Droga Krzyżowa (dzieci)
+* 18.00 za małżeństwa w kryzysie
+* 18.45 Droga Krzyżowa (dorośli)
+
+**Sobota, 20 marca**
+
+* 7.00 o opiekę świętej Rodziny dla rodziny
+* 16.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 18.00 + za śp. Józefa BOBRUK oraz za śp. Krystynę BURZEC
+
+**V NIEDZIELA WIELKIEGO POSTU, 21 marca**
+
+* 7.00 za parafian
+* 9.00 + za sp. Zofię, Józefa RAWSKICH oraz zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
+* 10.30 intencja zbiorowa
+
+  * za Józia o łaskę nawrócenia
+  * + za śp. Kornela KOWALCZYKA w 11 rocznicę śmierci oraz za całą rodzinę KOWALCZYKÓW
+  * + za śp. Jana, Janusza, Jerzego BILEWICZÓW
+  * + za śp. Leszka BAŁADYKA i jego rodziców Wacławę i Władysława
+  * + za śp. Janusza WĄSOWSKIEGO
+  * + za śp. Andrzeja
+  * + za sp. Piotra i Czesławę KIELCZYK
+  * + za śp. Józefa ROMAŃCZUKA
+  * + za śp. Alicję WITKOWSKĄ
+  * + za śp. Józefa PIKUŁĘ
+  * + za śp. Leokadię PASIŃSKĄ
+  * + za śp. Juliannę KAWALEC
+* 12.00 + za śp. Janinę i Jadwigę, Kazimierza, Czesława i zmarłych z rodziny JAWORSKICH\
+  i JACZEWSKICH
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu (kaplica Domu rekolekcyjnego)
+* 17.15 Gorzkie Żale
+* 18.00 + za śp. Józefę, Wojciecha, Stanisława, Stefana SZCZEPEK
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **III NIEDZIELA WIELKIEGO POSTU, 7 marca**
 
 * 7.00 za parafian
