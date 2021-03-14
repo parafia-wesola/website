@@ -8,8 +8,8 @@ cover: przod.png.png
 ---
 <!--StartFragment-->
 
-<h3 style="text-align:center;">Rekolekcje Wielkopostne</h3>\
-<h3 style="text-align:center;">*Smutek zamienię w radość</h3>*\
+<h3 style="text-align:center;">Rekolekcje Wielkopostne</h3>
+<h3 style="text-align:center;">Smutek zamienię w radość</h3>
 <h3 style="text-align:center;">Prowadzone przez Mocnych w Duchu</h3>
 
 **Propozycje dnia** \
