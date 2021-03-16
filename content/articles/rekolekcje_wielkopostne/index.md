@@ -4,7 +4,7 @@ title: Rekolekcje Wielkopostne
 date: 2021-03-14T13:51:37.064Z
 eventDate: 2021-03-21T06:00:00.000Z
 author: parafia wesoła
-cover: przod.png.png
+cover: rekolekcje_na_strone.png
 ---
 <!--StartFragment-->
 
