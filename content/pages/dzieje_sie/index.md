@@ -10,7 +10,7 @@ news:
     title: Droga Krzyżowa
   - size: large
     title: Droga Krzyżowa dla dzieci
-  - size: medium
+  - size: large
     title: Niedzielne animacje dla dzieci
   - title: Adoracja w weekendy
     size: medium
