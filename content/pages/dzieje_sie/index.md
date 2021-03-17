@@ -5,17 +5,17 @@ news:
   - size: large
     title: Rekolekcje Wielkopostne
   - size: large
-    title: śp. ks. Zbigniew Wojciechowski
-  - size: large
     title: Msze św. online
   - size: large
     title: Droga Krzyżowa
   - size: large
     title: Droga Krzyżowa dla dzieci
   - size: large
-    title: Niedzielne animacje dla dzieci
+    title: Droga Krzyżowa dla dzieci
   - size: medium
-    title: Adoracja w weekendy
-  - title: Pamiętajmy!
+    title: Niedzielne animacje dla dzieci
+  - title: Adoracja w weekendy
     size: medium
+  - title: Pamiętajmy!
+  - title: Pamiętajmy!
 ---
