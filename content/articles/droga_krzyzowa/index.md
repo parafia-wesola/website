@@ -6,12 +6,6 @@ eventDate: 2021-02-26T17:45:00.000Z
 author: parafia wesoła
 cover: droga_krzyzowa.png
 ---
-<!--StartFragment-->
+Piątek, 19 marca, 19.00
 
-<h4 style="text-align:center;">DROGA KRZYŻOWA</h4>
-
-<h4 style="text-align:center;">3. Piątek Wielkiego Postu</h4>
-
-Droga Krzyżowa animowana przez Wspólnotę Zwiastowanie
-
-<!--EndFragment-->
+Droga Krzyżowa biblijna z rozważaniami Romana Brandstaettera
