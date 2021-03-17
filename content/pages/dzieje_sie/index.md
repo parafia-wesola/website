@@ -16,6 +16,6 @@ news:
     title: Niedzielne animacje dla dzieci
   - title: Adoracja w weekendy
     size: medium
-  - title: Pamiętajmy!
-  - title: Pamiętajmy!
+  - size: medium
+    title: Pamiętajmy!
 ---
