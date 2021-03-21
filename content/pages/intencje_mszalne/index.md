@@ -4,6 +4,87 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**V NIEDZIELA WIELKIEGO POSTU, 21 marca - Rekolekcje parafialne**
+
+* 7.00 za parafian
+* 9.00 + za śp. Zofię, Józefa RAWSKICH oraz zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
+* 10.30 intencja zbiorowa
+
+  * za Józia o łaskę nawrócenia
+  * za śp. Kornela KOWALCZYKA w 11 rocznicę śmierci oraz za całą rodzinę KOWALCZYKÓW,
+  * za śp. Zofię, Jana, Janusza, Jerzego BILEWICZÓW
+  * za śp. Leszka BAŁADYKA i jego rodziców Wacławę i Władysława
+  * za śp. Janusza WĄSOWSKIEGO
+  * za śp. Andrzeja
+  * za sp. Piotra i Czesławę KIELCZYK
+  * za śp. Józefa ROMAŃCZUKA
+  * za śp. Alicję WITKOWSKĄ
+  * za śp. Józefa PIKUŁĘ
+  * za śp. Leokadię PASIŃSKĄ
+  * za śp. Juliannę KAWALEC
+* 12.00 + za śp. Janinę i Jadwigę, Kazimierza, Czesława i zmarłych z rodziny JAWORSKICH\
+  i JACZEWSKICH
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu (kaplica Domu rekolekcyjnego)
+* 17.15 Gorzkie Żale
+* 18.00 + za śp. Józefę, Wojciecha, Stanisława, Stefana SZCZEPEK
+
+**Poniedziałek, 22 marca - Rekolekcje parafialne**
+
+* 8.00 + za śp. Małgorzatę ANISZEWSKĄ miesiąc po pogrzebie
+* 17.00
+* 19.00 + za śp. Andrzeja o Boże Miłosierdzie i dar Nieba
+
+**Wtorek, 23 marca** **\- Rekolekcje parafialne**
+
+* 8.00 + za śp. Zuzannę KRZEMIEŃ miesiąc po pogrzebie
+* 17.00
+* 19.00 + za śp. Janinę WIERZBOWSKĄ w 10 rocznicę śmierci oraz Roberta i Zdzisława WIERZBOWSKICH.
+
+**Środa, 24 marca - Rekolekcje parafialne**
+
+* 7.00 w 40 urodziny Jacka o wiele łask Bożych i błogosławieństwo zdrowia na dalsze lata i o opiekę Maryi
+* 17.00
+* 19.00 O poszanowanie życia od poczęcia do naturalnej śmierci
+
+**Czwartek, 25 marca – Uroczystość Zwiastowania Pańskiego**
+
+* 7.00 + za śp. Marka GRABSKIEGO i zmarłych z rodziny Grabskich
+* 18:00 Podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach\
+  W modlitwie wiernych: za Wspólnotę Zwiastowanie z prośbą o łaski Ducha Świętego
+
+**Piątek, 26 marca**
+
+* 7.00 + za śp. Ewę JANIAK w 4 rocznicę śmierci
+* 16.45 Droga Krzyżowa (dzieci)
+* 18.00 + za śp. Irenę SZCZUCIŃSKĄ w 3 rocznicę śmierci
+* 19.00 Droga Krzyżowa w terenie
+
+**Sobota, 27 marca**
+
+* 7.00 + za śp. Franciszka TABOR w 2 rocznicę śmierci oraz za śp. Zofię, Jadwigę i Czesława
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 18.00 + za śp. Ryszarda JAZŁOCKIEGO w 4 rocznicę śmierci
+
+**VI NIEDZIELA WIELKIEGO POSTU, Niedziela Męki Pańskiej, 28 marca**
+
+* 7.00 + w intencji bliskiej sercu Joli ŁĘCZYCKIEJ
+* 9.00 O łaskę nawrócenia dla zbawienia Grażyny
+* 10.30 intencja zbiorowa
+
+  * za śp. Mariana PIEKARSKIEGO w 3 rocznicę śmierci i za śp. Stanisława PIEKARSKIEGO
+  * za zmarłych z rodziny PRUSKICH i RADZISZEWSKICH
+  * za śp. Krystynę Batycką
+  * za śp. Kazimierza Kowal
+  * za śp. Amelię Marcinek
+* 12.00 za Parafian
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 17.15 Gorzkie Żale
+* 18.00 + za śp. Wacława w 41 rocznicę śmierci, Kazimierę i Krzysztofa MACIĄŻEK
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **IV NIEDZIELA WIELKIEGO POSTU, 14 marca**
 
 * 7.00 dziękczynna za dar życia dla osoby Bogu znanej
@@ -14,12 +95,12 @@ title: Intencje mszalne
   * o zdrowie dla Kuby w dniu urodzin
   * o uzdrowienie Zofii
   * w 91 urodziny Jadwigi STOJANOWSKIEJ z prośbą o wiele łask Bożych i o błogosławieństwo i zdrowie
-  * + za śp. Czesławę i Piotra KIELCZYK
-  * + za śp. Stanisławę GŁÓWKA
-  * + za śp. Thu Hoa GRABOWSKĄ
-  * + za śp. Barbarę RATAJCZYK
-  * + za duszę śp. Andrzeja w 2 rocznicę śmierci oraz za Ludwikę i Wiktora
-  * + za śp. Barbarę RATAJCZYK i Kazimierę LASKOWSKĄ
+  * * za śp. Czesławę i Piotra KIELCZYK
+  * * za śp. Stanisławę GŁÓWKA
+  * * za śp. Thu Hoa GRABOWSKĄ
+  * * za śp. Barbarę RATAJCZYK
+  * * za duszę śp. Andrzeja w 2 rocznicę śmierci oraz za Ludwikę i Wiktora
+  * * za śp. Barbarę RATAJCZYK i Kazimierę LASKOWSKĄ
   * O szczęśliwy przebieg operacji dla Dariusza
 * 10.30 + za śp. ks. Zbigniewa Wojciechowskiego, byłego proboszcza naszej parafii
 * 12.00 + za śp. Barbarę i Franciszka GADOMSKICH w rocznicę śmierci oraz za sp. Zofię i Tadeusza TOKARSKICH
@@ -68,17 +149,17 @@ title: Intencje mszalne
 * 10.30 intencja zbiorowa
 
   * za Józia o łaskę nawrócenia
-  * + za śp. Kornela KOWALCZYKA w 11 rocznicę śmierci oraz za całą rodzinę KOWALCZYKÓW
-  * + za śp. Jana, Janusza, Jerzego BILEWICZÓW
-  * + za śp. Leszka BAŁADYKA i jego rodziców Wacławę i Władysława
-  * + za śp. Janusza WĄSOWSKIEGO
-  * + za śp. Andrzeja
-  * + za sp. Piotra i Czesławę KIELCZYK
-  * + za śp. Józefa ROMAŃCZUKA
-  * + za śp. Alicję WITKOWSKĄ
-  * + za śp. Józefa PIKUŁĘ
-  * + za śp. Leokadię PASIŃSKĄ
-  * + za śp. Juliannę KAWALEC
+  * * za śp. Kornela KOWALCZYKA w 11 rocznicę śmierci oraz za całą rodzinę KOWALCZYKÓW
+  * * za śp. Jana, Janusza, Jerzego BILEWICZÓW
+  * * za śp. Leszka BAŁADYKA i jego rodziców Wacławę i Władysława
+  * * za śp. Janusza WĄSOWSKIEGO
+  * * za śp. Andrzeja
+  * * za sp. Piotra i Czesławę KIELCZYK
+  * * za śp. Józefa ROMAŃCZUKA
+  * * za śp. Alicję WITKOWSKĄ
+  * * za śp. Józefa PIKUŁĘ
+  * * za śp. Leokadię PASIŃSKĄ
+  * * za śp. Juliannę KAWALEC
 * 12.00 + za śp. Janinę i Jadwigę, Kazimierza, Czesława i zmarłych z rodziny JAWORSKICH\
   i JACZEWSKICH
 * 15.00 - 17.45 Adoracja Najświętszego Sakramentu (kaplica Domu rekolekcyjnego)
