@@ -3,7 +3,7 @@ type: info
 title: kancelaria parafialna
 id: kancelaria_parafialna
 ---
-**W środę, 17 lutego kancelaria będzie wyjątkowo zamknięta ze względu na celebracje Środy Popielcowej. Przepraszamy i zapraszamy w piątek 7.45-8.15 i 16.30-17.30.**
+Podczas trwania rekolekcji 21-24 marca, **kancelaria parafialna będzie nieczynna**. W pilnych sprawach prosimy o kontakt telefoniczny lub mailowy.
 
 tel. 22 773 56 35\
 kancelaria@parafiawesola.pl
