@@ -1,8 +1,8 @@
 ---
 type: article
 title: Droga Krzyżowa dla dzieci
-date: 2021-03-08T08:48:27.333Z
-eventDate: ""
+date: 2021-03-26T09:20:02.954Z
+eventDate: 2021-03-26T09:20:09.514Z
 author: parafia wesoła
 cover: droga_krzyzowa_dla_dzieci.png
 ---
