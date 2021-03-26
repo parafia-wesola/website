@@ -1,14 +1,14 @@
 ---
 type: article
 title: Msze św. online
-date: 2021-02-16T14:56:39.455Z
-eventDate: 2021-02-17T17:00:00.000Z
+date: 2021-03-26T09:29:08.248Z
+eventDate: 2021-03-27T23:00:00.000Z
 author: parafia wesoła
 cover: niedziela.png
 ---
 <!--StartFragment-->
 
-**III Niedziela Wielkiego Postu, 7 marca**
+**VI Niedziela Wielkiego Postu, 28 marca**
 
 7.00, 9.00
 
