@@ -6,7 +6,9 @@ eventDate: ""
 author: parafia wesoła
 cover: droga_krzyzowa_dla_dzieci.png
 ---
-Zapraszamy dzieci na Drogę Krzyżową w piątek o 16.45
+Zapraszamy dzieci na Drogę Krzyżową online z Mocnymi w Duchu
+
+[link do Drogi Krzyżowej](https://www.youtube.com/watch?v=ZcskFkRv5UU)
 
 Zapraszamy również do modlitwy z dziećmi interaktywną Drogą Krzyżową nagraną na platformie genially
 
