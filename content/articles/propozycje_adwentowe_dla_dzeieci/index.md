@@ -19,5 +19,7 @@ W każdą 3. niedzielę zapraszamy dzieci na Mszę Świętą o godzinie 12, któ
   [link do filmu](https://youtu.be/YGOzbCHTNtk)
 * **4 Niedziela Wielkiego Postu**\
   [link do filmu](https://youtu.be/l4o_0moqxZc)
+* 6 Niedziela Wielkiego Postu\
+  [link do filmu](https://youtu.be/CBkWZn1Kaks)
 
 <!--EndFragment-->
