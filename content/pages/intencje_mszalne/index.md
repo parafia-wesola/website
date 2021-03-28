@@ -4,6 +4,75 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**VI NIEDZIELA WIELKIEGO POSTU, Niedziela Palmowa 28 marca**
+
+* 7.00 + w intencji bliskiej sercu Joli ŁĘCZYCKIEJ
+* 9.00 O łaskę nawrócenia dla zbawienia Grażyny
+* 10.30 intencja zbiorowa:
+
+  * O zdrowie dla Hanny
+  * O zdrowie dla Tomasza
+  * z okazji urodzin Doroty o Boże błogosławieństwo i o Boże prowadzenie
+  * za śp. Mariana PIEKARSKIEGO w 3 rocznicę śmierci i za śp. Stanisława PIEKARSKIEGO
+  * za zmarłych z rodziny PRUSKICH i RADZISZEWSKICH
+  * za śp. Krystynę BATYCKĄ
+  * za śp. Kazimierza KOWAL
+  * za śp. Amelię MARCINEK
+  * za śp. Mirosława TOPOLEWSKIEGO
+* 12.00 za Parafian
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 17.15 Gorzkie Żale
+* 18.00 + za śp. Wacława w 41 rocznicę śmierci, Kazimierę i Krzysztofa MACIĄŻEK
+
+**Poniedziałek, 29 marca**
+
+* 7.00 + za dusze śp. Gabrieli SZYMKOWSKIEJ w 2 rocznicę śmierci i śp. Marty NOWIŃSKIEJ w 11 rocznicę śmierci
+* 18.00 + za śp. Franciszka i Kazimierę GOŁĘDOWSKICH
+
+**Wtorek, 30 marca**
+
+* 7.00 + za śp. Kazimierę i Romana BOROWYCH oraz za śp. Stanisławę i Stanisława BRALEWSKICH
+* 18.00 w rocznicę ślubu Marii i Mariusza o błogosławieństwo Boże dla całej rodziny, nawrócenie i zdrowie
+
+**Środa, 31 marca**
+
+* 7.00 + za śp. Grzegorza Sobiecha w rocznicę śmierci oraz za duszę Wacława i Haliny RYCHLIK
+* 18.00 + za śp. Henryka GRODZKIEGO, jego rodziców i teściów
+
+**WIELKI CZWARTEK, 1 kwietnia**
+
+* *7.00 nie ma Mszy*
+* 19.00 LITURGIA WIECZERZY PAŃSKIEJ (YouTube)
+
+**WIELKI PIĄTEK, 2 kwietnia**
+
+* 9.00 Jutrznia przy Ciemnicy
+* 12.30 Modlitwa południowa przy Ciemnicy
+* 19.00 LITURGIA MĘKI PAŃSKIEJ (YouTube)
+
+**WIELKA SOBOTA, 3 kwietnia**
+
+* 9.00 Jutrznia przy Grobie
+* 9.30-14.30 Błogosławieństwo pokarmów wokół kościoła / spowiedź w przedsionku kaplicy
+* 20.00 WIGILIA PASCHALNA
+
+**NIEDZIELA ZMARTWYCHWSTANIA PAŃSKIEGO, 4 kwietnia**
+
+* 7.00 + za śp. Elżbietę BARTMAN
+* 9.00 intencja zbiorowa:
+
+  *  za śp. Helenę Barbarę REDEK
+  * za śp. Mariannę DRÓŻDŻ
+* 10.30 + za śp. Marię i Jerzego WĄSOWSKICH
+* 12.00 + za śp. Stanisławę i Jana HABER i zmarłych z rodziny
+* 18.00 o potrzebne łaski w dniu imienin dla pani Marii ROSIK
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **V NIEDZIELA WIELKIEGO POSTU, 21 marca - Rekolekcje parafialne**
 
 * 7.00 za parafian
