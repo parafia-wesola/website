@@ -4,8 +4,8 @@ title: Dzieje się
 news:
   - size: large
     title: Triduum Paschalne 2021
-  - title: Pamiętajmy!
-    size: medium
+  - size: large
+    title: Pamiętajmy!
   - size: large
     title: Droga Krzyżowa
   - size: large
