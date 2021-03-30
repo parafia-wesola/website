@@ -3,17 +3,15 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Rekolekcje Wielkopostne
-  - size: large
-    title: Msze św. online
-  - size: large
-    title: Droga Krzyżowa
+    title: Triduum Paschalne 2021
   - size: large
     title: Droga Krzyżowa dla dzieci
   - size: large
-    title: Niedzielne animacje dla dzieci
+    title: Droga Krzyżowa
   - title: Adoracja w weekendy
     size: medium
   - size: medium
-    title: Pamiętajmy!
+    title: Niedzielne animacje dla dzieci
+  - title: Adoracja w weekendy
+  - title: Pamiętajmy!
 ---
