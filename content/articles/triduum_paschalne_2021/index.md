@@ -16,7 +16,7 @@ cover: wielki_tydzien_transmisje_online_mozna_obejrzec_na_stronie_facebooka_para
 
 **Wielki Piątek**\
 9.00 Jutrznia (kościół)\
-9.30-15.00 Czuwanie w ciemnicy (kościół otwarty)\
+9.30-17.30 Czuwanie w ciemnicy (kościół otwarty)\
 12.30 Modlitwa Południowa\
 19.00 Liturgia Męki Pańskiej (YouTube, kościół zamknięty)\
 21.00-24.00 Czuwanie przy grobie (kościół otwarty)
