@@ -27,7 +27,7 @@ cover: wielki_tydzien_transmisje_online_mozna_obejrzec_na_stronie_facebooka_para
 9.30-14.30 Święcenie pokarmów (na zewnątrz)\
 9.30-14.30 Spowiedź\
 12.30 Modlitwa Południowa\
-21.00 Wigilia Paschalna (na zewnątrz i na YouTube)
+20.00 Wigilia Paschalna (na zewnątrz i na YouTube)
 
 **Niedziela Zmartwychwstania**\
 7.00, 9.00, 10.30 Msza Święta\
