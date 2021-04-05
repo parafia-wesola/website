@@ -9,8 +9,8 @@ title: Intencje mszalne
 * 7.00 + za śp. Elżbietę BARTMAN
 * 9.00 intencja zbiorowa:
 
-  * + za śp. Helenę Barbarę REDEK
-  * + za śp. Mariannę DROŻDŻ
+  * za śp. Helenę Barbarę REDEK
+  * za śp. Mariannę DROŻDŻ
   * O zdrowie, potrzebne łaski i opiekę Matki Bożej dla Anny
 * 10.30 + za śp. Marię i Jerzego WĄSOWSKICH
 * 12.00 + za śp. Stanisławę i Jana HABER i zmarłych z rodziny
@@ -59,7 +59,7 @@ title: Intencje mszalne
 * 9.00 intencja zbiorowa:
 
   * w 70 rocznicę ślubu Anieli i Eugeniusza KROPIELNICKICH z prośbą o zdrowie i Boże łaski oraz o błogosławieństwo Boże dla dzieci, wnuków i prawnuków
-  * + za śp. Tadeusza ZALEWSKIEGO
+  * za śp. Tadeusza ZALEWSKIEGO
   * w 60 urodziny Leszka z prośbą o błogosławieństwo na dalsze lata życia
 * 10.30 za parafian
 * 12.00 intencja dziękczynna za dar życia Justyny
