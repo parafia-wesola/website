@@ -3,9 +3,11 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Triduum Paschalne 2021
-  - size: large
     title: Życzenia Wielkanocne
+  - size: large
+    title: Sobota Ogrodowa
+  - size: large
+    title: Triduum Paschalne 2021
   - size: large
     title: Pamiętajmy!
   - size: large
