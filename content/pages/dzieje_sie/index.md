@@ -9,9 +9,9 @@ news:
   - size: large
     title: Triduum Paschalne 2021
   - size: large
-    title: Pamiętajmy!
-  - size: large
     title: Niedzielne animacje dla dzieci
+  - size: medium
+    title: Pamiętajmy!
   - title: Adoracja w weekendy
     size: medium
 ---
