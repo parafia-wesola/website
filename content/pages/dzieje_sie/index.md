@@ -5,9 +5,9 @@ news:
   - size: large
     title: Życzenia Wielkanocne
   - size: large
-    title: Sobota Ogrodowa
+    title: Msze św. online
   - size: large
-    title: Triduum Paschalne 2021
+    title: Sobota Ogrodowa
   - size: large
     title: Niedzielne animacje dla dzieci
   - size: medium
