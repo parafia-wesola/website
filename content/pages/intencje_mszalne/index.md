@@ -4,6 +4,70 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**II Niedziela Wielkanocy, Święto Miłosierdzia Bożego, 11 kwietnia**
+
+* 7.00 za łaskę zdrowia dla Joanny, Kingi i Tomka
+* 9.00 intencja zbiorowa:
+
+  * w 70 rocznicę ślubu Anieli i Eugeniusza KROPIELNICKICH z prośbą o zdrowie i Boże łaski oraz o błogosławieństwo Boże dla dzieci, wnuków i prawnuków
+  * za śp. Tadeusza ZALEWSKIEGO
+  * w 60 urodziny Leszka z prośbą o błogosławieństwo na dalsze lata życia
+* 10.30 za parafian
+* 12.00 intencja dziękczynna za dar życia Justyny
+* 15.00 – 16.00 Nabożeństwo do Bożego Miłosierdzia
+* 15.00 – 17.45 Adoracja Najświętszego Sakramentu
+* 18.00 za Kamila w rocznicę Chrztu Św. z prośbą o błogosławieństwo
+
+**PONIEDZIAŁEK, 12 kwietnia**
+
+* 7:00 + za śp. Mirosława CHOIŃSKIEGO w 17 rocznicę śmierci
+* 18.00 + za śp. Radosława FUCHS w 9 rocznicę śmierci i za zmarłych z rodziny FUCHS i STAŃCZAK
+
+**Wtorek, 13 kwietnia**
+
+* 7.00 + za śp. Barbarę RATAJCZYK (od rodziny Ratajczyk z Nakła)
+* 18.00 w intencji Aliny i Mieczysława w 46 rocznicę ślubu oraz o błogosławieństwo dla Karoliny i Lei
+
+**Środa, 14 kwietnia**
+
+* 7.00 intencja dziękczynna w 55 rocznicę urodzin Justyny – za opiekę Matki Bożej i z prośbą o Boże błogosławieństwo
+* 18.00 + za śp. Mariana ZIELIŃSKIEGO w 15 rocznicę śmierci oraz za zmarłych rodziców
+
+**Czwartek, 15 kwietnia**
+
+* 7.00 w 32 rocznicę ślubu Roberta i Małgorzaty z prośbą o Boże błogosławieństwo i prowadzenie Matki Najświętszej
+* 18.00 + za śp. Stanisława POPOWSKIEGO w 16 rocznicę śmierci
+
+**Piątek, 16 kwietnia**
+
+* 7.00 + za sp. Alicję WITKOWSKĄ miesiąc po pogrzebie
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 17 kwietnia**
+
+* 7.00 + za śp. Weronikę i Wincentego CICHOWLAS oraz za zmarłych z rodziny MORAWSKICH
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 18.00 + za śp. Marka KAZIMIERCZAKA w rocznicę śmierci
+
+**III Niedziela Wielkanocy, 18 kwietnia**
+
+* 7.00 za parafian
+* 9.00 dziękczynno-błagalna w rocznicę urodzin Anny KOTUNIAK i Karoliny KOTUNIAK
+* 10.30 intencja zbiorowa:
+
+  * prośba o opiekę Matki Bożej nad Rafałem i jego rodziną
+  * za Jana i Teresę KOŚCIESZA w 36 rocznicę ślubu oraz za ich dzieci
+  * o zdrowie dla Anetki
+  * za śp. Zofię JASZCZYK
+  *  za śp. Irenę PERLAK
+* 12.00 + za śp. Barbarę REIMSCHÜSSEL
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 18.00 + za śp. zmarłych z rodziny GOŁASZEWSKICH, GODLEWSKICH, STOKOWSKICH, NIETUBYĆ oraz za dusze w czyśćcu cierpiące
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **NIEDZIELA ZMARTWYCHWSTANIA PAŃSKIEGO, 4 kwietnia**
 
 * 7.00 + za śp. Elżbietę BARTMAN
