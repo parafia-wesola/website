@@ -3,13 +3,13 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Życzenia Wielkanocne
+    title: Msze św. online
+  - size: large
+    title: Kurs Alpha
   - size: large
     title: Niedzielne animacje dla dzieci
   - size: large
-    title: Msze św. online
-  - size: large
-    title: Sobota Ogrodowa
+    title: Życzenia Wielkanocne
   - size: medium
     title: Pamiętajmy!
   - title: Adoracja w weekendy
