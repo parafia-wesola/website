@@ -4,9 +4,7 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
-**III Niedziela Wielkanocy**
 
-**18.04.2021**
 
 **III Niedziela Wielkanocy, 18 kwietnia**
 
