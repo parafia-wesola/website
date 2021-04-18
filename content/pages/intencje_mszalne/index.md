@@ -40,23 +40,17 @@ title: Intencje mszalne
 
 18.00 + za śp. Jadwigę ZAWISTOWSKĄ w rocznicę śmierci
 
-
-
 **Środa, 21 kwietnia**
 
 7.00 + za śp. Danutę DURCZAK
 
 18.00 + za śp. Krystynę KRESOWSKĄ i zmarłych z rodziny
 
-
-
 **Czwartek, 22 kwietnia**
 
 7.00 + za śp. Juliannę KAWALEC w miesiąc po pogrzebie
 
 18.00 W intencji utraconych dzieci i dusz w czyśćcu cierpiących
-
-
 
 **Piątek, 23 kwietnia, św. Wojciecha, biskupa i męczennika, głównego patrona Polski, *uroczystość***
 
@@ -95,6 +89,8 @@ title: Intencje mszalne
 18.00 + za śp. Kazimierza RYTLA
 
 <!--EndFragment-->
+
+<!--StartFragment-->
 
 **II Niedziela Wielkanocy, Święto Miłosierdzia Bożego, 11 kwietnia**
 
