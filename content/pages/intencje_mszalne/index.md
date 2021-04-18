@@ -6,81 +6,64 @@ title: Intencje mszalne
 
 **III Niedziela Wielkanocy, 18 kwietnia**
 
-7.00 za parafian
+* 7.00 za parafian
+* 9.00 dziękczynno-błagalna w rocznicę urodzin Anny KOTUNIAK i Karoliny KOTUNIAK
+* 10.30 intencja zbiorowa:
 
-9.00 dziękczynno-błagalna w rocznicę urodzin Anny KOTUNIAK i Karoliny KOTUNIAK
-
-10.30 intencja zbiorowa:
-
-* prośba o opiekę Matki Bożej nad Rafałem i jego rodziną
-* za Jana i Teresę KOŚCIESZA w 36 rocznicę ślubu oraz za ich dzieci
-* o zdrowie dla Anetki
-* + za śp. Zofię JASZCZYK
-* + za śp. Irenę PERLAK
-
-  12.00 + za śp. Barbarę REIMSCHÜSSEL
-
-  15.00 - 17.45 Adoracja Najświętszego Sakramentu
-
-  18.00 + za śp. zmarłych z rodziny GOŁASZEWSKICH, GODLEWSKICH, STOKOWSKICH, NIETUBYĆ oraz za dusze w czyśćcu cierpiące
+  * prośba o opiekę Matki Bożej nad Rafałem i jego rodziną
+  * za Jana i Teresę KOŚCIESZA w 36 rocznicę ślubu oraz za ich dzieci
+  * o zdrowie dla Anetki
+  * za śp. Zofię JASZCZYK
+  * za śp. Irenę PERLAK
+* 12.00 + za śp. Barbarę REIMSCHÜSSEL
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 18.00 + za śp. zmarłych z rodziny GOŁASZEWSKICH, GODLEWSKICH, STOKOWSKICH, NIETUBYĆ oraz za dusze w czyśćcu cierpiące
 
 **PONIEDZIAŁEK, 19 kwietnia**
 
-7:00 + za śp. Andrzeja o Boże Miłosierdzie i dar Nieba
-
-18.00 intencja dziękczynna za 91 lat życia Tadeusza ZBIEĆ
+* 7:00 + za śp. Andrzeja o Boże Miłosierdzie i dar Nieba
+* 18.00 intencja dziękczynna za 91 lat życia Tadeusza ZBIEĆ
 
 **Wtorek, 20 kwietnia**
 
-7.00 + za śp. Kazimierza KAMIŃSKIEGO w dniu 18 rocznicy śmierci, za zmarłego syna Zbigniewa KAMIŃSKIEGO oraz o łaski i Boże Błogosławieństwo dla całej rodziny KAMIŃSKICH.
-
-18.00 + za śp. Jadwigę ZAWISTOWSKĄ w rocznicę śmierci
+* 7.00 + za śp. Kazimierza KAMIŃSKIEGO w dniu 18 rocznicy śmierci, za zmarłego syna Zbigniewa KAMIŃSKIEGO oraz o łaski i Boże Błogosławieństwo dla całej rodziny KAMIŃSKICH.
+* 18.00 + za śp. Jadwigę ZAWISTOWSKĄ w rocznicę śmierci
 
 **Środa, 21 kwietnia**
 
-7.00 + za śp. Danutę DURCZAK
-
-18.00 + za śp. Krystynę KRESOWSKĄ i zmarłych z rodziny
+* 7.00 + za śp. Danutę DURCZAK
+* 18.00 + za śp. Krystynę KRESOWSKĄ i zmarłych z rodziny
 
 **Czwartek, 22 kwietnia**
 
-7.00 + za śp. Juliannę KAWALEC w miesiąc po pogrzebie
-
-18.00 W intencji utraconych dzieci i dusz w czyśćcu cierpiących
+* 7.00 + za śp. Juliannę KAWALEC w miesiąc po pogrzebie
+* 18.00 W intencji utraconych dzieci i dusz w czyśćcu cierpiących
 
 **Piątek, 23 kwietnia, św. Wojciecha, biskupa i męczennika, głównego patrona Polski, *uroczystość***
 
-7.00 + za śp. Leokadię PASIŃSKĄ w miesiąc po pogrzebie
-
-18.00 + za śp. Wojciecha JESION
+* 7.00 + za śp. Leokadię PASIŃSKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Wojciecha JESION
 
 **Sobota, 24 kwietnia**
 
-7.00 + za śp. Kazimierza KOWALA w miesiąc po pogrzebie
-
-15.00 - 17.45 Adoracja Najświętszego Sakramentu
-
-18.00 intencja dziękczynna za Pawła i Klaudię w 3 rocznicę ślubu oraz za córkę Luizę
+* 7.00 + za śp. Kazimierza KOWALA w miesiąc po pogrzebie
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 18.00 intencja dziękczynna za Pawła i Klaudię w 3 rocznicę ślubu oraz za córkę Luizę
 
 **IV Niedziela Wielkanocy, 25 kwietnia**
 
-7.00 + za śp. Mariannę i Józefa HARASIMIUK
+* 7.00 + za śp. Mariannę i Józefa HARASIMIUK
+* 9.00 + za śp. Wojciecha, Stanisława, Stefana i Józefę SZCZEPEK
+* 10.30 intencja zbiorowa.
 
-9.00 + za śp. Wojciecha, Stanisława, Stefana i Józefę SZCZEPEK
-
-10.30 intencja zbiorowa:
-
-* w 50 rocznicę ślubu Krystyny i Henryka
-* w 40 rocznicę ślubu Heleny i Leszka z podziękowaniem za wszelkie łaski i z prośbą o dalszą opiekę
-* za Piotra i Ewę o Boże prowadzenie
-* + za śp. Marka GRABSKIEGO w dniu imienin
-* + za śp. Jerzego PRAJSNAR
-
-  12.00 za parafian. Podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej Światłością Miłości Miłosiernej we wszystkich rodzinach
-
-  15.00 - 17.45 Adoracja Najświętszego Sakramentu
-
-  18.00 + za śp. Kazimierza RYTLA
+  * w 50 rocznicę ślubu Krystyny i Henryka
+  * w 40 rocznicę ślubu Heleny i Leszka z podziękowaniem za wszelkie łaski i z prośbą o dalszą opiekę
+  * za Piotra i Ewę o Boże prowadzenie
+  * za śp. Marka GRABSKIEGO w dniu imienin
+  * za śp. Jerzego PRAJSNAR
+* 12.00 za parafian. Podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej Światłością Miłości Miłosiernej we wszystkich rodzinach
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 18.00 + za śp. Kazimierza RYTLA
 
 <!--EndFragment-->
 
