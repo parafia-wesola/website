@@ -4,8 +4,6 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
-
-
 **III Niedziela Wielkanocy, 18 kwietnia**
 
 7.00 za parafian
@@ -17,8 +15,8 @@ title: Intencje mszalne
 * prośba o opiekę Matki Bożej nad Rafałem i jego rodziną
 * za Jana i Teresę KOŚCIESZA w 36 rocznicę ślubu oraz za ich dzieci
 * o zdrowie dla Anetki
-* +za śp. Zofię JASZCZYK
-* +za śp. Irenę PERLAK
+* + za śp. Zofię JASZCZYK
+* + za śp. Irenę PERLAK
 
   12.00 + za śp. Barbarę REIMSCHÜSSEL
 
