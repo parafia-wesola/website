@@ -19,14 +19,14 @@ title: Intencje mszalne
 * prośba o opiekę Matki Bożej nad Rafałem i jego rodziną
 * za Jana i Teresę KOŚCIESZA w 36 rocznicę ślubu oraz za ich dzieci
 * o zdrowie dla Anetki
-* + za śp. Zofię JASZCZYK
-* + za śp. Irenę PERLAK
+* +za śp. Zofię JASZCZYK
+* +za śp. Irenę PERLAK
 
-12.00 + za śp. Barbarę REIMSCHÜSSEL
+  12.00 + za śp. Barbarę REIMSCHÜSSEL
 
-15.00 - 17.45 Adoracja Najświętszego Sakramentu
+  15.00 - 17.45 Adoracja Najświętszego Sakramentu
 
-18.00 + za śp. zmarłych z rodziny GOŁASZEWSKICH, GODLEWSKICH, STOKOWSKICH, NIETUBYĆ oraz za dusze w czyśćcu cierpiące
+  18.00 + za śp. zmarłych z rodziny GOŁASZEWSKICH, GODLEWSKICH, STOKOWSKICH, NIETUBYĆ oraz za dusze w czyśćcu cierpiące
 
 **PONIEDZIAŁEK, 19 kwietnia**
 
@@ -66,8 +66,6 @@ title: Intencje mszalne
 
 18.00 intencja dziękczynna za Pawła i Klaudię w 3 rocznicę ślubu oraz za córkę Luizę
 
-
-
 **IV Niedziela Wielkanocy, 25 kwietnia**
 
 7.00 + za śp. Mariannę i Józefa HARASIMIUK
@@ -82,11 +80,11 @@ title: Intencje mszalne
 * + za śp. Marka GRABSKIEGO w dniu imienin
 * + za śp. Jerzego PRAJSNAR
 
-12.00 za parafian. Podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej Światłością Miłości Miłosiernej we wszystkich rodzinach
+  12.00 za parafian. Podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej Światłością Miłości Miłosiernej we wszystkich rodzinach
 
-15.00 - 17.45 Adoracja Najświętszego Sakramentu
+  15.00 - 17.45 Adoracja Najświętszego Sakramentu
 
-18.00 + za śp. Kazimierza RYTLA
+  18.00 + za śp. Kazimierza RYTLA
 
 <!--EndFragment-->
 
