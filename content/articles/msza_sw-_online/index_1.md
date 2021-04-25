@@ -8,7 +8,7 @@ cover: program_3_niedziela.png
 ---
 <!--StartFragment-->
 
-**III Niedziela Wielkanocna, 18 kwietnia**
+**Niedziela w Parafii**
 
 7.00, 9.00
 
