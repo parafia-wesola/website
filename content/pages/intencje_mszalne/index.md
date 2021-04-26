@@ -4,6 +4,76 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**IV Niedziela Wielkanocy, 25 kwietnia**
+
+* 7.00 + za śp. Mariannę i Józefa HARASIMIUK
+* 9.00 + za śp. Wojciecha, Stanisława, Stefana i Józefę SZCZEPEK
+* 10.30 intencja zbiorowa:
+
+  * w 50. rocznicę ślubu Krystyny i Henryka
+  * w 40. rocznicę ślubu Heleny i Leszka z podziękowaniem za wszelkie łaski i z prośbą o dalszą opiekę
+  * za Piotra i Ewę o Boże prowadzenie
+  * o potrzebne łaski i opiekę Maryi dla Inki
+  * + za śp. Marka GRABSKIEGO w dniu imienin
+  * + za śp. Jerzego PRASNAR
+  * + za śp. Zofię Czesława i Mariana GŁUCHOWSKICH
+  * + za śp. Wiesławę DUSZYŃSKĄ oraz Adelę i Mariana DYBOWSKICH
+  * + za śp. Zbigniewa Nowocin w r.śm.
+* 12.00 za parafian. Podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej Światłością Miłości Miłosiernej we wszystkich rodzinach
+* 15.00 - 17.45 Adoracja Najświętszego Sakramentu
+* 18.00 + za śp. Kazimierza RYTLA i zmarłych z rodziny RYTEL i NIEPIEKŁO
+
+**PONIEDZIAŁEK, 26 kwietnia**
+
+* 7:00 Dziękczynienie za 24 lata wspólnoty rodzinnej Eli i Mariusza OLCZAKÓW
+* 18.00 + za śp. Mariusza NIEMIRA z okazji urodzin
+
+**Wtorek, 27 kwietnia**
+
+* 7.00 + za śp. Amelię MARCINEK w miesiąc po pogrzebie
+* 18.00 + za śp. Janinę ZIELIŃSKĄ w 5 rocznicę śmierci oraz za śp. Mariana i Stanisława ZIELIŃSKICH
+
+**Środa, 28 kwietnia**
+
+* 7.00 + za śp. Stanisławę Dorotę KONARSKĄ w 12 rocznicę śmierci i Tadeusza KONARSKIEGO\
+  w 32. rocznicę śmierci
+* 18.00 + za śp. Stanisława RYCHNOWSKIEGO w 20 rocznicę śmierci
+
+**Czwartek, 29 kwietnia, św. Katarzyny Sieneńskiej, dziewicy i doktora Kościoła, wspomnienie**
+
+* 7.00 w 32. rocznicę ślubu Jolanty i Bogdana WZOVELC
+* 14.00 msza pogrzebowa śp. Piotra GOŁĘBIEWSKIEGO
+* 18.00 w 59. rocznicę ślubu o doświadczenie miłości silniejszej niż śmierć dla Janiny i śp. Eugeniusza
+
+**Piątek, 30 kwietnia**
+
+* 7.00 + za śp. Helenę Barbarę REDEK w miesiąc po pogrzebie
+* 18.00 + za dziadków: śp. Annę i Romana ŻEBROWSKICH oraz śp. Jadwigę ŻEBROWSKĄ, Stanisławę\
+  i Lucynę TOSIŃSKIE
+
+**Sobota, 1 maja, św. Józefa rzemieślnika, święto**
+
+* 7.00 + za śp. Łucję JAZŁOCKĄ w 4. rocznicę śmierci
+* 18.00 K.Ż.R.
+
+**V Niedziela Wielkanocy, 2 maja**
+
+* 7.00 za parafian
+* 9.00 intencja zbiorowa:
+
+  * dziękczynna w 13. rocznicę ślubu Anny i Euzebiusza Bednarzów z prośbą o dalsze błogosławieństwo dla całej rodziny
+  * za Pawła i Tomasza Kiczyńskich w 42. urodziny oraz za ich rodziny z prośbą o Boże błogosławieństwo i opiekę Matki Najświętszej i dalsze prowadzenie
+  * + za duszę śp. Teresy i Włodzimierza TUSZEWSKICH, w 1. rocznicę śmierci Włodzimierza
+  * + za śp. Krystynę BIELECKI
+  * + za śp. Józefa ARTNIEW
+* 10.30 + za śp. Tadeusza ZDANOWICZA w 3. rocznicę śmierci
+* 12.00 + za śp. Kazimierza SIATKOWSKIEGO
+* 18.00 + za śp. księdza Antoniego RUTKOWSKIEGO – pierwszego proboszcza parafii Opatrzności Bożej w rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **III Niedziela Wielkanocy, 18 kwietnia**
 
 * 7.00 za parafian
