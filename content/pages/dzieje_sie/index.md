@@ -5,6 +5,8 @@ news:
   - size: large
     title: Msze św. online
   - size: large
+    title: Weekend Bogaci Ubóstwem-chrześcijański minimalizm
+  - size: large
     title: Kurs Alpha
   - size: large
     title: Niedzielne animacje dla dzieci
