@@ -12,7 +12,7 @@ news:
     title: Niedzielne animacje dla dzieci
   - size: large
     title: Życzenia Wielkanocne
-  - size: medium
+  - size: large
     title: Pamiętajmy!
   - title: Adoracja w weekendy
     size: medium
