@@ -5,15 +5,15 @@ news:
   - size: large
     title: Msze św. online
   - size: large
-    title: Weekend 18-30 lat Bogaci Ubóstwem-chrześcijański minimalizm
+    title: "Weekend 18-30 lat "
   - size: large
     title: Kurs Alpha
   - size: large
     title: Niedzielne animacje dla dzieci
   - size: large
     title: Życzenia Wielkanocne
-  - size: large
-    title: Pamiętajmy!
+  - title: Pamiętajmy!
+    size: medium
   - title: Adoracja w weekendy
     size: medium
 ---
