@@ -1,6 +1,6 @@
 ---
 type: article
-title: Weekend 18-30 lat Bogaci Ubóstwem-chrześcijański minimalizm
+title: "Weekend 18-30 lat "
 date: 2021-05-01T12:42:08.382Z
 eventDate: 2021-05-13T22:00:00.000Z
 author: parafia wesoła
