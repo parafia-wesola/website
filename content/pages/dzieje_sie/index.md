@@ -5,7 +5,7 @@ news:
   - size: large
     title: Msze św. online
   - size: large
-    title: Weekend Bogaci Ubóstwem-chrześcijański minimalizm
+    title: Weekend 18-30 lat Bogaci Ubóstwem-chrześcijański minimalizm
   - size: large
     title: Kurs Alpha
   - size: large
