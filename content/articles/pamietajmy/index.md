@@ -10,9 +10,9 @@ cover: pamietajmy.png
 
 <h3 style="text-align:center;">PAMIĘTAJMY</h3>
 
-* Max. 13 osób w kościele
+* Max. 17 osób w kościele
 
-  stosownie do obecnych rozporządzeń w naszym kościele, nie licząc posługi, może wejść jednocześnie 13 osób, a do kaplicy 20 osób.
+  stosownie do obecnych rozporządzeń w naszym kościele, nie licząc posługi, może wejść jednocześnie 17 osób, a do kaplicy 25 osób.
 * Obowiązkowe zakrywanie ust i nosa
 
   prosimy, aby zarówno w kościele jak i wokół kościoła zakrywać usta i nos maseczką, zdejmowaną na Komunię.
