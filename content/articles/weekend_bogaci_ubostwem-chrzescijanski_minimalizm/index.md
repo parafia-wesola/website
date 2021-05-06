@@ -2,7 +2,7 @@
 type: article
 title: "Weekend 18-30 lat "
 date: 2021-05-01T12:42:08.382Z
-eventDate: 2021-05-13T22:00:00.000Z
+eventDate: 2021-05-15T09:00:00.000Z
 author: parafia wesoła
 cover: 179758983_257791476088200_8821888292733351706_n.png
 ---
