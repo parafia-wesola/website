@@ -27,5 +27,7 @@ W każdą 3. niedzielę zapraszamy dzieci na Mszę Świętą o godzinie 12, któ
   [link do filmu](https://youtu.be/jGONAZLVpD0)
 * **5 Niedziela Wielkanocy**\
   [link do filmu](https://youtu.be/9YyiYc5f1Yw)
+* **6 Niedziela Wielkanocy**\
+  [link do filmu](https://youtu.be/jP54KpH6lzE)
 
 <!--EndFragment-->
