@@ -4,6 +4,71 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**VI Niedziela Wielkanocy, 9 maja**
+
+* 7.00 + za śp. Sabinę BĄKOWICZ
+* 9.00 intencja zbiorowa:
+
+  * za śp. Wandę, Mariana, Jana SKIBNIEWSKICH
+  * za śp. Kazimierza BRODECKIEGO w 9. rocznicę śmierci oraz za zmarłych z rodziny BRODECKICH i PŁOSZAJSKICH
+  * za śp. Piotra GOŁĘBIEWSKIEGO
+  * za śp. Halinę JABŁONKA
+  * za śp. Stanisławę i Stanisława KAŁASZA
+  * za śp. Władysława, Feliksy i Stanisława KOWALCZYKÓW
+* 10.30 za parafian oraz za śp. ks. prałata Stefana WYSOCKIEGO, proboszcza naszej parafii (dwa dni po 4. rocznicy śmierci)
+* 12.00 + za śp. Teodorę i Stanisława BAREJA oraz zmarłych z rodziny BAREJÓW i TRASZEWSKICH
+* 13.30 Pierwsza Komunia Św.
+* 18.00 + za śp. Stanisława BUCZYŃSKIEGO oraz śp. Irenę DWORAK zd. BUCZYŃSKĄ
+
+**PONIEDZIAŁEK, 10 maja**
+
+* 7:00 + za śp. Alicję KUCZYŃSKĄ w 6 miesięcy po śmierci
+* 18.00 intencja dziękczynna za wspaniałą rodzinę z prośbą o błogosławieństwo Boże w życiu każdego z nas
+
+**Wtorek, 11 maja**
+
+* 7.00 + za śp. Mirka TOPOLEWSKIEGO
+* 18.00 + za śp. Stanisława REZULSKIEGO w 9. rocznicę śmierci i za śp. Irenę REZULSKĄ w 5 rocznicę śmierci
+
+**Środa, 12 maja**
+
+* 7.00 + za śp. Eugeniusza FERTA
+* 18.00 + za śp. Krzysztofa SOBIESZUK w rocznicę śmierci
+
+**Czwartek, 13 maja**
+
+* 7.00 + za śp. Zofię JASZCZYK w miesiąc po pogrzebie
+* 18.00 + za śp. Kazimierę LASKOWSKĄ (od Sylwestra i Anny Książek)
+
+**Piątek, 14 maja, św. Macieja Apostoła, święto**
+
+* 7.00 + za śp. Bogumiłę CHOIŃSKĄ w 14. rocznicę śmierci
+* 18.00 Msza dziękczynna za 10 lat istnienia firmy z prośbą o dalsze Boże prowadzenie
+
+**Sobota, 15 maja**
+
+* 7.00 + za śp. Janusza oraz Wojciecha i Leokadię ROGALA
+* 18.00 + za śp. Irenę RĘBIEJEWSKĄ w 18. rocznicę śmierci
+
+**VII Niedziela Wielkanocy, Uroczystość Wniebowstąpienia Pańskiego**
+
+* 7.00 za parafian
+* 9.00 + za śp. Zofię i Józefa RAWSKICH oraz zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
+* 10.30 intencja zbiorowa:
+
+  * za Agnieszkę o dalsze błogosławieństwo i w podziękowaniu za otrzymane łaski
+  * za śp. Mieczysława GÓRSKIEGO w 26. rocznicę śmierci oraz za śp. Marię i Barbarę GÓRSKĄ
+  * za śp. Zofię i Andrzeja ŻURAWSKICH w 9. rocznicę śmierci
+  * za śp. Zofię RYŻANEK
+* 12.00 + za śp. Celinę KONOPKA w 10. rocznicę śmierci oraz za zmarłych z rodziny KONOPKÓW i KARWOWSKICH
+* 18.00 + za śp. Gustawa ŁĘCZYCKIEGO w 4. rocznicę śmierci
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **IV Niedziela Wielkanocy, 25 kwietnia**
 
 * 7.00 + za śp. Mariannę i Józefa HARASIMIUK
@@ -14,11 +79,11 @@ title: Intencje mszalne
   * w 40. rocznicę ślubu Heleny i Leszka z podziękowaniem za wszelkie łaski i z prośbą o dalszą opiekę
   * za Piotra i Ewę o Boże prowadzenie
   * o potrzebne łaski i opiekę Maryi dla Inki
-  * + za śp. Marka GRABSKIEGO w dniu imienin
-  * + za śp. Jerzego PRASNAR
-  * + za śp. Zofię Czesława i Mariana GŁUCHOWSKICH
-  * + za śp. Wiesławę DUSZYŃSKĄ oraz Adelę i Mariana DYBOWSKICH
-  * + za śp. Zbigniewa Nowocin w r.śm.
+  * * za śp. Marka GRABSKIEGO w dniu imienin
+  * * za śp. Jerzego PRASNAR
+  * * za śp. Zofię Czesława i Mariana GŁUCHOWSKICH
+  * * za śp. Wiesławę DUSZYŃSKĄ oraz Adelę i Mariana DYBOWSKICH
+  * * za śp. Zbigniewa Nowocin w r.śm.
 * 12.00 za parafian. Podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej Światłością Miłości Miłosiernej we wszystkich rodzinach
 * 15.00 - 17.45 Adoracja Najświętszego Sakramentu
 * 18.00 + za śp. Kazimierza RYTLA i zmarłych z rodziny RYTEL i NIEPIEKŁO
@@ -63,9 +128,9 @@ title: Intencje mszalne
 
   * dziękczynna w 13. rocznicę ślubu Anny i Euzebiusza Bednarzów z prośbą o dalsze błogosławieństwo dla całej rodziny
   * za Pawła i Tomasza Kiczyńskich w 42. urodziny oraz za ich rodziny z prośbą o Boże błogosławieństwo i opiekę Matki Najświętszej i dalsze prowadzenie
-  * + za duszę śp. Teresy i Włodzimierza TUSZEWSKICH, w 1. rocznicę śmierci Włodzimierza
-  * + za śp. Krystynę BIELECKI
-  * + za śp. Józefa ARTNIEW
+  * * za duszę śp. Teresy i Włodzimierza TUSZEWSKICH, w 1. rocznicę śmierci Włodzimierza
+  * * za śp. Krystynę BIELECKI
+  * * za śp. Józefa ARTNIEW
 * 10.30 + za śp. Tadeusza ZDANOWICZA w 3. rocznicę śmierci
 * 12.00 + za śp. Kazimierza SIATKOWSKIEGO
 * 18.00 + za śp. księdza Antoniego RUTKOWSKIEGO – pierwszego proboszcza parafii Opatrzności Bożej w rocznicę śmierci
