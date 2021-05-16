@@ -4,6 +4,68 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**VII Niedziela Wielkanocy, Wniebowstąpienie Pańskie, *uroczystość***
+
+* 7.00 za parafian
+* 9.00 + za śp. Zofię i Józefa RAWSKICH oraz zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
+* 10.30 intencja zbiorowa:
+
+  * za Agnieszkę o dalsze błogosławieństwo i w podziękowaniu za otrzymane łaski
+  * o błogosławieństwo Boże i opiekę Matki Bożej dla wnusi Zuzi z okazji urodzin prosi Babcia
+  * o zdrowie dla Andrzeja
+  * + za śp. Mieczysława GÓRSKIEGO w 26. rocznicę śmierci oraz za śp. Marię i Barbarę GÓRSKĄ
+  * + za śp. Zofię i Andrzeja ŻURAWSKICH w 9. rocznicę śmierci
+  * + za śp. Zofię RYŻANEK
+* 12.00 + za śp. Celinę KONOPKA w 10. rocznicę śmierci oraz za zmarłych z rodziny KONOPKÓW\
+  i KARWOWSKICH
+* 18.00 + za śp. Gustawa ŁĘCZYCKIEGO w 4. rocznicę śmierci
+
+**PONIEDZIAŁEK, 17 maja**
+
+* 7:00 + za śp. Jana i Antoninę LECH
+* 18.00 + za śp. Zofię i Tadeusza KOŚCIESZÓW
+
+**Wtorek, 18 maja**
+
+* 7.00 + za śp. Irenę PERLAK w miesiąc po pogrzebie
+* 18.00 + za śp. Marcelego SZCZUCIŃSKIEGO w 9. rocznicę śmierci
+
+**Środa, 19 maja**
+
+* 7.00 + za śp. Janinę i Władysława DĄBROWSKICH i ich Rodziców
+* 18.00 + za śp. Krystiana OSMÓLSKIEGO w 1. rocznicę śmierci
+
+**Czwartek, 20 maja**
+
+* 7.00 + za śp. Wacława GŁOWACKIEGO i jego rodziców: Apolonię i Tomasza
+* 18.00 + za śp. Jana BORUCKIEGO w 3. rocznicę śmierci
+
+**Piątek, 21 maja**
+
+* 7.00 + za śp. Marcina PIOTROWSKIEGO
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 22 maja**
+
+* 7.00 o dar macierzyństwa i Boże błogosławieństwo w dniu urodzin
+* 18.00 za Elę z okazji 50. urodzin
+
+**VIII Niedziela Wielkanocy, Zesłanie Ducha Świętego, uroczystość, 23 maja**
+
+* 7.00 za Elżbietę i Witolda ZARĘBA w 50. rocznicę ślubu
+* 9.00 Msza dziękczynna za rodziców: Zofię i Zdzisława GOŁASZEWSKICH z prośbą o dalsze błogosławieństwo
+* 10.30 intencja zbiorowa:
+
+  * za dzieci w dniu ich chrztu: za Jerzego Franciszka ADAMCZYK i Marcela MALISZEWSKIEGO
+  * + za śp. Jana GOŁĘBIEWSKIEGO, Eugeniusza i Katarzynę GOŁĘBIEWSKICH i dziadków GOŁĘBIEWSKICH
+  * + za śp. Mirosława ANISZEWSKIEGO
+* 12.00 Za PARAFIAN (Msza odpustowa)
+* 18.00 + za śp. Janinę, Józefa, Kazimierza, Jana i Adama CHACIŃSKICH
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **VI Niedziela Wielkanocy, 9 maja**
 
 * 7.00 + za śp. Sabinę BĄKOWICZ
@@ -64,8 +126,6 @@ title: Intencje mszalne
 * 18.00 + za śp. Gustawa ŁĘCZYCKIEGO w 4. rocznicę śmierci
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
