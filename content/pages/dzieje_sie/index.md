@@ -5,6 +5,8 @@ news:
   - size: large
     title: Msze św. online
   - size: large
+    title: Droga Światła
+  - size: large
     title: "Weekend 18-30 lat "
   - size: large
     title: Kurs Alpha
