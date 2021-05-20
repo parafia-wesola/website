@@ -2,7 +2,7 @@
 type: article
 title: Msze św. online
 date: 2021-03-26T09:29:08.248Z
-eventDate: 2021-03-27T23:00:00.000Z
+eventDate: ""
 author: parafia wesoła
 cover: 23-24_maja.png
 ---
