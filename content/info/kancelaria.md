@@ -3,8 +3,6 @@ type: info
 title: kancelaria parafialna
 id: kancelaria_parafialna
 ---
-Podczas trwania rekolekcji 21-24 marca, **kancelaria parafialna będzie nieczynna**. W pilnych sprawach prosimy o kontakt telefoniczny lub mailowy.
-
 tel. 22 773 56 35\
 kancelaria@parafiawesola.pl
 
