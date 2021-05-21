@@ -4,7 +4,7 @@ title: Msze św. online
 date: 2021-03-26T09:29:08.248Z
 eventDate: 2021-05-22T18:00:00.000Z
 author: parafia wesoła
-cover: 23-24_maja.png
+cover: 23-24_maja_1_.png
 ---
 <!--StartFragment-->
 
