@@ -10,8 +10,6 @@ news:
     title: Kurs Alpha
   - size: large
     title: Niedzielne animacje dla dzieci
-  - size: large
-    title: Życzenia Wielkanocne
   - title: Pamiętajmy!
     size: medium
   - title: Adoracja w weekendy
