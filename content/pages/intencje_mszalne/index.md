@@ -4,6 +4,75 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**VIII Niedziela Wielkanocy, Zesłanie Ducha Świętego, uroczystość, 23 maja**
+
+* 7.00 w 50. rocznicę ślubu, w dziękczynieniu za łaski, jakimi dobry Bóg obdarzył Elżbietę i Witolda, dzięki którym ich małżeństwo zgodnie trwało, umacniało ich jedność i wzajemną miłość
+* 9.00 Msza dziękczynna za rodziców: Zofię i Zdzisława GOŁASZEWSKICH z prośbą o dalsze błogosławieństwo
+* 10.30 intencja zbiorowa:
+
+  * za dzieci, które podczas tej Mszy przyjmą Chrzest święty: Jerzy Franciszek ADAMCZYK i Marcel MALISZEWSKI
+  * o światło i dary Ducha Św. dla Judyty i Dawida
+  * o Błogosławieństwo i opiekę Matki Bożej i św. Józefa na każdy dzień z okazji imienin Zuzi prosi Babcia i Rodzice
+  * za śp. Jana GOŁĘBIEWSKIEGO, Eugeniusza i Katarzynę GOŁĘBIEWSKICH i dziadków GOŁĘBIEWSKICH
+  * za śp. Mirosława ANISZEWSKIEGO
+  * za dusze w Czyśćcu cierpiące
+* 12.00 za PARAFIAN (Msza św. odpustowa)
+* 18.00 + za śp. Janinę, Józefa, Kazimierza, Jana i Adama CHACIŃSKICH
+
+**PONIEDZIAŁEK, 24 maja**
+
+* 7:00 + za śp. Józefa ARTYNIEW w miesiąc po pogrzebie
+* 18.00 + za śp. Stanisława FAJFER, zmarłych z rodziny GAJEWSKICH i MULICKICH oraz za dusze\
+  w Czyśćcu cierpiące
+
+**Wtorek, 25 maja**
+
+* 7.00 + za śp. ks. Stefana WYSOCKIEGO i Jego Mamę
+* 18.00 podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+
+**Środa, 26 maja**
+
+* 7.00 + za śp. Eugeniusza w 8. rocznicę śmierci
+* 18.00 + za śp. Annę KRAJEWSKĄ
+
+**Czwartek, 27 maja, Jezusa Chrystusa, Najwyższego i Wiecznego Kapłana, święto**
+
+* 7.00 + za dusze śp. rodziców Jana i Stefanii, siostry Marii, brata Stanisława, męża Stanisława i dusze Jana i Jerzego DĄBROWSKICH
+* 18.00 + za śp. Juliana DĘBOWCZYK
+
+**Piątek, 28 maja**
+
+* 7.00 + za śp. Piotra GOŁĘBIEWSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Mieczysława CZARNOCKIEGO, Stefanię i Mariana PIEŃKOWSKICH oraz za zmarłych z rodziny CZARNOCKICH I PIEŃKOWSKICH
+
+**Sobota, 29 maja**
+
+* 7.00 o Boże Błogosławieństwo i łaskę uzdrowienia dla JUDYTY
+* 18.00 + za śp. Kazimierza PRZYBYLSKIEGO w 19 rocznicę śmierci oraz Mariana i Genowefę ŻMUDA
+
+**IX Niedziela Zwykła, Najświętszej Trójcy, uroczystość, 30 maja**
+
+* 7.00 za Parafian
+* 9.00 intencja zbiorowa:
+
+  * o Boże Błogosławieństwo na każdy dzień i opiekę Matki Bożej i Św. Józefa z okazji 33 rocznicy święceń kapłańskich ks. Zbigniewa
+  * za Oleńkę i Pawła o potrzebne łaski
+  *  za śp. Zygmunta BILBINA w 8. rocznicę śmierci, za jego Rodziców, Teściów, Stryjostwo z prośbą o Łaskę, Boże Błogosławieństwo w życiu wiecznym w Królestwie u Boga Najwyższego
+  * za śp. Elżbietę ZBIEĆ w 4. rocznicę śmierci
+  * za śp. Edwarda RADZIKOWSKIEGO
+  * za śp. Jana JAWICZA, Marię i Jana TORBICZ oraz Ludwika TORBICZ
+  * za śp. Hieronima CZARNECKIEGO
+  * za śp. Włodzimierza MIKOS
+  * za śp. Józefę MAZURKIEWICZ
+  * w 27. rocznicę śmierci za śp. Józefa STRUS w 39 rocznicę śmierci
+* 10.30 w 1. rocznicę ślubu Natalii i Marcina
+* 12.00 intencja Polskiego Komitetu Pomocy Społecznej za matki i ojców, mieszkańców naszej dzielnicy
+* 18.00 msza dziękczynna za Margarytki, za osoby modlące się i za księży objętych modlitwą
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **VII Niedziela Wielkanocy, Wniebowstąpienie Pańskie, *uroczystość***
 
 * 7.00 za parafian
@@ -13,9 +82,9 @@ title: Intencje mszalne
   * za Agnieszkę o dalsze błogosławieństwo i w podziękowaniu za otrzymane łaski
   * o błogosławieństwo Boże i opiekę Matki Bożej dla wnusi Zuzi z okazji urodzin prosi Babcia
   * o zdrowie dla Andrzeja
-  * + za śp. Mieczysława GÓRSKIEGO w 26. rocznicę śmierci oraz za śp. Marię i Barbarę GÓRSKĄ
-  * + za śp. Zofię i Andrzeja ŻURAWSKICH w 9. rocznicę śmierci
-  * + za śp. Zofię RYŻANEK
+  * * za śp. Mieczysława GÓRSKIEGO w 26. rocznicę śmierci oraz za śp. Marię i Barbarę GÓRSKĄ
+  * * za śp. Zofię i Andrzeja ŻURAWSKICH w 9. rocznicę śmierci
+  * * za śp. Zofię RYŻANEK
 * 12.00 + za śp. Celinę KONOPKA w 10. rocznicę śmierci oraz za zmarłych z rodziny KONOPKÓW\
   i KARWOWSKICH
 * 18.00 + za śp. Gustawa ŁĘCZYCKIEGO w 4. rocznicę śmierci
@@ -57,8 +126,8 @@ title: Intencje mszalne
 * 10.30 intencja zbiorowa:
 
   * za dzieci w dniu ich chrztu: za Jerzego Franciszka ADAMCZYK i Marcela MALISZEWSKIEGO
-  * + za śp. Jana GOŁĘBIEWSKIEGO, Eugeniusza i Katarzynę GOŁĘBIEWSKICH i dziadków GOŁĘBIEWSKICH
-  * + za śp. Mirosława ANISZEWSKIEGO
+  * * za śp. Jana GOŁĘBIEWSKIEGO, Eugeniusza i Katarzynę GOŁĘBIEWSKICH i dziadków GOŁĘBIEWSKICH
+  * * za śp. Mirosława ANISZEWSKIEGO
 * 12.00 Za PARAFIAN (Msza odpustowa)
 * 18.00 + za śp. Janinę, Józefa, Kazimierza, Jana i Adama CHACIŃSKICH
 
