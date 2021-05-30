@@ -4,6 +4,74 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**IX Niedziela Zwykła, 30 maja, Najświętszej Trójcy, *uroczystość*,**
+
+* 7.00 za Parafian
+* 9.00 intencja zbiorowa:
+
+  * o Boże błogosławieństwo, opiekę Matki Bożej i Św. Józefa z okazji 33. rocznicy święceń kapłańskich ks. Zbigniewa
+  * za Oleńkę i Pawła o potrzebne łaski
+  * za śp. Zygmunta BILBINA w 8. rocznicę śmierci, za jego Rodziców, Teściów, Stryjostwo z prośbą o Łaskę, Boże Błogosławieństwo w życiu wiecznym w Królestwie u Boga Najwyższego
+  * za śp. Elżbietę ZBIEĆ w 4. rocznicę śmierci
+  * za śp. Edwarda RADZIKOWSKIEGO
+  * za śp. Józefę MAZURKIEWICZ w 27. rocznicę śmierci i za śp. Józefa STRUS w 39. rocznicę śmierci
+  * za śp. Jana JAWICZA, Marię i Jana TORBICZ oraz Ludwika TORBICZ
+  * za śp. Hieronima CZARNECKIEGO
+  * za śp. Włodzimierza MIKOS
+* 10.30 w 1. rocznicę ślubu Natalii i Marcina
+* 12.00 intencja Polskiego Komitetu Pomocy Społecznej za matki i ojców, mieszkańców naszej dzielnicy
+* 18.00 intencja dziękczynna za Margerytki, za osoby modlące się i za księży objętych modlitwą
+
+**PONIEDZIAŁEK, 31 maja, Nawiedzenie Najświętszej Maryi Panny, *święto***
+
+* 7:00 + za śp. Anielę NOWACKĄ w 8. rocznicę śmierci
+* 18.00 + za śp. Jerzego JADCZAKA w 16. rocznicę śmierci i zmarłych z rodziny JADCZAKÓW i ZYSKOWSKICH
+
+**Wtorek, 1 czerwca, św. Justyna, męczennika, *wspomnienie***
+
+* 7.00 + za śp. Halinę JABŁONKA w miesiąc po pogrzebie
+* 18.00 Msza św. wypominkowa
+
+**Środa, 2 czerwca**
+
+* 7.00 za Janinę i Zygmunta o opiekę Niepokalanej i błogosławieństwo Boże dla całej rodziny
+* 18.00 + za śp. Kazimierza w 3. rocznicę śmierci i za dusze Józefa i Zofii RADZKOWSKICH oraz Mariana, Stanisławy i Andrzeja SKARŻYŃSKICH
+
+**Czwartek, 3 czerwca, Najświętszego Ciała i Krwi Chrystusa, *uroczystość***
+
+* 7.00 + za śp. Paulinę, Jana, Stanisława PEŁKÓW oraz Juliannę i Stanisława PEŁKÓW a także Annę\
+  i Stanisława SZULIM
+* 9.00 + za śp. Krzysztofa DURCZAKA w 2. rocznicę śmierci
+* 10.30
+* Ok. 11.30 Procesja Bożego Ciała: 12.00 ul. Żółkiewskiego, 12.40 boisko na Groszówce, 13.20 przy wejściem do lasu na Zielonej, 14.00 parking przed kościołem
+* 18.00 + za zmarłych z rodziny KLIMASZEWSKICH: Janinę, Jerzego, Wojciecha i Aleksandra
+
+**Piątek, 4 czerwca**
+
+* 7.00 + za śp. Wacława MIRSKIEGO w 4. rocznicę śmierci
+* 18.00 + za śp. Teresę MOMOT
+
+**Sobota, 5 czerwca, św. Bonifacego, biskupa i męczennika, *wspomnienie***
+
+* 7.00 
+* 18.00 w intencji i w intencjach Kół Żywego Różańca z naszej parafii
+
+**X Niedziela Zwykła, 6 czerwca**
+
+* 7.00 za Parafian
+* 9.00 intencja zbiorowa:
+
+  * za zdrowie Stanisława, z prośbą o Boże błogosławieństwo
+  * za śp. Stanisława WAWRZYNIECKIEGO w 73. rocznicę śmierci oraz Janusza WAWRZYNIECKIEGO w 28. rocznicę śmierci
+  * za śp. Jerzego WITKOWSKIEGO w 10. rocznicę śmierci
+* 10.30 + za śp. Rafała KIELEWSKIEGO
+* 12.00 + o Boże Miłosierdzie i pokój wieczny dla śp. Tadeusza ZALEWSKIEGO oraz dla zmarłych z rodziny ZALEWSKICH, SZYMAŃSKICH i KRÓLAKÓW
+* 18.00 + za śp. Helenę i Stanisława MOMOT w rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **VIII Niedziela Wielkanocy, Zesłanie Ducha Świętego, uroczystość, 23 maja**
 
 * 7.00 w 50. rocznicę ślubu, w dziękczynieniu za łaski, jakimi dobry Bóg obdarzył Elżbietę i Witolda, dzięki którym ich małżeństwo zgodnie trwało, umacniało ich jedność i wzajemną miłość
@@ -57,7 +125,7 @@ title: Intencje mszalne
 
   * o Boże Błogosławieństwo na każdy dzień i opiekę Matki Bożej i Św. Józefa z okazji 33 rocznicy święceń kapłańskich ks. Zbigniewa
   * za Oleńkę i Pawła o potrzebne łaski
-  *  za śp. Zygmunta BILBINA w 8. rocznicę śmierci, za jego Rodziców, Teściów, Stryjostwo z prośbą o Łaskę, Boże Błogosławieństwo w życiu wiecznym w Królestwie u Boga Najwyższego
+  * za śp. Zygmunta BILBINA w 8. rocznicę śmierci, za jego Rodziców, Teściów, Stryjostwo z prośbą o Łaskę, Boże Błogosławieństwo w życiu wiecznym w Królestwie u Boga Najwyższego
   * za śp. Elżbietę ZBIEĆ w 4. rocznicę śmierci
   * za śp. Edwarda RADZIKOWSKIEGO
   * za śp. Jana JAWICZA, Marię i Jana TORBICZ oraz Ludwika TORBICZ
