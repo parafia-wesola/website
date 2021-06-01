@@ -5,13 +5,12 @@ news:
   - size: large
     title: Msze św. online
   - size: large
-    title: Droga Światła
+    title: Procesja Bożego Ciała
   - size: large
     title: Kurs Alpha
-  - size: large
-    title: Niedzielne animacje dla dzieci
+  - title: Niedzielne animacje dla dzieci
+    size: medium
   - title: Pamiętajmy!
     size: medium
   - title: Adoracja w weekendy
-    size: medium
 ---
