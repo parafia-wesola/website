@@ -13,4 +13,9 @@ news:
   - title: Pamiętajmy!
     size: medium
   - title: Adoracja w weekendy
+    size: medium
+  - size: large
+    title: Festiwal Next Step
+  - size: large
+    title: Change Makers 18-30
 ---
