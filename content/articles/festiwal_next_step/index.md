@@ -1,6 +1,6 @@
 ---
 type: article
-title: Festiwal Next Step
+title: Festiwal Next Step 18-30
 date: 2021-06-04T11:02:44.636Z
 eventDate: 2021-07-31T22:00:00.000Z
 author: parafia wesoła
