@@ -9,7 +9,7 @@ news:
   - title: Niedzielne animacje dla dzieci
     size: large
   - size: large
-    title: Festiwal Next Step
+    title: Festiwal Next Step 18-30
   - size: large
     title: Change Makers 18-30
   - title: Pamiętajmy!
