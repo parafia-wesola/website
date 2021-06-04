@@ -1,18 +1,12 @@
 ---
 type: article
 title: Msze św. online
-date: 2021-03-26T09:29:08.248Z
-eventDate: 2021-05-22T18:00:00.000Z
+date: 2021-06-04T15:32:18.835Z
+eventDate: ""
 author: parafia wesoła
-cover: 23-24_maja_2_.png
+cover: niedziela_w_parafii.png
 ---
 <!--StartFragment-->
-
-**Sobota w Parafii**
-
-20.00 Czuwanie na Zesłanie Ducha Świętego [link do transmisji](https://www.youtube.com/watch?v=-gYxASScS9w)
-
-22.00 Msza św. Wigilii Zesłania Ducha Świętego [link do transmisji](https://www.youtube.com/watch?v=-gYxASScS9w)
 
 **Niedziela w Parafii**
 
@@ -20,7 +14,11 @@ cover: 23-24_maja_2_.png
 
 10.30 Msza św. transmitowana do kaplicy
 
-12.00 Msza św. odpustowa transmitowana na YT i do kaplicy
+12.00 Msza św. transmitowana na YT i do kaplicy
+
+15.00-17.50 Adoracja Najświętszego Sakramentu
+
+17.30 Nabożeństwo Czerwcowe
 
 18.00 Msza św. transmitowana na YT i do kaplicy
 
