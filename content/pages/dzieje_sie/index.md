@@ -10,8 +10,6 @@ news:
     title: Festiwal Next Step
   - size: large
     title: Change Makers 18-30
-  - size: large
-    title: Kurs Alpha
   - title: Niedzielne animacje dla dzieci
     size: medium
   - title: Pamiętajmy!
