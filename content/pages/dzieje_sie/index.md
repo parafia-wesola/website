@@ -6,12 +6,12 @@ news:
     title: Msze św. online
   - size: large
     title: Procesja Bożego Ciała
+  - title: Niedzielne animacje dla dzieci
+    size: large
   - size: large
     title: Festiwal Next Step
   - size: large
     title: Change Makers 18-30
-  - title: Niedzielne animacje dla dzieci
-    size: medium
   - title: Pamiętajmy!
     size: medium
   - title: Adoracja w weekendy
