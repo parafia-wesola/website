@@ -23,5 +23,7 @@ W każdą 3. niedzielę zapraszamy dzieci na Mszę Świętą o godzinie 12, któ
   [link do filmu](https://youtu.be/jP54KpH6lzE)
 * **Niedziela Zesłania Ducha Świętego**\
   [link do filmu](https://youtu.be/l-s4ZR675NU)
+* **Niedziela Trójcy Świętej**\
+  [link do filmu](https://youtu.be/Wgyoo9MG2wM)
 
 <!--EndFragment-->
