@@ -4,6 +4,65 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**X Niedziela Zwykła, 6 czerwca**
+
+* 7.00 za Parafian
+* 9.00 intencja zbiorowa:
+
+  * o zdrowie dla Stanisława z prośbą o Boże Błogosławieństwo
+  * w 1. rocznicę ślubu Anety i Jakuba
+  * za śp. Stanisława WAWRZYNIECKIEGO w 73. rocznicę śmierci oraz za Janusza WAWRZYNIECKIEGO w 28. rocznicę śmierci
+  * za śp. Jerzego WITKOWSKIEGO w 10. rocznicę śmierci
+* 10.30 + za śp. Rafała KIELEWSKIEGO
+* 12.00 + o Boże Miłosierdzie i pokój wieczny dla śp. Tadeusza ZALEWSKIEGO oraz dla zmarłych z rodziny ZALEWSKICH, SZYMAŃSKICH i KRÓLAKÓW
+* 18.00 + za śp. Helenę i Stanisława MOMOT w rocznicę śmierci
+
+**Poniedziałek, 7 czerwca**
+
+* 7:00 o łaskę zdrowia dla Joanny i Kingi
+* 18.00 + za śp. Bogumiłę i Andrzeja BAKIERA
+
+**Wtorek, 8 czerwca, św. Jadwigi Królowej, *wspomnienie***
+
+* 7.00
+* 18.00 za zdrowie Leszka i Mirosławy DĘBOWCZYK
+
+**Środa, 9 czerwca**
+
+* 7.00
+* 18.00 + za śp. Janusza PODNIESIŃSKIEGO
+
+**Czwartek, 10 czerwca**
+
+* 7.00 + za śp. Piotra MARCINIAKA w 33. rocznicę śmierci
+* 18.00 + za zmarłych z rodziny SAŁACIŃSKICH i PIOTROWSKICH
+
+**Piątek, 11 czerwca, Najświętszego Serca Pana Jezusa, *uroczystość***
+
+* 7.00 + za śp. Zofię, Bolesława, Józefa ZIELIŃSKICH oraz w 21 urodziny Michała w podziękowaniu za Bożą Opiekę i błogosławieństwo
+* 18.00 + za śp. Mirosławę PŁUSA
+
+**Sobota, 12 czerwca, Niepokalanego Serca Najświętszej Maryi Panny, *wspomnienie***
+
+* 7.00 + za śp. Mirosława ANISZEWSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Reginę i Bolesława JURKIEWICZ oraz za Elżbietę i Michała JURKIEWICZ
+
+**XI Niedziela Zwykła, 13 czerwca**
+
+* 7.00 + za śp. Genowefę i Wacława oraz za zmarłych z rodziny GADOMSKICH
+* 9.00 intencja zbiorowa:
+
+  * O Boże błogosławieństwo dla Zuzanny w 18. rocznicę urodzin
+  * za śp. Marię PEC
+  *  za śp. Jarosława KACPRZEWSKIEGO
+* 10.30 za Parafian
+* 12.00 + za śp. Ryszarda ŁUPIŃSKIEGO i zmarłych z rodziny WIŚNIEWSKICH oraz za śp. Mirosława MACHNACKIEGO
+* 18.00 za Michała i Marię w 3. rocznicę ślubu
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **IX Niedziela Zwykła, 30 maja, Najświętszej Trójcy, *uroczystość*,**
 
 * 7.00 za Parafian
