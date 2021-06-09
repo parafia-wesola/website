@@ -4,8 +4,8 @@ title: Dzieje się
 news:
   - size: large
     title: Msze św. online
-  - size: large
-    title: Procesja Bożego Ciała
+  - title: '"Pandemia jako doświadczenie ekumeniczne. Kościele, co dalej?'
+    size: large
   - title: Niedzielne animacje dla dzieci
     size: large
   - size: large
