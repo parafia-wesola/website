@@ -27,5 +27,7 @@ W każdą 3. niedzielę zapraszamy dzieci na Mszę Świętą o godzinie 12, któ
   [link do filmu](https://youtu.be/Wgyoo9MG2wM)
 * **10 Niedziela Zwykła**\
   [link do filmu](https://youtu.be/xpoCyNzQ0gU)
+* **11 Niedziela Zwykła**\
+  [link do filmu](https://youtu.be/FyIsjC2mJwE)
 
 <!--EndFragment-->
