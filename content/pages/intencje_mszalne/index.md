@@ -4,6 +4,66 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XI Niedziela Zwykła, 13 czerwca**
+
+* 7.00 + za śp. Genowefę i Wacława oraz za zmarłych z rodziny GADOMSKICH
+* 9.00 intencja zbiorowa:
+
+  * o Boże błogosławieństwo dla Zuzanny w 18. rocznicę urodzin
+  * o błogosławieństwo Boże i szczęśliwy poród dla Pauliny oraz opiekę Matki Bożej dla Niej i jej dziecka
+  * za śp. Marię PEC
+  * za śp. Jarosława KACPRZEWSKIEGO
+* 10.30 za Parafian
+* 12.00 + za śp. Ryszarda ŁUPIŃSKIEGO i zmarłych z rodziny WIŚNIEWSKICH oraz za śp. Mirosława MACHNACKIEGO
+* 18.00 za Michała i Marię w 3. rocznicę ślubu
+
+**Poniedziałek, 14 czerwca, bł. Michała Kozala, biskupa i męczennika, *wspomnienie***
+
+* 7:00 + za śp. Edwarda RADZIKOWSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Antoniego MIAŁKOWSKIEGO w 3 rocznicę śmierci
+
+**Wtorek, 15 czerwca**
+
+* 7.00 + za śp. Jolantę ŁĘCZYCKĄ
+* 18.00 + za śp. Helenę i Jana z prośbą o życie wieczne
+
+**Środa, 16 czerwca**
+
+* 7.00 za Karolinę i Wojtka w 6 rocznicę ślubu
+* 18.00 + O radość życia wiecznego w Królestwie Bożym dla: Jadwigi LACHOWSKIEJ w 21 rocznicę śmierci, Władysława LACHOWSKIEGO w dniu imienin i 57 rocznicy śmierci, Andrzeja GALIŃSKIEGO w 6 rocznicę śmierci, dla zmarłych z rodzin: LACHOWSKICH, GALIŃSKICH i RYDZEWSKICH
+
+**Czwartek, 17 czerwca, św. Brata Alberta Chmielowskiego, zakonnika, *wspomnienie***
+
+* 7.00 O Boże Miłosierdzie dla Krzysztofa i Elżbiety
+* 18.00 + za duszę śp. Oskara oraz Jego Rodziców i siostrę Dominikę z Mężem oraz o Boże Błogosławieństwo dla całej rodziny RAJSKICH
+
+**Piątek, 18 czerwca**
+
+* 7.00 za Magdalenę i Tomasza w 23 rocznicę ślubu
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 19 czerwca**
+
+* 7.00 + za śp. Hieronima CZARNECKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Stanisława ZWIERZYŃSKIEGO w 5 rocznicę śmierci i śp. Hannę ZWIERZYŃSKĄ w 14 rocznicę śmierci
+
+**XII Niedziela Zwykła, 20 czerwca**
+
+* 7.00 + za parafian
+* 9.00 + za śp. Janinę, Jadwigę, Kazimierza, Czesława z rodziny JAWORSKICH i JACZEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * za śp. Danutę, Gustawa i rodziców
+  * za śp. Annę i Władysława OSOWIECKICH oraz Witolda, Stefana, Bogusława Karasińskich i Janinę KRAWCZYK
+  * za śp. Teresę i Jerzego PIETRZAKÓW
+* 12.00 + za śp. Jana GOŁĘBIEWSKIEGO, Jana ZAGÓRSKIEGO, Janinę i Jana KASZOWSKICH\
+  (w modlitwie wiernych za Łucję w dziękczynieniu za dar I Komunii Św.)
+* 18.00 + za śp. Tadeusza BAKUN
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **X Niedziela Zwykła, 6 czerwca**
 
 * 7.00 za Parafian
@@ -54,7 +114,7 @@ title: Intencje mszalne
 
   * O Boże błogosławieństwo dla Zuzanny w 18. rocznicę urodzin
   * za śp. Marię PEC
-  *  za śp. Jarosława KACPRZEWSKIEGO
+  * za śp. Jarosława KACPRZEWSKIEGO
 * 10.30 za Parafian
 * 12.00 + za śp. Ryszarda ŁUPIŃSKIEGO i zmarłych z rodziny WIŚNIEWSKICH oraz za śp. Mirosława MACHNACKIEGO
 * 18.00 za Michała i Marię w 3. rocznicę ślubu
