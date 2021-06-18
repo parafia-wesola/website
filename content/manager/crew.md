@@ -6,5 +6,4 @@ users:
   - title: o. Krzysztof Charańczuk
   - title: s. Katarzyna Jackowska
   - title: Marek Sęczek
-  - title: Jolanta Łęczycka
 ---
