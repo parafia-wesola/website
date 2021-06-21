@@ -4,6 +4,73 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XII Niedziela zwykła, 20 czerwca**
+
+* 7.00 + za parafian
+* 9.00 + za śp. Janinę, Jadwigę, Kazimierza, Czesława z rodziny JAWORSKICH i JACZEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * O opiekę Bożej Opatrzności nad Moniką i Krzysztofem
+  * za śp. Danutę, Gustawa i rodziców
+  * za śp. Annę i Władysława OSOWIECKICH oraz Witolda, Stefana, Bogusława KARASIŃSKICH i Janinę KRAWCZYK
+  * za śp. Teresę i Jerzego PIETRZAKÓW
+  * za śp. Konrada CHUDECKIEGO
+* 12.00 + za śp. Jana GOŁĘBIEWSKIEGO, Jana ZAGÓRSKIEGO, Janinę i Jana KASZOWSKICH\
+  (w modlitwie wiernych za Łucję w dziękczynieniu za dar I Komunii Św.)
+* 18.00 + za śp. Tadeusza BAKUN
+
+**Poniedziałek, 21 czerwca**
+
+* 7:00 + za śp. Bronisława LIPIŃSKIEGO w 14rocznicę śmierci, za jego żonę Anastazję i ich rodziców
+* 18.00 Msza dziękczynna za Anetę w 30 rocznicę urodzin, za Michała i Kubę w 31 rocznicę urodzin oraz za Alicję z prośbą o Dary Ducha Świętego i opiekę Matki Bożej
+
+**Wtorek, 22 czerwca**
+
+* 7.00 + za śp. Włodzimierza MIKOS w miesiąc po pogrzebie
+* 18.00 + za śp. Jerzego JAGODZIŃSKIEGO w 50 rocznicę śmierci oraz za Bernarda UCHMAŃSKIEGO w 25 rocznicę śmierci
+
+**Środa, 23 czerwca**
+
+* 7.00 + za śp. Wiktora w Dniu Ojca
+* 18.00 za 59 lat współżycia małżeńskiego Barbary i Jana PERKOWSKICH
+
+**Czwartek, 24 czerwca, Narodzenie Św. Jana Chrzciciela, *uroczystość***
+
+* 7.00 + za śp. Jana GRYZA w dniu imienin
+* 18.00 + za śp. Marię MĄDRY
+
+**Piątek, 25 czerwca**
+
+* 7.00 + za śp. Wandę, Wiesława, Janinę, Władysławę i Pawła ŚMIGIELSKICH
+* 18.00 podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+
+**Sobota, 26 czerwca**
+
+* 7.00 + za śp. Konrada CHUDECKIEGO (od rodziny Roubo)
+* 14.00 Msza św. z chrztem Marii Cabaj
+* 15.00-18.00 Adoracja Najświętszego Sakramentu
+* 18.00 + za śp. zmarłych z rodziny JAKONIUK, SAMOCIUK, NOWIKOW i WASZKIEWICZ
+
+**XIII Niedziela zwykła, 27 czerwca**
+
+* 7.00 + za śp. Aniele i Stanisława TALAREK
+* 9.00 + za śp. Eugeniusza MROCZEK oraz Stanisława SZCZEPEK
+* 10.30 intencja zbiorowa:
+
+  * za śp. Władysława ORLIKOWSKIEGO i jego Rodziców
+  * za śp. Ireneusza CZERWIŃSKIEGO i zmarłych z jego rodziny
+  * za śp. Jana i Czesławę OLSZEWSKICH oraz Piotra i Czesławę KIELCZYK
+  * za śp. . Janusza PODNIESIŃSKIEGO oraz śp. Henryka i Bronisławę FAWREL
+  * za duszę śp. Marii, Władysławy i Franciszka WIELGO, aby dobry Pan zaprosił ich na ucztę zbawionych w Niebie
+  * za śp. Celinę WIERZBICKĄ
+  * za śp. Kazimierza GOŁASZEWSKIEGO
+* 12.00 za Parafian
+* 18.00 + za śp. Tadeusza i Apolonię i zmarłych z rodziny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XI Niedziela Zwykła, 13 czerwca**
 
 * 7.00 + za śp. Genowefę i Wacława oraz za zmarłych z rodziny GADOMSKICH
