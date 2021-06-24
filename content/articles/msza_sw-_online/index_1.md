@@ -12,14 +12,14 @@ cover: niedziela_w_parafii.png
 
 7.00, 9.00 Msza św.
 
-10.30 Msza św. transmitowana do kaplicy
+10.30 Msza św. 
 
-12.00 Msza św. transmitowana na YT i do kaplicy
+12.00 Msza św. transmitowana na YT 
 
 15.00-17.50 Adoracja Najświętszego Sakramentu
 
 17.30 Nabożeństwo Czerwcowe
 
-18.00 Msza św. transmitowana na YT i do kaplicy
+18.00 Msza św. transmitowana na YT 
 
 <!--EndFragment-->
