@@ -11,6 +11,10 @@ cover: internet_ekumene.jpg
 **"Pandemia jako doświadczenie ekumeniczne". Kościele, co dalej?**\
 **Dzień Formacji Ekumenicznej**
 
-Już w sobotę 12 czerwca online w godz. 10.00-12.30 i 15.00-17.30 "Pandemia jako doświadczenie ekumeniczne" Kościele, co dalej? Bardzo ciekawe nauczania i dyskusje z udziałem wspaniałych mówców różnych wyznań! Będą z nami: ks. prof. Tomasz Halik i bp Grzegorz Ryś (katolicy), bp Marek Kamiński (zielonoświątkowy), ks. Włodzimierz Misijuk (prawosławny) ks. Monika Zuber (metodystka) i ks. Michał Makuła (luteranin). Warto! Zapisy otwarte pod linkiem [tutaj](https://www.chemin-neuf.pl/inscriptions-2/?prop_id=3222&form_id=14&fbclid=IwAR0wMklYpp1QqT-VRdyHy6qjf79kM8pUH6ov2ZAir3R9kDUoCp7Z_GdbIn8)
+* **Ks. prof. Tomasz Halik (katolik)** [link do nauczania](<https://www.youtube.com/watch?v=v66D7D2R2WU&list=PLE3lcIRSZ2t8Qm1U0IXejRuwJrmNopA01>)
+* **Bp Marek Kamiński (zielonoświątkowy)** [link do nauczania](<https://www.youtube.com/watch?v=dfYiSFBkiZk&t=25s>)
+* **Ks. dr Włodzimierz Misijuk (prawosławny)** [link do nauczania](<https://www.youtube.com/watch?v=WnWfdAQ8MWs>)
+* **Panel 1 – Głos katolicki** (członkowie Chemin Neuf Katarzyna Łukomska, Marek Kita i Adam Strojny) [link do panelu](<https://www.youtube.com/watch?v=ihCmhopwXWU&t=2151s>)
+* **Panel 2 – Głos protestancki** (Monika Zuber – metodystka, Michał Makula – luteranin), animuje Marek Kita ccn + Zakończenie sesji [link do panelu](<https://www.youtube.com/watch?v=miEWcBoUcbQ>)
 
 <!--EndFragment-->
