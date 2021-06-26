@@ -10,17 +10,17 @@ cover: pamietajmy.png
 
 <h3 style="text-align:center;">PAMIĘTAJMY</h3>
 
-* Max. 17 osób w kościele
+* 75 % miejsc zajętych
 
-  stosownie do obecnych rozporządzeń w naszym kościele, nie licząc posługi, może wejść jednocześnie 17 osób, a do kaplicy 25 osób.
+  stosownie do obecnych rozporządzeń w naszym kościele, może być zajęte 75% miejsc, nie licząc osób zaszczepionych
 * Obowiązkowe zakrywanie ust i nosa
 
-  prosimy, aby zarówno w kościele jak i wokół kościoła zakrywać usta i nos maseczką, zdejmowaną na Komunię.
+  prosimy, aby zarówno w kościele jak i wokół kościoła zakrywać usta i nos maseczką, zdejmowaną na Komunię
 * Wrażliwość na innych
 
-  czuwajmy nad tym, aby inni mogli też wejść do kościoła na Mszę św. lub Adorację
+  zachowajmy dystans i szanujmy siebie nawzajem w naszych różnych wrażliwościach.
 
 Bądźmy odpowiedzialni za siebie i za innych!\
-Dziękujemy za wrażliwość i wzajemną troskę
+Dziękujemy za wzajemną troskę
 
 <!--EndFragment-->
