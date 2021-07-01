@@ -2,6 +2,71 @@
 type: text
 title: Intencje mszalne
 ---
+**XIII Niedziela zwykła, 27 czerwca**
+
+* 7.00 + za śp. Anielę i Stanisława TALAREK
+* 9.00 + za śp. Eugeniusza MROCZEK oraz Stanisława SZCZEPEK
+* 10.30 intencja zbiorowa:
+
+  * + za śp. Władysława ORLIKOWSKIEGO i jego Rodziców
+  * za śp. Ireneusza CZERWIŃSKIEGO i zmarłych z jego rodziny
+  * za śp. Jana i Czesławę OLSZEWSKICH oraz Piotra i Czesławę KIELCZYK
+  * za śp. Janusza PODNIESIŃSKIEGO oraz śp. Henryka i Bronisławę FAWREL
+  * za duszę śp. Marii, Władysławy i Franciszka WIELGO, aby dobry Pan zaprosił ich na ucztę zbawionych w Niebie
+  * za śp. Celinę WIERZBICKĄ
+  * za śp. Kazimierza GOŁASZEWSKIEGO
+* 12.00 za Parafian
+* 18.00 + za śp. Tadeusza i Apolonię i zmarłych z rodziny
+
+**Poniedziałek, 28 czerwca**
+
+* 7:00 + za śp. Janinę RZENTARZEWSKĄ (od rodziny Burdachów)
+* 18.00 + za śp. Jana WÓJCIKA w 30 rocznicę śmierci oraz o błogosławieństwo dla całej rodziny
+
+**Wtorek, 29 czerwca**
+
+* 7.00 + za śp. Stanisławę i Władysława PIOTRAK i zmarłych z rodziny PIOTRAK i GAŁĄZKA
+* 18.00 W dniu imienin wnuka Pawła – dziękczynna za pomoc Bożą w jego studiach doktoranckich,\
+  z prośbą o światło Ducha Św. w korzystaniu z tych darów dla chwały Bożej i dobra Ojczyzny
+
+**Środa, 30 czerwca**
+
+* 7.00 + za śp. Jana MIROCHNĘ
+* 18.00 W dniu imienin synowej Lucyny – dziękczynna za tę ogromną moc Bożą w pokonywaniu choroby, z pokornym błaganiem o całkowite uzdrowienie i dalszą pracę w przybliżaniu ludziom Pana Boga
+
+**Czwartek, 1 lipca**
+
+* 7.00 + za śp. Marię PEC w miesiąc po pogrzebie
+* 18.00 + w 10 rocznicę śmierci Zbigniewa FUCHS i zmarłych z rodziny FUCHS i STAŃCZAK
+
+**Piątek, 2 lipca**
+
+* 7.00 + za śp. Alfreda ŁĘCZYCKIEGO w 5 rocznicę śmierci
+* 18.00 + za śp. Lilię i Tadeusza ROGOZIŃSKICH oraz za zmarłych z rodziny ROGOZIŃSKICH\
+  i GŁOWACKICH
+
+**Sobota, 3 lipca**
+
+* 7.00 + za duszę Ewy w rocznicę śmierci
+* 18.00 w intencji Kół Żywego Różańca
+
+**XIV Niedziela zwykła, 4 lipca**
+
+* 8.00 za parafian
+* 10.00 + za śp. Władysławę PODLEŚNY w 9 rocznicę śmierci
+* 12.00 intencja zbiorowa:
+
+  * dziękczynna za 40 lat małżeństwa
+  * o błogosławieństwo Boże i Dary Ducha Św. oraz opiekę Matki Bożej dla Doroty i Piotra z okazji 10 rocznicy zawarcia sakramentu małżeństwa
+  * o opiekę Matki Bożej podczas badania serca
+  * za śp. Teresę, Jerzego i Mirosława POPRAWSKICH
+  * za śp. Jadwigę Stelmach
+* 18.00 błagalno-dziękczynna w 4 rocznicę ślubu Jakuba i Karoliny KOTUNIAKÓW oraz ich synów Antoniego i Krzysztofa
+
+<!--EndFragment-->
+
+
+
 <!--StartFragment-->
 
 **XII Niedziela zwykła, 20 czerwca**
