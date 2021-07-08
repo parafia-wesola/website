@@ -2,13 +2,74 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**XIV Niedziela zwykła, 4 lipca**
+
+* 8.00 za parafian
+* 10.00 + za śp. Władysławę PODLEŚNY w 9 rocznicę śmierci
+* 12.00 intencja zbiorowa:
+
+  * dziękczynna za 40 lat małżeństwa
+  * O Błogosławieństwo Boże i Dary Ducha Św. oraz opiekę Matki Bożej dla Doroty i Piotra z okazji 10 rocznicy zawarcia sakramentu małżeństwa
+  * O opiekę Matki Bożej podczas badania serca
+  * za śp. Teresę, Jerzego i Mirosława POPRAWSKICH
+* 18.00 błagalno dziękczynna w 4 rocznicę ślubu Jakuba i Karoliny KOTUNIAKÓW oraz ich synów Antoniego i Krzysztofa
+
+**Poniedziałek, 5 lipca**
+
+* 7:00 + za duszę Haliny i Wacława RYCHLIK oraz Grzegorza SOBIECH
+* 18.00 + za śp. Alfreda w 5 rocznicę śmierci
+
+**Wtorek, 6 lipca, bł. Marii Teresy LEDÓCHOWSKIEJ, dziewicy, *wspomnienie***
+
+* 7.00 + o Boże Miłosierdzie i pokój wieczny dla śp. Tadeusza ZALEWSKIEGO
+* 18.00 wypominkowa
+
+**Środa, 7 lipca**
+
+* 7.00 + za śp. Tadeusza SKONIECZNEGO (od Barbary Szymańskiej)
+* 18.00 w 37 rocznicę ślubu Mirosławy i Lecha
+
+**Czwartek, 8 lipca, św. Jana z Dukli, prezbitera, *wspomnienie***
+
+* 7.00 + za śp. Tadeusza SKONIECZNEGO (od rodziny Soczówków z Miechowa)
+* 18.00 + za śp. Elżbietę BAZYL w rocznicę urodzin
+
+**Piątek, 9 lipca**
+
+* 7.00 + za śp. Celinę WIERZBICKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Józefę i Mariana
+
+**Sobota, 10 lipca**
+
+* 7.00 o łaskę zdrowia dla Joanny i Kingi
+* 18.00 + za śp. Eugeniusza BAŁABUCH o radość Nieba pół roku po śmierci\
+  (w modlitwie wiernych za Stanisława i Eugenię SZYMAŃCZAK w 45 rocznicę ślubu)
+
+**XV Niedziela zwykła, 11 lipca**
+
+* 8.00 w dniu urodzin Pawła JÓZEFOWICZA
+* 10.00 za parafian
+* 12.00 intencja zbiorowa:
+
+  * za śp. Jadwigę STOJANOWSKĄ
+  * za śp. Janusza MACKIEWICZA
+  * za śp. Andrzeja KOSECKIEGO
+  * za śp. Stanisławę BEDNARSKĄ
+  * za śp. Lidie JACKIEWICZ
+  * za śp. Tadeusza SKONIECZNEGO
+* 18.00 + za śp. Janinę i Wojciecha KOWNACKICH
+
+<!--EndFragment-->
+
 **XIII Niedziela zwykła, 27 czerwca**
 
 * 7.00 + za śp. Anielę i Stanisława TALAREK
 * 9.00 + za śp. Eugeniusza MROCZEK oraz Stanisława SZCZEPEK
 * 10.30 intencja zbiorowa:
 
-  * + za śp. Władysława ORLIKOWSKIEGO i jego Rodziców
+  * * za śp. Władysława ORLIKOWSKIEGO i jego Rodziców
   * za śp. Ireneusza CZERWIŃSKIEGO i zmarłych z jego rodziny
   * za śp. Jana i Czesławę OLSZEWSKICH oraz Piotra i Czesławę KIELCZYK
   * za śp. Janusza PODNIESIŃSKIEGO oraz śp. Henryka i Bronisławę FAWREL
@@ -64,8 +125,6 @@ title: Intencje mszalne
 * 18.00 błagalno-dziękczynna w 4 rocznicę ślubu Jakuba i Karoliny KOTUNIAKÓW oraz ich synów Antoniego i Krzysztofa
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
