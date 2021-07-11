@@ -4,6 +4,66 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XV Niedziela zwykła, 11 lipca**
+
+* 8.00 w dniu urodzin Pawła JÓZEFOWICZA
+* 10.00 za parafian
+* 12.00 intencja zbiorowa:
+
+  * za śp. Jadwigę STOJANOWSKĄ
+  * za śp. Janusza MACKIEWICZA
+  * za śp. Andrzeja KOSECKIEGO
+  * za śp. Stanisławę BEDNARSKĄ
+  * za śp. Lidię JACKIEWICZ
+  * za śp. Tadeusza SKONIECZNEGO
+  * W podziękowaniu Panu Bogu za rodziców w 66. rocznicę ślubu Stanisława i Romualdy, polecając opiece Matki Bożej
+* 18.00 + za śp. Janinę i Wojciecha KOWNACKICH
+
+**Poniedziałek, 12 lipca**
+
+* 7:00 + za śp. Tadeusza SKONIECZNEGO (od rodziny Grzegórzków)
+* 18.00 + za śp. Halinę KALINOWSKĄ z okazji 80. rocznicy urodzin oraz śmierci
+
+**Wtorek, 13 lipca**
+
+* 7.00 + za śp. Tadeusza SKONIECZNEGO (od Krystyny i Marka)
+* 18.00 + za śp. Macieja i Mirosława MORAWSKICH i całej rodziny MORAWSKICH
+
+**Środa, 14 lipca**
+
+* 7.00 + za śp. Tadeusza SKONIECZNEGO (od Marii Zawiślak z rodziną)
+* 18.00 + w 13. rocznicę śmierci Eugeniusza GRYZA i w 1. rocznicę śmierci Roberta GRYZA oraz zmarłych z rodziny
+
+**Czwartek, 15 lipca**
+
+* 7.00 + za śp. Konrada CHUDECKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Czesławę DĘBOWCZYK
+
+**Piątek, 16 lipca**
+
+* 7.00 + za śp. Jerzego
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 17 lipca**
+
+* 7.00 w 19. rocznicę urodzin KUBY
+* 18.00 + za śp. Stanisława BAKIERA w 7 rocznicę śmierci oraz za rodziców Helenę i Wiesława ROGALA i Stanisława BAKIERA
+
+**XVI Niedziela zwykła, 18 lipca**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * za śp. Czesławę i Romana DAWIDOWICZ, Jadwigę i Wacława KUPSKICH, Mariannę i Wiesława TATAREK
+  * za śp. Anielę KIRYLUK w 25. rocznicę śmierci oraz za zmarłych: Stanisławę, Franciszkę i Pawła z rodziny KIRYLUK
+  * za śp. Czesławę w dniu imienin oraz Czesławę i Piotra KIELCZYK
+* 12.00 intencja dziękczynna za Martę i Piotra STAŃCZYK w 12. rocznicę ślubu z prośbą o dalsze błogosławieństwo
+* 18.00 + za śp. Pawła CHARAŃCZUK w 25 rocznicę śmierci oraz zmarłych z rodziny CHARAŃCZUK, BANASZKIEWICZ i LISZEWSKICH
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XIV Niedziela zwykła, 4 lipca**
 
 * 8.00 za parafian
