@@ -21,6 +21,6 @@ niedziela, 25 lipca 12.00-17.00
 Parafia Opatrzności Bożej, Warszawa Wesoła
 
 **Zapisy!**\
-formularz zapisu dostępny [](https://forms.gle/CVFvgnKsDbFPwG1x9)[tutaj](https://forms.gle/CVFvgnKsDbFPwG1x9)
+formularz zapisu dostępny [](https://forms.gle/CVFvgnKsDbFPwG1x9)[](https://forms.gle/CVFvgnKsDbFPwG1x9)
 
 **Wszelkie pytania**: tel. 604 433 434
