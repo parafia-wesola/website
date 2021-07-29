@@ -2,6 +2,63 @@
 type: text
 title: Intencje mszalne
 ---
+**XVII Niedziela zwykła, 25 lipca**
+
+* 8.00 + za śp. Irenę i Czesława oraz zmarłych z rodziny WIŚNIEWSKICH i SAWICKICH
+* 10.00 intencja zbiorowa:
+
+  * za śp. Krystynę SIOCH
+  * za śp. Jadwigę MOSZCZYŃSKĄ
+  * za śp. Czesławę WOŹNIAK
+  * za sp. Helenę Barbarę REDEK
+  * za śp. Annę i Romana
+  * za śp. Irenę i Stanisława CEGŁA oraz śp. Józefę i Stefana DĄBROWSKICH i śp. Alicję SZYMAŃSKĄ
+  * za śp. Janinę i Józefa KROPIWIEC oraz Marię i Jana TORBICZ
+  * za śp. Czesławę i Jana OLSZEWSKICH oraz Czesławę i Piotra KIELCZYK
+* 12.00 za parafian w podziękowaniu i prośbie o stałą obecność Najśw. Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+* 18.00 w dniu imienin syna Jakuba i synowej Anny – dziękczynna za wszelkie dobra, którymi ich Pan Bóg obdarował, z prośbą o dalsze zdrowie dla ich obojga i dalsze błogosławieństwo Trójcy Przenajświętszej
+
+**Poniedziałek, 26 lipca**
+
+* 7:00 o Boże Błogosławieństwo i opiekę św. Anny i Joachima dla Anny i jej rodziny
+* 18.00 + za śp. Hannę i Zdzisława GAWĘCKICH
+
+**Wtorek, 27 lipca**
+
+* 7.00 + za śp. Jadwigę STELMACH w miesiąc po pogrzebie
+* 18.00 + za śp. Pelagię STRADOWSKĄ i Kazimierza STRADOWSKIEGO oraz zmarłych z rodziny
+
+**Środa, 28 lipca**
+
+* 7.00 + za śp. Tadeusza SKONIECZNEGO
+* 18.00 za Urszulę i Sławomira w 31 rocznicy ślubu z dziękczynieniem i prośbą o błogosławieństwo dla całej rodziny
+
+**Czwartek, 29 lipca**
+
+* 7.00 + za śp. Stanisławę BEDNARSKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Annę PŁUSA
+
+**Piątek, 30 lipca**
+
+* 7.00 + za śp. Tadeusza SKONIECZNEGO
+* 18.00 + za śp. Irenę SZCZUDLIŃSKĄ
+
+**Sobota, 31 lipca**
+
+* 7.00 + za śp. Henryka WRZEŚNIEWSKIEGO w 2 rocznicę śmierci
+* 18.00 o Boże Miłosierdzie dla Haliny
+
+**XVIII Niedziela zwykła, 1 sierpnia**
+
+* 8.00 za parafian
+* 10.00 + za śp. Marię WĄSOWSKĄ w 1 rocznicę śmierci
+* 12.00 intencja zbiorowa:
+
+  * za śp. Bernarda MICHALIKA
+* 18.00 o opiekę Matki Bożej i dary Ducha Św. dla Joanny i Pawła w 2 rocznicę ślubu
+
+<!--EndFragment-->
+
 **XVI Niedziela zwykła, 18 lipca**
 
 * 8.00 za parafian
