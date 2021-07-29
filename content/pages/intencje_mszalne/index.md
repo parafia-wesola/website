@@ -2,6 +2,65 @@
 type: text
 title: Intencje mszalne
 ---
+**XVI Niedziela zwykła, 18 lipca**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * za śp. Czesławę i Romana DAWIDOWICZ, Jadwigę i Wacława KUPSKICH, Mariannę i Wiesława TATAREK
+  * za śp. Anielę KIRYLUK w 25. rocznicę śmierci oraz za zmarłych: Stanisławę, Franciszkę i Pawła z rodziny KIRYLUK
+  * za śp. Czesławę w dniu imienin oraz Czesławę i Piotra KIELCZYK
+  * w 1 rocznicę śmierci Zofii RATYŃSKIEJ i Kazimierza RATYŃSKIEGO
+* 12.00 intencja dziękczynna za Martę i Piotra STAŃCZYK w 12. rocznicę ślubu z prośbą o dalsze błogosławieństwo
+* 18.00 + za śp. Pawła CHARAŃCZUK w 25 rocznicę śmierci oraz zmarłych z rodziny CHARAŃCZUK, BANASZKIEWICZ i LISZEWSKICH
+
+**Poniedziałek, 19 lipca**
+
+* 7:00 + za śp. Kazimierza GOŁASZEWSKIEGO w miesiąc po pogrzebie
+* 18.00 za Joannę i Wojciecha z prośbą o błogosławieństwo dla nich i dla ich dzieci
+
+**Wtorek, 20 lipca**
+
+* 7.00 + za śp. Tadeusza SKONIECZNEGO (od rodziny Czerwińskich)
+* 18.00 w 18 urodziny Jakuba
+
+**Środa, 21 lipca**
+
+* 7.00 + za śp. Tadeusza SKONIECZNEGO (od Stanisława ŁODZIAKA)
+* 18.00 + za śp. Aleksandra i Annę
+
+**Czwartek, 22 lipca, św. Marii Magdaleny, *święto***
+
+* 7.00 + za śp. Jadwigę STOJANOWSKĄ w miesiąc po pogrzebie
+* 18.00 o dar wiary dla Krzysztofa
+
+**Piątek, 23 lipca, św. Brygidy, zakonnicy, patronki Europy, *święto***
+
+* 7.00 + za śp. Janusza MACKIEWICZA w miesiąc po pogrzebie
+* 18.00 + za śp. Kazimierza JAZŁOCKIEGO w 3 rocznicę śmierci
+
+**Sobota, 24 lipca**
+
+* 7.00 + za śp. Andrzeja KOSECKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Alicję KLEJN w 5 rocznicę śmierci ( s. Edyta)
+
+**XVII Niedziela zwykła, 25 lipca**
+
+* 8.00 + za śp. Irenę i Czesława oraz zmarłych z rodziny WIŚNIEWSKICH i SAWICKICH
+* 10.00 intencja zbiorowa:
+
+  * za śp. Krystynę SIOCH
+  * za śp. Jadwigę MOSZCZYŃSKĄ
+  * za śp. Czesławę WOŹNIAK
+  * za sp. Helenę Barbarę REDEK
+  * za śp. Annę i Romana
+* 12.00 za parafian podziękowanie i prośba o stałą obecność Naśw. Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+* 18.00 w dniu imienin mojego syna Jakuba i synowej Anny – dziękczynna za wszelkie dobra, którymi ich Pan Bóg obdarował z prośbą o dalsze zdrowie dla ich obojga i dalsze błogosławieństwo Trójcy Przenajświętszej
+
+<!--EndFragment-->
+
+
+
 <!--StartFragment-->
 
 **XV Niedziela zwykła, 11 lipca**
