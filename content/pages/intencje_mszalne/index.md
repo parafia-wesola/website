@@ -2,6 +2,70 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**XVIII Niedziela zwykła, 1 sierpnia**
+
+* 8.00 za parafian
+* 10.00 + za śp. Marię WĄSOWSKĄ w 1 rocznicę śmierci.
+* 12.00 intencja zbiorowa:
+
+  * za śp. Bernarda MICHALIKA
+  * za śp. Martę w 1 r.ś.
+  * za śp. Jarosława KACPRZESKIEGO oraz za dusze w czyśćcu cierpiące
+* 18.00 o opiekę Matki Bożej i dary Ducha Św. dla Joanny i Pawła w 2 rocznicę ślubu
+
+**Poniedziałek, 2 sierpnia**
+
+* 7:00 +za śp. Mariannę, Stanisława, Romana i Waldemar Kąca.
+* 18.00 + za śp. Jadwigę Olędzką w3 r. ś. oraz za zmarłych z rodzin Olędzkich, Bachorków, Olifierków, Radziwonów i Jeżewskich.
+
+**Wtorek, 3 sierpnia**
+
+* 7.00 za śp. Lidię Jackiewicz w miesiąc po pogrzebie.
+* 18.00 za dusze zmarłych polecanych w intencjach wypominkowych.
+
+**Środa, 4 sierpnia, św. Jana Marii Vianneya, prezbitera,** *wspomnienie*
+
+* 7.00 za śp. Tadeusza Skoniecznego, w miesiąc po pogrzebie.
+* 18.00 za śp. Katarzynę i Stanisława, Jana, Tadeusza i Andrzeja Łopatków.
+
+**Czwartek, 5 sierpnia**
+
+* 7.00 za śp. Tadeusza Skoniecznego
+* 18.00 za śp. Jadwigę Stojanowską
+
+**Piątek, 6 sierpnia, Przemienienie Pańskie,** *święto*
+
+* 7.00 za śp. Grzegorza Drewnowskiego, w 3 r. ś.
+* 16.00 za nowożeńców Aleksandrę i Krzysztofa
+* 18.00 o Boże miłosierdzie i pokój wieczny dla śp. Tadeusza ZALEWSKIEGO oraz zmarłych z rodzin ZALEWSKICH, SZYMAŃSKICH i KRÓLAKÓW.
+
+**Sobota, 7 sierpnia**
+
+* 7.00 + za śp. Tadeusza SKONIECZNEGO
+* 16.00 za nowożeńców Karolinę i Tomasza
+* 18.00 w intencjach Kół Żywego Różańca
+
+**XIX Niedziela zwykła, 8 sierpnia**
+
+* 8.00 za Krystynę i Andrzeja Szostak w 50 rocznicę ślubu
+* 10.00 za parafian
+* 12.00 zbiorowe:
+
+  * Błagalno-dziękczynna w 40 rocznicę ślubu Izabeli i Andrzeja Kotuniaków oraz w 1sze urodziny wnuka Krzysztofa, a także w intencji Anny, Karoliny, Jakuba i Antoniego Kotuniaków.
+  * za śp. Wandę, Mariana, Jana Skibniewskich oraz Rafała Kielewskiego.
+  * za śp. Stanisławę Kałasza w rocznicę śmierci, zmarłych z rodziny oraz Celinę Wierzbicką.
+  * za śp. Piotra Wocial.
+  * za śp. Adama Gadomskiego.
+  * za śp. Janinę Jamiołkowską.
+  * za śp. Krystynę Drzewiecką.
+* 18.00 o Boże błogosławieństwo dla rodziny Piotrowskich.
+
+<!--EndFragment-->
+
+
+
 **XVII Niedziela zwykła, 25 lipca**
 
 * 8.00 + za śp. Irenę i Czesława oraz zmarłych z rodziny WIŚNIEWSKICH i SAWICKICH
@@ -115,8 +179,6 @@ title: Intencje mszalne
 * 18.00 w dniu imienin mojego syna Jakuba i synowej Anny – dziękczynna za wszelkie dobra, którymi ich Pan Bóg obdarował z prośbą o dalsze zdrowie dla ich obojga i dalsze błogosławieństwo Trójcy Przenajświętszej
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
