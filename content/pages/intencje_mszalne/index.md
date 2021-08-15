@@ -4,6 +4,64 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XX Niedziela, 15 sierpnia, Wniebowzięcie NMP, uroczystość**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * w 1 rocznicę urodzin Zosi z prośbą o Boże Błogosławieństwo
+  * za Bolesława SĘDKA z okazji imienin z prośbą o zdrowie i opiekę Bożą
+  * za śp. Grzegorza MŁYNARCZYKOWSKIEGO
+  * Chrzest Marcina Dąbkowskiego i Róży Piłka
+* 12.00 za Magdalenę i Sławomira w 8. rocznicę ślubu
+* 18.00 w 2. rocznicę ślubu Dominika i Gosi
+
+**Poniedziałek, 16 sierpnia**
+
+* 7:00 + za śp. Mieczysława KARWOWSKIEGO w 21. rocznicę śmierci i Helenę KARWOWSKĄ w 20. rocznicę śmierci
+* 18.00 + za śp. Janinę SKOWROŃSKĄ w 30. rocznicę śmierci, Stanisława i Pawła SKOWROŃSKICH oraz śp. Waldemara SKOWROŃSKIEGO
+
+**Wtorek, 17 sierpnia**
+
+* 7.00 + za śp. Mateusza HABER
+* 18.00 + za śp. Anielę, Aleksandra, Zofię i Eugeniusza STRUPIECHOWSKICH oraz śp. Mariannę WĄSOWSKĄ
+
+**Środa, 18 sierpnia**
+
+* 7.00 + za śp. Mateusza HABER
+* 18.00 + za śp. Romana CHOIŃSKIEGO w 30. rocznicę śmierci
+
+**Czwartek, 19 sierpnia**
+
+* 7.00 
+* 18.00 + za śp. Eugenię i Józefa BRZOSTOWSKICH
+
+**Piątek, 20 sierpnia**
+
+* 7.00
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 21 sierpnia**
+
+* 7.00 + za śp. Piotra WOCIALA w miesiąc po pogrzebie
+* 18.00 + za śp. Juko Tapko
+
+**XXI Niedziela zwykła, 22 sierpnia**
+
+* 8.00 + za śp. Feliksa WĄSOWSKIEGO w 1 rocznicę śmierci
+* 10.00 intencja zbiorowa:
+
+  * za śp. Ludwika TORBICZ oraz za Agatę i Andrzeja TORBICZ
+  * za śp. Barbarę KALICKĄ
+  * za śp. Jerzego KAGANKIEWICZA
+* 12.00 za parafian
+* *16.00 – 17.45 Adoracja Najśw. Sakramentu*
+* 18.00 + za śp. Józefę, Stanisława, Stefana i Wojciecha SZCZEPEK
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XVIII Niedziela zwykła, 1 sierpnia**
 
 * 8.00 za parafian
@@ -63,8 +121,6 @@ title: Intencje mszalne
 * 18.00 o Boże błogosławieństwo dla rodziny Piotrowskich.
 
 <!--EndFragment-->
-
-
 
 **XVII Niedziela zwykła, 25 lipca**
 
