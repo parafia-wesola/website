@@ -4,6 +4,72 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXII Niedziela zwykła, 29 sierpnia**
+
+* 8.00 w 62. rocznicę ślubu Barbary i Mariana oraz o błogosławieństwo Boże dla dzieci i wnuków
+* 10.00 intencja zbiorowa:
+
+  * w 1. rocznicę ślubu Klaudii i Piotra z prośbą o Boże Błogosławieństwo
+  * za duszę śp. Marii GÓRSKIEJ w 11. rocznicę śmierci oraz śp. Mieczysława i Barbary GÓRSKICH
+  * za śp. Władysława WETOSZKĘ w 4. rocznicę śmierci
+  * za śp. Wiesława GAJ w 1. rocznicę śmierci
+* 12.00 + za śp. Stanisława SZCZEPANIAKA w 1. rocznicę śmierci, za śp. Mariana MICHAŁOWSKIEGO oraz Teresę i Mieczysława MICHAŁOWSKICH\
+  Koncert Olivera Palmera
+* *17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Andrzeja CHOJECKIEGO w 11. rocznicę śmierci
+
+**Poniedziałek, 30 sierpnia**
+
+* 7.00 + za śp. Adama GADOMSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Helenę i Bolesława PODNIESIŃSKICH
+* 18.00 + za śp. Andrzeja BĄKOWSKIEGO w 1. rocznicę śmierci
+
+**Wtorek, 31 sierpnia**
+
+* 7.00 + za śp. Janinę JAMIOŁKOWSKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Jadwigę MOSZCZYŃSKĄ od rodziny Siwków, Jabłonków i Zawistowskich
+
+**Środa, 1 września**
+
+* 7.00 + za śp. Krystynę DRZEWIECKĄ w miesiąc po pogrzebie
+* 18.00 za Kasię w 28. rocznicę urodzin za potrzebne łaski
+
+**Czwartek, 2 września**
+
+* 7.00 + za śp. Janinę, Stefana, Stanisława i Jana SZUBĘ
+* 18.00 K.Ż.R.
+
+**Piątek, 3 września, św. Grzegorza Wielkiego, papieża i doktora Kościoła, *wspomnienie***
+
+* 7.00 + za śp. Jerzego KAGANKIEWICZA w miesiąc po pogrzebie
+* 18.00 + za śp. Wojciecha STELMACHA
+
+**Sobota, 4 września**
+
+* 7.00 + za śp. Barbarę KALICKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Ryszarda ŁAPIŃSKIEGO oraz za rodzinę WIŚNIEWSKICH i Mirosława MACHNACKIEGO
+
+**XXIII Niedziela zwykła, 5 września**
+
+* 7.00 + za śp. Bronisławę i Antoniego KUBICKICH oraz zmarłych z rodziny
+* 9.00 + za śp. Mariannę KIELEWSKĄ
+* 10.30 intencja zbiorowa:
+
+  * o Boże błogosławieństwo dla klasy 8a SP171 o wszelkie potrzebne dary dla uczniów, ich rodziców oraz nauczycieli
+  * za śp. Władysława ORLIKOWSKIEGO oraz śp. Irenę i Tadeusza DOBOSZ z domu HORNUK
+  * za śp. Jadwigę MOSZCZYŃSKĄ (od rodziny Godlewskich)
+  * za śp. Helenę KOWALSKĄ
+  * za śp. Kazimierza DĄBKOWSKIEGO
+  * za śp. Tadeusza SIWKA
+* 12.00 za Janka z okazji 13. urodzin\
+  (za dzieci na rozpoczęcie roku szkolnego)
+* 18.00 + za śp. Brata Bonifratra Rufina TURKA\
+  (za młodzież na rozpoczęcie roku szkolnego)
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XX Niedziela, 15 sierpnia, Wniebowzięcie NMP, uroczystość**
 
 * 8.00 za parafian
