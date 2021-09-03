@@ -55,12 +55,15 @@ title: Intencje mszalne
 * 9.00 + za śp. Mariannę KIELEWSKĄ
 * 10.30 intencja zbiorowa:
 
+  * za dzieci na rozpoczęcie roku szkolnego
   * o Boże błogosławieństwo dla klasy 8a SP171 o wszelkie potrzebne dary dla uczniów, ich rodziców oraz nauczycieli
+  * za śp. Annę PUK
   * za śp. Władysława ORLIKOWSKIEGO oraz śp. Irenę i Tadeusza DOBOSZ z domu HORNUK
   * za śp. Jadwigę MOSZCZYŃSKĄ (od rodziny Godlewskich)
   * za śp. Helenę KOWALSKĄ
   * za śp. Kazimierza DĄBKOWSKIEGO
   * za śp. Tadeusza SIWKA
+  * za śp. brata Bonifratra Rufina TURKA
 * 12.00 za Janka z okazji 13. urodzin\
   (za dzieci na rozpoczęcie roku szkolnego)
 * 18.00 + za śp. Brata Bonifratra Rufina TURKA\
