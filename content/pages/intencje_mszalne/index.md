@@ -4,6 +4,74 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXIII Niedziela zwykła, 5 września**
+
+* 7.00 + za śp. Bronisławę i Antoniego KUBICKICH oraz zmarłych z rodziny
+* 9.00 + za śp. Mariannę KIELEWSKĄ
+* 10.30 intencja zbiorowa:
+
+  * o Boże błogosławieństwo dla klasy 8a SP171 o wszelkie potrzebne dary dla uczniów, ich rodziców oraz nauczycieli
+  * za śp. Annę PUK
+  * w podziękowaniu za Opiekę Boską w 44 rocznicę ślubu Zofii i Leszka , w 12 rocznicę ślubu Moniki i Krzysztofa oraz 7 rocznicę urodzin Matyldy a także prośba o Łaskę Bożą dla rodziny BARSZCZÓW i OLĘDZKICH
+  * za śp. Władysława ORLIKOWSKIEGO oraz śp. Irenę i Tadeusza DOBOSZ z domu HORNUK
+  * za śp. Jadwigę MOSZCZYŃSKĄ (od rodziny Godlewskich)
+  * za śp. Helenę KOWALSKĄ
+  * za śp. Kazimierza DĄBKOWSKIEGO
+  * za śp. Tadeusza SIWKA
+* 12.00 za Janka z okazji 13. urodzin\
+  (za dzieci na rozpoczęcie roku szkolnego)
+* *16.00 – 17.45 Adoracja Najśw. Sakramentu*
+* 18.00 + za śp. Brata Bonifratra Rufina TURKA\
+  (za młodzież na rozpoczęcie roku szkolnego)
+
+**Poniedziałek, 6 września**
+
+* 7.00 + za śp. Aniele ZBIEĆ w 31 rocznicę śmierci
+* 18.00 + o Boże miłosierdzie i pokój wieczny dla śp. Tadeusza ZALEWSKIEGO i zmarłych: Cecylii i Roberta SZYMAŃSKICH
+
+**Wtorek, 7 września, Bł. Ignacego Kłopotowskiego, *wspomnienie***
+
+* 7.00 + za śp. Józefa, Aleksandra, Jana, Józefę, Mariana i Rozalię ZAWADZKICH
+* 18.00 msza wypominkowa
+
+**Środa, 8 września, Narodzenie Najśw. Maryi Panny, *święto***
+
+* 7.00 + za śp. Walentynę JANIEWICZ
+* 18.00 + za śp. Rozalię i Piotra WALAS oraz Zofię, Piotra i Marka CZAPNIK
+
+**Czwartek, 9 września**
+
+* 7.00 + za śp. Hannę GADOMSKĄ
+* 18.00 za Iwonę i Jacka w 2 rocznicę ślubu o Boże błogosławieństwo i dar potomstwa
+
+**Piątek, 10 września**
+
+* 7.00 o światło wiary dla Marka
+* 18.00 + za śp. Wandę DZIĄBA w 2 rocznicę śmierci
+
+**Sobota, 11 września**
+
+* 7.00 + za śp. Jerzego
+* *15.00 – 17.45 Adoracja Najśw. Sakramentu*
+* 18.00 + za śp. Helenę i Wiktora oraz zmarłych z rodziny TURSKICH
+
+**XXIV Niedziela zwykła, 12 września**
+
+* 7.00
+* 9.00 + za śp. Mariannę WIŚNIEWSKĄ
+* 10.30 intencja zbiorowa:
+
+  * w 1 rocznicę ślubu Pawła i Beaty o łaskę Bożą
+* 12.00 + za zmarłych z rodziny JAŹWIŃSKICH, USZYŃSKICH, KUTYŁOWSKICH i SKIBNIEWSKICH
+* *15.00 – 17.45 Adoracja Najśw. Sakramentu*
+* 18.00 O światło i dary Ducha Świętego dla Ewy
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXII Niedziela zwykła, 29 sierpnia**
 
 * 8.00 w 62. rocznicę ślubu Barbary i Mariana oraz o błogosławieństwo Boże dla dzieci i wnuków
