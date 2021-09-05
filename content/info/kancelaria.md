@@ -10,6 +10,6 @@ kancelaria@parafiawesola.pl
 
 **Środa 18.45-19.30**
 
-**Piątki 7.45-8.30, 16.30-17.30**
+**Piątki 7.45-8.15, 16.30-17.30**
 
 ***w sprawach pilnych prosimy o kontakt przed lub po Mszy Św. lub kontakt telefoniczny***
