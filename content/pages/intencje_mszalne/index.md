@@ -49,7 +49,7 @@ title: Intencje mszalne
 **Sobota, 25 września,**
 
 * 7.00 podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
-* *15.00 – 17.45 Adoracja Najśw. Sakramentu*
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
 * 18.00 + za śp. Mirosława KAZIMIERCZAKA w rocznicę śmierci oraz za jego siostrę Ewelinę KAZIMIERCZAK GUZIA
 
 **XXVI Niedziela zwykła, 26 września**
@@ -66,7 +66,7 @@ title: Intencje mszalne
   * w 17. rocznicę śmierci Czesława o miłosierdzie i zbawienie prosi żona i dzieci
 * 12.00 Msza posłania\
   (w 7. rocznicę ślubu Kingi i Pawła oraz za dzieci: Alę i Adasia)
-* *16.00 – 17.45 Adoracja Najśw. Sakramentu*
+* *16.00 – 17.45 Adoracja Najświętszego Sakramentu*
 * 18.00 + o życie wieczne dla Marianny WYGANOWSKIEJ
 
 <!--EndFragment-->
