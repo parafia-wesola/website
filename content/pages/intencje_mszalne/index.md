@@ -4,6 +4,75 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXV Niedziela zwykła, 19 września**
+
+* 7.00 + za śp. Mariannę TATAREK w 1 rocznicę śmierci, Wiesława TATARKA, śp. Czesławę i Romana DAWIDOWICZÓW oraz Jadwigę i Wacława KUPSKICH\
+  (+ w modlitwie wiernych za śp. Andrzeja KOSECKIEGO w 3 miesiące po śmierci)
+* 9.00 + za śp. Janinę, Jadwigę, Kazimierza i Czesława oraz zmarłych z rodzin JAWOROWSKICH i JACZEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * za śp. Kazimierę i Franciszka GOŁĘDOWSKICH
+  * za śp. Czesława FRELISZKĘ, jego rodziców i zmarłych z rodziny
+  * za śp. Hannę GADOMSKĄ
+  * za śp. Bogusławę CZAJKOWSKĄ
+  * za śp. Jana WIERZEJSKIEGO
+  * za śp. Kazimierza KRÓL
+* 12.00 za Seniorów z okazji ich święta
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Zofię i Bronisława JASZCZYK
+
+**Poniedziałek, 20 września,**
+
+* 7.00 o zdrowie dla Krystyny i Jana
+* 18.00 w dniu 50. urodzin Artura BUCZYŃSKIEGO prosząc o opiekę Bożą i Matki Najświętszej
+
+**Wtorek, 21 września, św. Mateusza, apostoła i ewangelisty, święto**
+
+* 7.00
+* 18.00 + za śp. Jacka KUCZYŃSKIEGO w 38. rocznicę śmierci
+
+**Środa, 22 września,**
+
+* 7.00
+* 18.00 + za śp. Tomasza BANKIEWICZA oraz zmarłych z rodziny
+
+**Czwartek, 23 września, św. Pio z Pietralciny, prezbitera, wspomnienie**
+
+* 7.00 
+* 18.00 + za śp. Janinę WERESZCZYŃSKĄ w rocznicę śmierci
+
+**Piątek, 24 września,**
+
+* 7.00 
+* 18.00 + za śp. Kazimierza JACKIEWICZA w 19. rocznicę śmierci
+
+**Sobota, 25 września,**
+
+* 7.00 podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+* *15.00 – 17.45 Adoracja Najśw. Sakramentu*
+* 18.00 + za śp. Mirosława KAZIMIERCZAKA w rocznicę śmierci oraz za jego siostrę Ewelinę KAZIMIERCZAK GUZIA
+
+**XXVI Niedziela zwykła, 26 września**
+
+* 7.00 + za śp. Emilię BURDA
+* 9.00 + za śp. Kazimierza RYTEL i zmarłych z rodziny
+* 10.30 intencja zbiorowa:
+
+  * w 29. rocznicę ślubu Roberta i Marty o potrzebne łaski Boże i dary Ducha Świętego prosi mama
+  * za śp. Leontynę MAKARUK
+  * za śp. Stefanię, Stanisława, Władysława WIECZOREK
+  * za śp. Annę HRYNIEWICZ
+  * za śp. Jana PAWŁOWSKIEGO w 9. rocznicę śmierci o radość życia wiecznego
+  * w 17. rocznicę śmierci Czesława o miłosierdzie i zbawienie prosi żona i dzieci
+* 12.00 Msza posłania\
+  (w 7. rocznicę ślubu Kingi i Pawła oraz za dzieci: Alę i Adasia)
+* *16.00 – 17.45 Adoracja Najśw. Sakramentu*
+* 18.00 + o życie wieczne dla Marianny WYGANOWSKIEJ
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXIV Niedziela zwykła, 12 września**
 
 * 7.00 Intencja dziękczynna za życie Mieczysławy z prośbą o dalsze Boże błogosławieństwo
