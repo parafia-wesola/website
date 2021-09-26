@@ -4,6 +4,72 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXVI Niedziela zwykła, 26 września**
+
+* 7.00 + za śp. Emilię BURDA
+* 9.00 + za śp. Kazimierza RYTEL i zmarłych z rodziny
+* 10.30 intencja zbiorowa:
+
+  * w 29 rocznicę ślubu Roberta i Marty o potrzebne łaski Boże i dary Ducha Świętego prosi mama
+  * za śp. Michała i zm z rodz SULIKOWSKICH
+  * za śp Marię TORBICZ
+  * za śp. Stefanię, Stanisława, Władysława Wieczorek
+  * za śp. Leontynę MAKARUK
+  * za śp. Annę HRYNIEWICZ
+  * za śp. Jana PAWŁOWSKIEGO w 9 rocznicę śmierci o radość życia wiecznego
+  * za śp Czesława w 17 r. ś. o miłosierdzie i zbawienie prosi żona i dzieci
+* 12.00 za parafian
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 + o życie wieczne dla śp. Marianny WYGANOWSKIEJ
+
+**Poniedziałek, 27 września, Św. Wincentego a Paolo, prezbitera,** *wspomnienie*
+
+* 7.00 + za śp. Tadeusza SIWKA w miesiąc po pogrzebie
+* 18.00 w 7 rocznicę ślubu Kingi i Pawła ŁĘCZYCKICH z dziękczynieniem za otrzymane potomstwo i łaski .
+
+**Wtorek, 28 września, Św. Wacława, męczennika,** *wspomnienie*
+
+* 7.00 za śp. Annę, Stanisława, Jadwigę, Wiesława i Dariusza DOBOSZ
+* 18.00 + za śp. Janusza PODNIESIŃSKIEGO w 1 rocznicę śmierci
+
+**Środa, 29 września, Rocznica poświęcenia Bazyliki Katedralnej w Warszawie-Pradze,** *święto*
+
+* 7.00
+* 18.00 + za śp. Danutę KOPCIŃSKĄ
+
+**Czwartek, 30 września, Św. Hieronima, prezbitera i doktora Kościoła,** *wspomnienie*
+
+* 7.00 + za śp. Stanisława GÓRSKIEGO w 5 rocznicę śmierci, jego rodziców i zmarłych z rodziny GÓRSKICH I DĘBCÓW
+* 18.00 + za śp. Tomasza BARAN, jego rodziców: Marię i Jana
+
+**Piątek, 1 października, Św. Teresy od Dzieciątka Jezus, dziewicy i doktora Kościoła,** *wspomnienie*
+
+* 7.00 + za śp. Hannę GADOMSKĄ w miesiąc po pogrzebie
+* 18.00 + za spokój duszy śp. Bożeny MASZKIEWICZ, jej matki Heleny oraz Leszka i Alicji WIŚNIEWSKICH
+
+**Sobota, 2 października, Świętych Aniołów Stróżów,** *wspomnienie*
+
+* 7.00 za Edwarda CHROSTOWSKIEGO w 11 rocznicę ocalenia życia **?**
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 16: 00 Msza św. z sakramentem bierzmowania
+* 18.00 K.Ż.R.
+
+**XXVII Niedziela zwykła, 3 października**
+
+* 7.00 w 10 rocznicę uratowania życia Edwarda dziękując Bogu z prośbą o dalsze błogosławieństwo
+* 9.00 + za śp. Pawła RAKOWIECKIEGO w 15 rocznicę śmierci i zmarłych z rodziny RAKOWIECKICH i STĘPIEŃ
+* 10.30 intencja zbiorowa:
+
+  * za śp. Zofię i Józefa MASZKIEWICZ
+  * za śp. Henryka KRASOWSKIEGO
+* 12.00 za Zosię z okazji 11 rocznicy urodzin
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 w 1 rocznicę ślubu Aleksandry i Rafała oraz w 29 rocznicę ślubu Małgorzaty i Mirosława
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXV Niedziela zwykła, 19 września**
 
 * 7.00 + za śp. Mariannę TATAREK w 1 rocznicę śmierci, Wiesława TATARKA, śp. Czesławę i Romana DAWIDOWICZÓW oraz Jadwigę i Wacława KUPSKICH\
