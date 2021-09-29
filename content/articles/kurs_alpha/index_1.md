@@ -4,7 +4,7 @@ title: "Kurs Alpha "
 date: 2021-09-29T13:15:05.533Z
 eventDate: 2021-10-04T17:45:00.000Z
 author: parafia wesoła
-cover: 1.png
+cover: plakat_kurs_alpha.png
 ---
 <!--StartFragment-->
 
