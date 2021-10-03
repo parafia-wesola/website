@@ -4,6 +4,66 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXVII Niedziela zwykła, 3 października**
+
+* 7.00
+* 9.00 + za śp. Pawła RAKOWIECKIEGO w 15. rocznicę śmierci i zmarłych z rodziny RAKOWIECKICH i STĘPIEŃ
+* 10.30 intencja zbiorowa:
+
+  * za śp. Zofię i Józefa MASZKIEWICZ
+  * za śp. Henryka KRASOWSKIEGO
+  * za śp. Teresę i Włodzimierza TUSZEWSKICH o wieczne zbawienie z okazji 1. rocznicy śmierci oraz imienin Teresy
+* 12.00 za Zosię z okazji 11. rocznicy urodzin
+* 14.00 ślub Andrzej Kalbarczyk i Kateryna Hryshanova
+* *15.00 – 17.45 Adoracja Najśw. Sakramentu*
+* 18.00 w 1. rocznicę ślubu Aleksandry i Rafała oraz w 29. rocznicę ślubu Małgorzaty i Mirosława
+
+**Poniedziałek, 4 października, Św. Franciszka z Asyżu,** *wspomnienie*
+
+* 7.00 + za śp. Bogusławę CZAJKOWSKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Annę REPLIN
+
+**Wtorek, 5 października, Św. Faustyny Kowalskiej, dziewicy,** *wspomnienie*
+
+* 7.00 za śp. Helenę KOWALSKĄ w miesiąc po pogrzebie
+* 18.00 msza wypominkowa
+
+**Środa, 6 października, Św. Brunona, prezbitera,** *wspomnienie*
+
+* 7.00 + za śp. Kazimierza DĄBKOWSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Tadeusza ZALEWSKIEGO o Boże Miłosierdzie i pokój wieczny
+
+**Czwartek, 7 października, NMP Różańcowej,** *wspomnienie*
+
+* 7.00 w intencji Żanety o Boże Błogosławieństwo na drodze codziennego życia jako żony i matki oraz o dary Ducha Św. do kroczenia drogami wiary
+* 18.00 + za śp. Jadwigę i Stanisława STANKIEWICZ, aby Pan otworzył im bramy nieba 
+
+**Piątek, 8 października,**
+
+* 7.00 + za śp. Jana WIERZEJSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Józefa i Janinę BARTNICKICH oraz Annę i Jana GRYGLAS oraz Stanisława ROGULSKIEGO
+
+**Sobota, 9 października, Bł. Wincentego Kadłubka, biskupa,** *wspomnienie*
+
+* 7.00 w 10. rocznicę ślubu Radosława i Jekatieriny, dziękczynna, z prośbą o dalsze łaski
+* *15.00 – 17.45 Adoracja Najśw. Sakramentu*
+* 18.00 za Seniorów
+
+**XXVIII Niedziela zwykła, 10 października,** Dzień Papieski
+
+* 7.00
+* 9.00 + za śp. Barbarę GÓRSKĄ w rocznicę śmierci oraz za śp. Marię i Mieczysława GÓRSKICH
+* 10.30 intencja zbiorowa:
+
+  * za śp. Macieja BUSZYŃSKIEGO
+* 12.00 w 18. rocznicę urodzin Martyny
+* *15.00 – 17.45 Adoracja Najśw. Sakramentu*
+* 18.00 + za śp. Zofię i Bronisława JASZCZYK
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXVI Niedziela zwykła, 26 września**
 
 * 7.00 + za śp. Emilię BURDA
