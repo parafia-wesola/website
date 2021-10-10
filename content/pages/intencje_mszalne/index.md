@@ -4,6 +4,74 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXVIII Niedziela zwykła, 10 października,** Dzień Papieski
+
+* 7.00 o szczęśliwy przebieg operacji i zdrowia dla Amelii
+* 9.00 + za śp. Barbarę GÓRSKĄ w rocznicę śmierci oraz za śp. Marię i Mieczysława GÓRSKICH
+* 10.30 intencja zbiorowa:
+
+  * o zdrowie dla Joanny
+  * za śp. Macieja BUSZYŃSKIEGO
+  * za sp. Jerzego TOMASZEWSKIEGO
+  * za sp. Magdalenę SZOKALSKĄ
+* 12.00 w 18. rocznicę urodzin Martyny
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Zofię i Bronisława JASZCZYK
+
+**Poniedziałek, 11 października, Św. Jana XXIII, papieża**
+
+* 7.00 + za śp. Kazimierza KRÓLA w miesiąc po pogrzebie
+* 18.00 + za śp. Danutę MACIAK
+
+**Wtorek, 12 października**
+
+* 7.00 o błogosławieństwo Boże i zdrowie dla Krzysztofa i Bożeny oraz ich dzieci
+* 18.00 + za śp. duszę Panu Bogu znaną
+
+**Środa, 13 października, Bł. Honorata Koźmińskiego, prezbitera,** *wspomnienie*
+
+* 7.00 + za śp. Leontynę MAKARUK w miesiąc po pogrzebie
+* 18.00 + za śp. Paulinę, Jana i Stanisława PEŁKA
+
+**Czwartek, 14 października**
+
+* 7.00 + za śp. Annę HRYNIEWICZ w miesiąc po pogrzebie
+* 18.00 + za śp. Mariannę, Bolesława i Jana RECHNIO
+
+**Piątek, 15 października, Św. Teresy od Jezusa , dziewicy i doktora Kościoła**, *wspomnienie*
+
+* 7.00 + za śp. Jadwigę, Antoniego i Józefa SOBICZEWSKICH
+* 18.00 za małżeństwa w kryzysie
+* 18.00 + za śp. Jadwigę LACHOWSKĄ oraz zmarłych z rodziny GALIŃSKICH, RYDZEWSKICH, LACHOWSKICH
+
+**Sobota, 16 października, Św. Jadwigi Śląskiej,** *wspomnienie*
+
+* 7.00 + za śp. Barbarę i Wacława DOMAŃSKICH oraz zmarłych z rodziny DOMAŃSKICH, BIWAN\
+  i BIEŃ
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 w 25. rocznicę ślubu Magdaleny i Piotra o Boże błogosławieństwo i opiekę Matki Bożej oraz dary Ducha Świętego dla całej rodziny
+
+**XXIX Niedziela zwykła, 17 października**
+
+* 7.00 + za śp. Krystynę CIOSIĆ-KOZAK i jej rodziców oraz zmarłych z rodziny GRZYBOWSKICH, KRUPSKICH i BIEGAŁÓW
+* 9.00 w 18. rocznicę urodzin Weroniki, o zdrowie dla Piotra oraz za śp. Roberta
+* 10.30 intencja zbiorowa:
+
+  * w 30. rocznicę ślubu Marka i Doroty
+  * w dniu urodzin Julii o Boże błogosławieństwo i zdrowie
+  * za śp. Józefa KROPIWIEC
+  * za śp. Alicję CHACIŃSKĄ
+  * za śp. Czesławę OLSZEWSKĄ o wieczną radość Nieba
+* 12.00 + za śp. Elżbietę KALISZEWSKĄ w 14. rocznicę śmierci i za jej ojca, śp. Henryka GOWINA w 7. rocznicę śmierci
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 w rocznicę Chrztu św. o błogosławieństwo dla Marii
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXVII Niedziela zwykła, 3 października**
 
 * 7.00
