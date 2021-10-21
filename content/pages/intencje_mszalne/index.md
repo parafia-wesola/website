@@ -4,6 +4,72 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXIX Niedziela zwykła, 17 października**
+
+* 7.00 + za śp. Krystynę CIOSIĆ-KOZAK i jej rodziców oraz zmarłych z rodziny GRZYBOWSKICH, KRUPSKICH i BIEGAŁÓW
+* 9.00 w 18. rocznicę urodzin Weroniki, o zdrowie dla Piotra oraz za śp. Roberta
+* 10.30 intencja zbiorowa:
+
+  *  30. rocznicę ślubu Marka i Doroty
+  * w 27 rocznicę ślubu Izabeli i Pawła oraz o Boże Błogosławieństwo dla całej rodziny
+  * w dniu urodzin Julii o Boże błogosławieństwo i zdrowie
+  * za śp. Józefa KROPIWIEC
+  * za śp. Alicję CHACIŃSKĄ
+  * za śp. Czesławę OLSZEWSKĄ o wieczną radość w Niebie
+  * za śp. Danutę TUCHORSKĄ
+* 12.00 + za śp. Elżbietę KALISZEWSKĄ w 14. rocznicę śmierci i za jej ojca, śp. Henryka GOWINA w 7. rocznicę śmierci
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 w rocznicę Chrztu św. o błogosławieństwo dla Marii
+
+**Poniedziałek, 18 października, Św. Łukasza Ewangelisty, święto**
+
+* 7.00 + o łaskę Nieba dla śp. Marka GRABSKIEGO , przodków i znajomych
+* 18.00 + za śp. Celinę WIERZBICKĄ od Klubu Seniora
+
+**Wtorek, 19 października**
+
+* 7.00 + za śp. Macieja BUSZYŃSKIEGO w miesiąc po pogrzebie
+* 18.00 w 25 rocznicę ślubu Magdaleny i Piotra KAŁASZA o Boże błogosławieństwo oraz dary Ducha Świętego dla całej rodziny
+
+**Środa, 20 października, Św. Jana Kantego, prezbitera,** *wspomnienie*
+
+* 7.00 + za śp. Andrzeja CWOJDZIŃSKIEGO w 1. rocznicę śmierci
+* 18.00 + za śp. Jerzego WĄSOWSKIEGO w 1. rocznicę śmierci
+
+**Czwartek, 21 października**
+
+* 7.00 + za śp. Julię SKONIECZNĄ – intencja od Małgorzaty Soczówka z rodziną
+* 18.00 + za śp. Iwonę PRESZ w 3. rocznicę śmierci
+
+**Piątek, 22 października, Św. Jana Pawła II, papieża**, *wspomnienie*
+
+* 7.00 + za śp. Krzysztofa SOBIESZUKA
+* 18.00 w 33 rocznicę ślubu Joli i Grzegorza
+
+**Sobota, 23 października, Św. Jana Kapistrana, prezbitera**
+
+* 7.00 + za śp. Henryka KRASOWSKIEGO w miesiąc po pogrzebie
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Olę BERNAŚ w 5. rocznicę śmierci
+
+**XXX Niedziela zwykła, 24 października**
+
+* 7.00 + za śp. Julię SKONIECZNĄ od Bożeny Jankowskiej z rodziną
+* 9.00 + za śp. Tadeusza KOŁOTY, w 22. rocznicę śmierci o łaskę Nieba oraz Józefa i Jadwigę
+* 10.30 intencja zbiorowa:
+
+  * za śp. Henryka ZIELIŃSKIEGO
+  * za śp. Julię SKONIECZNĄ
+* 12.00 + za śp. Wacławę, Władysława i Leszka oraz zmarłych z rodziny GAŁADYKÓW i WYSOCKICH
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + O ŻYCIE WIECZNE DLA ŚP. Mariana WYGANOWSKIEGO
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXVIII Niedziela zwykła, 10 października,** Dzień Papieski
 
 * 7.00 o szczęśliwy przebieg operacji i zdrowia dla Amelii
