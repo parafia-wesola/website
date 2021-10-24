@@ -4,13 +4,84 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXX Niedziela zwykła, 24 października**
+
+* 7.00 + za śp. Julię SKONIECZNĄ (od Bożeny Jankowskiej z rodziną)
+* 9.00 + za śp. Tadeusza KOŁOTĘ, w 22. rocznicę śmierci o łaskę Nieba oraz za Józefa i Jadwigę
+* 10.30 intencja zbiorowa:
+
+  * z prośbą o zdrowie dla Martyny i powrót do sprawności
+  * w 50. rocznicę urodzin Piotra PARZONKI
+  * za śp. Henryka ZIELIŃSKIEGO
+  * za śp. Julię SKONIECZNĄ
+* 12.00 + za śp. Wacławę, Władysława i Leszka oraz zmarłych z rodziny GAŁADYKÓW i WYSOCKICH
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + o życie wieczne dla śp. Mariana WYGANOWSKIEGO
+
+
+
+**Poniedziałek, 25 października,**
+
+* 7.00 dziękczynna za łaskę Chrztu Świętego i z prośbą o Dary Ducha Św. dla całej rodziny
+* 18.00 podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej Światłością Miłości Miłosiernej we wszystkich rodzinach
+
+**Wtorek, 26 października,**
+
+* 7.00 + za śp. Julię SKONIECZNĄ (od Renaty Jamka z rodziną)
+* 18.00 + za śp. Stanisławę i Alfreda CZAPSKICH i ich rodziców
+
+**Środa, 27 października,**
+
+* 7.00 + za śp. Julię SKONIECZNĄ (od Laury Rzepka z rodziną)
+* 18.00 w 59. rocznicę ślubu Haliny i Zbigniewa MIKOS
+
+**Czwartek, 28 października, Św. Apostołów Szymona i Judy Tadeusza, *święto***
+
+* 7.00 + za śp. Julię i Tadeusza SKONIECZNYCH (od rodziny Czerwińskich z Płocka)
+* 18.00 + za śp. Wiktora KOZIOŁ
+
+**Piątek, 29 października,**
+
+* 7.00 + za śp. Henryka GOWINA w 7. rocznicę śmierci i Elżbietę KALISZEWSKĄ w 14. rocznicę śmierci
+* 18.00 + za zmarłych z rodziny HRYCIUK, KAZIMIERCZAK, ŚNITKO i KOZIATEK
+* 18.00 + za śp. Roberta PUŹ w 1. rocznicę śmierci
+
+**Sobota, 30 października,**
+
+* 7.00 w 14. rocznicę urodzin Jagody
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Łukasza KRZYSZTOFIKA w 11. rocznicę śmierci
+
+**XXXI Niedziela zwykła, 31 października**
+
+* 7.00 + za śp. Henryka GRODZKIEGO
+* 9.00 + za śp. Wandę MARCZYŃSKĄ w 3 rocznice śmierci i Ryszarda KRAKOWIAKA w 20. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * o błogosławieństwo Boże dla wszystkich modlących się w intencji uzdrowienia Lucyny
+  * za śp. Mariannę ŚLIWOŃ w 7. rocznicę śmierci
+  * za śp. Irenę GADZIŃSKĄ
+  * za śp. Marię SZABELSKĄ
+  * za śp. Tadeusza KOŚCIESZĘ w 10. rocznicę śmierci i zmarłych z rodziny: Zofię, Mariannę i Józefa
+  * za śp. Franciszka PIÓRO
+* 12.00 + za duszę śp. Zygmunta BILBINA, jego rodziców: Justyny i Władysława, teściów: Stefanii\
+  i Jakuba NALBACH, stryjów: Juli i Jana – z prośbą o łaskę udziału w Królestwie Wiecznym u Boga Najwyższego
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 za Paulinę w rocznicę chrztu z prośbą o łaski Ducha Świętego
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **XXIX Niedziela zwykła, 17 października**
 
 * 7.00 + za śp. Krystynę CIOSIĆ-KOZAK i jej rodziców oraz zmarłych z rodziny GRZYBOWSKICH, KRUPSKICH i BIEGAŁÓW
 * 9.00 w 18. rocznicę urodzin Weroniki, o zdrowie dla Piotra oraz za śp. Roberta
 * 10.30 intencja zbiorowa:
 
-  *  30. rocznicę ślubu Marka i Doroty
+  * 30. rocznicę ślubu Marka i Doroty
   * w 27 rocznicę ślubu Izabeli i Pawła oraz o Boże Błogosławieństwo dla całej rodziny
   * w dniu urodzin Julii o Boże błogosławieństwo i zdrowie
   * za śp. Józefa KROPIWIEC
@@ -65,8 +136,6 @@ title: Intencje mszalne
 * 18.00 + O ŻYCIE WIECZNE DLA ŚP. Mariana WYGANOWSKIEGO
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
