@@ -1,6 +1,6 @@
 ---
 type: article
-title: Uroczystość Bożego Ciała
+title: Uroczystość Wszystkich Świętych
 date: 2021-10-29T10:54:18.351Z
 eventDate: 2021-10-31T23:00:00.000Z
 author: parafia wesoła
