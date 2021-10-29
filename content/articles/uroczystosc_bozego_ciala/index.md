@@ -8,6 +8,8 @@ cover: dodaj_podtytul_wpis_na_facebooku_.png
 ---
 <!--StartFragment-->
 
+Uroczystość Wszystkich Świętych, 1 listopada
+
 12.00 Msza św. w intencjach wypominkowych\
 Po Mszy św. procesja na cmentarzu z modlitwą za zmarłych
 
