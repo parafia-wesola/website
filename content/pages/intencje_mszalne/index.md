@@ -4,6 +4,80 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXXI Niedziela zwykła, 31 października**
+
+* 7.00 + za śp. Henryka GRODZKIEGO
+* 9.00 + za śp. Wandę MARCZYŃSKĄ w 3. rocznicę śmierci i Ryszarda KRAKOWIAKA w 20. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * o błogosławieństwo Boże dla wszystkich modlących się w intencji uzdrowienia Lucyny
+  * za śp. Mariannę ŚLIWOŃ w 7. rocznicę śmierci
+  * za śp. Irenę GADZIŃSKĄ
+  * za śp. Marię SZABELSKĄ
+  * za śp. Tadeusza KOŚCIESZĘ w 10. rocznicę śmierci i zmarłych z rodziny: Zofię, Mariannę i Józefa
+  * za śp. Franciszka PIÓRO
+  * za duszę śp. Franciszka, Władysławy i Marii WIELGO
+* 12.00 + za duszę śp. Zygmunta BILBINA, jego rodziców: Justyny i Władysława, teściów: Stefanii\
+  i Jakuba NALBACH, stryjów: Juli i Jana – z prośbą o łaskę udziału w Królestwie Wiecznym\
+  u Boga Najwyższego
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 za Paulinę w rocznicę chrztu z prośbą o łaski Ducha Świętego
+
+**Poniedziałek, 1 listopada, Wszystkich Świętych, *uroczystość***
+
+* 7.00 + za zmarłych z rodzin: ILYŃSKICH, DRZEWIECKICH i ROZWADOWSKICH o życie wieczne
+* 9.00 + za śp. Zdzisława WIERZBOWSKIEGO w 10 rocznicę śmierci oraz Janinę i Roberta WIERZBOWSKICH
+* 10.30 + za zmarłych z rodziny OWCZAREK: Jana, Teresę, Marię, Tomasza, Józefę, Ewę i Wojciecha oraz zmarłych Janinę i Roberta
+* 12.00 Msza wypominkowa zbiorowa
+* 18.00 + za śp. Juliana KOŁODZIEJCZYKA w 1. rocznicę śmierci
+
+**Wtorek, 2 listopada, Wspomnienie Wszystkich Wiernych Zmarłych**
+
+* 7.00 + za śp. Krystynę Burzec
+* 18.00 Msza wypominkowa
+
+**Środa, 3 listopada, Św. Marcina de Porres, zakonnika, *wspomnienie***
+
+* 7.00+ za śp. Mirosława, Wiesława, Mariannę, Edwarda, Mariannę i Jana z rodziny WEREDÓW
+* 18.00 Msza wypominkowa.
+
+**Czwartek, 4 listopada, Św. Karola Boromeusza, biskupa, *wspomnienie***
+
+* 7.00 + za śp. Alicję CHACIŃSKĄ w miesiąc po pogrzebie
+* 18.00 Msza wypominkowa.
+
+**Piątek, 5 listopada,**
+
+* 7.00 + za śp. Janinę, Stefana, Stanisława i Jana SZUBA
+* 18.00 Msza wypominkowa.
+
+**Sobota, 6 listopada,**
+
+* 7.00 o Boże błogosławieństwo dla małżonków i o nawrócenie
+* *15.00 Adoracja Najświętszego Sakramentu*
+* *17.00 Nabożeństwo pierwszo-sobotnie*
+* 18.00 Msza wypominkowa
+* 18.00 Msza w intencji Kół Żywego Różańca
+
+**XXXII Niedziela zwykła, 7 listopada**
+
+* 7.00 + za śp. Jerzego SIELANKO o życie wieczne
+* 9.00 + za dusze w czyśćcu cierpiące
+* 10.30 intencja zbiorowa:
+
+  * za śp. Adelę, Danutę i Wacława REDO
+  * za śp. Stanisława PEŁKA i zmarłych z rodziny PEŁKÓW i LEWANDOWSKICH
+  * za śp. Julię i Tadeusza Skoniecznych (od rodziny Czerwińskich z Płocka)
+  * za śp. Jana KIELEWSKIEGO
+  * za śp. Mieczysławę ŁUKOMSKĄ
+* 12.00 + za śp. Eugeniusza BORUCA w 12 rocznicę śmierci, za jego rodziców i zmarłych z rodziny BORUCÓW
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 Msza wypominkowa.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXX Niedziela zwykła, 24 października**
 
 * 7.00 + za śp. Julię SKONIECZNĄ (od Bożeny Jankowskiej z rodziną)
@@ -17,8 +91,6 @@ title: Intencje mszalne
 * 12.00 + za śp. Wacławę, Władysława i Leszka oraz zmarłych z rodziny GAŁADYKÓW i WYSOCKICH
 * *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
 * 18.00 + o życie wieczne dla śp. Mariana WYGANOWSKIEGO
-
-
 
 **Poniedziałek, 25 października,**
 
@@ -70,8 +142,6 @@ title: Intencje mszalne
 * 18.00 za Paulinę w rocznicę chrztu z prośbą o łaski Ducha Świętego
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
