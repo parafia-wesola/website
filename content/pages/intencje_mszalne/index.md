@@ -4,6 +4,71 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXXII Niedziela zwykła, 7 listopada**
+
+* 7.00 + za śp. Jerzego SIELANKO o życie wieczne
+* 9.00 + za dusze w czyśćcu cierpiące
+* 10.30 intencja zbiorowa:
+
+  * za śp. Adelę, Danutę i Wacława REDO
+  * za śp. Stanisława PEŁKA i zmarłych z rodziny PEŁKÓW i LEWANDOWSKICH
+  * za śp. Julię i Tadeusza SKONIECZNYCH od rodziny Czerwińskich z Płocka
+  * za śp. Jana KIELEWSKIEGO
+  * za śp. Mieczysławę ŁUKOMSKĄ
+* 12.00 + za śp. Eugeniusza BORUCA w 12 r. ś., za jego rodziców i zmarłych z rodziny BORUCÓW
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 intencja wypominkowa okt.
+
+**Poniedziałek, 8 listopada,**
+
+* 7.00 + za śp. Henryka ZIELIŃSKIEGO w miesiąc po pogrzebie
+* 18.00 intencja wypominkowa okt.
+
+**Wtorek, 9 listopada, Rocznica poświęcenia Bazyliki Laterańskiej, *święto***
+
+* 7.00 + za śp. Julię SKONIECZNĄ w miesiąc po pogrzebie
+* 18.00 + o Boże Miłosierdzie i pokój wieczny dla śp. Tadeusza ZALEWSKIEGO i zmarłych Genowefy, Zygmunta i Jana ZALEWSKICH
+
+**Środa, 10 listopada, Św. Leona Wielkiego, papieża i doktora Kościoła, *wspomnienie***
+
+* 7.00 + za śp. Tadeusza – Jerzego oraz rodziców Helenę i Józefa OKOŃ
+* 18.00 + za śp. Alicję KUCZYŃSKĄ w 1 rocznicę śmierci
+
+**Czwartek,11 listopada, Św. Marcina z Tours, biskupa, *wspomnienie***
+
+* 7.00 + za śp. Marka GRABSKIEGO w I rocznicę śmierci
+* 10.30 w intencji Ojczyzny
+* 18.00 + za śp. Juliannę i Eugeniusza BAREJA
+
+**Piątek, 12 listopada, Św. Jozafata Kuncewicza, biskupa i męczennika, *wspomnienie***
+
+* 7.00 + za śp. Marię, Stefana, Gertrudę, Felicję i Józefa PENK
+* 18.00 + za śp. Jana GRYZA w dniu rocznicy śmierci
+
+**Sobota, 13 listopada, Św. Benedykta, Jana, Mateusza, Izaaka i Krystyna, pierwszych męczenników Polski*, wspomnienie***
+
+* 7.00 + za śp. Jadwigę SŁODKOWSKĄ w I rocznicę śmierci
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Antoniego i Janinę JANISZEWSKICH oraz za całą rodzinę JANISZEWSKICH
+
+**XXXIII Niedziela zwykła, 14 listopada**
+
+* 7.00 + za śp. Jana SOSNOWSKIEGO i zmarłych z rodziny SOSNOWSKICH i KONKOLÓW
+* 9.00 + za śp. Czesława BIELECKIEGO w 10 rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za Luizę w 1 rocznicę urodzin oraz o błogosławieństwo Boże dla rodzin: DOBKOWSKICH, ZAŁĘSKICH, BOCIANÓW i JEZIOROWSKICH oraz za zmarłych z tych rodzin
+  * o życie wieczne dla Jana KIELEWSKIEGO
+  * za śp. Harrego GÜNTHERA
+  * za śp. Amelię WIELOGÓRSKĄ
+* 12.00 + za śp. Józefa ROMAŃCZUKA w 1 rocznicę śmierci
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + za śp. Teresę OLKOWICZ
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXXI Niedziela zwykła, 31 października**
 
 * 7.00 + za śp. Henryka GRODZKIEGO
