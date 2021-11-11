@@ -57,7 +57,7 @@ title: Intencje mszalne
 * 9.00 + za śp. Czesława BIELECKIEGO w 10 rocznicę śmierci
 * 10.30 intencja zbiorowa:
 
-  * za Luizę w 1 rocznicę urodzin oraz o błogosławieństwo Boże dla rodzin: DOBKOWSKICH, ZAŁĘSKICH, BOCIANÓW i JEZIOROWSKICH oraz za zmarłych z tych rodzin
+  * za Luizę w 1 rocznicę urodzin oraz o błogosławieństwo Boże dla rodzin: DOBKOWSKICH, ZAŁĘSKICH, BOCIANÓW i JESIONOWSKICH oraz za zmarłych z tych rodzin
   * o życie wieczne dla Jana KIELEWSKIEGO
   * za śp. Harrego GÜNTHERA
   * za śp. Amelię WIELOGÓRSKĄ
