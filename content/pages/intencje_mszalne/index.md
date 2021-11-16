@@ -4,6 +4,69 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXXIII Niedziela zwykła, 14 listopada**
+
+* 7.00 + za śp. Jana SOSNOWSKIEGO i zmarłych z rodziny SOSNOWSKICH i KONKOLÓW
+* 9.00 + za śp. Czesława BIELECKIEGO w 10 rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za Luizę w 1 rocznicę urodzin oraz o błogosławieństwo Boże dla rodzin: DOBKOWSKICH, ZAŁĘSKICH, BOCIANÓW i JESIONOWSKICH oraz za zmarłych z tych rodzin
+  * o życie wieczne dla Jana KIELEWSKIEGO
+  * za śp. Harrego GÜNTHERA
+  * za śp. Amelię WIELOGÓRSKĄ
+* 12.00 + za śp. Józefa ROMAŃCZUKA w 1 rocznicę śmierci
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + za śp. Teresę OLKOWICZ
+
+**Poniedziałek, 15 listopada, Św. Alberta Wielkiego, biskupa i doktora Kościoła**
+
+* 7.00 + za śp. Irenę GADZIŃSKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Stanisława, Kazimierę, Honoratę , Józefę i Aleksandrę
+
+**Wtorek, 16 listopada, Najświętszej Maryi Panny Ostrobramskiej, Matki Miłosierdzia, *wspomnienie***
+
+* 7.00 + za śp. Marię SZABELSKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Celinę WIERZBICKĄ od Klubu Seniora
+
+**Środa, 17 listopada, Św. Elżbiety Węgierskiej, zakonnicy, *wspomnienie***
+
+* 7.00 + za śp. Jerzego RAKOWSKIEGO
+* 18.00 + za zmarłych z rodziny WACHOL i WYSOCKICH
+
+**Czwartek,18 listopada, Bł. Karoliny Kózkówny, dziewicy i męczennicy, *wspomnienie***
+
+* 7.00 w 18 rocznicę urodzin Krystiana z prośbą o Boże błogosławieństwo i opiekę Matki Bożej
+* 18.00 + za śp. Mariana ZBIEĆ w 36 r.ś.
+
+**Piątek, 19 listopada,**
+
+* 7.00 + za śp. Ryszarda KUROWSKIEGO
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 20 listopada, Św. Rafała Kalinowskiego, prezbitera*, wspomnienie***
+
+* 7.00 + za śp. Jana KIELEWSKIEGO od Kółek Różańcowych
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Janusza, Antoniego, Bogdana, Kazimierza i Mariannę ZAWADZKICH
+
+**XXXIV Niedziela zwykła, 21 listopada, Jezusa Chrystusa Króla Wszechświata, *uroczystość***
+
+* 7.00 + za śp. Annę, Stanisława, Jadwigę, Wiesława i Dariusza DOBOSZ
+* 9.00 + za śp. Rafała KIELEWSKIEGO
+* 10.30 intencja zbiorowa:
+
+  * za śp. Julię i Tadeusza SKONIECZNYCH od Krystyny i Marka Stypuła
+  * za śp. Dariusza JĘDRZEJEWSKIEGO
+  * za śp. Halinę JADCZAK
+  * za śp. Kazimierza KAŁASZA oraz zmarłych z tej rodziny
+* 12.00 + za śp. Mariannę i Stanisława PIEKARSKICH w 3 rocznicę śmierci
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + za śp. Jana WIERZEJSKIEGO od bratowej Cecylii
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXXII Niedziela zwykła, 7 listopada**
 
 * 7.00 + za śp. Jerzego SIELANKO o życie wieczne
