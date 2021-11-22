@@ -4,6 +4,66 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXXIV Niedziela zwykła, 21 listopada, Jezusa Chrystusa Króla Wszechświata, *uroczystość***
+
+* 7.00 + za śp. Annę, Stanisława, Jadwigę, Wiesława i Dariusza DOBOSZ
+* 9.00 + za śp. Rafała KIELEWSKIEGO
+* 10.30 intencja zbiorowa:
+
+  * + za śp. Julię i Tadeusza SKONIECZNYCH od Krystyny i Marka Stypuła
+  * za śp. Dariusza JĘDRZEJEWSKIEGO
+  * za śp. Halinę JADCZAK
+  * za śp. Kazimierza KAŁASZA oraz zmarłych z tej rodziny
+  * za śp. Celinę WIERZBICKĄ z okazji imienin
+* 12.00 + za śp. Mariannę i Stanisława PIEKARSKICH w 3 rocznicę śmierci
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + za śp. Jana WIERZEJSKIEGO (od bratowej Cecylii)
+
+**Poniedziałek, 22 listopada, Św. Cecylii, dziewicy i męczennicy, *wspomnienie***
+
+* 7.00 + za śp. Jana KIELEWSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Hannę GADOMSKĄ
+
+**Wtorek, 23 listopada, Św. Klemensa I, papieża i męczennika**
+
+* 7.00 + za śp. Mieczysława BARSZCZA w 1 rocznicę śmierci
+* 18.00 + za śp. Marię, Cecylię, Antoniego i Mariana MĄDRY
+
+**Środa, 24 listopada, Świętych męczenników Andrzeja Dung-Lac, prezbitera, i Towarzyszy, *wspomnienie***
+
+* 7.00 + za śp. Franciszka PIÓRO w miesiąc po pogrzebie
+* 18.00 + za śp. Henryka ZIELIŃSKIEGO ( intencja od chrześnicy Danuty z rodziną)
+
+**Czwartek,25 listopada, Św. Katarzyny Aleksandryjskiej, dziewicy i męczennicy**
+
+* 7.00 podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach.
+* 18.00 + za śp. Henryka ZIELIŃSKIEGO ( intencja od Bogusławy z rodziną)
+
+**Piątek, 26 listopada,**
+
+* 7.00 + za śp. Julię SKONIECZNĄ – intencja od siostry z mężem
+* 18.00 + za śp. Anastazję LIPIŃSKĄ w 8 rocznicę śmierci, jej męża Bronisława i ich rodziców
+
+**Sobota, 27 listopada**
+
+* 7.00 + za śp. Julię SKONIECZNĄ ( intencja od Małgorzaty Soczówka z rodziną)
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 o błogosławieństwo Boże dla Teresy i Tadeusza NIEWIŃSKICH
+
+**I Niedziela Adwentu, 28 listopada,**
+
+* 7.00 za Zdzisławę SOBCZYK w 90 rocznicę urodzin o błogosławieństwo Boże i opiekę Niepokalanej dla niej i dla całej rodziny
+* 9.00 błagalno-dziękczynna za Andrzeja KOTUNIAKA
+* 10.30 intencja zbiorowa:
+
+  * za śp. Stanisława i Zbigniewa FRYT
+  * za śp. Harrego GEHRMANNA
+* 12.00 + za śp. Jana WIERZEJSKIEGO (intencja od córki chrzestnej Jolanty z mężem, dziećmi i wnukami)
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + za śp. Józefa NOWACKIEGO 20 rocznicę śmierci
+
+<!--EndFragment--><!--StartFragment-->
+
 **XXXIII Niedziela zwykła, 14 listopada**
 
 * 7.00 + za śp. Jana SOSNOWSKIEGO i zmarłych z rodziny SOSNOWSKICH i KONKOLÓW
