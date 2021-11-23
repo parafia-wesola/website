@@ -11,5 +11,5 @@ news:
   - title: Pamiętajmy!
     size: medium
   - title: Adoracja w weekendy
-    size: large
+    size: medium
 ---
