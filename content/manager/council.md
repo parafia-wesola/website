@@ -6,7 +6,7 @@ users:
   - title: o. Krzysztof Charańczuk
   - title: s. Katarzyna Jackowska
   - title: Jolanta Łęczycka
-  - title: Marek Sęczek
+  - title: Emilia Buczyńska
   - title: Emilia Buczyńska
   - title: Andrzej   Łukomski
 ---
