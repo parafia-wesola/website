@@ -10,7 +10,7 @@ title: Intencje mszalne
 * 9.00 + za śp. Rafała KIELEWSKIEGO
 * 10.30 intencja zbiorowa:
 
-  * + za śp. Julię i Tadeusza SKONIECZNYCH od Krystyny i Marka Stypuła
+  * za śp. Julię i Tadeusza SKONIECZNYCH od Krystyny i Marka Stypuła
   * za śp. Dariusza JĘDRZEJEWSKIEGO
   * za śp. Halinę JADCZAK
   * za śp. Kazimierza KAŁASZA oraz zmarłych z tej rodziny
