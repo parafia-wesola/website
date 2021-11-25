@@ -22,6 +22,6 @@ Celem zbiórki jest pozyskanie artykułów spożywczych z długim terminem przyd
      3.12.2021 w godzinach 16-20\
      4.12.2021 w godzinach 10-22.
 
- **\    LICZYMY NA WASZĄ POMOC** ![🙂](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png)
+ **   LICZYMY NA WASZĄ POMOC** ![🙂](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png)
 
 <!--EndFragment-->
