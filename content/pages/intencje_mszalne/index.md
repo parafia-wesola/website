@@ -4,6 +4,63 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**I Niedziela Adwentu, 28 listopada,**
+
+* 7.00 za Zdzisławę SOBCZYK w 90 rocznicę urodzin o błogosławieństwo Boże i opiekę Niepokalanej dla niej i dla całej rodziny
+* 9.00 błagalno-dziękczynna za Andrzeja KOTUNIAKA
+* 10.30 intencja zbiorowa:
+
+  * za śp. Stanisława i Zbigniewa FRYT oraz Harrego GEHRMANNA
+* 12.00 + za śp. Jana WIERZEJSKIEGO (intencja od córki chrzestnej Jolanty z mężem, dziećmi i wnukami)
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + za śp. Józefa NOWACKIEGO 20. rocznicę śmierci
+
+**Poniedziałek, 29 listopada, dzień powszedni**
+
+* 7.00 + za śp. Harryego Gunther w miesiąc po pogrzebie
+* 18.00 + za śp. Laurę w 6 rocznicę śmierci oraz za śp. Zygmunta JANCZEWSKIEGO oraz Irenę PERYCZKO
+
+**Wtorek, 30 listopada, Św. Andrzeja, Apostoła, *święto***
+
+* 7.00 o zdrowie i opiekę Bożą dla Pawła i jego rodziny, Tomka i jego rodziny, Kingi, Joanny i Wojciecha
+* 18.00 + za śp. Macieja PACHOCKIEGO i zmarłych z rodzin PACHOCKICH i SKRZECZKOWSKICH
+
+**Środa, 1 grudnia, dzień powszedni**
+
+* 7.00 + za śp. Jana KIELEWSKIEGO – intencja od brata Józefa
+* 18.00 + za śp. Grzegorza KOZAKIEWICZA w 7 rocznicę śmierci
+
+**Czwartek, 2 grudnia, dzień powszedni**
+
+* 7.00 w intencji Asi i Kuby o Boże błogosławieństwo, dary Ducha Świętego i opiekę Niepokalanej
+* 18.00 + za śp. Julię SKONIECZNĄ
+
+**Piątek, 3 grudnia, Św. Franciszka Ksawerego, prezbitera, *wspomnienie***
+
+* 7.00 za dusze w czyśćcu cierpiące
+* 18.00 + za śp. Teresę MOMOT w 1 rocznicę śmierci
+
+**Sobota, 4 grudnia, dzień powszedni**
+
+* 7.00 o zdrowie dla taty
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 K.Ż.R.
+
+**II Niedziela Adwentu, 5 grudnia,**
+
+* 7.00 + za śp. Barbarę SZMIDT oraz Marię i Zbigniewa SŁUŻEWSKICH a także za całą rodzinę SZMIDTÓW i SŁUŻEWSKICH
+* 9.00 + za śp. Waldemara NOWIKOW w 30 rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za śp. Edwarda DOBOSZA
+* 12.00 + za śp. Leokadię SIATKOWSKĄ i Jana SIOCH
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + za śp. Mariannę i Wiesława KIESLER
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXXIV Niedziela zwykła, 21 listopada, Jezusa Chrystusa Króla Wszechświata, *uroczystość***
 
 * 7.00 + za śp. Annę, Stanisława, Jadwigę, Wiesława i Dariusza DOBOSZ
