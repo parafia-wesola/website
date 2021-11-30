@@ -3,9 +3,9 @@ type: user
 title: Marek Sęczek
 cover: marek_seczek.jpg
 bio:
-  job: ''
-  mail: ''
-  phone: ''
+  job: ekipa parafialna
+  mail: ""
+  phone: ""
 ---
 
 Marek Sęczek całe życie związany z Wesołą, od ponad 30 lat szczęśliwy mąż Agnieszki i ojciec dwóch dorosłych synów. Z wykształcenia elektronik. Zawodowo związany z branżą transportową – współwłaściciel firmy spedycyjnej, która istnieje od 1990 roku.
