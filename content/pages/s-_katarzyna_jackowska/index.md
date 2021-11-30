@@ -3,8 +3,8 @@ type: user
 title: s. Katarzyna Jackowska
 cover: dsc02215.jpg
 bio:
-  job: ''
-  mail: ''
+  job: ekipa parafialna
+  mail: ""
   phone: 728 327 667
 ---
 
