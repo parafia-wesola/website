@@ -27,7 +27,8 @@ Wypełnianie ankiet i prace w Zespołach Synodalnych trwają do 28.02.2022 roku.
 
 Szczegółowe informacje i pełna instrukcja znajdują się w vademecum.
 
-[link do ankiety](https://docs.google.com/document/d/1D69qsmLHE6KwiZwWuji9c14HbVTr_wL-/edit?usp=sharing&ouid=108872703462713227830&rtpof=true&sd=true)\
-[link do vademecum](https://docs.google.com/document/d/1ef4wOIo0LOpaRRYRJSx0LDQljOntaZey/edit?usp=sharing&ouid=108872703462713227830&rtpof=true&sd=true)
+* [link do ankiety](https://docs.google.com/document/d/1D69qsmLHE6KwiZwWuji9c14HbVTr_wL-/edit?usp=sharing&ouid=108872703462713227830&rtpof=true&sd=true)
+* [link do dokumentu przygotowawczego przebiegu synodu o synodalności w diecezji warszawsko-praskiej](https://docs.google.com/document/d/1ef4wOIo0LOpaRRYRJSx0LDQljOntaZey/edit?usp=sharing&ouid=108872703462713227830&rtpof=true&sd=true)
+* [link do vademecum synodu o synodalności](https://www.ekai.pl/dokumenty/vademecum-synodu-o-synodalnosci/)
 
 <!--EndFragment-->
