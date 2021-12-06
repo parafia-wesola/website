@@ -4,6 +4,70 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**II Niedziela Adwentu, 5 grudnia,**
+
+* 7.00 + za śp. Barbarę SZMIDT oraz Marię i Zbigniewa SŁUŻEWSKICH a także za całą rodzinę SZMIDTÓW i SŁUŻEWSKICH
+* 9.00 + za śp. Waldemara NOWIKOW w 30. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * o łaskę uzdrowienia Jasia z choroby nowotworowej
+  * za śp. Edwarda DOBOSZA
+* 12.00 + za śp. Leokadię SIATKOWSKĄ i Jana SIOCH
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + za śp. Mariannę i Wiesława KIESLER
+
+**Poniedziałek, 6 grudnia, Św. Mikołaja, biskupa**
+
+* 6.45 + za śp. Antoniego DUKA w 1. rocznicę śmierci
+* 18.00 + o Boże Miłosierdzie i pokój wieczny dla śp. Tadeusza ZALEWSKIEGO w 1. rocznicę śmierci
+
+**Wtorek, 7 grudnia, Św. Ambrożego, biskupa i doktora Kościoła, *wspomnienie***
+
+* 6.45 Marka STRUMIŁOWSKIEGO w 3. rocznicę śmierci
+* 18.00 Msza św. wypominkowa
+
+**Środa, 8 grudnia, Niepokalane Poczęcie NMP, *uroczystość***
+
+* 6.45 + za śp. Janinę, Feliksa, Ryszarda i Wiktora WIELGUS
+* 10.30 w 30. rocznicę powstania Radia Maryja
+* 12.00 – 13.00 Godzina łaski
+* 18.00 w dniu urodzin wnuka Krzysztofa – dziękczynna za błogosławieństwo Boże, z prośbą o dalszą pomoc w wychowywaniu dzieci, w uświęcaniu miłości małżeńskiej oraz błogosławieństwo w pracy zawodowej
+
+**Czwartek, 9 grudnia,**
+
+* 6.45 + za śp. Amelię WIELOGÓRSKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Artura w 4. rocznicę śmierci
+
+**Piątek, 10 grudnia, Najświętszej Maryi Panny Loretańskiej, *wspomnienie***
+
+* 6.45 + za śp. Halinę JADCZAK w miesiąc po pogrzebie
+* 18.00 + za śp. Julię SKONIECZNĄ o dar Nieba
+
+**Sobota, 11 grudnia,**
+
+* 6.45 W intencji Bogu wiadomej
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Ryszarda Łupińskiego i zmarłych z rodziny WIŚNIEWSKICH, oraz za śp. Mirosława MACHNACKIEGO
+
+**III Niedziela Adwentu, 12 grudnia,**
+
+* 7.00 o łaskę zdrowia dla ma
+* 9.00 + za śp. Halinę i Henryka WŁODARCZYKÓW
+* 10.30 intencja zbiorowa
+
+  * za śp. Julię i Tadeusza SKONIECZNYCH (od Krystyny i Marka Stypuła)
+  * za śp. Aleksandra ŁUNIEWSKIEGO
+  * za śp. Edwarda ABRAMCZYKA
+  * za śp. Andrzeja BUSZYŃSKIEGO
+  * za śp. Ewę ROGALA
+* 12.00 o Boże błogosławieństwo dla Jacka z okazji jego urodzin
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + za śp. Mariannę, Jana, Tomasza BARAN oraz zmarłych z rodziny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **I Niedziela Adwentu, 28 listopada,**
 
 * 7.00 za Zdzisławę SOBCZYK w 90 rocznicę urodzin o błogosławieństwo Boże i opiekę Niepokalanej dla niej i dla całej rodziny
