@@ -41,7 +41,7 @@ title: Intencje mszalne
 **Piątek, 10 grudnia, Najświętszej Maryi Panny Loretańskiej, *wspomnienie***
 
 * 6.45 + za śp. Halinę JADCZAK w miesiąc po pogrzebie
-* 18.00 + za śp. Julię SKONIECZNĄ o dar Nieba
+* 18.00 o szczęśliwe rozwiązanie dla Alicji oraz o potrzebne łaski dla niej i dla dziecka
 
 **Sobota, 11 grudnia,**
 
