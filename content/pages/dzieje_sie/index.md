@@ -4,8 +4,8 @@ title: Dzieje się
 news:
   - size: large
     title: Rekolekcje Adwentowe
-  - size: large
-    title: Zranieni w Kościele
+  - title: Modlitwa za zranionych w Kościele
+    size: large
   - size: large
     title: Synod o synodalności 2021-2023
   - size: large
