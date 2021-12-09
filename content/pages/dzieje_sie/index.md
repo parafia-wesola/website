@@ -7,6 +7,8 @@ news:
   - title: Modlitwa za zranionych w Kościele
     size: large
   - size: large
+    title: Spotkanie Adwentowe dla młodych
+  - size: large
     title: Synod o synodalności 2021-2023
   - size: large
     title: Tak. Pomagam! Caritas
