@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Rekolekcje Adwentowe
+  - size: large
     title: Zranieni w Kościele
   - size: large
     title: Synod o synodalności 2021-2023
