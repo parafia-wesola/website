@@ -1,6 +1,6 @@
 ---
 type: article
-title: Zranieni w Kościele
+title: Modlitwa za zranionych w Kościele
 date: 2021-12-06T17:23:20.204Z
 eventDate: 2021-12-10T19:00:00.000Z
 author: parafia wesoła
