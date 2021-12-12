@@ -4,6 +4,76 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**III Niedziela Adwentu, 12 grudnia,**
+
+* 7.00 o łaskę zdrowia dla małżonki Joanny i córki Kingi
+* 9.00 + za śp. Halinę i Henryka WŁODARCZYKÓW
+* 10.30 intencja zbiorowa:
+
+  * za śp. Julię i Tadeusza SKONIECZNYCH (od Krystyny i Marka Stypuła)
+  * za śp. Aleksandra ŁUNIEWSKIEGO
+  * za śp. Edwarda ABRAMCZYKA
+  * za śp. Andrzeja BUSZYŃSKIEGO
+  * za śp. Ewę ROGALA
+  * za śp. Reginę MICHAŁOWSKĄ
+  * za duszę śp. Janusza
+* 12.00
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 + za śp. Mariannę, Jana, Tomasza BARAN oraz zmarłych z rodziny\
+  W modlitwie wiernych : o łaskę uzdrowienia Jasia z choroby nowotworowej
+
+**Poniedziałek, 13 grudnia, Św. Łucji, dziewicy i męczennicy, *wspomnienie***
+
+* 6.45 o Boże Błogosławieństwo dla Jacka z okazji 40. urodzin
+* 18.00 + za śp. Pelagię i Stefana ŁASKAWIEC, Zofię OSTATKIEWICZ, Halinę NOWAKOWSKĄ i Marię SPAŁA
+
+**Wtorek, 14 grudnia, Św. Jana od Krzyża, prezbitera i doktora Kościoła, *wspomnienie***
+
+* 6.45 + za śp. Jerzego JAZŁOCKIEGO w 7. rocznicę śmierci
+* 18.00 + za śp. Mieczysława NIEMALEC oraz za Witolda JÓŹWIAKA
+
+**Środa, 15 grudnia,**
+
+* 6.45<!--\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 18.00 + za śp. Tadeusza ZALEWSKIEGO
+
+**Czwartek, 16 grudnia, Rekolekcje adwentowe**
+
+* 6.45
+* 10.30 o łaskę uzdrowienia Jasia z choroby nowotworowej
+* 19.00 + za śp. Reginę i Bolesława JURKIEWICZÓW
+
+**Piątek, 17 grudnia, Rekolekcje adwentowe**
+
+* 6.45 + za śp. Teodozję GOŁASZEWSKĄ w 2. rocznicę śmierci oraz za śp. Kazimierza GOŁASZEWSKIEGO i śp. Annę GOŁASZEWSKĄ
+* 10.30 za Małgorzatę i Mateusza w 1. rocznicę ślubu
+* 19.00 za małżeństwa w kryzysie
+
+**Sobota, 18 grudnia, Rekolekcje adwentowe**
+
+* 6.45 + za śp. Stanisława, Władysława, Jana WIELOGÓRSKICH i Amelię WIELOGÓRSKĄ
+* 10.30 + za śp. Elżbietę KIERZKOWSKĄ w 20. rocznicę śmierci
+* *15.00 – 17.45 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Mariannę ZWIERZYŃSKĄ w 5. rocznicę śmierci i za zmarłych z rodziny
+
+**IV Niedziela Adwentu, 19 grudnia, Rekolekcje adwentowe**
+
+* 7.00 + za śp. Andrzeja KOSECKIEGO w pół roku po śmierci
+* 9.00 + za śp. Danutę KOPCIŃSKĄ w 2. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za śp. Jana OLSZEWSKIEGO orazzmarłych rodziny KAŁASZA
+* 12.00 + za śp. Stefana JANUCHTOWSKIEGO w 33. rocznicę śmierci oraz Iwony w 55. rocznicę śmierci i Tomasza w 20. rocznicę śmierci
+* 13.15 Koncert Adwentowy – Grupa *Huma Ensemble*
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 o światło i dary Ducha Św. dla Judyty
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **II Niedziela Adwentu, 5 grudnia,**
 
 * 7.00 + za śp. Barbarę SZMIDT oraz Marię i Zbigniewa SŁUŻEWSKICH a także za całą rodzinę SZMIDTÓW i SŁUŻEWSKICH
