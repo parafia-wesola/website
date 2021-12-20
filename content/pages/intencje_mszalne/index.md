@@ -4,6 +4,71 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**IV Niedziela Adwentu, 19 grudnia, Rekolekcje adwentowe**
+
+* 7.00 + za śp. Andrzeja KOSECKIEGO w pół roku po śmierci
+* 9.00 + za śp. Danutę KOPCIŃSKĄ w 2. rocznicę śmierci
+* 10.30 intencja zbiorowa
+
+  * za śp. Jana OLSZEWSKIEGO orazzmarłych rodziny KAŁASZA
+* 12.00 + za śp. Stefana JANUCHTOWSKIEGO w 33. rocznicę śmierci oraz za śp. Iwonę w 55. rocznicę śmierci i Tomasza w 20. rocznicę śmierci
+* 13.15 Koncert Adwentowy – Grupa *Huma Ensemble*
+* *15.00 – 17.45 Adoracja Najświętszego. Sakramentu*
+* 18.00 o światło i dary Ducha Św. dla Judyty
+
+**Poniedziałek, 20 grudnia,**
+
+* 6.45 w 32. rocznicę urodzin Ewy
+* 18.00 + za śp. Edwarda ABRAMCZYKA w miesiąc po pogrzebie
+* 18.00 + w 1. rocznicę śmierci Joli ŁĘCZYCKIEJ o łaskę życia wiecznego
+
+**Wtorek, 21 grudnia, Św. Piotra Kanizjusza, prezbitera i doktora Kościoła, *wspomnienie***
+
+* 6.45 + w 10 rocznicę śmierci Witolda DĘBNIAKA o życie wieczne
+* 18.00 + za śp. Julię i Tadeusza SKONIECZNYCH o radość nieba oraz o łaskę zdrowia dla Izy
+
+**Środa, 22 grudnia,**
+
+* 6.45
+* 18.00 w 12. rocznicę urodzin Heleny
+
+**Czwartek, 23 grudnia,**
+
+* 6.45 Dziękczynna za 60 lat życia Urszuli KONAROWSKIEJ z prośbą o dary Ducha Świętego i opiekę Matki Bożej
+* 18.00 + za śp. Julię SKONIECZNĄ
+
+**Piątek, 24 grudnia, Wigilia Narodzenia Pańskiego**
+
+* 6.45 + za śp. Ewę
+* 24.00 podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+
+**Sobota, 25 grudnia, Narodzenie Pańskie, *uroczystość***
+
+* *7.00 NIE MA MSZY ŚW.*
+* 9.00 + za śp. Zdzisława LEWANDOWSKIEGO i zmarłych z rodziny LEWANDOWSKICH, PAŹDZIORÓW, KARASIÓW i CUDNYCH
+* 10.30
+* 12.00 w 50. rocznicę ślubu Teresy i Kazimierza Krysztofik
+* 18.00 + za śp. Eugeniusza STRUPIECHOWSKIEGO o łaskę nieba i zmarłych z rodziny oraz za dusze w czyśćcu cierpiące
+
+**Niedziela, 26 grudnia, Świętej Rodziny: Jezusa, Maryi i Józefa, *uroczystość***
+
+* 7.00 o łaskę uzdrowienia Jasia z choroby nowotworowej
+* 9.00 + za śp. Mariannę WIŚNIEWSKĄ i zmarłych z rodziny WIŚNIEWSKICH i STRZESZEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * za śp. Zofię, Kazimierza, Andrzeja i Adama CHOJECKICH
+  * za śp. Marię i Jerzego WĄSOWSKICH
+  * za śp. Szczepana GNIAZDOWSKIEGO oraz Eugenię i Józefa
+  * za śp. Barbarę WĄSOWSKĄ
+  * za śp. Zofię PIÓRO
+  * za śp. Marię i Stanisława HEJAK
+* 12.00 w 3. urodziny Kasi SZYMCZYK
+* 18.00 o światło i dary Ducha Św. dla Dawida
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **III Niedziela Adwentu, 12 grudnia,**
 
 * 7.00 o łaskę zdrowia dla małżonki Joanny i córki Kingi
@@ -34,7 +99,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
@@ -69,8 +134,6 @@ title: Intencje mszalne
 * 18.00 o światło i dary Ducha Św. dla Judyty
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
