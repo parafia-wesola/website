@@ -3,15 +3,11 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Rekolekcje Adwentowe
-  - title: Modlitwa za zranionych w Kościele
-    size: large
+    title: Życzenia na Boże Narodzenie
   - size: large
-    title: Spotkanie Adwentowe dla młodych
+    title: Rekolekcje Adwentowe
   - size: large
     title: Synod o synodalności 2021-2023
-  - size: large
-    title: Tak. Pomagam! Caritas
   - title: Niedzielne animacje dla dzieci
     size: large
   - title: Pamiętajmy!
