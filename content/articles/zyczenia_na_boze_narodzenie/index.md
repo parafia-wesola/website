@@ -1,6 +1,6 @@
 ---
 type: article
-title: Życzenia na Boże Narodzenie
+title: Błogosławionych Świąt Bożego Narodzenia
 date: 2021-12-24T16:48:01.968Z
 eventDate: ""
 author: parafia wesoła
