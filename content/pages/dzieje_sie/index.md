@@ -3,7 +3,7 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Życzenia na Boże Narodzenie
+    title: Błogosławionych Świąt Bożego Narodzenia
   - size: large
     title: Rekolekcje Adwentowe
   - size: large
@@ -15,5 +15,6 @@ news:
   - title: Adoracja w weekendy
     size: medium
   - size: large
-    title: formularz do zapisów na kolędę
+    title: Adoracja w weekendy
+  - title: formularz do zapisów na kolędę
 ---
