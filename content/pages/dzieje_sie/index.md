@@ -5,6 +5,8 @@ news:
   - size: large
     title: Błogosławionych Świąt Bożego Narodzenia
   - size: large
+    title: wizyta duszpasterska
+  - size: large
     title: Rekolekcje Adwentowe
   - size: large
     title: Synod o synodalności 2021-2023
