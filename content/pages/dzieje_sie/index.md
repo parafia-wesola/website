@@ -14,4 +14,6 @@ news:
     size: medium
   - title: Adoracja w weekendy
     size: medium
+  - size: large
+    title: formularz do zapisów na kolędę
 ---
