@@ -4,7 +4,7 @@ title: wizyta duszpasterska
 date: 2021-12-25T18:45:05.445Z
 eventDate: ""
 author: parafia wesoła
-cover: 1640362963676.jpg
+cover: szopka_01.jpg
 ---
 Ze względu na trudną sytuację pandemiczną oraz potrzebę zapewnienia bezpieczeństwa wszystkim Parafianom, proponujemy, aby spotkanie duszpasterzy z Państwem w tym roku (tzw. Kolęda) odbyło się WYŁĄCZNIE po indywidualnym zgłoszeniu pragnienia takiego spotkania.
 Proponujemy możliwość wyboru:
