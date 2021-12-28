@@ -4,6 +4,74 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 26 grudnia, Świętej Rodziny: Jezusa, Maryi i Józefa, *uroczystość***
+
+* 7.00 o łaskę uzdrowienia Jasia z choroby nowotworowej
+* 9.00 + za śp. Mariannę WIŚNIEWSKĄ i zmarłych z rodziny WIŚNIEWSKICH i STRZESZEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * za śp. Zofię, Kazimierza, Andrzeja i Adama CHOJECKICH
+  * za śp. Marię i Jerzego WĄSOWSKICH
+  * za śp. Szczepana GNIAZDOWSKIEGO oraz Eugenię i Józefa
+  * za śp. Barbarę WĄSOWSKĄ
+  * za śp. Zofię PIÓRO
+  * za śp. Marię i Stanisława HEJAK
+  * za śp. Longina WĄSOWSIEGO
+* 12.00 w 3. urodziny Kasi SZYMCZYK
+* 18.00 o światło i dary Ducha Świętego dla Dawida
+
+**Poniedziałek, 27 grudnia, Św. Jana Apostoła i Ewangelisty, *święto***
+
+* 7.00 + za śp. Edwarda DOBOSZA w miesiąc po pogrzebie
+* 18.00 + za śp. Mariannę KIELEWSKĄ
+
+**Wtorek, 28 grudnia, Świętych Młodzianków, męczenników, *święto***
+
+* 7.00 + za sp. Hannę JARZYNA w 1. rocznicę śmierci
+* 18.00 + za śp. Laurę ALUCHNA w 35. rocznicę śmierci
+* 20.00 Uwielbienie kolędowe
+
+**Środa, 29 grudnia, V dzień w oktawie Bożego Narodzenia**
+
+* 7.00 + za śp. Mieczysława WOJDAKA
+* 18.00 w 20. rocznicę ślubu Beaty i Michała
+
+**Czwartek, 30 grudnia, VI dzień w oktawie Bożego Narodzenia**
+
+* 7.00 + za śp. Bronisława JASZCZYKA oraz zmarłych z rodziny JASZCZYKÓW i MURASZEWSKICH
+* 18.00 + za śp. Eugeniusza MROCZEK
+
+**Piątek, 31 grudnia, VII dzień w oktawie Bożego Narodzenia**
+
+* 7.00 + za śp. Zofię, Czesława i Mariana GŁUCHOWSKICH
+* 18.00 Dziękczynno-błagalna w intencji Ani o uzdrowienie z choroby nowotworowej
+* 18.00 Msza na zakończenie roku kalendarzowego
+
+**Sobota, 1 stycznia, Nowy Rok, Świętej Bożej Rodzicielki Maryi, *uroczystość***
+
+* *7.00 NIE MA MSZY ŚW.*
+* 9.00 + za śp. Mieczysława GÓRSKIEGO oraz za śp. Marię i Barbarę GÓRSKIE
+* 10.30 w intencji firmy CHOBOT, dziękując za rok 2021 z prośbą o błogosławieństwo i prowadzenie Boże fabryki CHOBOT w 2022 roku
+* 12.00 w 50. rocznicę ślubu Elżbiety i Marka RASZTAWICKICH
+* 18.00 K.Ż.R.
+
+**Niedziela, 2 stycznia, II niedziela po Narodzeniu Pańskim**
+
+* 7.00 za parafian
+* 9.00 o błogosławieństwo Boże dla nowo ochrzczonego Wiktora, jego sióstr i rodziców
+* 10.30 intencja zbiorowa:
+
+  * za śp. Jerzego WŁODARCZYKA
+  * za śp. Józefa KONNAKA
+  * za śp. Henryka WOJTECKIEGO
+  * o zdrowie i błogosławieństwo Boże dla Stanisława SZYMAŃCZAK
+* 12.00 + za śp. Jerzego GROMKA w 5. rocznicę śmierci
+* 18.00 w 8. urodziny Michała
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **IV Niedziela Adwentu, 19 grudnia, Rekolekcje adwentowe**
 
 * 7.00 + za śp. Andrzeja KOSECKIEGO w pół roku po śmierci
@@ -99,7 +167,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
