@@ -2,6 +2,66 @@
 type: text
 title: Intencje mszalne
 ---
+**Niedziela, 2 stycznia, II niedziela po Narodzeniu Pańskim**
+
+* 7.00 za parafian
+* 9.00 o błogosławieństwo Boże dla nowo ochrzczonego Wiktora, jego sióstr i rodziców
+* 10.30 intencja zbiorowa:
+
+  * o zdrowie i błogosławieństwo Boże dla Stanisława SZYMAŃCZAK
+  * za śp. Jerzego WŁODARCZYKA
+  * za śp. Józefa KONNAKA
+  * za śp. Stanisławę WIĘCH
+  * za śp. Henryka WOJTECKIEGO
+  * za śp. Franciszka ROGALĘ
+  * za śp. Eugeniusza KAŁASZA z okazji imienin
+  * za śp. Bronisławę RYCHNOWSKĄ
+* 12.00 + za śp. Jerzego GROMKA w 5. rocznicę śmierci
+* 18.00 w 8. urodziny Michała
+
+**Poniedziałek, 3 stycznia, Najświętszego Imienia Jezus**
+
+* 7.00 + za śp. Aleksandra ŁUNIEWSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Stanisława FAJFER, Teresę i Władysława HULICKICH, Mieczysława i Halinę ​GAJEWSKICH oraz zmarłych z rodziny FAJFER i GAJEWSKICH i za dusze w czyśćcu ​cierpiące
+
+**Wtorek, 4 stycznia,** 
+
+* 7.00 + za śp. Andrzeja BUSZYŃSKIEGO w miesiąc po pogrzebie
+* 18.00 Msza wypominkowa
+
+**Środa, 5 stycznia,**
+
+* 7.00 w dniu imienin Edwarda z prośbą o Boże Błogosławieństwo i opiekę Matki Bożej
+* 18.00 + za śp. Aleksandra i Annę w 11. rocznicę śmierci o życie wieczne 
+
+**Czwartek, 6 stycznia, Objawienie Pańskie, uroczystość**
+
+* 7.00 
+* 9.00 + w 17. rocznicę śmierci Zbigniewa KAMIŃSKIEGO i zmarłych z rodziny KAMIŃSKICH\
+  ​i SAMONIÓW
+* 10.30 + do miłosierdzia Bożego za duszę śp. Stanisława KOWALSKIEGO w 15. rocznicę śmierci oraz za ​zmarłych z jego rodziny
+* 12.00 + za śp. Eugeniusza BAŁABUCH w 1. rocznicę śmierci o łaskę zbawienia
+* 18.00 + za śp. Wandę w 32. rocznicę śmierci i Mieczysława w 29. rocznicę śmierci
+
+**Piątek, 7 stycznia, Św. Rajmunda z Penyafort, prezbitera, wspomnienie**
+
+* 7.00 + za śp. Reginę MICHAŁOWSKĄ w miesiąc po pogrzebie
+* 18.00 w intencji Radosława
+
+**Sobota, 8 stycznia,**
+
+* 7.00 + za śp. Ewę ROGALA w miesiąc po pogrzebie
+* 18.00
+
+**Niedziela, 9 stycznia, CHRZEST PAŃSKI, święto**
+
+* 7.00 + za duszę śp. Wacława RYCHLIK
+* 9.00 o łaskę uzdrowienia Jasia z choroby nowotworowej
+* 10.30 za parafian
+* 12.00 + za śp. Henryka ROZWADOWSKIEGO w 1. rocznicę śmierci
+* 18.00 + za śp. Józefa CHYBOWSKIEGO w 15. rocznicę śmierci, Helenę CHYBOWSKĄ, zmarłych\
+  ​z rodziny SKNADAJÓW oraz za śp. Andrzeja i Mariannę WÓJCIK
+
 <!--StartFragment-->
 
 **Niedziela, 26 grudnia, Świętej Rodziny: Jezusa, Maryi i Józefa, *uroczystość***
@@ -167,7 +227,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
