@@ -3,6 +3,9 @@ type: info
 title: kancelaria parafialna
 id: kancelaria_parafialna
 ---
+\
+**W piątek, 7 stycznia 2022 roku kancelaria będzie nieczynna, przepraszamy. W sprawach pilnych prosimy o kontakt telefoniczny**. 
+
 tel. 22 773 56 35\
 kancelaria@parafiawesola.pl
 
