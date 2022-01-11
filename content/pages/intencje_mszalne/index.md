@@ -2,6 +2,62 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**Niedziela, 9 stycznia, CHRZEST PAŃSKI, *święto***
+
+* 7.00 + za duszę śp. Wacława RYCHLIK
+* 9.00 o łaskę uzdrowienia Jasia z choroby nowotworowej
+* 10.30 za parafian
+* 12.00 + za śp. Henryka ROZWADOWSKIEGO w 1. rocznicę śmierci
+* 18.00 + za śp. Józefa CHYBOWSKIEGO w 15. rocznicę śmierci, Helenę CHYBOWSKĄ, zmarłych\
+  z rodziny SKNADAJÓW oraz za śp. Andrzeja i Mariannę WÓJCIK
+
+**Poniedziałek, 10 stycznia,**
+
+* 7.00 + za śp. Barbarę WĄSOWSKĄ\
+  (do modlitwy wiernych: o zdrowie i pomyślny przebieg leczenia Grzegorza)
+* 18.00 o Boże Błogosławieństwo i opiekę Maryi dla małej Noemi i jej rodziców: Natalii i Marcina
+
+**Wtorek, 11 stycznia,**
+
+* 7.00 + za śp. Barbarę WASOWSKĄ w miesiąc po pogrzebie
+* 18.00
+
+**Środa, 12 stycznia,**
+
+* 7.00 dziękując za Pawła i Tomka z prośbą o zdrowie duszy i ciała
+* 18.00 + za śp. Jerzego w 4. rocznicę śmierci
+
+**Czwartek, 13 stycznia, Św. Hilarego, biskupa i doktora Kościoła**
+
+* 7.00 + za śp. Zofię PIÓRO w miesiąc po pogrzebie
+* 18.00 o zdrowie i Boże Błogosławieństwo dla Katarzyny
+
+**Piątek, 14 stycznia,**
+
+* 7.00
+* 18.00 + za śp. Mieczysława PODLEŚNEGO w 8. rocznicę śmierci
+
+**Sobota, 15 stycznia, Najświętszej Maryi Panny w sobotę**
+
+* 7.00 + za śp. Ewę ROGALĘ i za śp. Franciszka ROGALĘ o radość Nieba - intencja od sąsiadów
+* 18.00 w 38. rocznicę ślubu Anny i Wojciecha
+
+**Niedziela, 16 stycznia, II niedziela zwykła**
+
+* 7.00 za parafian
+* 9.00 + za duszę śp. Tadeusza PRZESMYCKIEGO
+* 10.30 intencja zbiorowa:
+
+  * za rodzinę ROGACZEWSKICH, Salomeę w 50. rocznicę śmierci, Konrada w 41. rocznicę śmierci i Jerzego w 15. rocznicę śmierci
+* 12.00 w 59. rocznicę ślubu Kazimiery i Jana – dziękczynna z prośbą o dalsze błogosławieństwo
+* 18.00 + za śp. Bronisława LESIAKA o radość życia wiecznego oraz za śp. Janinę i Zbigniewa
+
+<!--EndFragment-->
+
+
+
 **Niedziela, 2 stycznia, II niedziela po Narodzeniu Pańskim**
 
 * 7.00 za parafian
@@ -227,7 +283,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
