@@ -4,6 +4,68 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 16 stycznia,**
+
+* 7.00 za parafian
+* 9.00 + za duszę śp. Tadeusza PRZESMYCKIEGO
+* 10.30 intencja zbiorowa:
+
+  * za rodzinę ROGACZEWSKICH, Salomeę w 50. rocznicę śmierci, Konrada w 41. rocznicę śmierci i Jerzego w 15. rocznicę śmierci
+  * za śp. Pawła PRUSKIEGO, intencja urodzinowo-imieninowa oraz za jego zmarłych rodziców\
+    i teściów
+  * za dusze śp. Teresy i Włodzimierza TUSZEWSKICH z okazji imienin Włodzimierza
+* 12.00 w 59. rocznicę ślubu Kazimiery i Jana – dziękczynna z prośbą o dalsze błogosławieństwo
+* 18.00 + za śp. Bronisława LESIAK o radość życia wiecznego oraz za śp. Janinę i Zbigniewa
+
+**Poniedziałek, 17 stycznia, Św. Antoniego, opata, *wspomnienie***
+
+* 7.00 
+* 18.00 + za śp. Wacława OLĘDZKIEGO w 4. rocznicę śmierci oraz zmarłych z rodziny OLĘDZKICH\
+  i BACHORKÓW
+
+**Wtorek, 18 stycznia,**
+
+* 7.00
+* 18.00 + za śp. Stanisława ZIELIŃSKIEGO w 4. rocznicę śmierci oraz Janinę i Mariana ZIELIŃSKICH
+
+**Środa, 19 stycznia, Św. Józefa Sebastiana Pelczara, biskupa, *wspomnienie***
+
+* 7.00 dziękując za dzieci i wnuki z prośbą o potrzebne łaski na każdy dzień i opiekę Niepokalanej
+* 18.00 + za śp. Henryka WOJTECKIEGO ( od brata ciotecznego Stanisława Wilka z rodziną)
+
+**Czwartek, 20 stycznia**
+
+* 7.00 + za śp. Józefa KONNAKA w miesiąc po pogrzebie
+* 18.00 + za śp. Zuzannę KRZEMIEŃ w 1. rocznicę śmierci o łaskę Nieba
+
+**Piątek, 21 stycznia, Św. Agnieszki, dziewicy i męczennicy, *wspomnienie***
+
+* 7.00 + za śp. Jerzego WŁODARCZYKA w miesiąc po pogrzebie
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 22 stycznia**
+
+* 7.00 + za śp. Mariana GŁUCHOWSKIEGO
+* 18.00 + za śp. Edwarda KISIELA oraz za Jana i Annę KISIELÓW
+
+**Niedziela, 23 stycznia, III niedziela zwykła**
+
+* 7.00
+* 9.00 + za śp. Annę KRAJEWSKĄ
+* 10.30 intencja zbiorowa:
+
+  * za śp. Genowefę i Józefa LECZKOWSKICH
+  * za śp. Józefa BOGUSZEWSKIEGO w 14. rocznicę śmierci oraz Mariannę, Wacława i Stanisława BOGUSZEWSKICH i zmarłych z rodziny STRUPIECHOWSKICH
+  * za śp. Zdzisława RYBAKA
+  * za śp. Adama PASIAKA
+  * za sp. Czesławę PASIŃSKĄ
+* 12.00 za parafian
+* 18.00 + za śp. Jana MIODUSZEWSKIEGO w 4 rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 9 stycznia, CHRZEST PAŃSKI, *święto***
 
 * 7.00 + za duszę śp. Wacława RYCHLIK
@@ -55,8 +117,6 @@ title: Intencje mszalne
 * 18.00 + za śp. Bronisława LESIAKA o radość życia wiecznego oraz za śp. Janinę i Zbigniewa
 
 <!--EndFragment-->
-
-
 
 **Niedziela, 2 stycznia, II niedziela po Narodzeniu Pańskim**
 
@@ -283,7 +343,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
