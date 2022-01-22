@@ -3,9 +3,7 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Błogosławionych Świąt Bożego Narodzenia
-  - size: large
-    title: Orszak Trzech Króli
+    title: Nieszpory o jedność chrześcijan
   - size: large
     title: wizyta duszpasterska
   - size: large
