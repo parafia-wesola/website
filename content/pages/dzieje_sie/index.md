@@ -5,6 +5,8 @@ news:
   - size: large
     title: Nieszpory o jedność chrześcijan
   - size: large
+    title: Kurs przedmałżeński
+  - size: large
     title: wizyta duszpasterska
   - size: large
     title: Rekolekcje Adwentowe
