@@ -4,6 +4,68 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 23 stycznia, III niedziela zwykła**
+
+* 7.00
+* 9.00 + za śp. Annę KRAJEWSKĄ
+* 10.30 intencja zbiorowa:
+
+  * za śp. Genowefę i Józefa LECZKOWSKICH
+  *  za śp. Józefa BOGUSZEWSKIEGO w 14. rocznicę śmierci oraz za Mariannę, Wacława\
+    i Stanisława BOGUSZEWSKICH oraz zmarłych z rodziny STRUPIECHOWSKICH
+  * za śp. Zdzisława RYBAKA
+  * za śp. Adama PASIAKA
+  * za śp. Czesławę PASIŃSKĄ
+  * za śp. Mariana i Grzegorza w rocznicę śmierci
+* 12.00 za parafian
+* 18.00 + za śp. Jana MIODUSZEWSKIEGO w 4. rocznicę śmierci
+
+**Poniedziałek, 24 stycznia, Św. Franciszka Salezego, biskupa, *wspomnienie***
+
+* 7.00 + za śp. Genowefę i Stanisława Henryka – małżonków WOJTECKICH
+* 18.00 + za śp. Aleksandra i Stanisławę GŁÓWKA
+
+**Wtorek, 25 stycznia, Nawrócenie Św. Pawła Apostoła, *święto***
+
+* 7.00 w 19 urodziny Eryka, z prośbą o mądre wybory zgodne z wolą Bożą
+* 18.00 podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej Światłością miłości miłosiernej we wszystkich rodzinach
+
+**Środa, 26 stycznia, Świętych biskupów Tymoteusza i Tytusa, *wspomnienie***
+
+* 7.00
+* 18.00 + za śp. Ewę ROGALĘ, Franciszka ROGALĘ oraz Stanisława ROGALĘ w 45. rocznicę śmierci
+
+**Czwartek, 27 stycznia**
+
+* 7.00
+* 18.00 + za śp. Franciszka ROGALĘ od rodziny z Łęcznej oraz za śp. Stanisława ROGALĘ w 45. rocznicę śmierci
+
+**Piątek, 28 stycznia, Św. Tomasza z Akwinu, prezbitera i doktora Kościoła, *wspomnienie***
+
+* 7.00
+* 18.00 + za śp. Franciszka ROGALĘ w miesiąc po pogrzebie
+
+**Sobota, 29 stycznia**
+
+* 7.00 + za śp. Stanisława WIĘCH w miesiąc po pogrzebie
+* 18.00 + za śp. Henryka WOJTECKIEGO w miesiąc po pogrzebie
+
+**Niedziela, 30 stycznia, IV niedziela zwykła**
+
+* 7.00 za parafian
+* 9.00 + za śp. Romana SKROBER w 20. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za śp. Izabelę, Jerzego, Marię, Hannę i zmarłych z rodziny RÓŻYCKICH i TROCHIMIAKÓW
+* 12.00 + za śp. Barbarę WĄSOWSKĄ
+* 18.00 + za śp. Jana FILIPIAKA
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **Niedziela, 16 stycznia,**
 
 * 7.00 za parafian
@@ -343,7 +405,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
