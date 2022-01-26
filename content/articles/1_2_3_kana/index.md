@@ -1,6 +1,6 @@
 ---
 type: article
-title: 1, 2, 3, Kana
+title: 1, 2, 3, Kana - propozycja dla małżeństw
 date: 2022-01-26T16:37:47.461Z
 eventDate: 2022-03-05T09:00:00.000Z
 author: parafia wesoła
