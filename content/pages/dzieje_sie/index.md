@@ -3,9 +3,11 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Nieszpory o jedność chrześcijan
-  - size: large
     title: Kurs przedmałżeński
+  - size: large
+    title: 1, 2, 3... Kana - propozycja dla małżeństw
+  - size: large
+    title: Nieszpory o jedność chrześcijan
   - size: large
     title: wizyta duszpasterska
   - size: large
