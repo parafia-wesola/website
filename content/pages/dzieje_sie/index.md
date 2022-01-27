@@ -7,7 +7,7 @@ news:
   - size: large
     title: 1, 2, 3... Kana - propozycja dla małżeństw
   - size: large
-    title: Nieszpory o jedność chrześcijan
+    title: Walentynki małżeńskie w parafii
   - size: large
     title: wizyta duszpasterska
   - size: large
