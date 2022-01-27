@@ -1,6 +1,6 @@
 ---
 type: article
-title: Walentynki w parafii
+title: Walentynki małżeńskie w parafii
 date: 2022-01-27T20:03:49.250Z
 eventDate: 2022-02-14T19:00:00.000Z
 author: parafia wesoła
