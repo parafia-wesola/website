@@ -9,6 +9,8 @@ news:
   - size: large
     title: Walentynki małżeńskie w parafii
   - size: large
+    title: Formacja biblijna
+  - size: large
     title: wizyta duszpasterska
   - size: large
     title: Rekolekcje Adwentowe
