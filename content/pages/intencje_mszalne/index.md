@@ -4,6 +4,78 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 30 stycznia, IV niedziela zwykła**
+
+* 7.00 za parafian
+* 9.00 + za śp. Romana SKROBER w 20. rocznicę śmierci i za zmarłych z rodziny
+* 10.30 intencja zbiorowa:
+
+  * z okazji urodzin, dziękując za otrzymane łaski z prośbą o Boże błogosławieństwo i dary Ducha Świętego na dalsze lata dla Aliny
+  * o błogosławieństwo dla narzeczonych Aleksandry i Pawła
+  * za śp. Izabelę, Jerzego, Marię, Hannę i zmarłych z rodziny RÓŻYCKICH i TROCHIMIUKÓW
+  * za śp. Władysławę i Józefa MOLSKICH
+  * za śp. Marka RYTLA
+  * za śp. Marka GRABSKIEGO i zmarłych z rodziny
+* 12.00 + za śp. Barbarę WĄSOWSKĄ
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Jana FILIPIAKA
+
+**Poniedziałek, 31 stycznia, Św. Jana Bosko, prezbitera, *wspomnienie***
+
+* 7.00 + za śp. Henryka SĘKOWSKIEGO od rodziny Czarnockich z Czarnot
+* 18.00 + za śp. Beatę GUTOWSKĄ w 8. rocznicę śmierci oraz zmarłych z rodziny PIETRUSZYŃSKICH i GUTOWSKICH
+
+**Wtorek, 1 lutego**
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 1/30)
+* 18.00 msza wypominkowa
+
+**Środa, 2 lutego, Ofiarowanie Pańskie, *święto***
+
+* 7.00
+* 10.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 2/30)
+* 18.00 + za śp. Zdzisława SŁODKOWSKIEGO i Jadwigę SŁODKOWSKĄ
+
+**Czwartek, 3 lutego, Św. Błażeja, biskupa i męczennika**
+
+* 7.00 + za śp. Stanisławę Donatę KONARSKĄ w 13. rocznicę śmierci i Tadeusza KONARSKIEGO w 33. rocznicę śmierci
+* Poza parafią: + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 3/30)
+* 18.00 + za śp. Kazimierza KRÓLIKOWSKIEGO
+
+**Piątek, 4 lutego**
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 4/30)
+* 18.00 
+
+**Sobota, 5 lutego, Św. Agaty, dziewicy i męczennicy, *wspomnienie***
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 5/30)
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 K.Ż.R.
+
+**Niedziela, 6 lutego, V niedziela zwykła**
+
+* 7.00 za parafian
+* 9.00 w 26. rocznicę urodzin Jakuba KOTUNIAKA, dziękując za jego życie z prośbą o dalsze błogosławieństwo oraz za śp. Ryszarda KOTUNIAKA
+* 10.30 intencja zbiorowa:
+
+  * za śp. Celinę WIERZBICKĄ (Msza gregoriańska 6/30)
+  * za śp. Henryka SĘKOWSKIEGO
+  * za śp. Lucynę ZALEWSKĄ
+  * za sp. Jana NIKODEMA
+  * za sp. Marię i Jana TORBICZÓW
+  * za śp. Elwirę KOWALSKĄ – SZYLARSKĄ
+  * za śp. Krystynę PAZIO
+* 12.00 + za śp. Jana NIKODEMA w 10. rocznicę śmierci
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Tadeusza ZALEWSKIEGO oraz za Cecylię i Roberta SZYMAŃSKICH w 20. rocznicę śmierci Roberta
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **Niedziela, 23 stycznia, III niedziela zwykła**
 
 * 7.00
@@ -11,7 +83,7 @@ title: Intencje mszalne
 * 10.30 intencja zbiorowa:
 
   * za śp. Genowefę i Józefa LECZKOWSKICH
-  *  za śp. Józefa BOGUSZEWSKIEGO w 14. rocznicę śmierci oraz za Mariannę, Wacława\
+  * za śp. Józefa BOGUSZEWSKIEGO w 14. rocznicę śmierci oraz za Mariannę, Wacława\
     i Stanisława BOGUSZEWSKICH oraz zmarłych z rodziny STRUPIECHOWSKICH
   * za śp. Zdzisława RYBAKA
   * za śp. Adama PASIAKA
@@ -61,8 +133,6 @@ title: Intencje mszalne
 * 18.00 + za śp. Jana FILIPIAKA
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -405,7 +475,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
