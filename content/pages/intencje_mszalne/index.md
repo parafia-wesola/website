@@ -68,11 +68,9 @@ title: Intencje mszalne
   * za śp. Krystynę PAZIO
 * 12.00 + za śp. Jana NIKODEMA w 10. rocznicę śmierci
 * *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
-* 18.00 + za śp. Tadeusza ZALEWSKIEGO oraz za Cecylię i Roberta SZYMAŃSKICH w 20. rocznicę śmierci Roberta
+* 18.00 + za śp. Tadeusza ZALEWSKIEGO i w 20 rocznicę śmierci Cecylii i za Roberta SZYMAŃSKICH 
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -475,7 +473,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
