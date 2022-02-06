@@ -2,6 +2,74 @@
 type: text
 title: Intencje mszalne
 ---
+**Niedziela, 6 lutego, V niedziela zwykła**
+
+* 7.00 za parafian
+* 9.00 w 32. rocznicę urodzin Jakuba KOTUNIAKA, dziękując za jego życie z prośbą o dalsze błogosławieństwo oraz za śp. Ryszarda KOTUNIAKA w 26. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za śp. Celinę WIERZBICKĄ (Msza gregoriańska 6/30)
+  * za śp. Henryka SĘKOWSKIEGO
+  * za śp. Lucynę ZALEWSKĄ
+  * za sp. Jana NIKODEMA
+  * za sp. Marię i Jana TORBICZÓW
+  * za śp. Elwirę KOWALSKĄ – SZYLARSKĄ
+  * za śp. Krystynę PAZIO
+* 12.00 + za śp. Jana NIKODEMA w 10. rocznicę śmierci
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Tadeusza ZALEWSKIEGO oraz za Cecylię i Roberta SZYMAŃSKICH w 20. rocznicę śmierci Roberta
+
+**Poniedziałek, 7 lutego**
+
+* 7.00 + za śp. Tomasza CZARNOCKIEGO ( intencja od Anny Czarnockiej)
+* 18.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 7/30)
+
+**Wtorek, 8 lutego, Św. Hieronima Emilianiego**
+
+* 7.00 + za śp. Zdzisława RYBAKA w miesiąc po pogrzebie
+* Poza parafią + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 8/30)
+* 18.00 + za śp. Franciszka w 23 rocznice śmierci oraz Władysławę i Marię WIELGO
+
+**Środa, 9 lutego,**
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 9/30)
+* 18.00 z okazji urodzin Ani o wszelkie łaski Boże dla niej i jej rodziny
+
+**Czwartek, 10 lutego, Św. Scholastyki, dziewicy, *wspomnienie***
+
+* 7.00 + za śp. Adama PASIAKA w miesiąc po pogrzebie
+* 18.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 10/30)
+
+**Piątek, 11 lutego, Najświętszej Maryi Panny z Lourdes, *wspomnienie***
+
+* 7.00 + za śp. Władysława MALINOWSKIEGO
+* Poza parafią + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 11/30)
+* 18.00 + za śp. Genowefę i Edwarda GOLIANEK o radość nieba
+
+**Sobota, 12 lutego,**
+
+* 7.00 + za śp. Czesławę PASIŃSKĄ w miesiąc po pogrzebie
+* Poza parafią + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 12/30)
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Eugeniusza KAŁASZA w 20. rocznicę śmierci
+
+**Niedziela, 13 lutego, VI niedziela zwykła**
+
+* 7.00 + za śp. Teodorę i Stanisława BAREJA
+* 9.00 + za śp. Mariannę ZDANOWICZ w 4. rocznicę śmierci o życie wieczne w Niebie
+* 10.30 intencja zbiorowa:
+
+  * za śp. Celinę WIERZBICKĄ (Msza gregoriańska 13/30)
+  * za śp. Józefa KMIECIKA
+  * za śp. Marka RYTLA
+* 12.00 + w 15. rocznicę śmierci Stanisławy, w 7. rocznicę śmierci Wacławy i 4. rocznicę śmierci Tadeusza GOSKÓW oraz za zmarłych z rodziny KACZANÓW i GOSKÓW
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 w 50. rocznicę ślubu Hanny i Mariana DĄBROWSKICH z prośbą o Boże błogosławieństwo, zdrowie dla nich i ich dzieci
+
+<!--EndFragment-->
+
+
+
 <!--StartFragment-->
 
 **Niedziela, 30 stycznia, IV niedziela zwykła**
@@ -473,7 +541,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
