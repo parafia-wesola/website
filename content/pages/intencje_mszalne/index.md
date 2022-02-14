@@ -2,6 +2,78 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**Niedziela, 13 lutego, VI niedziela zwykła**
+
+* 7.00 + za śp. Teodorę i Stanisława BAREJA
+* 9.00 + za śp. Mariannę ZDANOWICZ w 4. rocznicę śmierci o życie wieczne w Niebie
+* 10.30 intencja zbiorowa:
+
+  * za parafian
+  * za śp. Józefa KMIECIKA
+  * za śp. Marka RYTLA
+* 12.00 + w 15. rocznicę śmierci Stanisławy, w 7. rocznicę śmierci Wacławy i 4. rocznicę śmierci Tadeusza GOSKÓW oraz za zmarłych z rodziny KACZANÓW i GOSKÓW
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 w 50. rocznicę ślubu Hanny i Mariana DĄBROWSKICH z prośbą o Boże błogosławieństwo, zdrowie dla nich i ich dzieci
+
+**Poniedziałek, 14 lutego, świętych Cyryla, Mnicha i Metodego biskupa, patronów Europy*, święto***
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 14/30)
+* 18.00 + za śp. Stanisławę i Aleksandra GŁÓWKA\
+  (walentynki: modlitwa za osoby samotne)
+
+**Wtorek, 15 lutego**
+
+* 7.00 dziękczynna z prośbą o opiekę nad rodziną SADLEJ
+* 18.00 + za śp. Celinę WIERZBICKĄ (15/30)
+
+**Środa, 16 lutego,**
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (16/30)
+* 18.00 + za śp. Pelagię i Stefana ŁASKAWIEC oraz Zofię, Halinę i Marię z domu ŁASKAWIEC
+
+**Czwartek, 17 lutego**
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (17/30)
+* 18.00+ za śp. Roberta oraz rodziców Zofię i Józefa o pokój duszy
+
+**Piątek, 18 lutego**
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (18/30)
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 19 lutego,**
+
+* 7.00 + za śp. Henryka SĘKOWSKIEGO miesiąc po pogrzebie
+* 7.00 + za śp. Celinę WIERZBICKĄ (19/30)
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za duszę śp. Stanisławy SPOCZYŃSKIEJ oraz zmarłych z rodzin SPOCZYŃSKICH, WÓDCZYŃSKICH\
+  i POTĘGÓW
+
+**Niedziela, 20 lutego, VII niedziela zwykła**
+
+* 7.00 za parafian
+* 9.00 + za śp. Wiesława SIUCIAK w 5. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za śp. Celinę WIERZBICKĄ (20/30)
+  * za śp. Zofię i Tadeusza TOKARSKICH oraz Barbarę i Franciszka GADOMSKICH
+  * za śp. Elżbietę POTEREK w 1. rocznicę śmierci
+  * za śp. Jana JANICZ w 36. rocznicę śmierci
+  * za ś. Kazimierza SOSNKOWSKIEGO
+  * za śp. Teresę BENDOWSKĄ
+  * za śp. Hannę CHCHULSKĄ
+  * za śp. Konstantego WIŚNIEWSKIEGO
+* 12.00 + za śp. Przemysława KOWALCZYKA w 5. rocznicę śmierci
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Macieja MICHNIEWICZA, naszego brata w Panu. Wdzięczni za jego konkretną braterska miłość\
+  i łaski, jakie za jego pośrednictwem otrzymaliśmy, prosimy o dar wiecznego szczęścia w Trój-Jedynym Bogu królującym w Niebieskim Jeruzalem.
+
+<!--EndFragment-->
+
+
+
 **Niedziela, 6 lutego, V niedziela zwykła**
 
 * 7.00 za parafian
@@ -67,8 +139,6 @@ title: Intencje mszalne
 * 18.00 w 50. rocznicę ślubu Hanny i Mariana DĄBROWSKICH z prośbą o Boże błogosławieństwo, zdrowie dla nich i ich dzieci
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -541,7 +611,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
