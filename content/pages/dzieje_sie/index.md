@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Modlitwa o pokój
+  - size: large
     title: Kurs przedmałżeński
   - size: large
     title: 1, 2, 3... Kana - propozycja dla małżeństw
@@ -10,14 +12,9 @@ news:
     title: Walentynki małżeńskie w parafii
   - size: large
     title: Formacja biblijna
-  - size: large
-    title: wizyta duszpasterska
-  - size: large
-    title: Rekolekcje Adwentowe
-  - size: large
-    title: Synod o synodalności 2021-2023
+  - title: wizyta duszpasterska
+    size: medium
   - title: Pamiętajmy!
     size: medium
   - title: Adoracja w weekendy
-    size: medium
 ---
