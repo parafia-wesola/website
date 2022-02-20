@@ -14,7 +14,8 @@ news:
     title: Formacja biblijna
   - title: wizyta duszpasterska
     size: medium
+  - title: Adoracja w weekendy
+    size: medium
   - title: Pamiętajmy!
     size: medium
-  - title: Adoracja w weekendy
 ---
