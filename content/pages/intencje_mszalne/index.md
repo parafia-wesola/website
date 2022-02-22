@@ -4,6 +4,76 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 20 lutego, VII niedziela zwykła**
+
+* 7.00 za parafian
+* 9.00 + za śp. Wiesława SIUCIAK w 5. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za śp. Celinę WIERZBICKĄ (20/30)
+  * za śp. Zofię i Tadeusza TOKARSKICH oraz Barbarę i Franciszka GADOMSKICH
+  * za śp. Elżbietę POTEREK w 1. rocznicę śmierci
+  * za śp. Jana JANICZ w 36. rocznicę śmierci
+  * za śp. Kazimierza SOSNKOWSKIEGO
+  * za śp. Teresę BENDOWSKĄ
+  * za śp. Hannę CHACHULSKĄ
+  * za śp. Konstantego WIŚNIEWSKIEGO
+  * za śp. Jadwigę WILKIEWICZ w 26. rocznicę śmierci
+  * za śp. Ryszarda WIERZBICKIEGO
+* 12.00 + za śp. Przemysława KOWALCZYKA w 5. rocznicę śmierci
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Macieja MICHNIEWICZA, naszego brata w Panu. Wdzięczni za jego konkretną braterską miłość\
+  i łaski, jakie za jego pośrednictwem otrzymaliśmy, prosimy o dar wiecznego szczęścia w Trój-Jedynym Bogu królującym w Niebieskim Jeruzalem.
+
+**Poniedziałek, 21 lutego**
+
+* 7.00+ za śp. Amelię WIELOGÓRSKĄ
+* 18.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 21/30)
+
+**Wtorek, 22 lutego, Katedry św. Piotra Apostoła, *święto***
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 22/30)
+* 18.00 + za śp. Lucynę ZALEWSKĄ w miesiąc po pogrzebie
+
+**Środa, 23 lutego, Św. Polikarpa, biskupa i męczennika, *wspomnienie***
+
+* 7.00 + o zbawienie duszy Roberta dziękując jednocześnie Bogu za dar jego życia i prosząc o Bożę pocieszenie i wszelkie potrzebne łaski dla opłakujących najbliższych zwłaszcza córki i syna.
+* 18.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 23/30)
+
+**Czwartek, 24 lutego,**
+
+* 7.00  + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 24/30)
+* 18.00 + za śp. Adama CHOJECKIEGO
+
+**Piątek, 25 lutego,**
+
+* 7.00 Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej Światłością miłości miłosiernej we wszystkich rodzinach
+* 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 25/30)
+* 18.00 + za śp. Marcina RUŻEWSKIEGO w 5 rocznicę śmierci
+
+**Sobota, 26 lutego**
+
+* 7.00 za Aleksandra GŁÓWKĘ w dniu imienin
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 26/30)
+
+**Niedziela, 27 lutego, VIII niedziela zwykła**
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 27/30)
+* 9.00 + za śp. Barbarę WĄSOWSKĄ
+* 10.30 intencja zbiorowa:
+
+  * za śp. Henryka ZIĘBĘ oraz Teodora i Zygmunta BANASZEK
+  * za zmarłych z rodziny KSIĄŻEK, LASKOWSKICH i ZBRZEŹNIAK
+  * za śp. Jana i Helenę SULIKOWSKICH i zmarłych z rodziny
+* 12.00 za parafian
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 za Tomka PACHECKIEGO w 50 urodziny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 13 lutego, VI niedziela zwykła**
 
 * 7.00 + za śp. Teodorę i Stanisława BAREJA
@@ -71,8 +141,6 @@ title: Intencje mszalne
   i łaski, jakie za jego pośrednictwem otrzymaliśmy, prosimy o dar wiecznego szczęścia w Trój-Jedynym Bogu królującym w Niebieskim Jeruzalem.
 
 <!--EndFragment-->
-
-
 
 **Niedziela, 6 lutego, V niedziela zwykła**
 
@@ -611,7 +679,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
