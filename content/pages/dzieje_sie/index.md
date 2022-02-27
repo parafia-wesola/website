@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Modlitwa o pokój
+  - size: large
     title: Formacja biblijna
   - size: large
     title: Kurs przedmałżeński
