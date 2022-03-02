@@ -4,6 +4,74 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 27 lutego, VIII niedziela zwykła**
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 27/30)
+* 9.00 + za śp. Barbarę WĄSOWSKĄ
+* 10.30 intencja zbiorowa:
+
+  * za śp. Henryka ZIĘBĘ oraz Teodora i Zygmunta BANASZEK
+  * za zmarłych z rodziny KSIĄŻEK, LASKOWSKICH i ZBRZEŹNIAK
+  * za śp. Jana i Helenę SULIKOWSKICH i zmarłych z rodziny
+  * za śp. Barbarę DĄMBSKĄ
+* 12.00 za parafian
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 za Tomka PACHECKIEGO w 50 urodziny
+
+**Poniedziałek, 28 lutego**
+
+* 7.00+ za śp. Elwirę KOWALSKĄ – SZKLARSKĄ w miesiąc po pogrzebie
+* 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 28/30)
+* 18.00 + za śp. Krystynę PAZIO w miesiąc po pogrzebie
+
+**Wtorek, 1 marca**
+
+* 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 29/30)
+* 18.00  Msza św. wypominkowa
+
+**Środa, 2 marca, Środa Popielcowa**
+
+* 7.00 + za śp. Jana SOSNOWSKIEGO w 3. rocznicę śmierci
+* 18.00 + za śp. Teresę GAJEWSKĄ w 2. rocznicę śmierci o łaskę życia wiecznego
+* 19.30 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 30/30)
+
+**Czwartek, 3 marca,**
+
+* 7.00+ za śp. Anielę MALINOWSKĄ
+* 18.00 + za śp. Zofię i Andrzeja SOBÓL w rocznicę śmierci
+
+**Piątek, 4 marca, św. Kazimierza, Królewicza, *święto***
+
+* 7.00 + za śp. Józefa KMIECIKA w miesiąc po pogrzebie
+* 18.00 + za śp. Jana RECHNIO w 6. rocznicę śmierci oraz śp. Mariannę i Bolesława RECHNIO
+
+**Sobota, 5 marca,**
+
+* 7.00 + za śp. Marka RYTLA w miesiąc po pogrzebie
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 K.Ż.R.
+
+**Niedziela, 6 marca, I niedziela Wielkiego Postu**
+
+* 7.00 za parafian
+* 9.00 + za śp. Alicję WITKOWSKĄ w 1. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za śp. Kazimierę LASKOWSKĄ w 1. rocznicę śmierci
+  * za śp. Kazimierza KAŁASZA i zmarłych z rodziny
+  * za śp. Beatę JAMIOŁKOWSKĄ
+  * za śp. Henryka ŁAPIAKA
+  * za śp. Józefę ZAWADZKĄ
+  * za śp. Stanisławę KAMIŃSKĄ
+  * za śp. Jana KLIMM
+  * za śp. Janinę PRZYBYŁEK
+  * za śp. Krystynę ZEN - PATOLETĘ
+* 12.00 + za śp. Teodorę i Stanisława BAREJA
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Zbigniewa REZULSKIEGO w 26. rocznicę śmierci
+
+<!--EndFragment--><!--StartFragment-->
+
 **Niedziela, 20 lutego, VII niedziela zwykła**
 
 * 7.00 za parafian
@@ -679,7 +747,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
