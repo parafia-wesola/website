@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Pomoc dla Ukrainy
+  - size: large
     title: Modlitwa o pokój
   - size: large
     title: Tymoteusz-weekend ewangelizacji dzieci
