@@ -24,7 +24,6 @@ Wszyscy jesteśmy wstrząśnięci wojną w **Ukrainie**. Wielu z nas próbuje na
   Chcielibyśmy stworzyć bazę rodzin, które przyjęły u siebie uchodźców, aby móc być z nimi w kontakcie. Takie rodziny lub sami zainteresowani mogą się do nas zgłaszać przez formularz, na podany adres mail lub telefon.
 * **Módlmy się**\
   Ważne, byśmy do tego dramatu podeszli jako ludzie wierzący: poprzez ufną modlitwę i podjęcie konkretnych działań, unikając paniki, wystrzegając się dezinformacji, starając się o budowanie pokoju w sobie i wokół siebie!\
-  \
   Włączajmy się razem w modlitwę. Papież Franciszek apeluje do wszystkich: „Jezus nauczył nas, że na diaboliczny bezsens przemocy odpowiada się orężem Boga: modlitwą i postem. Niech Królowa Pokoju zachowa świat od szaleństwa wojny”
 * **Kontakt**\
   Postaramy się odpowiedzieć w miarę możliwości na wszelkie pytania \
