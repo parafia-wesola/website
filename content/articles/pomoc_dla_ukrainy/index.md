@@ -18,8 +18,8 @@ Wszyscy jesteśmy wstrząśnięci wojną w **Ukrainie**. Wielu z nas próbuje na
   Dziękujemy za każde wsparcie i wasze otwarte serca. Nieśmy razem pomoc naszym Braciom i Siostrom z Ukrainy.
 * **Pomoc**\
   prosimy aby nam zgłaszać potrzeby rodzin z Ukrainy, które przyjmujmy u siebie lub pomoc, którą możemy ofiarować.  \
-  [dla potrzebujących](<* https://bit.ly/potrzebuje-Ukraina>)\
-  [dla wolontariuszy](<* https://bit.ly/pomagam-Ukraina>)
+  [dla potrzebujących](https://bit.ly/potrzebuje-Ukraina)\
+  [dla wolontariuszy](https://bit.ly/pomagam-Ukraina)
 * **Rodziny, które przyjęły uchodźców**\
   Chcielibyśmy stworzyć bazę rodzin, które przyjęły u siebie uchodźców, aby móc być z nimi w kontakcie. Takie rodziny lub sami zainteresowani mogą się do nas zgłaszać przez formularz, na podany adres mail lub telefon.
 * **Módlmy się**\
