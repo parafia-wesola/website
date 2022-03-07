@@ -4,6 +4,75 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 6 marca, I niedziela Wielkiego Postu**
+
+* 7.00 za parafian
+* 9.00 + za śp. Alicję WITKOWSKĄ w 1. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za śp. Kazimierę LASKOWSKĄ w 1. rocznicę śmierci
+  * za śp. Kazimierza KAŁASZA i zmarłych z rodziny
+  * za śp. Beatę JAMIOŁKOWSKĄ
+  * za śp. Henryka ŁAPIAK
+  * za śp. Józefę ZAWADZKĄ
+  * za śp. Stanisławę KAMIŃSKĄ
+  * za śp. Jana KLIMM
+  * za śp. Janinę PRZYBYŁEK
+  * za śp. Krystynę ZEN – PATOLETA
+  * za śp. Marka GRABSKIEGO o łaskę Nieba
+  * za śp. Andrzeja w 3. rocznicę śmierci i za rodziców Ludwikę i Wiktora
+* 12.00 + za śp. Teodorę i Stanisława BAREJA
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Zbigniewa REZULSKIEGO w 26. rocznicę śmierci
+
+**Poniedziałek, 7 marca**
+
+* 7.00+ za śp. Witolda w miesiąc po pogrzebie
+* 18.00 + za śp. Krystynę i Romana KWIATKOWSKICH
+
+**Wtorek, 8 marca**
+
+* 7.00 + za śp. Teresę BENDOWSKĄ w miesiąc po pogrzebie
+* 18.00 + za zmarłych Lilię i Tadeusza ROGOZIŃSKICH i za zmarłych z rodziny ROGOZIŃSKICH\
+  i GŁOWACKICH
+
+**Środa, 9 marca**
+
+* 7.00 + za śp. Hannę CHACHULSKĄ w miesiąc po pogrzebie oraz Mieczysława i Eleonorę CHACHULSKICH
+* 18.00 + za duszę syna Grzegorza SOBIECH w dniu jego urodzin
+
+**Czwartek, 10 marca,**
+
+* 7.00z prośbą o zdrowie dla taty i męża Józefa JĘDRZEJEWSKIEGO
+* 18.00 + za śp. Mirosławę i Apolinarego MATUSZEWSKICH oraz zmarłych z ich rodzin
+
+**Piątek, 11 marca,**
+
+* 7.00 + za śp. Konstantego WIŚNIEWSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Annę ŁUCZAJ
+
+**Sobota, 12 marca,**
+
+* 7.00 + za duszę syna Grzegorza w dniu jego imienin
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Władysława w 10. rocznicę śmierci i Stanisławę PIOTRAK oraz za zmarłych z rodziny PIOTRAK \
+  i GAŁĄZKA
+
+**Niedziela, 13 marca, II niedziela Wielkiego Postu**
+
+* 7.00 + za śp. Józefę i Ludwika ŚMIGIELSKICH oraz Marię i Jacka MICHNIEWSKICH
+* 9.00 + za śp. Krystynę BURZEC
+* 10.30 za parafian
+* 12.00 błagalno-dziękczynna w rocznice urodzin Izabeli i Andrzeja KOTUNIAKÓW oraz ich wnuka Antoniego
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + o łaskę Nieba dla śp. Edwarda KUCHNIO oraz Anny i Stanisława GRAJKOWSKICH
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **Niedziela, 27 lutego, VIII niedziela zwykła**
 
 * 7.00 + za śp. Celinę WIERZBICKĄ (Msza gregoriańska 27/30)
@@ -747,7 +816,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
