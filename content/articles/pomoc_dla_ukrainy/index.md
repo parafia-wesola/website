@@ -42,5 +42,7 @@ Wszyscy jesteśmy wstrząśnięci wojną w **Ukrainie**. Wielu z nas próbuje na
     https://um.warszawa.pl/-/zbiorka-trwa-co-i-gdzie-mozna-przynosic
   * *Bezpłatna pomoc medyczna dla osób z Ukrainy:*
     https://www.znanylekarz.pl/dla-ukrainy
+  * *infolinia NFZ o zasadach udzielania świadczeń zdrowotnych uchodźcom z Ukrainy*\
+    https://www.facebook.com/ofrpb/posts/324296769736828
 
 <!--EndFragment-->
