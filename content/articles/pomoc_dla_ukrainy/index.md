@@ -32,15 +32,15 @@ Wszyscy jesteśmy wstrząśnięci wojną w **Ukrainie**. Wielu z nas próbuje na
   **tel**.: 516 549 797
 * **Potrzebne linki**
 
-  * *Stołeczna strona pomocowa:*
+  * *Stołeczna strona pomocowa:*\
     https://warszawa19115.pl/dla-obywateli-ukrainy
-  * *Przydatne info dla osób z Ukrainy przyjeżdżających do Warszawy:*
+  * *Przydatne info dla osób z Ukrainy przyjeżdżających do Warszawy:*\
     https://docs.google.com/document/d/1_i9LQubz_vqP8VYfB7DKIK2_dhjsg_tuEx1Z08bf1L8/edit
-  * *Rządowa strona pomocowa:*
+  * *Rządowa strona pomocowa:*\
     https://pomagamukrainie.gov.pl/#section4
-  * *Zbiórka darów rzeczowych adresy Warszawa:*
+  * *Zbiórka darów rzeczowych adresy Warszawa:*\
     https://um.warszawa.pl/-/zbiorka-trwa-co-i-gdzie-mozna-przynosic
-  * *Bezpłatna pomoc medyczna dla osób z Ukrainy:*
+  * *Bezpłatna pomoc medyczna dla osób z Ukrainy:*\
     https://www.znanylekarz.pl/dla-ukrainy
   * *infolinia NFZ o zasadach udzielania świadczeń zdrowotnych uchodźcom z Ukrainy*\
     https://www.facebook.com/ofrpb/posts/324296769736828
