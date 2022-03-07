@@ -14,6 +14,6 @@ cover: modlitwa_o_pokoj.png
 
 Módlmy się o pokój w Ukrainie, w Polsce i na świecie..
 
-Zapraszamy na Adorację Najświętszego Sakramentu w intencji pokoju w Środę Popielcową po drugiej Mszy św. o 19.30. Można zapisywać się na dyżury modlitewne od 20.30 do 24.00. [pod linkiem](https://docs.google.com/spreadsheets/d/1A7pctqe1Jf2X9_cezfOx95wG0rq-IT4ws64WABtRrlU/edit?usp=sharing)
+Zapraszamy w każdy wtorek Wielkiego Postu od 21.15 do 23.00 na Adorację Najświętszego Sakramentu w intencji pokoju  Można zapisywać się na dyżury modlitewne [pod linkiem](https://docs.google.com/spreadsheets/d/1A7pctqe1Jf2X9_cezfOx95wG0rq-IT4ws64WABtRrlU/edit?usp=sharing)
 
 <!--EndFragment-->
