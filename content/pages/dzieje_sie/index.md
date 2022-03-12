@@ -5,7 +5,7 @@ news:
   - size: large
     title: Pomoc dla Ukrainy
   - size: large
-    title: Droga Krzyżowa w intencji pokoju w Ukrainie
+    title: Rekolekcje Wielkopostne - Radość Ewangelii
   - size: large
     title: Modlitwa o pokój
   - size: large
