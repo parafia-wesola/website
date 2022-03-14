@@ -9,8 +9,6 @@ news:
   - size: large
     title: Ukraińskie spotkania
   - size: large
-    title: Modlitwa o pokój
-  - size: large
     title: Tymoteusz-weekend ewangelizacji dzieci
   - title: Adoracja w weekendy
     size: medium
