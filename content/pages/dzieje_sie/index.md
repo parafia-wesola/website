@@ -7,11 +7,11 @@ news:
   - size: large
     title: Rekolekcje Wielkopostne - Radość Ewangelii
   - size: large
+    title: Ukraińskie spotkania
+  - size: large
     title: Modlitwa o pokój
   - size: large
     title: Tymoteusz-weekend ewangelizacji dzieci
-  - size: large
-    title: Formacja biblijna
   - title: Adoracja w weekendy
     size: medium
   - title: Pamiętajmy!
