@@ -4,6 +4,82 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 13 marca, II niedziela Wielkiego Postu (rekolekcje wielkopostne)**
+
+* 7.00 + za śp. Józefę i Ludwika ŚMIGIELSKICH oraz Marię i Jacka MICHNIEWSKICH
+* 9.00 + za śp. Krystynę BURZEC
+* 10.30 za parafian
+* 12.00 błagalno-dziękczynna w rocznicę urodzin Izabeli i Andrzeja KOTUNIAKÓW oraz ich wnuka Antoniego
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + o łaskę Nieba dla śp. Edwarda KUCHNIO oraz Anny i Stanisława GRAJKOWSKICH
+* *19.00 Rekolekcyjny wieczór wdzięczności*
+
+**Poniedziałek, 14 marca (rekolekcje wielkopostne)**
+
+* 7.00+ za śp. Beatę JAMIOŁKOWSKĄ w miesiąc po pogrzebie
+* 10.30 + za duszę śp. Grzegorza w dniu jego imienin oraz za śp. Halinę, Wacława, Janusza i Krzysztofa RYCHLIK
+* *18.00 – 18.50 Adoracja Najświętszego Sakramentu*
+* 19.00 w 2. rocznicę urodzin Klary POLAK z prośbą o Boże błogosławieństwo i opiekę Matki Bożej oraz za rodziców: Alicję i Mateusza oraz małego Franka
+* *20.00 Rekolekcyjny wieczór uwielbienia*
+
+**Wtorek, 15 marca (rekolekcje wielkopostne)**
+
+* 7.00 + za śp. Józefę ZAWADZKĄ w miesiąc po pogrzebie
+* 10.30 z okazji 18. urodzin Iwo o potrzebne łaski dla niego i dla całej rodziny
+* *18.00 – 18.50 Adoracja Najświętszego Sakramentu*
+* 19.00+ o spokój duszy Bożeny i Roberta oraz rodziców Zofii i Józefa
+* *20.00 Rekolekcyjny wieczór uważności – wieczór spowiedzi*
+
+**Środa, 16 marca (rekolekcje wielkopostne)**
+
+* 7.00 + za śp. Henryka ŁAPIAKA w miesiąc po pogrzebie
+* 10.30
+* *18.00 – 18.50 Adoracja Najświętszego Sakramentu*
+* 19.00 + za śp. Stanisławę KAMIŃSKĄ w miesiąc po pogrzebie
+* *20.00 Rekolekcyjny wieczór modlitwy o uzdrowienie*
+
+**Czwartek, 17 marca*, Św. Patryka, biskupa , wspomnienie***
+
+* 7.00+ za śp. Ewę
+* 18.00 w dniu imienin mojego syna Zbigniewa – dziękczynna za opiekę Bożą, z prośbą o dalsze błogosławieństwo w wypełnianiu woli Bożej
+
+**Piątek, 18 marca,**
+
+* 7.00 + za śp. Natalię CHARAŃCZUK
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 19 marca, Św. Józefa, Oblubieńca Najświętszej Maryi Panny, uroczystość**
+
+* 7.00 + za śp. Ryszarda ŁAPIŃSKIEGO, Mirosława MACHNACKIEGO oraz zmarłych z rodziny WIŚNIEWSKICH
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Józefa BRZOSTOWSKIEGO
+
+**Niedziela, 20 marca, III niedziela Wielkiego Postu**
+
+* 7.00 za parafian
+* 9.00 + za śp. Józefa BOBRUK
+* 10.30 intencja zbiorowa:
+
+  * za śp. Halinę WITYŃSKĄ
+  * za śp. Helenę Barbarę REDEK rok po śmierci
+  * za śp. Jerzego DĄBROWSKIEGO
+  * za śp. Wojciecha, Józefa, Stefana, Stanisława i Józefę SZCZEPEK oraz Eugeniusza MROCZEK
+  * za śp. Kornela KOWALCZYKA w 12. rocznicę odejścia do wieczności i zmarłych z rodziny KOWALCZYKÓW
+  * za śp. Janinę i Józefa KROPIWIEC
+  * za sp. Piotra i Czesławę KIELCZYK oraz zmarłych z rodziny KAŁASZÓW
+  * za śp. Józefa BARSZCZA
+  * za śp. Kazimierza KOWALA w 1. rocznicę śmierci oraz z okazji urodzin i imienin
+  * za śp. Adama GADOMSKIEGO
+  * za śp. Piotra GRYZA
+  * za sp. Wacława i Kazimierę KWIEK
+* 12.00 + za śp. Genowefę i Józefa LECZKOWSKICH
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Zofię i Józefa RAWSKICH i zmarłych z rodziny RAWSKICH, SOBOCINSKICH i CHROSTOWSKICH
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 6 marca, I niedziela Wielkiego Postu**
 
 * 7.00 za parafian
@@ -68,8 +144,6 @@ title: Intencje mszalne
 * 18.00 + o łaskę Nieba dla śp. Edwarda KUCHNIO oraz Anny i Stanisława GRAJKOWSKICH
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -816,7 +890,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
