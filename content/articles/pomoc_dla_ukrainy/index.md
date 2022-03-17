@@ -44,5 +44,9 @@ Wszyscy jesteśmy wstrząśnięci wojną w **Ukrainie**. Wielu z nas próbuje na
     https://www.znanylekarz.pl/dla-ukrainy
   * *infolinia NFZ o zasadach udzielania świadczeń zdrowotnych uchodźcom z Ukrainy*\
     https://www.facebook.com/ofrpb/posts/324296769736828
+  * Szkoła Ukraińska:\
+    [https://wesola.um.warszawa.pl/-/edukacja-ukraina-lista-szkol](https://wesola.um.warszawa.pl/-/edukacja-ukraina-lista-szkol?fbclid=IwAR3NRydWT299m7CkAKXpKsTGs7Dyskj7GNmMzyCS9pF-deQblKZ14k9vY_w)
+
+    <!--EndFragment-->
 
 <!--EndFragment-->
