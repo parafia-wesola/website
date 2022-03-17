@@ -4,6 +4,8 @@ title: Dzieje się
 news:
   - size: large
     title: Pomoc dla Ukrainy
+  - title: Pamiętajmy!
+    size: medium
   - size: large
     title: Rekolekcje Wielkopostne - Radość Ewangelii
   - size: large
@@ -12,6 +14,6 @@ news:
     title: Tymoteusz-weekend ewangelizacji dzieci
   - title: Adoracja w weekendy
     size: medium
-  - title: Pamiętajmy!
-    size: medium
+  - size: large
+    title: Modlitwa o pokój
 ---
