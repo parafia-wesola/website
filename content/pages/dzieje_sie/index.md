@@ -11,8 +11,8 @@ news:
   - size: large
     title: Modlitwa o pokój
   - title: Tymoteusz-weekend ewangelizacji dzieci
-    size: medium
-  - size: large
+    size: large
+  - size: medium
     title: Adoracja w weekendy
   - title: Pamiętajmy!
     size: medium
