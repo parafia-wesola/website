@@ -4,6 +4,85 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 20 marca, III niedziela Wielkiego Postu**
+
+* 7.00 za parafian
+* 9.00 + za śp. Józefa BOBRUK
+* 10.30 intencja zbiorowa:
+
+  * za śp. Halinę WITYŃSKĄ
+  * za śp. Helenę Barbarę REDEK rok po śmierci
+  * za śp. Jerzego DĄBROWSKIEGO
+  * za śp. Wojciecha, Józefa, Stefana, Stanisława i Józefę SZCZEPEK oraz Eugeniusza MROCZEK
+  * za śp. Kornela KOWALCZYKA w 12. rocznicę odejścia do wieczności i zmarłych z rodziny KOWALCZYKÓW
+  * za śp. Janinę i Józefa KROPIWIEC
+  * za sp. Piotra i Czesławę KIELCZYK oraz zmarłych z rodziny KAŁASZÓW
+  * za śp. Józefa BARSZCZA
+  * za śp. Kazimierza KOWALA w 1. rocznicę śmierci oraz z okazji urodzin i imienin
+  * za śp. Adama GADOMSKIEGO
+  * za śp. Piotra GRYZA
+  * za sp. Wacława i Kazimierę KWIEK
+  * za śp. Józefa WRÓBLA w 11 rocznicę śmierci
+  * O błogosławieństwo Bożę na każdy dzień życia, o opiekę Matki Bożej i św. Józefa z okazji urodzin i imienin (od mamy i brata z rodziną)
+* 12.00 + za śp. Genowefę i Józefa LECZKOWSKICH
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Zofię i Józefa RAWSKICH i zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
+
+**Poniedziałek, 21 marca,**
+
+* 7.00+ za śp. Weronikę i Wincentego CICHOWLAS
+* 18.00 + za śp. Franciszka, Kazimierza i Kazimierę GOŁĘDOWSKICH
+
+**Wtorek, 22 marca,**
+
+* 7.00 o Miłosierdzie Boże przez wstawiennictwo Św. Józefa dla Rodziny
+* 18.00+ za śp. Janinę WIERZBOWSKĄ w 11 rocznicę śmierci oraz za śp. Zdzisława i Roberta WIERZBOWSKICH
+
+**Środa, 23 marca,**
+
+* 7.00 + za śp. Jana KLIMMA w miesiąc po pogrzebie
+* 18.00 + za śp. Janinę SZCZUCIŃSKĄ w 4. rocznicę śmierci
+
+**Czwartek, 24 marca*,***
+
+* 7.00+ za śp. Janinę PRZYBYŁEK w miesiąc po pogrzebie
+* 18.00 + za śp. Andrzeja SMERECZYŃSKIEGO w 15. rocznicę śmierci o dar Nieba i za śp. Annę i Władysława SMERECZYŃSKICH
+
+**Piątek, 25 marca, Zwiastowanie Pańskie, *uroczystość***
+
+* 7.00 podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością miłości miłosiernej we wszystkich rodzinach
+* 10.30 W intencji pokoju w Ukrainie oraz o nawrócenie Rosji
+* 17.00 Akt Zawierzenia Rosji i Ukrainy Niepokalanemu Sercu Maryi
+* 18.00 w intencji Wspólnoty Zwiastowanie
+
+**Sobota, 26 marca,**
+
+* 7.00 + za śp. Ryszarda w 5. rocznicę śmierci
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Bogdana i Irenę BIAŁYCH
+
+**Niedziela, 27 marca, IV niedziela Wielkiego Postu**
+
+* 7.00 o Bożą opiekę nad rodziną SADLEJ, o wszelkie łaski, a szczególnie o łaskę zdrowia dla wszystkich członków rodziny
+* 9.00 + za śp. Janinę, Jadwigę, Kazimierza, Edwarda i Czesława z rodziny JAWORSKICH i JACZEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * za śp. Stanisława i Mariannę PIEKARSKICH w 4 rocznicę śmierci
+  * za śp. Ireneusza CZERWIŃSKIEGO w 30 rocznicę śmierci
+  * za śp. Annę GAJEWSKĄ
+  * za śp. Bogumiłę BIENIEK-PASIERB
+  * za śp. śp. Franciszka w 3 rocznicę śmierci oraz za Zofię, Jadwigę i Czesława
+  * za śp. Krystynę Ewę KUBIAK w 3 rocznicę śmierci
+  * w 18 rocznicę śmierci Pawła PRUSKIEGO i zmarłych z rodziny PRUSKICH i RADZISZEWSKICH
+  * Za Dorotę i Karola z okazji urodzin, z prośbą o zdrowie i błogosławieństwo MB
+* 12.00 za parafian
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Wacława w 42. rocznicę śmierci, Kazimierę i Krzysztofa MACIĄŻKÓW oraz Eugeniusza WYSZYŃSKIGO
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 13 marca, II niedziela Wielkiego Postu (rekolekcje wielkopostne)**
 
 * 7.00 + za śp. Józefę i Ludwika ŚMIGIELSKICH oraz Marię i Jacka MICHNIEWSKICH
@@ -890,7 +969,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
