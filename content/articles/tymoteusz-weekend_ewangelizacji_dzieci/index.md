@@ -12,15 +12,12 @@ cover: tymoteusz_2022-1_internet.jpg
 
 **Dzieci 7-9 lat**\
 w dniach 2-3 kwietnia będzie organizowany weekend ewangelizacji dzieci „**Tymoteusz**” dla 7-9 latków (uczniów klas I-III). \
-**Zapisy:** tymoteusz.wesola@gmail.com podając imię i nazwisko, wiek dziecka, adres mail i telefon rodziców. 
+**Sobota 2 kwietnia od 14.30 do 20.15 i niedziela 3 kwietnia od 9.00 do około 13.00** (bez noclegu)\
+\
+**Zapisy:** tymoteusz.wesola@gmail.com podając imię i nazwisko, wiek dziecka, adres mail i telefon rodziców oraz miejsce zamieszkania.\
+\
+**Koszt**: 80-100 zł, dajcie nam znać jeśli pieniądze są przeszkodą. 
 
-**Posługa:**\
-Potrzebujemy też pomocy przy tym weekendzie:\
-**nastolatków 11-13** lat do śpiewów, skeczów i muzyki, \
-**nastolatków 16-18 lat i dorosłych** w prowadzeniu grupek dzieci, jak i w posłudze materialnej: kuchnia, ustawianie sal. 
-
-**kontakt:** tych, którzy chcieliby pomóc w weekendzie Tymoteusz, prosimy o kontakt w zakrystii, telefonicznie lub mailowo z s. Kasią lub z którymś z ojców. 
-
-Zapraszamy! Jest to wspaniały czas ewangelizacji, mówienia dzieciom o Jezusie przez słowa, świadectwa, gry, zabawy, piosenki. **Zaplanowaliśmy pół dnia przygotowania dla tych, którzy będą w posłudze : 12 marca od godz. 9.30 do 14.00.**
+Zapraszamy! Jest to wspaniały czas ewangelizacji, mówienia dzieciom o Jezusie przez słowa, świadectwa, gry, zabawy, piosenki. 
 
 <!--EndFragment-->
