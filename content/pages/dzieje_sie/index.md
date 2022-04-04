@@ -7,9 +7,9 @@ news:
   - size: large
     title: Modlitwa o pokój
   - size: large
+    title: Spotkanie z Tomaszem Terlikowskim
+  - size: large
     title: Ukraińskie spotkania
-  - title: Tymoteusz-weekend ewangelizacji dzieci
-    size: large
   - size: large
     title: Rekolekcje Wielkopostne - Radość Ewangelii
   - size: medium
