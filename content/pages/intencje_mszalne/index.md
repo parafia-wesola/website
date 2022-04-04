@@ -2,6 +2,67 @@
 type: text
 title: Intencje mszalne
 ---
+**Niedziela, 3 kwietnia, V niedziela Wielkiego Postu**
+
+* 7.00 za parafian
+* 9.00 + za śp. Kamilę i Jana WĄSOWSKICH, Annę i Teofila SKIBNIEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * za śp. Stanisławę i Jana HABER i zmarłych z rodziny
+  * za śp. Janinę MIERNIK
+  * za śp. Marię i Halinę CHOJNACKIE
+* 12.00 + za śp. Kazimierza i Zofię RATYŃSKICH
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 17.15 Gorzkie Żale
+* 18.00 + za śp. Antoninę i Franciszka PANUFNIK
+
+**Poniedziałek, 4 kwietnia,**
+
+* 7.00+ za śp. Halinę WITYŃSKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Radosława FUSCH oraz za zmarłych z rodziny FUSCH i STAŃCZAK
+
+**Wtorek, 5 kwietnia,**
+
+* 7.00 + za śp. Annę GAJEWSKĄ w miesiąc po pogrzebie
+* 18.00Msza św. wypominkowa
+
+**Środa, 6 kwietnia,**
+
+* 7.00 
+* 18.00 + za śp. Zofię i Bronisława JASZCZYK i zmarłych z rodziny JASZCZYK i MURASZEWSKICH
+
+**Czwartek, 7 kwietnia*,***
+
+* 7.00
+* 18.00 + za śp. Jerzego JAKUBIUKA w 4. rocznicę śmierci
+
+**Piątek, 8 kwietnia,**
+
+* 7.00 + za sp. Mirosława w 18. rocznicę śmierci
+* 16.30 Droga krzyżowa dla dzieci
+* 18.00 + za śp. Elżbietę STROJNĄ w 3. rocznicę śmierci i Zbigniewa STROJNEGO w 17. rocznicę śmierci
+* 18.40 Droga krzyżowa w terenie
+* 20.00 Koncert Joseph Haydn „Siedem ostatnich słów Chrystusa na krzyżu” Sinfonia Varsavia Camerata i p. Stanisław Banasiuk
+
+**Sobota, 9 kwietnia,**
+
+* 7.00
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 za Kamila w rocznicę Chrztu św.
+
+**Niedziela, 10 kwietnia, Niedziela Palmowa Męki Pańskiej**
+
+* 7.00 + za śp. Helenę i Józefa FELCZUK
+* 9.00 + za zmarłych z rodzin USZYŃSKICH, JAŹWIŃSKICH i SKIBNIEWSKICH
+* 10.30 za parafian
+* 12.00 + za śp. Stanisława PEŁKĘ w 2. rocznicę śmierci i zmarłych z rodziny PEŁKÓW i LEWANDOWSKICH
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 17.15 Gorzkie Żale
+* 18.00 + za śp. Edwarda i Teresę KRUPA w rocznicę śmierci i za śp. Roberta BRYZA
+* 19.30 Spotkanie z p. Tomaszem Terlikowskim „Jaki jest nasz Kościół, jaki będzie i jaki już nie będzie?”
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **Niedziela, 27 marca, IV niedziela Wielkiego Postu**
@@ -1035,7 +1096,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
