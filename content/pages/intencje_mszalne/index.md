@@ -4,6 +4,72 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 27 marca, IV niedziela Wielkiego Postu**
+
+* 7.00 o Bożą opiekę nad rodziną SADLEJ, o wszelkie łaski, a szczególnie o łaskę zdrowia dla wszystkich członków rodziny
+* 9.00 + za śp. Janinę, Jadwigę, Kazimierza, Edwarda i Czesława z rodziny JAWORSKICH i JACZEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * za Dorotę i Karola z okazji urodzin z prośbą o zdrowie i opiekę Matki Bożej
+  * za śp. Stanisława i Mariannę PIEKARSKICH w 4. rocznicę śmierci
+  * za śp. Ireneusza CZERWIŃSKIEGO w 30. rocznicę śmierci
+  * za śp. Annę GAJEWSKĄ
+  * za śp. Bogumiłę BIENIEK-PASIERB
+  * za śp. śp. Franciszka w 3. rocznicę śmierci oraz za Zofię, Jadwigę i Czesława
+  * za śp. Krystynę Ewę KUBIAK w 3. rocznicę śmierci
+  * w 18. rocznicę śmierci Pawła PRUSKIEGO i zmarłych z rodziny PRUSKICH i RADZISZEWSKICH
+  * za śp. Kazimierę i Romana Borowych oraz za śp. Kazimierza Brolawskiego
+* 12.00 za parafian; chrzest Samuel Joachim
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Wacława w 42. rocznicę śmierci, Kazimierę i Krzysztofa MACIĄŻKÓW oraz Eugeniusza WYSZYŃSKIGO
+
+**Poniedziałek, 28 marca,**
+
+* 7.00+ za śp. Krystynę BATYCKĄ w 2. rocznicę śmierci
+* 18.00 + za śp. Wandę MAMCARZ, Leokadię RAUSCH i Stanisławę ZALEWSKĄ
+
+**Wtorek, 29 marca,**
+
+* 7.00 + za śp. Krystynę ZEN-PATOLETA w miesiąc po pogrzebie
+* 18.00+ za śp. Władysławę w 20 rocznicę śmierci oraz Franciszka i Marię WIELGO
+
+**Środa, 30 marca,**
+
+* 7.00 + za sp. Aleksandra ŁUNIEWSKIEGO
+* 18.00 w 14 rocznicę ślubu z prośbą o błogosławieństwo Boże i nawrócenie dla rodziny Marii i Mariusza
+
+**Czwartek, 31 marca*,***
+
+* 7.00
+* 18.00 + za śp. Henryka GRODZKIEGO w 9. rocznicę śmierci
+
+**Piątek, 1 kwietnia,**
+
+* 7.00 + w 5. rocznicę śmierci Grzegorza SOBIECH oraz za rodziców i braci
+* 18.00 + za śp. Eugeniusza STRUPIECHOWSKIEGO w 8. rocznicę śmierci, zmarłych z rodziny oraz za dusze w czyśćcu cierpiące
+
+**Sobota, 2 kwietnia,**
+
+* 7.00 + za śp. Piotra GRYZA w miesiąc po pogrzebie
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 K.Ż.R.
+
+**Niedziela, 3 marca, V niedziela Wielkiego Postu**
+
+* 7.00 za parafian
+* 9.00 + za śp. Kamilę i Jana WĄSOWSKICH, Annę i Teofila SKIBNIEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * za śp. Stanisławę i Jana CHABER i zmarłych z rodziny
+  * za Janinę MIERNIK
+* 12.00 + za śp. Kazimierza i Zofię RATYŃSKICH
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Antoninę i Franciszka PANUFNIK
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 20 marca, III niedziela Wielkiego Postu**
 
 * 7.00 za parafian
@@ -969,7 +1035,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
