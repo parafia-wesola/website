@@ -12,9 +12,7 @@ news:
     title: Ukraińskie spotkania
   - size: large
     title: Rekolekcje Wielkopostne - Radość Ewangelii
-  - size: medium
-    title: Adoracja w weekendy
-  - title: Pamiętajmy!
+  - title: Adoracja w weekendy
     size: medium
   - title: Pamiętajmy!
     size: medium
