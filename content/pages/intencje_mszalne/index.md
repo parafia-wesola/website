@@ -2,6 +2,73 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**Niedziela, 10 kwietnia, Niedziela Palmowa Męki Pańskiej**
+
+* 7.00 + za śp. Helenę i Józefa FELCZUK
+* 9.00 + za zmarłych z rodzin USZYŃSKICH, JAŹWIŃSKICH i SKIBNIEWSKICH
+* 10.30 za parafian
+* 12.00 + za śp. Stanisława PEŁKĘ w 2. rocznicę śmierci i zmarłych z rodziny PEŁKÓW i LEWANDOWSKICH
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 17.15 Gorzkie Żale
+* 18.00 + za śp. Edwarda i Teresę KRUPA w 8. rocznicę śmierci i za śp. Eugeniusza, Roberta i Piotra GRYZÓW
+* 19.30 Spotkanie z p. Tomaszem Terlikowskim „Jaki jest nasz Kościół, jaki będzie i jaki już nie będzie?”
+
+**Wielki Poniedziałek, 11 kwietnia,**
+
+* 7.00+ za śp. Jerzego DĄBROWSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Łukasza, Ryszarda, Stanisławę i Zygmunta KUROWSKICH
+
+**Wielki Wtorek, 12 kwietnia,**
+
+* 7.00 o Błogosławieństwo Boże dla Rafała, Marka i ich rodzin
+* 18.00+ za śp. Mariana ZIELIŃSKIEGO w 16. rocznicę śmierci i zmarłych rodziców
+* 18.40-23.00 Adoracja Najświętszego Sakramentu i spowiedź
+* 20.00 Wieczór pojednania
+
+**Wielka Środa, 13 kwietnia,**
+
+* 7.00 + za śp. Stanisławę i Alfreda CZAPSKICH oraz ich rodziców
+* 18.00 w 4. rocznicę ślubu Krzysztofa i Ewy
+
+**Wielki Czwartek Wieczerzy Pańskiej, 14 kwietnia*,***
+
+*Nie ma Mszy św. o 7.00*
+
+* **19.00 Liturgia Wieczerzy Pańskiej**
+* Do godz. 24.00 Adoracja Najświętszego Sakramentu w Ciemnicy
+
+**Wielki Piątek Męki Pańskiej, 15 kwietnia,**
+
+* 9.00 Jutrznia
+* 9.00-17.30 Adoracja Najświętszego Sakramentu
+* 12.30 Modlitwa w ciągu dnia
+* 15.00 Koronka do Bożego Miłosierdzia i Droga krzyżowa
+* **19.00 Liturgia Męki Pańskiej**
+* Do godz. 24.00 Adoracja Najświętszego Sakramentu
+
+**Wielka Sobota, 16 kwietnia**
+
+* 9.00 Jutrznia
+* 9.00-15.30 Adoracja Najświętszego Sakramentu (kaplica)
+* 9.30-15.00 Błogosławieństwo pokarmów (kościół) / spowiedź (kaplica)
+* **21.00 Wigilia Paschalna i procesja rezurekcyjna**
+
+**Niedziela, 17 kwietnia, Niedziela Zmartwychwstania Pańskiego**
+
+* 7.00
+* 9.00 + za śp. Marię i Jerzego Wąsowskich
+* 10.30 intencja zbiorowa:
+
+  * za śp. Zdzisława LEWANDOWSKIEGO i zmarłych z rodziny LEWANDOWSKICH, PAŹDZIORÓW, KARASIÓW i CUDNYCH
+  * za śp. Marię Teresę CHACHULSKĄ
+  * za śp. Adama PASIAKA
+* 12.00 + za śp. Wojciecha, Józefa, Stefana, Stanisława i Józefę SZCZEPEK oraz za Eugeniusza MROCZKA
+* 18.00 + za śp. Wacławę, Albina i Tadeusza KOSYL i zmarłych z rodziny
+
+<!--EndFragment-->
+
 **Niedziela, 3 kwietnia, V niedziela Wielkiego Postu**
 
 * 7.00 za parafian
@@ -1096,7 +1163,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
