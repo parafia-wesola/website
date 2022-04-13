@@ -5,7 +5,7 @@ news:
   - size: large
     title: Pomoc dla Ukrainy
   - size: large
-    title: Modlitwa o pokój
+    title: Modlitwa w ciemnicy
   - size: large
     title: Spotkanie z Tomaszem Terlikowskim
   - size: large
