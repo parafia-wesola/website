@@ -14,6 +14,4 @@ news:
     title: Rekolekcje Wielkopostne - Radość Ewangelii
   - title: Adoracja w weekendy
     size: medium
-  - title: Pamiętajmy!
-    size: medium
 ---
