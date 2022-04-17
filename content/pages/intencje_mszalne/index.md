@@ -4,6 +4,80 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 17 kwietnia, Niedziela Zmartwychwstania Pańskiego**
+
+* 7.00 
+* 9.00 + za śp. Marię i Jerzego WĄSOWSKICH
+* 10.30 intencja zbiorowa:
+
+  * za śp. Zdzisława LEWANDOWSKIEGO i zmarłych z rodziny LEWANDOWSKICH, PAŹDZIORÓW, KARASIÓW i CUDNYCH
+  * za śp. Marię Teresę CHACHULSKĄ
+  * za śp. Adama PASIAKA
+  * za śp. Wiesławę DUSZYŃSKĄ oraz śp. Adelę i Mariana DYBOWSKICH
+  * za cierpiącą Zofię
+* 12.00 + za śp. Wojciecha, Józefa, Stefana, Stanisława i Józefę SZCZEPEK oraz za śp. Eugeniusza MROCZKA
+
+*Nie ma Adoracji Najświętszego Sakramentu*
+
+* 18.00 + za śp. Wacławę, Albina i Tadeusza KOSYL i zmarłych z rodziny
+
+**Poniedziałek w oktawie Wielkanocy, 18 kwietnia,**
+
+* 7.00za parafian
+* 9.00 błagalno-dziękczynna w rocznicę urodzin Anny i Karoliny KOTUNIAK
+* 10.30 + za śp. Tadeusza ZALEWSKIEGO, Zofię KRYPSKĄ w 1 rocznicę śmierci i za zmarłych z rodziny ZALEWSKICH, SZYMAŃSKICH i KRÓLAKÓW
+* 12.00 + za śp. Stanisława POPOWSKIEGO w 17. rocznicę śmierci i za wszystkich zmarłych z tej rodziny
+* 18.00 Msza św. dziękczynna za lata bogatego i szczęśliwego życia mamy – Mirosławy MIRSKIEJ z okazji ukończenia 102 lat.
+
+**Wtorek w oktawie Wielkanocy, 19 kwietnia,**
+
+* 7.00 + za śp. Janinę MIERNIK w miesiąc po pogrzebie
+* 18.00dziękczynna za 92 lata życia Tadeusza ZBIEĆ
+
+**Środa w oktawie Wielkanocy, 20 kwietnia,**
+
+* 7.00 + za śp. Mariannę, Władysława, Eugeniusza i Honoratę o wieczny pokój
+* 18.00 + za zmarłych z rodziny GODZIMIRSKICH
+
+**Czwartek w oktawie Wielkanocy, 21 kwietnia*,***
+
+* 7.00 o łaskę zdrowia dla Joanny i Kingi
+* 18.00 + za śp. Krystynę i Henryka KRASOWSKICH
+
+**Piątek w oktawie Wielkanocy, 22 kwietnia,**
+
+* 7.00 + za śp. Jerzego TOMASZEWSKIEGO i śp. Henrykę ZAWADZKĄ
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota w oktawie Wielkanocy, 23 kwietnia**
+
+* 7.00 + za śp. Tadeusza SOBCZAKA oraz Ewę i Walentego ŁOMŻĘ
+
+*Nie ma Adoracji Najświętszego Sakramentu*
+
+* 16.00 Msza ślubna: Agata Szmurło i Damian Pawlata
+* 18.00 + za śp. Marka KAZIMIERCZAKA
+
+**II niedziela wielkanocna czyli Miłosierdzia Bożego, 24 kwietnia,**
+
+* 7.00 o łaskę i błogosławieństwo dla Julii na maturze
+* 9.00 + za śp. Marka RYTLA
+* 10.30 intencja zbiorowa:
+
+  * z okazji urodzin INKI o Boże błogosławieństwo
+  * za śp. Piotra GRYZA od współpracowników ze Strykowa
+  * w 1 rodzinę śmierci Teresy PIETRZAK i za zmarłych z rodziny
+  * za śp. Celinę PARCZEWSKĄ
+  * za śp. Jerzego KMIECIK z okazji rocznicy urodzin i imienin
+  * za śp. Zbigniewa NOWOCIN w 3. rocznicę śmierci
+* 12.00 za parafian
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Marka GRABSKIEGO i zmarłych z rodziny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 10 kwietnia, Niedziela Palmowa Męki Pańskiej**
 
 * 7.00 + za śp. Helenę i Józefa FELCZUK
@@ -1163,7 +1237,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
