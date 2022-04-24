@@ -5,10 +5,6 @@ news:
   - size: large
     title: Pomoc dla Ukrainy
   - size: large
-    title: Modlitwa w ciemnicy
-  - size: large
-    title: Spotkanie z Tomaszem Terlikowskim
-  - size: large
     title: Ukraińskie spotkania
   - size: large
     title: Rekolekcje Wielkopostne - Radość Ewangelii
