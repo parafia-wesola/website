@@ -5,7 +5,7 @@ news:
   - size: large
     title: Pomoc dla Ukrainy
   - size: large
-    title: Życzenia Wielkanocne
+    title: życzenia Wielkanocne
   - size: large
     title: Ukraińskie spotkania
   - size: large
