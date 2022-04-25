@@ -4,6 +4,74 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**II niedziela wielkanocna czyli Miłosierdzia Bożego, 24 kwietnia,**
+
+* 7.00 o łaskę i błogosławieństwo dla Julii na maturze
+* 9.00 + za śp. Marka RYTLA
+* 10.30 intencja zbiorowa:
+
+  * z okazji urodzin INKI o Boże błogosławieństwo
+  * z okazji urodzin Pauliny o zdrowie i opiekę Matki Bożej dla niej i jej rodziny
+  * za śp. Marię i Stefana RADZKICH oraz za śp. Annę i Mirosławę
+  * za śp. Piotra GRYZA od współpracowników ze Strykowa
+  * w 1 rodzinę śmierci Teresy PIETRZAK i za zmarłych z rodziny
+  * za śp. Celinę PARCZEWSKĄ
+  * za śp. Jerzego KMIECIK z okazji rocznicy urodzin i imienin
+  * za śp. Zbigniewa NOWOCIN w 3. rocznicę śmierci
+  * za śp. Wiesławę DUSZYŃSKĄ oraz za śp. Adelę i Mariana DYBOWSKICH
+* 12.00 za parafian
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Marka GRABSKIEGO i zmarłych z rodziny
+
+**Poniedziałek, 25 kwietnia, Św. Marka Ewangelisty, *święto***
+
+* 7.00+ za śp. Mirosława JANICKIEGO
+* 18.00 Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej Światłością miłości miłosiernej we wszystkich rodzinach
+
+**Wtorek, 26 kwietnia, Św. Wojciecha, biskupa i męczennika, głównego patrona Polski, *uroczystość***
+
+* 7.00 + o spokój duszy śp. Bogusławy SULIŃSKIEJ
+* 18.00dziękczynna z okazji 25. rocznicy ślubu Mariusza i Eli z prośbą o dalsze błogosławieństwo
+
+**Środa, 27kwietnia,**
+
+* 7.00 
+* 18.00 + za śp. Tadeusza DIMITRIEWA i Tadeusza MANTAJA
+
+**Czwartek, 28kwietnia*,***
+
+* 7.00
+* 18.00 + za śp. Janinę ZIELIŃSKĄ w 6 rocznicę śmierci oraz Mariana i Stanisława ZIELINSKICH
+
+**Piątek, 29kwietnia, Św. Katarzyny Sieneńskiej, dziewicy i doktora Kościoła, patronki Europy, *święto***
+
+* 7.00 w 33. rocznicę ślubu Jolanty i Bogdana z prośbą o rozwiązanie problemów z mieszkaniemi o Boże błogosławieństwo
+* 18.00 + za śp. Bogumiłę BIENIEK-PASIERB
+
+**Sobota, 30 kwietnia**
+
+* 7.00 + za śp. Marię Halinę CHOJNACKĄ w miesiąc po pogrzebie
+* *15.00-17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Bronisławę ZASTAWNĄ w 11. rocznicę śmierci oraz za śp. Aleksandra i Jana ZASTAWNYCH
+
+**III niedziela wielkanocna, 1 maja,**
+
+* 7.00 za parafian
+* 9.00 + za śp. Tadeusza ZDANOWICZA w 4. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za śp. Jana i Antoninę LECH
+  * za śp. Wojciecha ROSICKIEGO
+  * za śp. Zofię CHAJEC
+  * za śp. Mirosława JANICKIEGO
+* 12.00 w 5 rocznicę ślubu Dominiki i Marcelego z prośbą o Boże błogosławieństwo i o bezpieczny poród
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Kazimierza SIATKOWSKIEGO
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 17 kwietnia, Niedziela Zmartwychwstania Pańskiego**
 
 * 7.00 
@@ -1237,7 +1305,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
