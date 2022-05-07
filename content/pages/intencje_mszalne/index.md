@@ -4,6 +4,68 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**III niedziela wielkanocna, 1 maja,**
+
+* 7.00 za parafian
+* 9.00 + za śp. Tadeusza ZDANOWICZA w 4. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * za śp. Jana i Antoninę LECH
+  * za śp. Wojciecha ROSICKIEGO
+  * za śp. Zofię CHAJEC
+  * za śp. Mirosława JANICKIEGO
+  * za śp. Teresę i Włodzimierza Tuszewskich w 2 rocznicę śmierci Włodzimierza
+  * za zmarłych z rodziny Tuszewskich: Franca, Olgę, Józefa, Irenę, Fabiana, Stanisława, Anielę, Marcina, Annę, Mariana, Leonida, Julię, Marię, Klementynę, Antoninę, Romana, Zygmunta, Karpa
+  * za zmarłych z rodziny Tarasowych i Szwed
+  * intencja dziękczynna z okazji 14. rocznicy ślubu Anny i Euzebiusza z prośbą o dalsze błogosławieństwo dla całej rodziny
+* 12.00 w 5 rocznicę ślubu Dominiki i Marcelego z prośbą o Boże błogosławieństwo i o bezpieczny poród
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Kazimierza SIATKOWSKIEGO
+
+**Poniedziałek, 2 maja, Św. Atanazego, biskupa i doktora Kościoła, *wspomnienie***
+
+* 7.00+ za śp. Janinę, Stefana, Stanisława i Jana SZUBÓW
+* 18.00 + za śp. Antoniego RUTKOWSKIEGO, pierwszego proboszcza par. Opatrzności Bożej w 30 rocznicę śmierci
+
+**Wtorek, 3 maja, Najświętszej Maryi Panny Królowej Polski, głównej Patronki Polski, *uroczystość***
+
+* 7.00 + za spokój duszy śp. Tomasza MAJEWSKIEGO
+* 10.30 + za śp. Macieja i Mirosława MORAWSKICH
+* 18.00msza wypominkowa
+
+**Środa, 4 maja, Św. Floriana, męczennika, patrona diecezji warszawsko-praskiej, *wspomnienie***
+
+* 7.00 + za śp. Mirosława JANICKIEGO
+* 18.00 + za śp. Waldemara NOWIKOW
+
+**Czwartek, 5 maja,**
+
+* 7.00 + za śp. Stanisławę PIOTRAK i Stanisława KĄCA
+* 18.00 + za śp. Józefa, Mariana i Eugenię
+
+**Piątek, 6 maja, Świętych Apostołów Filipa i Jakuba, *święto***
+
+* 7.00 + za śp. Łucję w 5 rocznicę śmierci
+* 18.00 + za śp. Jerzego JADCZAKA w 16 rocznicę śmierci i jego żonę Halinę oraz za zmarłych z rodziny ZYSKOWSKICH i JADCZAKÓW
+
+**Sobota, 7 maja,**
+
+* 7.00 K.Ż.R.
+* 18.00 + za śp. ks. prałata Stefan WYSOCKIEGO w 5 rocznicę śmierci
+
+**IV niedziela wielkanocna, 8 maja,**
+
+* 7.00 + za śp. Stanisławę GŁÓWKĘ w dniu imienin
+* 9.00 + za śp. Wandę, Mariana i Jana SKIBNIEWSKICH
+* 10.30 za parafian
+* 12.00 + za śp. Teodorę i Stanisława BAREJÓW oraz zmarłych z rodziny BAREJÓW i TARASZEWSKICH
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Krzysztofa RAKOWIECKIEGO, za Pawła i zmarłych z rodziny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **II niedziela wielkanocna czyli Miłosierdzia Bożego, 24 kwietnia,**
 
 * 7.00 o łaskę i błogosławieństwo dla Julii na maturze
@@ -1305,7 +1367,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
