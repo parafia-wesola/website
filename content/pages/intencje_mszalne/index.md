@@ -4,6 +4,75 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**IV niedziela wielkanocna, 8 maja,**
+
+* 7.00 + za śp. Stanisławę GŁÓWKĘ w dniu imienin
+* 9.00 + za śp. Wandę, Mariana i Jana SKIBNIEWSKICH
+* 10.30 za parafian
+* 12.00 + za śp. Teodorę i Stanisława BAREJÓW oraz zmarłych z rodziny BAREJÓW i TARASZEWSKICH
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Krzysztofa RAKOWIECKIEGO, za Pawła i zmarłych z rodziny
+
+**Poniedziałek, 9 maja, Św. Stanisława, biskupa i męczennika, głównego patrona Polski, *uroczystość***
+
+* 7.00+ za śp. Marię Teresę CHACHULSKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Marię GONET
+
+**Wtorek, 10 maja,**
+
+* 7.00 
+* 18.00+ za śp. Aleksandra ŁUNIEWSKIEGO
+
+**Środa, 11 maja,**
+
+* 7.00
+* 18.00 + za śp. Krzysztofa SOBIESZUKA w 2. rocznicę śmierci
+
+**Czwartek, 12 maja, Świętych męczenników Nereusza i Achillesa**
+
+* 7.00
+* 18.00 BIERZMOWANIE
+
+**Piątek, 13 maja, Najświętszej Maryi Panny z Fatimy**
+
+* 7.00 + za śp. Celinę PARCZEWSKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Tomasza PIETROWSKIEGO w 3. rocznicę śmierci oraz za śp. Eugeniusza i Jadwigę GUTOWSKICH i zmarłych z rodziny
+* 18.00 o Boże błogosławieństwo i opiekę Matki Bożej dla Piotra Tworka z okazji 60. urodzin
+
+**Sobota, 14 maja, Najświętszej Maryi Panny Łaskawej, głównej Patronki Stolicy, *uroczystość***
+
+* 7.00 + za śp. Bogumiłę w 15. rocznicę śmierci
+* 9.00, 10.30, 12.00, 13.30 Msze pierwszokomunijne
+* 18.00
+
+**V niedziela wielkanocna, 15 maja,**
+
+* 7.00 za parafian
+* 9.00 + za śp. Mieczysława GÓRSKIEGO w 27. rocznicę śmierci oraz za śp. Marię i Barbarę GÓRSKIE
+* 10.30 intencja zbiorowa:
+
+  * w dniu 18. urodzin Zuzi z prośbą o wiele łask Bożych, opiekę Matki Bożej i darów Ducha Św. (intencja\
+    od babci i wujka)
+  * za śp. Michała ŚLIWONIA
+  * za śp. Marylę BUSZYŃSKĄ
+  * za śp. Annę, Stefana i Marka GAWRYŚ
+  * za śp. Irenę RĘBIEJEWSKĄ w 19. rocznicę śmierci
+  * za śp. Zofię i Tadeusza KOŚCIESZA
+  * za śp. Grażynę KRAKOWIAK
+  * za śp. Kazimierza BRODECKIEGO w rocznicę śmierci oraz za zmarłych z rodziny BRODECKICH i PŁOSZAJSKICH
+  * za śp. Włodzimierza MIKOS w 1. rocznicę śmierci i za śp. Czesława MIKOS w zbliżającą się rocznicę śmierci
+  * za śp. Henryka KRUPSKIEGO
+  * za śp. Emilię TREFOŃ
+* 12.00 + za śp. Irenę i Tadeusza JAROSIEWICZÓW oraz za ich rodziców
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Zofię i Józefa RAWSKICH i zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **III niedziela wielkanocna, 1 maja,**
 
 * 7.00 za parafian
@@ -1367,7 +1436,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
