@@ -25,12 +25,12 @@ title: Intencje mszalne
 
 **Środa, 11 maja,**
 
-* 7.00
+* 7.00 o pomyślny przebieg operacji, zdrowie i błogosławieństwo dla Jadwigi
 * 18.00 + za śp. Krzysztofa SOBIESZUKA w 2. rocznicę śmierci
 
 **Czwartek, 12 maja, Świętych męczenników Nereusza i Achillesa**
 
-* 7.00
+* 7.00 o wiarę i Boże błogosławieństwo dla Wojciecha i Joanny oraz ich dzieci
 * 18.00 BIERZMOWANIE
 
 **Piątek, 13 maja, Najświętszej Maryi Panny z Fatimy**
@@ -68,8 +68,6 @@ title: Intencje mszalne
 * 18.00 + za śp. Zofię i Józefa RAWSKICH i zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -1436,7 +1434,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
