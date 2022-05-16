@@ -4,6 +4,76 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**V niedziela wielkanocna, 15 maja,**
+
+* 7.00 za parafian
+* 9.00 + za śp. Mieczysława GÓRSKIEGO w 27. rocznicę śmierci oraz za śp. Marię i Barbarę GÓRSKIE
+* 10.30 intencja zbiorowa:
+
+  * w dniu 18. urodzin Zuzi z prośbą o wiele łask Bożych, opiekę Matki Bożej i darów Ducha Św. (intencja od babci i wujka)
+  * za śp. Michała ŚLIWONIA
+  * za śp. Marylę BUSZYŃSKĄ
+  * za śp. Annę, Stefana i Marka GAWRYŚ
+  * za śp. Irenę RĘBIEJEWSKĄ w 19. rocznicę śmierci
+  * za śp. Zofię i Tadeusza KOŚCIESZA
+  * za śp. Grażynę KRAKOWIAK
+  * za śp. Kazimierza BRODECKIEGO w rocznicę śmierci oraz za zmarłych z rodziny BRODECKICH i PŁOSZAJSKICH
+  * za śp. Włodzimierza MIKOS w 1. rocznicę śmierci i za śp. Czesława MIKOS w zbliżającą się rocznicę śmierci
+  * za śp. Henryka KRUPSKIEGO
+  * za śp. Emilię TREFOŃ
+  * za śp. Krystynę BIELECKĄ w 2. rocznicę śmierci
+* 12.00 + za śp. Irenę i Tadeusza JAROSIEWICZÓW oraz za ich rodziców i ich rodzeństwo
+* *15.00 – 17.50 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Zofię i Józefa RAWSKICH i zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
+
+**Poniedziałek, 16 maja, Św. Andrzeja Boboli, prezbitera i męczennika, patrona Polski i metropolii warszawskiej, *święto***
+
+* 7.00+ za śp. Jadwigę
+* 18.00 + za śp. Mieczysława CZARNOCKIEGO w 6. rocznicę śmierci, śp. Stefanię, Mariana, Mariannę, Michała Pieńkowskich, śp. Rozalię TROĆ oraz Edwarda CZARNOCKIEGO
+
+**Wtorek, 17 maja,**
+
+* 7.00 + za śp. Stanisława, Annę, Jadwigę, Wiesława, Edwarda i Dariusza DOBOSZÓW
+* 18.00+ za śp. Piotra GRYZA
+
+**Środa, 18 maja, Świętego Jana I, papieża i męczennika**
+
+* 7.00 w intencji Marka i Kati o pokój i zgodę w małżeństwie
+* 18.00 + za śp. Marcelego SZCZUCIŃSKIEGO w 10. rocznicę śmierci
+
+**Czwartek, 19 maja,**
+
+* 7.00 o błogosławieństwo Boże dla Pauliny w dniu urodzin
+* 18.00 + za sp. Janinę i Władysława DĄBROWSKICH i ich rodziców
+
+**Piątek, 20 maja, Najświętszej Maryi Panny z Fatimy**
+
+* 7.00 + za śp. Wojciecha ROSICKIEGO w miesiąc po pogrzebie
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 21 maja,**
+
+* 7.00 + za śp. Zofię CHAJEC w miesiąc po pogrzebie
+* 18.00 + za śp. Bolesławę, Jana, Apolonię i wszystkich zmarłych z rodziny SAŁAŃSKICH i BAŁABUCH
+
+**VI niedziela wielkanocna, 22 maja,**
+
+* 7.00 + za śp. Zofię i Kazimierza DAWIDOWICZÓW
+* 9.00 + za śp. Jana LECZKOWSKIEGO
+* 10.30 intencja zbiorowa:
+
+  * o Boże błogosławieństwo dla Michała w dniu 18. urodzin
+  * z okazji imienin Zuzi wszelkich łask Bożych, opieki Matki Bożej i św. Józefa, darów Ducha Świętego (intencja od babci i wujka )
+  * za śp. Stanisława SADOWSKIEGO
+  * za śp. Zofię KOSEWSKĄ
+  * za dusze rodziców Stefanii i Jana oraz za zmarłych z rodziny WITKÓW i KOWALSKICH
+* 12.00 za parafian
+* 18.00 + za śp. Józefa, Janinę, Kazimierę, Jana i Adama CHACIŃSKICH
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **IV niedziela wielkanocna, 8 maja,**
 
 * 7.00 + za śp. Stanisławę GŁÓWKĘ w dniu imienin
@@ -1434,7 +1504,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
