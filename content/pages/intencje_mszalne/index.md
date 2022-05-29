@@ -4,6 +4,74 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**VII niedziela wielkanocna, 29 maja, Wniebowstąpienie Pańskie, *uroczystość***
+
+* 7.00 za parafian
+* 9.00 + za śp. Bronisławę i Antoniego oraz wszystkich zmarłych z rodziny KUBICKICH i PIOTRKOWICZÓW
+* 10.30 intencja zbiorowa:
+
+  * w 34. rocznicę święceń kapłańskich ks. Zbigniewa, dużo łask Bożych na każdy dzień życia, darów Ducha Świętego oraz opieki Matki Bożej i św. Józefa *( intencja od mamy i brata)*
+  * za śp. Zygmunta BILBINA w 9. rocznicę śmierci
+  * za śp. Marię CHOJACKĄ
+  * za śp. Zofię WOŹNIAKOWSKĄ, siostrę Krystynę ZIELIŃSKĄ oraz Wandę i Władysława SZOSTAKÓW
+  * za śp. Markusa BOROWSKIEGO
+  * za śp. Teodozję KOZIOŁ
+  * w 10. rocznicę śmierci Stanisława i w 6. rocznicę śmierci Marianny REZULSKICH
+* 12.00 w intencji matek i ojców seniorów *(PKPS )*
+* 18.00 + za śp. Stanisława WAWRZYNIECKIEGO w 74. rocznicę śmierci oraz śp. Janusza WAWRZYNIECKIEGO w 27. rocznicę śmierci
+
+**Poniedziałek, 30 maja,**
+
+* 7.00+ za śp. Henryka KRUPSKIEGO w miesiąc po pogrzebie
+* 18.00 w 2. rocznicę ślubu Natalii i Marcina dziękczynno-błagalna o błogosławieństwo dla ich rodziny
+
+**Wtorek, 31 maja, Nawiedzenie Najświętszej Maryi Panny, *święto***
+
+* 7.00 + za śp. Marię PEC w rocznicę śmierci
+* 18.00dziękczynna z prośbą o wszelkie łaski dla kapłanów i modlących się członków Margarytki oraz dla rodzin z koła modlitewnego M.B. Szensztackiej
+
+**Środa, 1 czerwca, Św. Justyna, męczennika, *wspomnienie***
+
+* 7.00 dziękczynno-błagalna w 34. rocznicę ślubu Ewy i Jarosława
+* 18.00 + w 20. rocznicę śmierci Kazimierza PRZYBYLSKIEGO oraz za Mariana i Genowefę ŻMUDA
+
+**Czwartek, 2 czerwca, Świętych męczenników Marcelina i Piotra, *wspomnienie***
+
+* 7.00 + za śp. Michała ŚLIWONIA w miesiąc po pogrzebie
+* 18.00 + za śp. Kazimierza SKARŻYŃSKIEGO i wszystkich zmarłych z rodziny oraz za śp. Zofię i Józefa RADZIKOWSKICH i wszystkich zmarłych z rodziny
+
+**Piątek, 3 czerwca, Świętych męczenników Karola Lwangi i Towarzyszy, *wspomnienie***
+
+* 7.00 + za śp. Marylę BUSZYŃSKĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Paulinę, Jana, Stanisława PEŁKÓW, Juliannę, Stanisława PEŁKÓW oraz Annę i Stanisława SZULIM i Czesława SZEWCZAKA
+
+**Sobota, 4 czerwca,**
+
+* 7.00 + za śp. Teresę MOMOT
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 K.Ż.R.\
+  (w modlitwie wiernych: za śp. Wacława MIRSKIEGO w 5. rocznicę śmierci)
+* 20.15 Uwielbienie z dziećmi
+* 21.30 Msza wigilii Zesłania Ducha Świętego
+
+**Niedziela Zesłania Ducha Świętego, 5 czerwca, *uroczystość***
+
+* 7.00 za parafian
+* 9.00 + za śp. Rafała KIELEWSKIEGO
+* 10.30 intencja zbiorowa:
+
+  * za śp. Celinę w 1. rocznicę śmierci oraz śp. Ryszarda WIERZBICKIEGO
+  * za śp. Andrzeja RYCHNOWSKIEGO
+* 12.00 + za śp. Leszka GAŁADYKA i jego rodziców Wacławę i Władysława oraz zmarłych z tej rodziny
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Jerzego WITKOWSKIEGO w 11. rocznicę śmierci\
+  (do modlitwy wiernych za Marysię i Michała w 1. rocznicę ślubu oraz za ich synka Kazika)
+* 19.15 Droga Światła
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **VI niedziela wielkanocna, 22 maja,**
 
 * 7.00 + za śp. Zofię i Kazimierza DAWIDOWICZÓW
@@ -1567,7 +1635,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
