@@ -4,6 +4,69 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**VI niedziela wielkanocna, 22 maja,**
+
+* 7.00 + za śp. Zofię i Kazimierza DAWIDOWICZÓW
+* 9.00 + za śp. Jana LECZKOWSKIEGO
+* 10.30 intencja zbiorowa:
+
+  * o Boże błogosławieństwo dla Michała z okazji 18. urodzin
+  * z okazji imienin Zuzi wszelkich łask Bożych, opieki Matki Bożej i św. Józefa, darów Ducha Świętego (intencja od babci i wujka )
+  * za śp. Stanisława SADOWSKIEGO
+  * za śp. Zofię KOSEWSKĄ
+  * za dusze rodziców Stefanii i Jana oraz za zmarłych z rodziny WITKÓW i KOWALSKICH
+* 12.00 za parafian
+* 18.00 + za śp. Józefa, Janinę, Kazimierę, Jana i Adama CHACIŃSKICH
+
+**Poniedziałek, 23 maja,**
+
+* 7.00+ za śp. Mirosława JANICKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Jana BORUCKIEGO w 4. rocznicę śmierci
+
+**Wtorek, 24 maja, Najświętszej Maryi Panny Wspomożycielki Wiernych, *wspomnienie***
+
+* 7.00 o łaskę zdrowia dla wszystkich członków rodziny SADLEJ
+* 18.00o nawrócenie rodziny Bogu wiadomej
+
+**Środa, 25 maja,**
+
+* 7.00 + za śp. Zofię i Andrzeja ŻURAWSKICH w 10. rocznicę śmierci
+* 18.00 podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością miłości miłosiernej, we wszystkich rodzinach
+
+**Czwartek, 26 maja, Św. Filipa Neri, prezbitera, *wspomnienie***
+
+* 7.00 + za śp. Grażynę KRAKOWIAK w miesiąc po pogrzebie
+* 18.00 + za śp. Annę KRAJEWSKĄ w dniu Matki
+
+**Piątek, 27 maja,**
+
+* 7.00
+* 18.00 + za śp. Juliana DĘBOWCZYKA
+
+**Sobota, 28 maja,**
+
+* 7.00
+* 18.00 + za śp. Krystynę ZBIEĆ w 5. rocznicę śmierci
+
+**VII niedziela wielkanocna, 29 maja, Wniebowstąpienie Pańskie, *uroczystość***
+
+* 7.00 za parafian
+* 9.00 + za śp. Bronisławę i Antoniego oraz wszystkich zmarłych z rodziny KUBICKICH i PIOTRKOWICZÓW
+* 10.30 intencja zbiorowa:
+
+  * w 34. rocznicę święceń kapłańskich ks. Zbigniewa, dużo łask Bożych na każdy dzień życia, darów Ducha Świętego oraz opieki Matki Bożej i św. Józefa *( intencja od mamy i brata)*
+  * za śp. Zygmunta BILBINA w 9. rocznicę śmierci
+  * za śp. Marię CHOJACKĄ
+  * za śp. Zofię WOŹNIAKOWSKĄ, śp. siostrę Krystynę ZIELIŃSKĄ oraz śp. . Wandę i Władysława SZOSTAKÓW
+  * za śp. Markusa BOROWSKIEGO
+  * za śp. Teodozję KOZIOŁ
+* 12.00 w intencji matek i ojców seniorów *(PKPS )*
+* 18.00 + za śp. Stanisława WAWRZYNIECKIEGO w 74. rocznicę śmierci oraz śp. Janusza WAWRZYNIECKIEGO w 27. rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **V niedziela wielkanocna, 15 maja,**
 
 * 7.00 za parafian
@@ -1504,7 +1567,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
