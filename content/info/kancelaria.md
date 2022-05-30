@@ -3,7 +3,7 @@ type: info
 title: kancelaria parafialna
 id: kancelaria_parafialna
 ---
-W poniedziałek, 9 maja, kancelaria parafialna będzie wyjątkowo nieczynna. Przepraszamy za utrudnienia. \
+W poniedziałek, 30 maja, kancelaria parafialna będzie wyjątkowo nieczynna. Przepraszamy za utrudnienia. \
 W sprawach pilnych prosimy o kontakt telefoniczny.
 
 \
