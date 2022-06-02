@@ -5,6 +5,8 @@ news:
   - size: large
     title: Weekend Parafialny 2022
   - size: large
+    title: Zesłanie Ducha Świętego
+  - size: large
     title: Pomoc dla Ukrainy
   - size: large
     title: życzenia Wielkanocne
