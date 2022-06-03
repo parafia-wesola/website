@@ -17,8 +17,9 @@ cover: pielgrzymka_parafialna.png
 
   * nocleg w zabytkowym hotelu w Tykocinie, gdzie kręcono sceny do filmu "U Pana Boga w ogródku",
   * autokar do naszej dyspozycji.
-  * posiłki (W dzień wyjazdu dobrze zabrać jakiś prowiant, bo obiadokolację zjemy dopiero późnym popołudniem po zakwaterowaniu, we wtorek obiad w Tykocinie we własnym zakresie w trakcie czasu wolnego)
-  * atrakcje: jeśli czas i pogoda pozwolą zajrzymy do Puszczy Knyszynskiej, popłyniemy w rejs tramwajem wodnym wzdłuż **zabytkowej** części Tykocina, a następnie po **bogatym ekologicznie**, pełnym ptaków odcinku **Narwii.**
-  * Zwiedzanie miejsc śladami Jerzego Nowosielskiego i silnie obecnego na Podlasiu prawosławia
+  * posiłki: poniedziałek - obiadokolacja w miejscu zakwaterowania, wtorek - śniadanie i kolacja przy ognisku, środa - śniadanie i obiad
+  * atrakcje: jeśli czas i pogoda pozwolą zajrzymy do Puszczy Knyszyńskiej, popłyniemy w rejs tramwajem wodnym wzdłuż **zabytkowej** części Tykocina, a następnie po **bogatym ekologicznie**, pełnym ptaków odcinku **Narwii.**
+  * zwiedzanie miejsc związanych z Jerzym Nowosielskim i prawosławiem silnie obecnym na Podlasiu.
+* Zapewniamy miłą atmosferę wakacyjną, ale też czas na wspólną i osobistą modlitwę, wieczór przy ognisku...
 
 <!--EndFragment-->
