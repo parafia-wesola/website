@@ -4,6 +4,72 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela Zesłania Ducha Świętego, 5 czerwca, *uroczystość***
+
+* 7.00 za parafian
+* 9.00 + za śp. Rafała KIELEWSKIEGO
+* 10.30 intencja zbiorowa:
+
+  * za śp. Celinę w 1. rocznicę śmierci oraz za śp. Ryszarda WIERZBICKIEGO
+  * za śp. Andrzeja RYCHNOWSKIEGO
+* 12.00 + za śp. Leszka GAŁADYKA i jego rodziców: Wacławę i Władysława oraz za zmarłych z tej rodziny
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Jerzego WITKOWSKIEGO w 11. rocznicę śmierci\
+  (do modlitwy wiernych za Marysię i Michała w 1. rocznicę ślubu oraz za ich synka Kazika)
+* 19.15 Droga Światła
+
+**Poniedziałek, 6 czerwca, Najświętszej Maryi Panny, Matki Kościoła, *święto***
+
+* 7.00+ za śp. Emilię TREFOŃ w miesiąc po pogrzebie
+* 18.00 + za śp. Stanisława FAJFERA
+
+**Wtorek, 7 czerwca,**
+
+* 7.00 + za śp. Stanisława SADOWSKIEGO w miesiąc po pogrzebie
+* 18.00Msza św. wypominkowa
+
+**Środa, 8 czerwca, Św. Jadwigi Królowej, *wspomnienie***
+
+* 7.00 + za śp. Zofię KOSEWSKĄ w miesiąc po pogrzebie
+* 18.00 + za sp. Władysławę SZAFRAŃSKĄ o dar Nieba
+
+**Czwartek, 9 czerwca, Jezusa Chrystusa, Najwyższego i Wiecznego Kapłana, *święto***
+
+* 7.00 o błogosławieństwo Boże i opiekę Matki Bożej nad Olą i Kubą oraz Kacprem i Krzysiem
+* 18.00 dziękczynna w 10. rocznicę ślubu Zofii i Michała z prośbą o dalsze Boże błogosławieństwo
+
+**Piątek, 10 czerwca,**
+
+* 7.00 o łaskę zdrowia dla Kingi i Joanny
+* 18.00 o błogosławieństwo Boże dla Mariusza w dniu 65. urodzin
+
+**Sobota, 11 czerwca, Św. Barnaby Apostoła, *wspomnienie***
+
+* 7.00 + w intencji zmarłych z rodziny DRZEWIECKICH, ILIŃSKICH i ROZWADOWSKICH z prośbą o życie wieczne
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za sp. Reginę i Bolesława JURKIEWICZÓW
+
+**XI Niedziela zwykła, 12 czerwca, Najświętszej Trójcy, *uroczystość***
+
+* 7.00 + za śp. Janinę i Bronisława REMISZEWSKICH
+* 9.00 + za śp. Ryszarda ŁUPIŃSKIEGO w 20. rocznicę śmierci i zmarłych z rodziny WIŚNIEWSKICH oraz za śp. Mirosława MACHNACKIEGO
+* 10.30 intencja zbiorowa:
+
+  * za Maurycego Bobrowskiego z okazji chrztu św.,
+  * z okazji urodzin i imienin synowi Robertowi i całej rodzinie wszelkich łask Bożych i Darów Ducha Św. oraz opieki Matki Bożej (intencja od mamy i brata),
+  * za śp. Jerzego PIETRZAKA i zmarłych z rodziny,
+  * za śp. Wiesława SAŁAŃSKIEGO w 25. rocznicę śmierci oraz za zmarłych z rodziny SAŁAŃSKICH i MIELCARZ,
+  * za śp. Genowefę ZARZYCKĄ
+* 12.00 Msza odpustowa (za parafian)
+* *16.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Helenę i Stanisława MOMOT w rocznicę śmierci
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **VII niedziela wielkanocna, 29 maja, Wniebowstąpienie Pańskie, *uroczystość***
 
 * 7.00 za parafian
@@ -1635,7 +1701,7 @@ title: Intencje mszalne
 
 **Środa, 15 grudnia,**
 
-* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
+* 6.45<!--\\\\\\\\\\\\\\\\\\\\\\\\\\\\\[endif]--> + za śp. Janinę i Bolesława oraz Krystynę i Władysława
 * 18.00 + za śp. Tadeusza ZALEWSKIEGO
 
 **Czwartek, 16 grudnia, Rekolekcje adwentowe**
