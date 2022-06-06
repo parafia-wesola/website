@@ -11,7 +11,7 @@ cover: pielgrzymka_parafialna.png
 #### **Wakacyjna pielgrzymka parafialna śladami Jerzego Nowosielskiego. Hajnówka-Grabarka-Gródek-Michałowo-Supraśl**
 
 * **Wyjazd** 25 lipca rano, **powrót** 27 lipca wieczorem
-* **Zapisy**: [przez link tutaj](https://forms.gle/F3yUqAN1R8FGsRUQ7), można też zgłaszać się mailowo i telefonicznie
+* **Zapisy do końca czerwca**: [przez link tutaj](https://forms.gle/F3yUqAN1R8FGsRUQ7), można też zgłaszać się mailowo i telefonicznie
 * **Koszt**: około 600 zł\
   W ramach ceny zapewniamy:
 
