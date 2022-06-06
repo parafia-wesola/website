@@ -18,6 +18,6 @@ Dlaczego **"BądźMy Kościołem"**? Bo wierzymy, że Jezus wzywa każdego z nas
 
 **Gdzie?** Parafia Opatrzności Bożej, Warszawa -Wesoła
 
-**Zapisy**: [](https://forms.gle/KGsaLwRd2RLJtDur6?fbclid=IwAR30Y4dQ4VHVO3yGdoYnutnzZRpouN5e4BTlUg1Rjb8cNXNM9NZ32Je_Z80)[pod linkiem](https://forms.gle/Z3c6HTyyB6E3pGb29)
+**Zapisy do 17 lipca**: [](https://forms.gle/KGsaLwRd2RLJtDur6?fbclid=IwAR30Y4dQ4VHVO3yGdoYnutnzZRpouN5e4BTlUg1Rjb8cNXNM9NZ32Je_Z80)[pod linkiem](https://forms.gle/Z3c6HTyyB6E3pGb29)
 
 <!--EndFragment-->
