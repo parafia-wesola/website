@@ -3,10 +3,6 @@ type: info
 title: kancelaria parafialna
 id: kancelaria_parafialna
 ---
-W poniedziałek, 30 maja, kancelaria parafialna będzie wyjątkowo nieczynna. Przepraszamy za utrudnienia. \
-W sprawach pilnych prosimy o kontakt telefoniczny.
-
-\
 **KANCELARIA PARAFIALNA CZYNNA:**
 
 tel. 22 773 56 35\
