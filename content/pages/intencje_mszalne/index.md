@@ -4,6 +4,75 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XI Niedziela zwykła, 12 czerwca, Najświętszej Trójcy, *uroczystość***
+
+* 7.00 + za śp. Janinę i Bronisława REMISZEWSKICH
+* 9.00 + za śp. Ryszarda ŁUPIŃSKIEGO w 20. rocznicę śmierci i zmarłych z rodziny WIŚNIEWSKICH oraz za śp. Mirosława MACHNACKIEGO
+* 10.30 intencja zbiorowa:
+
+  * z okazji urodzin i imienin z prośbą dla syna Roberta i całej rodziny o wszelkie łaski Boże i dary Ducha Św. oraz opiekę Matki Bożej (intencja od mamy i brata),
+  * za śp. Jerzego PIETRZAKA i zmarłych z rodziny,
+  * za śp. Wiesława SAŁAŃSKIEGO w 25. rocznicę śmierci oraz za zmarłych z rodziny SAŁAŃSKICH i MIELCARZ,
+  * za śp. Genowefę ZARZYCKĄ
+
+
+
+* 12.00 Msza odpustowa (za parafian)
+* *16.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Helenę i Stanisława MOMOT w rocznicę śmierci
+
+**Poniedziałek, 13 czerwca, Św. Antoniego z Padwy, prezbitera i doktora Kościoła, *wspomnienie***
+
+* 7.00+ za śp. Teodozję KOZIOŁ w miesiąc po pogrzebie
+* 18.00 + za śp. Antoniego MIAŁKOWSKIEGO w 4. rocznicę śmierci
+
+**Wtorek, 14 czerwca, Bł. Michała Kozala, biskupa i męczennika, *wspomnienie***
+
+* 7.00 dziękczynna za życie Pawła z prośbą o Boże błogosławieństwo
+* 18.00+ za śp. Stanisławę i Zbigniewa DUCKICH oraz Ryszarda i Czesławę KOTERBA
+
+**Środa, 15 czerwca,**
+
+* 7.00 o łaskę zdrowia dla Leona
+* 18.00 + za śp. Jadwigę i Józefa STOJANOWSKICH w 1. rocznicę śmierci o łaskę Nieba
+
+**Czwartek, 16 czerwca, Najświętszego Ciała i Krwi Chrystusa, *uroczystość***
+
+* 7.00 o światło i dary Ducha Św. oraz Boże Miłosierdzie dla Dawida
+* 9.00 + za śp. Teresę OSIPACZ
+* 10.30 Intencja dziękczynna w 40 rocznicę urodzin Huberta. Z podziękowaniem za cudowne działanie Opatrzności Bożej w jego życiu oraz za wszelkie dary Ducha Świętego.
+* 18.00 O dar wiecznej radości w Niebie ze wszystkimi Świętymi dla zmarłych: Jadwigi LACHOWSKIEJ (22. rocznica śmierci, Władysław LACHOWSKIEGO (z okazji imienin), Andrzeja GALIŃSKIEGO (7. rocznica śmierci), zmarłych z rodziny GALIŃSKICH, LACHOWSKICH, RUDZEWSKICH
+
+**Piątek, 17 czerwca, Św. Brata Alberta Chmielowskiego, zakonnika, *wspomnienie***
+
+* 7.00 o Boże Miłosierdzie i dary Ducha Św. dla Dawida
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 18 czerwca,**
+
+* 7.00 o Boże Miłosierdzie i dary Ducha Św. dla Dawida
+* 18.00 + za zmarłych z rodziny SZCZUCIŃSKICH
+
+**XII Niedziela zwykła, 19 czerwca,**
+
+* 7.00 za parafian
+* 10.30 za śp. Andrzeja KOSECKIEGO w 1. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * o Boże Miłosierdzie i dary Ducha Św. dla Judyty i Dawida
+  * za śp. Wandę, Wiesława, Janinę, Władysławę, Pawła ŚMIGIELSKICH
+  * za duszę śp. Oskara w 12. rocznicę śmierci, oraz za jego mamę, tatę i siostrę z mężem o Boże błogosławieństwo i za całą rodzinę RAJSKICH
+  * dziękując za dzieci i wnuki: Sebastiana, Aleksandrę, Kubę i Bartosza, z prośbą o Boże błogosławieństwo i opiekę Niepokalanej i dary Ducha Świętego
+* 12.00 za Eugeniusza, Jana, Janinę MROCZEK oraz za Józefę, Stanisława, Wojciecha, Józefa i Stefana SZCZEPEK
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Ryszarda KRAKOWIAKA w 21. rocznicę śmierci oraz za śp. Wandę MARCZYŃSKĄ
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
 **Niedziela Zesłania Ducha Świętego, 5 czerwca, *uroczystość***
 
 * 7.00 za parafian
@@ -65,8 +134,6 @@ title: Intencje mszalne
 * 18.00 + za śp. Helenę i Stanisława MOMOT w rocznicę śmierci
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
