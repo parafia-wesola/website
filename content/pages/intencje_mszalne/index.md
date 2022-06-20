@@ -4,6 +4,75 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XII Niedziela zwykła, 19 czerwca,**
+
+* 7.00 za parafian
+* 9.00 + za śp. Andrzeja KOSECKIEGO w 1. rocznicę śmierci
+* 10.30 intencja zbiorowa:
+
+  * o Boże Miłosierdzie i dary Ducha Św. dla Judyty i Dawida
+  * dziękując za dzieci i wnuki: Sebastiana, Aleksandrę, Kubę i Bartosza, z prośbą o Boże błogosławieństwo\
+    i opiekę Niepokalanej i dary Ducha Świętego
+  * za śp. Wandę, Wiesława, Janinę, Władysławę, Pawła ŚMIGIELSKICH
+  * za duszę śp. Oskara w 12. rocznicę śmierci, oraz za jego mamę, tatę i siostrę z mężem o Boże błogosławieństwo i za całą rodzinę RAJSKICH
+  * za śp. Bernarda MICHALIKA
+  * za śp. Jana i Czesławę OLSZEWSKICH oraz Czesławę i Piotra KIELCZYK
+  * Za dusze w czyśćcu cierpiące
+* 12.00 za Eugeniusza, Jana, Janinę MROCZEK oraz za Józefę, Stanisława, Wojciecha, Józefa i Stefana SZCZEPEK
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 o Boże błogosławieństwo dla Zosi w 1 rocznicę urodzin
+
+**Poniedziałek, 20 czerwca,**
+
+* 7.00o Boże Miłosierdzie i dary Ducha Św. dla Dawida
+* 18.00 w 24 rocznicę ślubu Magdy i Tomka
+
+**Wtorek, 21 czerwca, Św. Alojzego Gonzagi, zakonnika, *wspomnienie***
+
+* 7.00 o Boże Miłosierdzie i dary Ducha Św. dla Dawida
+* 18.00+ za śp. Bronisława LIPIŃSKIEGO w 15 rocznicę śmierci, jego żonę Anastazję i ich rodziców
+
+**Środa, 22 czerwca,**
+
+* 7.00 o Boże Miłosierdzie i dary Ducha Św. dla Dawida
+* 18.00 + za dusze Anieli, Jana, Stanisława TALAREK
+
+**Czwartek, 23 czerwca, Narodzenie św. Jana Chrzciciela, *uroczystość***
+
+* 7.00 + za śp. Andrzeja RYCHNOWSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Wiktora z okazji dnia ojca
+
+**Piątek, 24 czerwca, Najświętszego Serca Pana Jezusa, *uroczystość***
+
+* 7.00 + za śp. Jana MIODUSZEWSKIEGO
+* 18.00 + za śp. Jana GRYZA
+
+**Sobota, 25 czerwca, Niepokalanego Serca Najświętszej Maryi Panny, *wspomnienie***
+
+* 7.00 + w 1 rocznicę śmierci Jadwigi STELMACH
+* 18.00 podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością miłości miłosiernej, we wszystkich rodzinach
+
+**XIII Niedziela zwykła, 26 czerwca,**
+
+* 7.00 + za śp. Jana KIELEWSKIEGO
+* 9.00 + za śp. Janinę, Jadwigę, Kazimierza, Edwarda i Czesława z rodziny JAWOROWSKICH i JACZEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * W 40 rocznicę ślubu Barbary i Mirosława o błogosławieństwo, zdrowie i wszelkie łaski
+  * o Boże Miłosierdzie i dary Ducha Św. dla Judyty i Dawida
+  * za śp. Annę i Władysława OSOWIECKICH; Witolda, Stefana i Bogusława KARASIŃSKICH oraz śp. Janinę KRAWCZYK
+  * za śp. Władysława ORLIKOWSKIEGO oraz zmarłych z rodziny
+  * za śp. Henrykę SABAK
+* 12.00 za parafian
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Marysię MĄDRY
+
+
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XI Niedziela zwykła, 12 czerwca, Najświętszej Trójcy, *uroczystość***
 
 * 7.00 + za śp. Janinę i Bronisława REMISZEWSKICH
@@ -14,9 +83,6 @@ title: Intencje mszalne
   * za śp. Jerzego PIETRZAKA i zmarłych z rodziny,
   * za śp. Wiesława SAŁAŃSKIEGO w 25. rocznicę śmierci oraz za zmarłych z rodziny SAŁAŃSKICH i MIELCARZ,
   * za śp. Genowefę ZARZYCKĄ
-
-
-
 * 12.00 Msza odpustowa (za parafian)
 * *16.00 Adoracja Najświętszego Sakramentu*
 * 18.00 + za śp. Helenę i Stanisława MOMOT w rocznicę śmierci
@@ -68,8 +134,6 @@ title: Intencje mszalne
 * 18.00 + za śp. Ryszarda KRAKOWIAKA w 21. rocznicę śmierci oraz za śp. Wandę MARCZYŃSKĄ
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
