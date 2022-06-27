@@ -2,6 +2,116 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment--
+
+**XIII Niedziela zwykła, 26 czerwca,**
+
+* 7.00 + za śp. Jana KIELEWSKIEGO
+
+<!---->
+
+* 9.00 + za śp. Janinę, Jadwigę, Kazimierza, Edwarda i Czesława z rodziny JAWOROWSKICH i JACZEWSKICH
+
+<!---->
+
+* 10.30 intencja zbiorowa:
+
+  * w 40. rocznicę ślubu Barbary i Mirosława o błogosławieństwo, zdrowie i wszelkie łaski,
+  * o Boże miłosierdzie i dary Ducha Świetego dla Judyty i Dawida,
+  * o Boże miłosierdzie dla Krystyny,
+  * za śp. Annę i Władysława OSOWIECKICH, Witolda, Stefana i Bogusława KARASIŃSKICH oraz śp. Janinę KRAWCZYK,
+  * za śp. Władysława ORLIKOWSKIEGO oraz zmarłych z rodziny,
+  * za śp. Henrykę SABAK,
+  * za śp. Kazimierza FURMANIAKA i zmarłych z rodziny FURMANIAK.
+
+<!---->
+
+* 12.00 za parafian / za uczniów i nauczycieli na zakończenie roku szkolnego
+
+<!---->
+
+* *15.00 Adoracja Najświętszego Sakramentu*
+
+<!---->
+
+* 18.00 + za śp. Marysię MĄDRY
+
+**Poniedziałek, 27 czerwca,**
+
+* 7.00+ za śp. Genowefę ZARZYCKĄ w miesiąc po pogrzebie
+
+<!---->
+
+* 18.00 + za zamarłych z rodziny JAKONIUK, SAMOCIUK, NOWIKOW i WASZKIEWICZ
+
+**Wtorek, 28 czerwca, Św. Ireneusza, biskupa i męczennika, *wspomnienie***
+
+* 7.00 + za śp. Stanisławę BEDNARSKĄ w 1. rocznicę śmierci, Helenę i Grzegorza KAŁWA oraz Ewę BOLNIEWICZ
+
+<!---->
+
+* 18.00+ za śp. Roberta WIERZBOWSKIEGO oraz Janinę i Zdzisława WIERZBOWSKICH
+
+**Środa, 29 czerwca, Świętych Apostołów Piotra i Pawła, *uroczystość***
+
+* 7.00 w dniu imienin wnuka Pawła – dziękczynna za łaskę wiary, z prośbą o dar umacniania jej w trudnych sytuacjach życiowych we współczesnym świecie
+
+<!---->
+
+* 18.00 + za śp. Stanisławę i Władysława PIOTRAK oraz za zmarłych z rodziny PIOTRAKÓW i SEKULARÓW
+
+**Czwartek, 30 czerwca,**
+
+* 7.00 O Boże miłosierdzie i dary Ducha Świętego dla Dawida
+
+<!---->
+
+* 18.00 w dniu imienin synowej Lucyny – dziękczynna za łaskę uzdrowienia, z prośbą o pomoc Bożą we współpracy z tą łaską, jaką Pan ja obdarza
+
+**Piątek, 1 lipca,**
+
+* 7.00 o Boże miłosierdzie i dary Ducha św. dla Dawida
+
+<!---->
+
+* 18.00 + za śp. Władysławę PODLEŚNĄ
+
+**Sobota, 2 lipca,**
+
+* 7.00 + za śp. Jana BRODACKIEGO w 7. rocznicę śmierci
+
+<!---->
+
+* 18.00 w intencjach Kół Żywego Różańca
+
+**XIV Niedziela zwykła, 3 lipca,**
+
+* 8.00 za parafian
+
+<!---->
+
+* 10.00 intencja zbiorowa:
+
+  * błagalno-dziękczynna w 5. rocznicę ślubu Karoliny i Jakuba KOTUNIAKÓW oraz ich synów: Antoniego i Krzysztofa,
+  * o Boże miłosierdzie i dary Ducha Świętego dla Judyty i Dawida,
+  * za śp. Jadwigę i Zenona ZALEWSKICH,
+  * za śp. Piotra i Czesława KIELCZYKÓW oraz Mariana OLSZEWSKIEGO,
+  * za sp. Stanisławę ZALEWSKĄ
+
+<!---->
+
+* 12.00 + za śp. Ewę w 2. rocznicę śmierci
+
+<!---->
+
+* *15.00 Adoracja Najświętszego Sakramentu*
+
+<!---->
+
+* 18.00 + za śp. Piotra GRYZA od współpracowników ze Strykowa
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **XII Niedziela zwykła, 19 czerwca,**
@@ -66,8 +176,6 @@ title: Intencje mszalne
 * 12.00 za parafian
 * *15.00 Adoracja Najświętszego Sakramentu*
 * 18.00 + za śp. Marysię MĄDRY
-
-
 
 <!--EndFragment-->
 
