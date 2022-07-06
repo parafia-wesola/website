@@ -2,9 +2,70 @@
 type: text
 title: Intencje mszalne
 ---
+**XIV Niedziela zwykła, 3 lipca,**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * błagalno-dziękczynna w 5. rocznicę ślubu Karoliny i Jakuba KOTUNIAKÓW oraz ich synów: Antoniego\
+    i Krzysztofa,
+  * o Boże miłosierdzie i dary Ducha Świętego dla Judyty i Dawida,
+  * za śp. Jadwigę i Zenona ZALEWSKICH,
+  * za śp. Piotra i Czesławę KIELCZYKÓW oraz Mariana OLSZEWSKIEGO,
+  * za śp. Stanisławę ZALEWSKĄ,
+  * za śp. Alicję ZAMPANTI w 1. rocznicę śmierci,
+  * za śp. Małgorzatę SZAJKOWSKĄ,
+  * za śp. Władysławę, Franciszka i Marię WIELGO.
+* 12.00 + za śp. Ewę w 2. rocznicę śmierci
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Piotra GRYZA (od współpracowników ze Strykowa)
+* *19.15 Koncert chóru* Allegrezza del Canto
+
+**Poniedziałek, 4 lipca,**
+
+* 7.00z okazji 75-lecia urodzin Zofii i 80-lecia urodzin Eugeniusza BRALEWSKICH
+* 18.00 + za śp. Zbigniewa FUCHS i zmarłych z rodziny FUCHA i STAŃCZAKÓW
+
+**Wtorek, 5 lipca,**
+
+* 7.00 + za duszę Haliny RYCHLIK w rocznicę śmierci oraz Grzegorza SOBIECH
+* 18.00msza wypominkowa
+
+**Środa, 6 lipca, Bł. Marii Teresy Ledóchowskiej, dziewicy, *wspomnienie***
+
+* 7.00 o Boże miłosierdzie i dary Ducha Świętego dla Dawida
+* 18.00 + za śp. Józefę i Mariana
+
+**Czwartek, 7 lipca,** 
+
+* 7.00 o Boże miłosierdzie i dary Ducha Świętego dla Dawida
+* 18.00 w 38. rocznicę ślubu Mirosławy i Lecha
+
+**Piątek, 8 lipca, Św. Jana z Dukli, prezbitera*, wspomnienie***
+
+* 7.00 + za śp. Małgorzatę
+* 18.00 + za śp. Janinę WIECH
+
+**Sobota, 9 lipca,**
+
+* 7.00 o Boże miłosierdzie i dary Ducha Świętego dla Dawida
+* 18.00 + za śp. Piotra, Roberta i Eugeniusza GRYZÓW (od rodziny Krupów)
+
+**XV Niedziela zwykła, 10 lipca,**
+
+* 8.00 + za sp. Genowefę i Wacława oraz zmarłych z rodziny
+* 10.00 za parafian
+* 12.00 z okazji 18. urodzin Michała z prośbą o wiele łask Bożych, darów Ducha Świętego i opiekę Matki Bożej oraz dziękczynna z okazji 20. rocznicy ślubu Małgorzaty i Mariusza za otrzymane łaski z prośbą o dalsze błogosławieństwo Boże i opiekę Matki Bożej dla całej rodziny
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Hannę i Stanisława ZWIERZYŃSKICH w 6. rocznicę śmierci i zmarłych z rodziny ZWIERZYŃSKICH
+
+
+
+<!--EndFragment-->
+
 <!--StartFragment--
 
-**XIII Niedziela zwykła, 26 czerwca,**
+\*\*XIII Niedziela zwykła, 26 czerwca,\*\*
 
 * 7.00 + za śp. Jana KIELEWSKIEGO
 
