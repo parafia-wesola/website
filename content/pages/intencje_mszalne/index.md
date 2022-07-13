@@ -2,6 +2,68 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**XV Niedziela zwykła, 10 lipca,**
+
+* 8.00 + za sp. Genowefę i Wacława oraz zmarłych z rodziny
+* 10.00 za parafian
+* 12.00 z okazji 18. urodzin Michała z prośbą o wiele łask Bożych, darów Ducha Świętego i opiekę Matki Bożej oraz dziękczynna z okazji 20. rocznicy ślubu Małgorzaty i Mariusza za otrzymane łaski z prośbą o dalsze błogosławieństwo Boże i opiekę Matki Bożej dla całej rodziny
+* *16.30 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Hannę i Stanisława ZWIERZYŃSKICH w 6. rocznicę śmierci i zmarłych z rodziny ZWIERZYŃSKICH
+
+**Poniedziałek, 11 lipca, Św. Benedykta, opata, patrona Europy, *święto***
+
+* 7.00
+* 18.00 za Pawła w dniu urodzin z prośbą o dary Ducha Św. oraz za śp. Zofię, Bolesława i Józefa ZIELIŃSKICH
+
+**Wtorek, 12 lipca, Św. Brunona Bonifacego z Kwerfurtu, biskupa i męczennika, *wspomnienie***
+
+* 7.00 o szczęśliwe rozwiązanie
+* 18.00+ za śp. Henryka i Bronisławę FAWREL oraz za śp. Janusza PODNIESIŃSKIEGO
+
+**Środa, 13 lipca, Świętych pustelników Andrzeja Świerada i Benedykta, *wspomnienie***
+
+* 7.00 o Boże miłosierdzie i dary Ducha Świętego dla Dawida
+* 18.00 + za śp. Macieja oraz Mirosława
+
+**Czwartek, 14 lipca,** 
+
+* 7.00 + za śp. Jerzego PRZYGODĘ
+* 18.00 + za śp. Eugeniusza GRYZA w 14 rocznicę śmierci, śp. Roberta GRYZA w 2 rocznicę śmierci oraz śp. Piotra GRYZA
+
+**Piątek, 15 lipca, Św. Bonawentury, biskupa i doktora Kościoła*, wspomnienie***
+
+* 7.00 + za śp. Henrykę SABAK w miesiąc po pogrzebie
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 16 lipca, Najświętszej Maryi Panny z Góry Karmel, *wspomnienie***
+
+* 7.00 + za śp. Anielę KIRYLUK w 5 rocznicę śmierci
+* 18.00 + za śp. Czesławę i Juliana DĘBOWCZYKÓW
+
+**XVI Niedziela zwykła, 17 lipca,**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * za Jakuba w 20 rocznicę urodzin
+  * o Boże miłosierdzie i dary Ducha św. dla Dawida
+  * za śp. Pawła HARAŃCZUKA
+  * za śp. Elżbietę i Wacława KOBZÓW w kolejną rocznicę śmierci
+  * za śp. Czesławę i Romana DAWIDOWICZÓW, Mariannę i Wiesława TATARKÓW oraz Jadwigę i Wacława KUPSKICH
+  * za śp. Joannę SADLEJ
+  * za śp. Kazimierza STORCZYKA
+  * za śp. Grzegorza CHECHLIŃSKIEGO
+  * za śp. Władysławę i Halinę WIŚNIEWSKĄ
+* 12.00 w podziękowaniu za otrzymane łaski i z prośbą o Boże błogosławieństwo i opiekę Ducha Św. dla całej rodziny
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Zofię i Kazimierza RATYŃSKICH
+
+<!--EndFragment-->
+
+
+
 **XIV Niedziela zwykła, 3 lipca,**
 
 * 8.00 za parafian
