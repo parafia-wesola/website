@@ -2,6 +2,71 @@
 type: text
 title: Intencje mszalne
 ---
+**XVI Niedziela zwykła, 17 lipca,**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * za Jakuba w 20 rocznicę urodzin
+  * o Boże miłosierdzie i dary Ducha św. dla Dawida i Judyty
+  * za śp. Pawła HARAŃCZUKA
+  * za śp. Elżbietę i Wacława KOBZA w kolejną rocznicę śmierci
+  * za śp. Czesławę i Romana DAWIDOWICZ, Mariannę i Wiesława TATARek oraz Jadwigę i Wacława KUPSKICH
+  * za śp. Joannę SADLEJ
+  * za śp. Kazimierza STORCZYKA
+  * za śp. Grzegorza CHECHLIŃSKIEGO
+  * za śp. Władysławę WIŚNIEWSKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00 w podziękowaniu za otrzymane łaski i z prośbą o Boże błogosławieństwo i opiekę Ducha Św. dla całej rodziny
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Zofię i Kazimierza RATYŃSKICH
+
+**Poniedziałek, 18 lipca**
+
+* 7.00w 43 rocznicę chrztu świętego Renaty
+* 18.00 + za śp. Stanisława, Annę, Jadwigę, Wiesława, Edwarda i Dariusza DOBOSZÓW
+
+**Wtorek, 19 lipca,**
+
+* 7.00 o Boże Miłosierdzie i dary Ducha Świętego dla Dawida
+* 18.00+ za śp. Bogumiłę i Andrzeja BAKIERA
+
+**Środa, 20 lipca,**
+
+* 7.00 + za śp. Stanisławę ZALEWSKĄ w miesiąc po pogrzebie
+* 18.00 dziękczynna za wszystkie otrzymane łaski w parafii i we Wspólnocie Zwiastowania z prośbą o dalsze Boże prowadzenie dla Karoliny i Wojtka
+
+**Czwartek, 21 lipca,** 
+
+* 7.00 + za śp. Mateusza CHABERA w rocznicę śmierci
+* 18.00 w dziękczynieniu za otrzymane łaski o dalsze błogosławieństwo dla Tereski
+
+**Piątek, 22 lipca, Św. Marii Magdaleny, *święto***
+
+* 7.00 + o łaskę nieba dla śp. Anny BIELIŃSKIEJ w 15 rocznicę śmierci
+* 18.00 w I rocznicę ślubu Ani i Mateusza
+
+**Sobota, 23 lipca, Św. Brygidy, zakonnicy, patronki Europy, *święto***
+
+* 7.00 + za śp. Kazimierza w 4 rocznicę śmierci
+* 18.00 w 18 rocznicę urodzin Klaudii z prośbą o Boże błogosławieństwo i wiele łask Bożych na dalsze lata
+
+**XVII Niedziela zwykła, 24 lipca,**
+
+* 8.00 + za dusze Grzegorza oraz Haliny i Wacława RYCHLIK
+* 10.00 intencja zbiorowa:
+
+  * dziękczynna w 40 rocznicę ślubu Hanny i Krzysztofa
+  * o Boże Miłosierdzie i dary Ducha św. dla Judyty i Dawida
+  * za śp. Czesławę i Piotra KIELCZYKÓW oraz Czesławę i Jana OLSZEWSKICH
+  * za śp. Pelagię i Kazimierza Stradowskich
+  * za dusze w czyśćcu cierpiące
+* 12.00 w 12 rocznicę ślubu Grzegorza i Ireny dziękczynna za wszelkie łaski, którymi zostali obdarzeni przez te lata razem z dziećmi: Polą i Stasiem
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Adama GADOMSKIEGO w 1 rocznicę śmierci
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **XV Niedziela zwykła, 10 lipca,**
@@ -61,8 +126,6 @@ title: Intencje mszalne
 * 18.00 + za śp. Zofię i Kazimierza RATYŃSKICH
 
 <!--EndFragment-->
-
-
 
 **XIV Niedziela zwykła, 3 lipca,**
 
