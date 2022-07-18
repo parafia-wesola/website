@@ -5,8 +5,6 @@ news:
   - size: large
     title: Odpust parafialny
   - size: large
-    title: Weekend Parafialny 2022
-  - size: large
     title: wsparcie budowy kościoła
   - size: large
     title: wakacyjna pielgrzymka parafialna 25-27 lipca
