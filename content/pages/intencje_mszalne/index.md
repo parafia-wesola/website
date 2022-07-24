@@ -2,6 +2,77 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**XVII Niedziela zwykła, 24 lipca,**
+
+* 8.00 + za dusze Grzegorza oraz Haliny i Wacława RYCHLIKÓW
+* 10.00 intencja zbiorowa:
+
+  * dziękczynna w 40. rocznicę ślubu Hanny i Krzysztofa,
+  * o Boże Miłosierdzie i dary Ducha św. dla Judyty i Dawida,
+  * za śp. Czesławę i Piotra KIELCZYK oraz Czesławę i Jana OLSZEWSKICH,
+  * za śp. Pelagię i Kazimierza STRADOWSKICH,
+  * za śp. Joannę SADLEJ,
+  * za dusze w czyśćcu cierpiące.
+* 12.00 w 12. rocznicę ślubu Grzegorza i Ireny dziękczynna za wszelkie łaski, którymi zostali obdarzeni przez te lata razem z dziećmi: Polą i Stasiem
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Adama GADOMSKIEGO w 1. rocznicę śmierci
+
+**Poniedziałek, 25 lipca, Św. Jakuba, Apostoła*, święto***
+
+* 7.00+ za śp. Joannę SADLEJ w miesiąc po pogrzebie
+* 18.00 podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością miłości miłosiernej we wszystkich rodzinach
+
+**Wtorek, 26 lipca, Świętych Joachima i Anny, rodziców Najświętszej Maryi Panny, *wspomnienie***
+
+* 7.00 przez wstawiennictwo św. Joachima i Anny o Boże błogosławieństwo dla Anny
+* 18.00w intencji dzieci Jakuba i Anny – dziękczynna za otrzymane łaski, z prośbą o pomoc Ducha Św.\
+  w dalszym życiu wiarą, nadzieją i miłością
+
+**Środa, 27 lipca,**
+
+* 7.00 o miłosierdzie Boże i dary Ducha Świętego dla Dawida
+* 18.00 o Boże błogosławieństwo dla Klaudii w 18. rocznicę urodzin a także za śp. Stanisława BAKIERĘ\
+  w 8. rocznicę śmierci i zmarłych: Stefana, Kazimierę, Jana, Teresę BAKIERÓW oraz Kazimierza, Helenę\
+  i Wiesława ROGALÓW
+
+**Czwartek, 28 lipca,** 
+
+* 7.00 + za śp. Halinę i Jana MOGIERA o życie wieczne
+* 18.00 o Boże błogosławieństwo dla osób niepełnosprawnych i zajmujących się nimi
+
+**Piątek, 29 lipca, Świętych Marty, Marii i Łazarza, *wspomnienie***
+
+* 7.00 + za śp. Małgorzatę SZAJKOWSKĄ z d. KONIKOWSKĄ w miesiąc po pogrzebie
+* 18.00 msza św. dziękczynna w 32. rocznicę ślubu URSZULI i SŁAWOMIRA z prośbą o błogosławieństwo dla całej rodziny: Rafała i Macieja
+
+**Sobota, 30 lipca,**
+
+* 7.00 + o życie wieczne dla Aliny i Stefana KOZŁOWSKICH
+* 18.00 + za śp. Henryka WRZEŚNIEWSKIEGO w 3. rocznicę śmierci
+
+**XVIII Niedziela zwykła, 31 lipca,**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * błagalno-dziękczynna w 41. rocznicę ślubu Izabeli i Andrzeja KOTUNIAKÓW i w 2. rocznicę urodzin Krzysztofa KOTUNIAKA oraz za Annę, Jakuba, Karolinę i Antoniego KOTUNIAKÓW,
+  * w 35. rocznicę ślubu Krzysztofa i Wiesławy ROSIK,
+  * w 60. rocznicę urodzin Mirosławy z prośbą o Boże błogosławieństwo,
+  * za śp. Barbarę WIĄCEK, Marzenę DUSZYŃSKĄ i Helenę PAŁDYNA,
+  * za śp. Jadwigę Marię LEKKI,
+  * za śp. Mariannę SOBCZAK,
+  * za śp. Henryka WRZEŚNIEWSKIEGO w 3. rocznicę śmierci,
+  * za śp. Ludmiłę MYSSSATOVĄ,
+  * za śp. Jadwigę DĄBKOWSKĄ,
+  * za śp. Mariannę DWORECKĄ,
+* 12.00 + za śp. Marię WĄSOWSKĄ w 2. rocznicę śmierci
+* *15.00 Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Krystynę SIOCH
+
+<!--EndFragment-->
+
 **XVI Niedziela zwykła, 17 lipca,**
 
 * 8.00 za parafian
