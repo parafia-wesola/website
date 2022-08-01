@@ -62,7 +62,7 @@ title: Intencje mszalne
 * 8.00 za parafian
 * 10.00 intencja zbiorowa:
 
-  * O Boże Miłosierdzie i dary Ducha Świętego dla Judyty i Dawida,
+  * o Boże Miłosierdzie i dary Ducha Świętego dla Judyty i Dawida,
   * za śp. Wacława Głowackiego i zmarłych z jego rodziny
   * za śp. Bożenę i śp. Zofię Kosewską z ok. 83 urodzin,
   * za śp. Mariana Michalik,
