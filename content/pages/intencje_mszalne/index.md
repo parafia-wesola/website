@@ -4,6 +4,75 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XVIII Niedziela zwykła, 31 lipca,**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * błagalno-dziękczynna w 41. rocznicę ślubu Izabeli i Andrzeja KOTUNIAKÓW i w 2. rocznicę urodzin Krzysztofa KOTUNIAK oraz za Annę, Jakuba, Karolinę i Antoniego KOTUNIAKÓW,
+  * o Boże Miłosierdzie dla Judyty i Dawida
+  * w 35. rocznicę ślubu Krzysztofa i Wiesławy ROSIK,
+  * w 60. rocznicę urodzin Mirosławy z prośbą o Boże błogosławieństwo,
+  * za śp. Jerzego Kagankiewicza w 1 r.ś.
+  * za śp. Barbarę WIĄCEK, Marzenę DUSZYŃSKĄ i Helenę PAŁDYNA,
+  * za śp. Jadwigę Marię LEKKI,
+  * za śp. Mariannę SOBCZAK,
+  * za śp. Henryka WRZEŚNIEWSKIEGO w 3. rocznicę śmierci,
+  * za śp. Ludmiłę MYSSSATOVĄ,
+  * za śp. Jadwigę DĄBKOWSKĄ,
+  * za śp. Mariannę DWORECKĄ,
+  * za śp. Pelagię i Kazimierza Stradowskich w kolejną r.ś.
+  * za dusze w czyśćcu cierpiące
+* 12.00 + za śp. Marię WĄSOWSKĄ w 2. rocznicę śmierci
+* 18.00 + za śp. Krystynę SIOCH
+
+**Poniedziałek, 1 sierpnia, Św. Alfonsa Marii Liguriego, biskupa i doktora kościoła,** *wspomnienie*
+
+* 7.00za Mirosławę z ok. 60 r. urodzin, intencja dziękczynna z prośbą o dalsze błogosławieństwo
+* 18.00 za śp. Sławomira, Janinę i Henryka oraz wszystkich zmarłych z rodziny Łotyszewicz
+
+**Wtorek, 2 sierpnia,** *dzień powszedni*
+
+* 7.00 za śp. Mariannę, w 26 r.ś., Stanisława, Romana, Waldemara i Witolda KĄCA
+* 18.00wypominkowa
+
+**Środa, 3 sierpnia,** *dzień powszedni*
+
+* 7.00 za śp. Jana Łukomskiego w 8 r.ś
+* 18.00 za śp. Jadwigę Olędzką, w 4 r.ś., oraz zm z rodzin Olędzkich, Bachorków i Mazurów.
+
+**Czwartek, 4 sierpnia, Św. Jana Marii Vianneya, prezbitera,** *wspomnienie*
+
+* 7.00 za Mirosława z ok. 48 r. chrztu św.
+* 18.00 intencja dziękczynna w dniu urodzin Urszuli
+
+**Piątek, 5 sierpnia,** *dzień powszedni*
+
+* 7.00 + za śp. Kazimierza Storczyk w miesiąc po pogrzebie
+* 18.00 za śp. Anielę i Józefa Nowackich
+
+**Sobota, 6 sierpnia, Przemienienie Pańskie,** *święto*
+
+* 7.00 + za śp. Grzegorza Drewnowskiego
+* 13.00 za Jerzego i Małgorzatę Kalinowskich z ok. 20 r. ślubu
+* 18.00 intencja KŻR
+
+**XIX Niedziela zwykła, 7 sierpnia,**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * O Boże Miłosierdzie i dary Ducha Świętego dla Judyty i Dawida,
+  * za śp. Wacława Głowackiego i zmarłych z jego rodziny
+  * za śp. Bożenę i śp. Zofię Kosewską z ok. 83 urodzin,
+  * za śp. Mariana Michalik,
+  * za śp. Stanisławę, w r. ś. i Stanisława oraz całą rodzinę Kałasza,
+  * za dusze w czyśćcu cierpiące
+* 12.00 za śp. Wandę, Mariana, Jana Skibniewskich oraz Rafała i Jana Kielewskich
+* 18.00 za śp. Piotra, Roberta i Eugeniusza Gryz
+
+<!--EndFragment-->
+
 **XVII Niedziela zwykła, 24 lipca,**
 
 * 8.00 + za dusze Grzegorza oraz Haliny i Wacława RYCHLIKÓW
