@@ -2,6 +2,59 @@
 type: text
 title: Intencje mszalne
 ---
+**XIX Niedziela zwykła, 7 sierpnia,**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * o Boże Miłosierdzie i dary Ducha Świętego dla Judyty i Dawida,
+  * za śp. Wacława GŁOWACKIEGO i zmarłych z jego rodziny
+  * za śp. Bożenę i śp. Zofię KOSEWSKĄ z ok. 83 urodzin,
+  * za śp. Mariannę MICHALIK,
+  * za śp. Stanisławę w rocznicę śmierci i Stanisława oraz całą rodzinę KAŁASZA,
+  * za dusze w czyśćcu cierpiące
+* 12.00 za śp. Wandę, Mariana, Jana SKIBNIEWSKICH oraz Rafała i Jana KIELEWSKICH
+* 18.00 za śp. Piotra, Roberta i Eugeniusza GRYZ
+
+**Poniedziałek, 8 sierpnia, Św. Dominika, prezbitera,** *wspomnienie*
+
+* 7.00+ za śp. Grzegorza CHECHLIŃSKIEGO w miesiąc po pogrzebie
+* 18.00 + za śp. Henrykę SABAK
+
+**Wtorek, 9 sierpnia, Św. Teresy Benedykty od Krzyża, dziewicy i męczennicy, patronki Europy,** *święto*
+
+* 7.00 w 52 rocznicę ślubu Teresy i Marka ( Batyccy )
+* 18.00+ za śp. Czesławę i Henryka SĘKOWSKICH
+
+**Środa, 10 sierpnia, Św. Wawrzyńca, diakona i męczennika,** *święto*
+
+* 7.00 + za śp. Władysławę Halinę WIŚNIEWSKĄ w miesiąc po pogrzebie
+* 18.00 + o życie wieczne dla Henryka WYGANOWSKIEGO i zmarłych z rodziny
+
+**Czwartek, 11 sierpnia, Św. Klary, dziewicy,** *wspomnienie*
+
+* 7.00 + za śp. Ludmiłę MYSSATOVĄ w miesiąc po pogrzebie
+* 18.00 + za śp. Małgorzatę SZAJKOWSKĄ od rodziny Beczków i Kotów
+
+**Piątek, 12 sierpnia,**
+
+* 7.00 + o Boże Miłosierdzie i Dary Ducha Św. dla Dawida
+* 18.00 + za śp. Mariannę i Władysława
+
+**Sobota, 13 sierpnia,**
+
+* 7.00 + za śp. Jadwigę Marie LEKKI w miesiąc po pogrzebie
+* 18.00 + o radość nieba dla śp. Edwarda i Genowefy GOLIANEK
+
+**XX Niedziela zwykła, 14 sierpnia,**
+
+* 8.00 + za śp. Grzegorza MŁYNARCZYKOWSKIEGO
+* 10.00 za parafian,
+* 12.00 I Komunia – Wiktoria Konefał
+* 18.00 + za śp. Stanisława, Stefanię, Władysława WIECZOREK oraz Bronisławę i Jana GRZELEC
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **XVIII Niedziela zwykła, 31 lipca,**
