@@ -3,13 +3,11 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Odpust parafialny
+    title: "Pielgrzymka parafialna: śladami Jerzego Nowosielskiego z Wesołej na
+      Podlasie"
   - size: large
     title: wsparcie budowy kościoła
-  - size: large
-    title: wakacyjna pielgrzymka parafialna 25-27 lipca
-  - size: large
-    title: Pomoc dla Ukrainy
-  - title: Adoracja w weekendy
+  - title: Pomoc dla Ukrainy
     size: medium
+  - title: Adoracja w weekendy
 ---
