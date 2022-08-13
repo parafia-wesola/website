@@ -13,7 +13,7 @@ const NewsFeed = ({ articles, className }) => {
 	return (
 		<NewsFeedWrapper className={className}>
 			{articles.map(article => {
-				const { size } = article;
+				const size = article.size || 'medium';
 				const {
 					id,
 					excerpt: content,
