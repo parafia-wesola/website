@@ -2,6 +2,65 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**XX Niedziela zwykła, 14 sierpnia,**
+
+* 8.00 + za śp. Grzegorza MŁYNARCZYKOWSKIEGO
+* 10.00 za parafian
+* 12.00 I Komunia – Wiktoria Konefał
+* 18.00 + za śp. Stanisława, Stefanię, Władysława WIECZOREK oraz Bronisławę i Jana GRZELEC
+
+**Poniedziałek, 15 sierpnia, Wniebowzięcie NMP, Matki Bożej Zwycięskiej, głównej Patronki diecezji warszawsko-praskiej, *uroczystość***
+
+* 8.00+ za śp. Bożenę i Zbigniewa GMURÓW
+* 10.00 w 9. rocznicę ślubu Magdaleny i Sławomira
+* 12.00 za Katarzynę i Macieja w 3. rocznicę ślubu oraz za córkę Lenę i dziecko, które ma się narodzić
+* 18.00 + za śp. Tadeusza PAPISA w 22. rocznicę śmierci
+
+**Wtorek, 16 sierpnia,**
+
+* 7.00 + za śp. Mariannę SOBCZAK w miesiąc po pogrzebie
+* 18.00+ za śp. Bernarda MICHALIKA
+
+**Środa, 17 sierpnia, Św. Jacka, prezbitera,** *wspomnienie*
+
+* 7.00 + o życie wieczne dla Lidii KIRKOV
+* 18.00 + za śp. Anielę, Aleksandra, Zofię i Eugeniusza STRUPIECHOWSKICH oraz śp. Mariannę WĄSOWSKĄ
+
+**Czwartek, 18 sierpnia,**
+
+* 7.00 + za śp. Romana w 21. rocznicę śmierci
+* 18.00 + za śp. Eugenię GNIAZDOWSKĄ
+
+**Piątek, 19 sierpnia,**
+
+* 7.00 + za śp. Jadwigę DĄBKOWSKĄ w miesiąc po pogrzebie
+* 18.00 + za małżeństwa w kryzysie
+
+**Sobota, 20 sierpnia, Św. Bernarda, opata i doktora Kościoła,** *wspomnienie*
+
+* 7.00 o Boże miłosierdzie i dary Ducha Świętego dla Dawida
+* 18.00 + za śp. Tadeusza Siwka w 1. rocznicę śmierci
+
+**XXI Niedziela zwykła, 21 sierpnia,**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * o Boże miłosierdzie i dary Ducha Św. dla Judyty i Dawida,
+  * za Agnieszkę i Piotra w 29. rocznicę ślubu,
+  * za śp. Kazimierę KOPCIŃSKĄ w 20. rocznicę śmierci oraz za śp. Edwarda KOPCIŃSKIEGO,
+  * za śp. Helenę i Bolesława PODNIESIŃSKICH,
+  * za dusze w czyśćcu cierpiące,
+  * za śp. Ludomira LEWANDOWSKIEGO,
+  * za śp. Zygmunta GRĘZAKA,
+  * za śp. Ryszarda NAGÓRKĘ.
+* 12.00 + za śp. Eugeniusza, Jana, Janinę MROCZEK oraz Józefę, Stanisława, Wojciecha, Józefa i Stefana SZCZEPKÓW
+* 18.00 + za śp. Feliksa WĄSOWSKIEGO w 2. rocznicę śmierci
+
+<!--EndFragment-->
+
 **XIX Niedziela zwykła, 7 sierpnia,**
 
 * 8.00 za parafian
