@@ -4,6 +4,69 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXI Niedziela zwykła, 21 sierpnia,**
+
+* 8.00 za parafian
+* 10.00 intencja zbiorowa:
+
+  * o Boże miłosierdzie i dary Ducha Świętego dla Judyty i Dawida,
+  * za Agnieszkę i Piotra w 29. rocznicę ślubu,
+  * w 13. rocznicę ślubu Marty i Piotra z prośbą o Boże błogosławieństwo na dalsze lata,
+  * za śp. Kazimierę KOPCIŃSKĄ w 20. rocznicę śmierci oraz za śp. Edwarda KOPCIŃSKIEGO,
+  * za śp. Helenę i Bolesława PODNIESIŃSKICH,
+  * za dusze w czyśćcu cierpiące,
+  * za śp. Ludomira LEWANDOWSKIEGO,
+  * za śp. Zygmunta GRĘZAKA,
+  * za śp. Ryszarda NAGÓRKĘ.
+* 12.00 + za śp. Eugeniusza, Jana, Janinę MROCZEK oraz Józefę, Stanisława, Wojciecha, Józefa i Stefana SZCZEPEK
+* 18.00 + za śp. Feliksa WĄSOWSKIEGO w 2. rocznicę śmierci
+
+**Poniedziałek, 22sierpnia, Najświętszej Maryi Panny, Królowej, *wspomnienie***
+
+* 7.00+ za zmarłych z rodziny HORODNICZY, TOMKOWICZÓW oraz SŁODKOWSKICH
+* 18.00 + za śp. Władysławę WIŚNIEWSKĄ od sąsiadów
+
+**Wtorek, 23 sierpnia,**
+
+* 7.00 + za śp. Mariannę DWORECKĄ w miesiąc po pogrzebie
+* 18.00+ za śp. Kazimierza STORCZYKA (od Klubu Seniora)
+
+**Środa, 24 sierpnia, Św. Bartłomieja, Apostoła, *święto***
+
+* 7.00 + za śp. Stanisława
+* 18.00 o Boże miłosierdzie i dary Ducha Świętego dla Dawida
+
+**Czwartek, 25 sierpnia,**
+
+* 7.00 za rodziny
+* 18.00 + za śp. Eugeniusza BAŁABUCHA w dniu jego urodzin o radość Nieba
+
+**Piątek, 26 sierpnia, Najświętszej Maryi Panny Częstochowskiej, *uroczystość***
+
+* 7.00 + za śp. Stanisława, Annę, Jadwigę, Wiesława, Edwarda i Dariusza DOBOSZÓW
+* 10.30
+* 18.00 + o życie wieczne dla Jerzego PRZYGODY
+
+**Sobota, 27 sierpnia, Św. Moniki, *wspomnienie***
+
+* 7.00 za śp. Marka RYTLA
+* 18.00 + za śp. Eugeniusza KROPIELNICKIEGO
+
+**XXII Niedziela zwykła, 28 sierpnia,**
+
+* 8.00 w 63. rocznicę ślubu Barbary i Mariana
+* 10.00 intencja zbiorowa:
+
+  * o Boże miłosierdzie i dary Ducha Św. dla Judyty i Dawida,
+  * za duszę śp. Marii GÓRSKIEJ w 12. rocznicę śmierci oraz za śp. Barbarę i Mieczysława GÓRSKICH
+  * za dusze w czyśćcu cierpiące
+* 12.00 za parafian
+* 18.00 w 60. rocznicę ślubu dziękując za dzieci, wnuki i prawnuki
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XX Niedziela zwykła, 14 sierpnia,**
 
 * 8.00 + za śp. Grzegorza MŁYNARCZYKOWSKIEGO
