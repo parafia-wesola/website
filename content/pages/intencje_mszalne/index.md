@@ -4,6 +4,67 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXII Niedziela zwykła, 28 sierpnia,**
+
+* 8.00 w 63. rocznicę ślubu Barbary i Mariana
+* 10.00 intencja zbiorowa:
+
+  * o Boże miłosierdzie i dary Ducha Św. dla Judyty i Dawida,
+  * w intencji zdrowia dla nienarodzonego dziecka
+  * za duszę śp. Marii GÓRSKIEJ w 12. rocznicę śmierci oraz za śp. Barbarę i Mieczysława GÓRSKICH
+  * za śp. Marię, Władysława i Franciszka WIELGO
+  * za dusze w czyśćcu cierpiące
+* 12.00 za parafian; chrzest: Bruno
+* 18.00 w 60. rocznicę ślubu dziękując za dzieci, wnuki i prawnuki
+
+**Poniedziałek, 29 sierpnia, Męczeństwo św. Jana Chrzciciela, *wspomnienie***
+
+* 7.00+ za śp. Mariannę MICHALIK w miesiąc po pogrzebie
+* 18.00 + za śp. Wacława WETOSZKA i zmarłych z rodziny WETOSZKA i BRUKACZ
+
+**Wtorek, 30 sierpnia, *dzień powszedni***
+
+* 7.00 O Boże miłosierdzie i dary Ducha Św. dla Ryszarda
+* 18.00+ za śp. .Hannę GADOMSKĄ w 1. rocznicę śmierci
+
+**Środa, 31 sierpnia, *dzień powszedni***
+
+* 7.00
+* 18.00 o Boże miłosierdzie i dary Ducha Świętego dla Dawida
+
+**Czwartek, 1 września, *dzień powszedni***
+
+* 7.00 w intencji Oleńki, Pawła i Lwa o miłosierdzie Boże i dary Ducha Św. na każdy dzień
+* 18.00 o Boże miłosierdzie i dary Ducha Św. dla Elżbiety i Krzysztofa
+
+**Piątek, 2 września, *dzień powszedni***
+
+* 7.00 + za śp. Ludomira LEWANDOWSKIEGO w miesiąc po pogrzebie
+* 18.00 o Boże miłosierdzie i dary Ducha Św. dla Dawida
+
+**Sobota, 3 września, Św. Grzegorza Wielkiego, papieża i doktora Kościoła, *wspomnienie***
+
+* 7.00 + za śp. Ryszarda ŁUPIŃSKIEGO, zmarłych z rodziny WIŚNIEWSKICH oraz za śp. Mirosława MACHNACKIEGO
+* 18.00 w intencji Kół Żywego Różańca
+
+**XXIII Niedziela zwykła, 4 września,**
+
+* 7.00 za parafian
+* 9.00 + za śp. Mariannę KIELEWSKĄ
+* 10.30 intencja zbiorowa:
+
+  * o Boże miłosierdzie i dary Ducha Św. dla Judyty i Dawida,
+  * za śp. Władysława ORLIKOWSKIEGO
+  * za śp. Izabelę, Stefanię, Halinę, Gerdę i zmarłych z rodziny RÓŻYCKICH i TROCHIMIAKÓW
+  * za śp. Helenę WOŹNIAK
+  * za dusze w czyśćcu cierpiące
+* 12.00 w intencji dzieci rozpoczynających rok szkolny
+* 18.00 w intencji młodzieży rozpoczynającej rok szkolny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXI Niedziela zwykła, 21 sierpnia,**
 
 * 8.00 za parafian
