@@ -4,6 +4,61 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXIII Niedziela zwykła, 4 września,**
+
+* 7.00 za parafian
+* 9.00 + za śp. Mariannę KIELEWSKĄ
+* 10.30 intencja zbiorowa:
+
+  * o Boże miłosierdzie i dary Ducha Św. dla Judyty i Dawida,
+  * za śp. Władysława ORLIKOWSKIEGO
+  * za śp. Izabelę, Stefanię, Halinę, Gerda i zmarłych z rodziny RÓŻYCKICH i TROCHIMIUKÓW
+  * za śp. Helenę WOŹNIAK
+  * za dusze w czyśćcu cierpiące
+* 12.00 w intencji dzieci rozpoczynających rok szkolny
+* 18.00 w intencji młodzieży rozpoczynającej rok szkolny
+
+**Poniedziałek, 5 września,**
+
+* 7.00o Boże miłosierdzie i dary Ducha Św. dla Ewy
+* 18.00 w 45. rocznicę ślubu Leszka i Zofii, w 13. rocznicę ślubu Krzysztofa i Moniki oraz w 8. rocznicę urodzin Matyldy w podziękowaniu za dotychczasowe łaski z prośbą o dalszą opiekę Boską
+
+**Wtorek, 6 września,**
+
+* 7.00 + za śp. Anielę w 32. rocznicę śmierci
+* 18.00msza św. wypominkowa
+
+**Środa, 7 września, Bł. Ignacego Kłopotowskiego, prezbitera, *wspomnienie***
+
+* 7.00 + za śp. Zygmunta GRĘZAKA w miesiąc po pogrzebie
+* 18.00 + za śp. Wojciecha STELMACHA w 2. rocznicę śmierci
+
+**Czwartek, 8 września, Narodzenie Najświętszej Maryi Panny, *święto***
+
+* 7.00 + za śp. Mariannę SOBCZAK
+* 18.00 + za śp. Wandę MARCZYŃSKĄ w 4. rocznicę śmierci i za śp. Ryszarda KRAKOWIAKA w 21. rocznicę śmierci
+
+**Piątek, 9 września,**
+
+* 7.00 + za śp. Ryszarda Jana NAGÓRKĘ w miesiąc po pogrzebie
+* 18.00 + za śp. Wandę DZIĄBA w 3. rocznicę śmierci
+
+**Sobota, 10 września,**
+
+* 7.00 + o łaskę nieba dla zmarłych z rodziny GRABSKICH, BARAN, HABER, NIEPOŃ\
+  oraz za dusze w czyśćcu cierpiące
+* 18.00 + za śp. Piotra GRYZA od współpracowników ze Strykowa
+
+**XXIV Niedziela zwykła, 11 września,**
+
+* 7.00 + za śp. Mariannę i Wiesława TATAREK, Czesławę i Romana DAWIDOWICZÓW oraz Jadwigę i Wacława KUPSKICH
+* 9.00 + za śp. JAŹWIŃSKICH, SKIBNIEWSKICH i USZYŃSKICH
+* 10.30 za parafian
+* 12.00 w 14. rocznicę urodzin Janka
+* 18.00 + za śp. Jerzego
+
+<!--EndFragment-->
+
 **XXII Niedziela zwykła, 28 sierpnia,**
 
 * 8.00 w 63. rocznicę ślubu Barbary i Mariana
