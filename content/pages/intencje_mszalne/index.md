@@ -4,6 +4,66 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXIV Niedziela zwykła, 11 września,**
+
+* 7.00 + za śp. Mariannę i Wiesława TATAREK, Czesławę i Romana DAWIDOWICZÓW oraz Jadwigę i Wacława KUPSKICH
+* 9.00 + za śp. JAŹWIŃSKICH, SKIBNIEWSKICH i USZYŃSKICH
+* 10.30 za parafian
+* 12.00 w 14. rocznicę urodzin Janka
+* 18.00 + za śp. Jerzego
+
+**Poniedziałek, 12 września,**
+
+* 7.00o Boże błogosławieństwo dla Michała w dniu urodzin i łaskę wiary
+* 18.00 + za śp. Urszulę, Stanisława i Aleksandra WIĘCKOWSKICH oraz śp. Bożenę REDYK
+
+**Wtorek, 13 września, Św. Jana Chryzostoma, biskupa i doktora Kościoła, *wspomnienie***
+
+* 7.00 o zdrowie i błogosławieństwo w dniu 6. urodzin Kajetana
+* 18.00+ za śp. Marylę i zmarłych z rodziny DĘBNIAKÓW i STUDNIARSKICH
+
+**Środa, 14 września, Podwyższenie Krzyża Świętego, *święto***
+
+* 7.00 o Boże miłosierdzie i dary Ducha Świętego dla Dawida
+* 18.00 w dniu urodzin wnuczki Ewy z pokorną prośbą do Ducha Św. o pomoc w rozeznawaniu woli Bożej w podejmowaniu ważnych decyzji życiowych
+
+**Czwartek, 15 września, Najświętszej Maryi Panny Bolesnej, *wspomnienie***
+
+* 7.00 + za śp. Stanisława, Annę, Jadwigę, Wiesława, Edwarda i Dariusza DOBOSZÓW
+* 18.00 + za śp. Kazimierza STORCZYKA od chrześnicy Bożeny z rodziną
+
+**Piątek, 16 września,Świętych męczenników Korneliusza, papieża, i Cypriana, biskupa, *wspomnienie***
+
+* 7.00 w intencji Katarzyny o zdrowie i potrzebne łaski na drodze życia
+* 18.00 za małżeństwa w kryzysie
+
+**Sobota, 17 września, Św. Zygmunta Szczęsnego Felińskiego, biskupa, *wspomnienie***
+
+* 7.00 o Boże miłosierdzie i dary Ducha Św. dla Dawida
+* 18.00 + za śp. Jana PAWŁOWSKIEGO w 10. rocznicę śmierci
+
+**XXV Niedziela zwykła, 18 września,**
+
+* 7.00 za parafian
+* 9.00 + za śp. Janinę, Jadwigę, Kazimierza, Edwarda i Czesława, zmarłych z rodziny JAWORSKICH i JACZEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * o Boże miłosierdzie i dary Ducha Św. dla Dawida i Judyty
+  * w dniu 3. urodzin Aanayi z prośbą o Boże błogosławieństwo i łaskę wiary
+  * za śp. Antoninę Kruszewską
+  * za śp. Kazimierza BARSZCZA z prośbą o życie wieczne
+  * za śp. Kazimierza RYTLA i zmarłych z rodziny RYTEL i NIEPIEKŁO
+  * za śp. Eugeniusza GOŁUBIENKO
+  * za śp. Joannę SADLEJ
+  * za śp. Józefa Książek i Beatę Klarowską
+  * za dusze w czyśćcu cierpiące
+* 12.00 + za śp. Tomasza BARAN i jego rodziców Marię i Jana
+* 18.00 + za śp. Zofię KOSICKĄ w 20. rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXIII Niedziela zwykła, 4 września,**
 
 * 7.00 za parafian
