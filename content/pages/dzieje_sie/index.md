@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Kurs Alpha 2022
+  - size: large
     title: "Pielgrzymka parafialna: śladami Jerzego Nowosielskiego z Wesołej na
       Podlasie"
   - size: large
