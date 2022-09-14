@@ -13,6 +13,6 @@ Niedługo jesień, a jesień znaczy radość, a radość bo jak co roku w tym cz
 
 Zapraszamy na pierwsze spotkanie już w **poniedziałek, 3 października o 19.45** do domu rekolekcyjnego. Można dołączyć do nas jeszcze przez pierwsze trzy razy.
 
-[zapisy pod linkiem](https://forms.gle/yimdyQWdAWTYSQWc7)
+[z﻿apisy pod linkiem](https://forms.gle/8oyS928G44156FcC8)
 
 <!--EndFragment-->
