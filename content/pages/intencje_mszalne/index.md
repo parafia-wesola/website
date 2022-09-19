@@ -4,6 +4,69 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXV Niedziela zwykła, 18 września,**
+
+* 7.00 za parafian
+* 9.00 + za śp. Janinę, Jadwigę, Kazimierza, Edwarda i Czesława, zmarłych z rodziny JAWORSKICH i JACZEWSKICH
+* 10.30 intencja zbiorowa:
+
+  * o Boże miłosierdzie i dary Ducha Świętego dla Dawida i Judyty
+  * o Boże błogosławieństwo i udany poród dla córki Małgorzaty
+  * w dniu 3. urodzin Aanayi z prośbą o Boże błogosławieństwo i łaskę wiary
+  * za śp. Kazimierza BARSZCZA z prośbą o życie wieczne
+  * za śp. Kazimierza RYTLA i zmarłych z rodziny RYTEL i NIEPIEKŁO
+  * za śp. Eugeniusza GOŁUBIENKO, + za śp. Joannę SADLEJ,
+  * za śp. Józefa KSIĄŻKA i Beatę KLAROWSKĄ, + za śp. Antoninę GRUSZEWSKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00 + za śp. Tomasza BARAN i jego rodziców Marię i Jana
+* 18.00 + za śp. Zofię KOSICKĄ w 20. rocznicę śmierci
+
+**Poniedziałek, 19 września,**
+
+* 7.00+ za śp. Janinę SZUBĘ oraz Stefana, Jana i Stanisława SZUBĘ
+* 18.00 + za śp. Henryka KRASOWSKIEGO w 1. rocznicę odejścia do Pana oraz za śp. Krystynę KRASOWSKĄ
+
+**Wtorek, 20 września, Św. męczenników Andrzeja Kim Taegon, prezbitera, Pawła Chong Hasang i Towarzyszy, *wspomnienie***
+
+* 7.00 + za śp. Helenę WOŹNIAK w miesiąc po pogrzebie
+* 18.00+ za śp. Aleksandra ZASTAWNEGO w 27. rocznicę śmierci oraz za śp. Bronisławę i Jana ZASTAWNYCH
+
+**Środa, 21 września, Św. Mateusza, Apostoła i Ewangelisty, *święto***
+
+* 7.00 + za śp. Marka RYTLA
+* 18.00 + za śp. Jacka KUCZYŃSKIEGO w 39. rocznicę śmierci
+
+**Czwartek, 22 września,**
+
+* 7.00 *rezerwacja*
+* 18.00 + za śp. Kazimierę i Franciszka GOŁĘDOWSKICH
+
+**Piątek, 23 września,Św. Pio z Pietrelciny, prezbitera, *wspomnienie***
+
+* 7.00 o uwolnienie Sławka od skutków grzechów jego rodziców oraz poprzednich pokoleń oraz o Boże błogosławieństwo dla Sławka przez wstawiennictwo Matki Bożej i Św. Józefa
+* 18.00 + za śp. Bożenę MASZKIEWICZ i jej mamę Helenę oraz za śp. Alicję i Leszka WIŚNIEWSKICH
+
+**Sobota, 24 września,**
+
+* 7.00 o Boże miłosierdzie i dary Ducha Świętego dla Dawida
+* 18.00 + za śp. Mirosława KAZIMIERCZAKA
+
+**XXVI Niedziela zwykła, 25 września,**
+
+* 7.00 + za śp. Kazimierza JACKIEWICZA w 20. rocznicę śmierci
+* 9.00 Podziękowanie i prośba o przyjęcie i stałą obecność Najśw. Rodziny z Nazaretu jaśniejącej światłością miłości miłosiernej we wszystkich rodzinach
+* 10.30 intencja zbiorowa:
+
+  * o Boże miłosierdzie i dary Ducha Świętego dla Dawida i Judyty
+  * za śp. Czesława BIGDĘ w rocznicę śmierci, + za śp. Danutę KOPCIŃSKĄ, + za śp. Józefa KSIĄŻKA, + za śp. Janinę BASIŃSKĄ, + za śp. Zygmunta GRONKA
+  * za dusze w czyśćcu cierpiące
+* 12.00 za parafian
+* 18.00 w 12. rocznicę urodzin Zosi
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXIV Niedziela zwykła, 11 września,**
 
 * 7.00 + za śp. Mariannę i Wiesława TATAREK, Czesławę i Romana DAWIDOWICZÓW oraz Jadwigę i Wacława KUPSKICH
