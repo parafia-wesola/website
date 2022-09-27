@@ -4,6 +4,75 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXVI Niedziela zwykła, 25 września,**
+
+* 7.00    + za śp. Kazimierza JACKIEWICZA w 20. rocznicę śmierci
+* 9.00    Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu            jaśniejącej światłością miłości miłosiernej we wszystkich rodzinach
+* 10.30   intencja zbiorowa:
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->o Boże miłosierdzie i dary Ducha Świętego dla Dawida i Judyty
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Czesława BIGDĘ w rocznicę śmierci,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Danutę KOPCIŃSKĄ,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Józefa KSIĄŻKA,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Janinę BASIŃSKĄ,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Zygmunta GRONKA,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za dusze w czyśćcu cierpiące
+
+*  12.00 za parafian
+* 18.00 w 12. rocznicę urodzin Zosi
+
+**Poniedziałek, 26 września,**
+
+*   7.00  o uwolnienie Doroty od skutków grzechów jej rodziców oraz poprzednich pokoleń oraz o Boże      błogosławieństwo dla Doroty przez wstawiennictwo Matki Bożej i św. Józefa
+* 18.00    + za śp. Janusza PODNIESIŃSKIEGO w 2. rocznicę śmierci
+
+**Wtorek, 27 września, Św. Wincentego a  Paulo, prezbitera , *wspomnienie***
+
+*  7.00    + za śp. Józefa KMIECIKA w rocznicę urodzin
+* 18.00  + za śp. Kazimierza STORCZYKA (od rodziny Warownych, Jędrychów i Kiełczykowskich)
+
+**Środa, 28 września, Św. Wacława, męczennika, *wspomnienie***
+
+* 7.00    o Boże miłosierdzie i dary Ducha Świętego dla Dawida
+* 18.00    + o życie wieczne dla śp. Marianny WYGANOWSKIEJ i zmarłych z rodziny
+
+**Czwartek, 29 września, rocznica poświęcenia Bazyliki Katedralnej w Warszawie-Pradze, *święto***
+
+* 7.00  za dusze w czyśćcu cierpiące
+* 18.00  + za śp. Stanisława GÓRSKIEGO w 6. rocznicę śmierci oraz za jego rodziców i zmarłych z rodziny
+
+**Piątek, 30 września,Św. Hieronima, prezbitera i doktora Kościoła, *wspomnienie***
+
+* 7.00   + za śp. Jerzego w 15. rocznicę śmierci
+* 18.00  + za śp. Pawła RAKOWIECKIEGO, Krzysztofa i zmarłych z rodziny
+
+**Sobota, 1 października, Św. Teresy od Dzieciątka Jezus, dziewicy i doktora Kościoła, *wspomnienie***
+
+* 7.00  + za duszę Panu Bogu wiadomą
+* 18.00  K.Ż.R.
+
+**XXVII Niedziela zwykła, 2 października, niedziela Św. Franciszka**
+
+* 7.00    za parafian
+* 9.00    w 12. rocznicę uratowania życia Edwarda z prośbą o Boże błogosławieństwo
+* 10.30   intencja zbiorowa:  z okazji Dnia Seniora za wszystkie osoby starsze z naszej parafii, 
+* <!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Konrada, Radosława i Grzegorza CHUDECKICH,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Piotra GRYZA w dniu urodzin
+
+*  12.00
+* 18.00 + za śp. Krzysztofa, Mikołaja i Władysława SOBIESZUKÓW
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXV Niedziela zwykła, 18 września,**
 
 * 7.00 za parafian
