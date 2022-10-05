@@ -10,15 +10,13 @@ title: Intencje mszalne
 * 9.00    w 12. rocznicę uratowania życia Edwarda z prośbą o Boże błogosławieństwo
 * 10.30   intencja zbiorowa: z okazji **Dnia Seniora** za wszystkie osoby starsze z naszej parafii,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->w 30. rocznicę ślubu Małgorzaty i Mirosława,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->w 30. rocznicę ślubu Małgorzaty i Mirosława,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->w 2. rocznicę ślubu Aleksandry i Rafała,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->w 2. rocznicę ślubu Aleksandry i Rafała,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Konrada, Radosława i Grzegorza CHUDECKICH,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->+ za śp. Konrada, Radosława i Grzegorza CHUDECKICH,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Piotra  w dniu urodzin,
-
- 
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->+ za śp. Piotra  w dniu urodzin,
 
 * 12.00 w 4. rocznicę urodzin Tomka z prośbą o Boże błogosławieństwo
 * 13.00 Msza Święta dla rodzin dzieci pierwszokomunijnych
@@ -42,7 +40,7 @@ title: Intencje mszalne
 
 **Czwartek, 6 października,**
 
-* 7.00     msza św. w intencji Stanisławy i Mariana HARASIMIUK w 60. rocznicę ślubu oraz o Boże    błogosławieństwo dla ich dzieci i wnucząt – brat Janusz z żoną
+* 7.00     o uzdrowienie męża Eugeniusza BRALEWSKIEGO
 * 18.00    o łaskę wiary dla Artura
 
 **Piątek, 7 października, Najświętszej Maryi Panny Różańcowej,  *wspomnienie***
