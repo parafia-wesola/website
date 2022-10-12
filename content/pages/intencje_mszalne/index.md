@@ -4,19 +4,103 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXVIII Niedziela zwykła, 9 października,**
+
+* 7.00   + za śp. Apolonię, Zygmunta, Marka ZAWISTOWSKICH oraz Marię, Jerzego i Michała           BRZEZIŃSKICH
+* 9.00   + za śp. Barbarę GÓRSKĄ w 47. rocznicę śmierci oraz za śp. jej rodziców: Marię i Mieczysława   GÓRSKICH
+* 10.30   za parafian
+* 12.00   + za sp. Elżbietę KALISZEWSKĄ w 15. rocznicę śmierci i jej ojca Henryka GOWINA
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   o jedność małżeńską i miłość w dniu 20. rocznicy ślubu Agnieszki i Pawła
+
+**Poniedziałek, 10 października,**
+
+*   7.00 + za śp. Antoninę KRUSZEWSKĄ w miesiąc po pogrzebie
+* 18.00    + za śp. Mirosława i Eugeniusza JANICKICH, Andrzeja CZERWIŃSKIEGO, Aleksandrę i Karola      SZATAŃSKICH, Jadwigę CHMIELEWSKĄ oraz za śp. Grażynę i Marka OLSZEWSKICH
+
+**Wtorek, 11 października,**
+
+*  7.00    w 60. rocznicę ślubu Stanisławy i Mariana HARASIMIUK z prośbą o Boże błogosławieństwo\
+              dla nich, dla ich dzieci i wnucząt od brata Janusza z żoną
+* 18.00  + za śp. Stanisława, Annę, Jadwigę, Wiesława, Edwarda i Dariusza DOBOSZÓW
+
+**Środa, 12 października,**
+
+* 7.00   
+* 18.00    + za śp. Tadeusza KOŁOTĘ w 23. rocznicę śmierci oraz za rodziców Józefa i Lucynę z prośba\
+              o łaskę nieba
+
+**Czwartek, 13 października, Bł. Honorata Koźmińskiego, prezbitera, *wspomnienie***
+
+* 7.00     + za śp. Józefa KSIĄŻKA w miesiąc po pogrzebie
+* 18.00    + za śp. Krystynę COSIC-KOZAK i jej rodziców oraz zmarłych z rodziny GRZYBOWSKICH,     KRUPSKICH i BIEGAŁÓW
+
+ **Piątek, 14 października,**
+
+* 7.00   + za śp. Janinę BASIŃSKĄ w miesiąc po pogrzebie
+* 18.00  + za śp. Zygmunta GRONKA w miesiąc po pogrzebie
+
+**Sobota, 15 października, Św. Teresy od Jezusa, dziewicy i doktora Kościoła, *wspomnienie***
+
+*  7.00  + za śp. Jadwigę KLEJN
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00  o dar wiecznej radości w niebie ze wszystkimi świętymi i otworzenie bram nieba dla Jadwigi            LACHOWSKIEJ w dniu imienin oraz za zmarłych z rodziny GALIŃSKICH, LACHOWSKICH i RYDZEWSKICH
+
+**XXIX Niedziela zwykła, 16 października,**
+
+*  7.00   za parafian
+*  9.00   + za śp. Irenę i Czesława WIŚNIEWSKICH oraz zmarłych z rodziny SAWICKICH
+* 10.30   intencja zbiorowa:
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->msza dziękczynna w 34. rocznicę ślubu Joanny i Andrzeja oraz z okazji urodzin wnuczki Zosi i wnuczka Filipa,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->w 80. rocznicę urodzin Jadwigi GRYZ,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->o miłosierdzie Boże dla Aleksandry i o dary Ducha św. dla niej,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->z prośba o kanonizację bł. Stefana Wyszyńskiego,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->o światło i dary Ducha Świętego dla Judyty i Dawida,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->o Boże błogosławieństwo dla Euzebiusza z okazji urodzin,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Teresę i Włodzimierza TUSZEWSKICH z okazji imienin i w 2. rocznicę śmierci Teresy,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Paulinę, Jana i Stanisława PEŁKÓW,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Mieczysława DAMĘTKĘ,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Krystynę SZACHOWICZ,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Marię i Jana TORBICZ i wszystkich zmarłych z rodziny TORBICZÓW,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Zbigniewa PRZESŁAWA,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Ewę i Piotra SIPORSKICH, Jana, Zofię, Juliana i Eugeniusza GRYZÓW, Krzysztofa PIASECKIEGO i rodziców, Tadeusza, Ryszarda i Urszulę GRYZÓW; Barbarę i Henryka KRASZEWSKICH, Elżbietę LACHOWICZ, za śp. Jadwigę KOŁODZIEJEK i zmarłych z rodziny,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za duszę śp. Franciszka, Władysławy, Marii WIELGO.
+
+* 12.00   + za śp. Wacławę, Władysława, Leszka i zmarłych z rodziny GOŁADYKÓW i            WYSOCKICH
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + o życie wieczne dla śp. Mariana WYGANOWSKIEGO i zmarłych z rodziny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXVII Niedziela zwykła, 2 października, niedziela Św. Franciszka**
 
 * 7.00    za parafian
 * 9.00    w 12. rocznicę uratowania życia Edwarda z prośbą o Boże błogosławieństwo
 * 10.30   intencja zbiorowa: z okazji **Dnia Seniora** za wszystkie osoby starsze z naszej parafii,
 
-<!--\\[if !supportLists]-->·        <!--\\[endif]-->w 30. rocznicę ślubu Małgorzaty i Mirosława,
+<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->w 30. rocznicę ślubu Małgorzaty i Mirosława,
 
-<!--\\[if !supportLists]-->·        <!--\\[endif]-->w 2. rocznicę ślubu Aleksandry i Rafała,
+<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->w 2. rocznicę ślubu Aleksandry i Rafała,
 
-<!--\\[if !supportLists]-->·        <!--\\[endif]-->+ za śp. Konrada, Radosława i Grzegorza CHUDECKICH,
+<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Konrada, Radosława i Grzegorza CHUDECKICH,
 
-<!--\\[if !supportLists]-->·        <!--\\[endif]-->+ za śp. Piotra  w dniu urodzin,
+<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Piotra  w dniu urodzin,
 
 * 12.00 w 4. rocznicę urodzin Tomka z prośbą o Boże błogosławieństwo
 * 13.00 Msza Święta dla rodzin dzieci pierwszokomunijnych
