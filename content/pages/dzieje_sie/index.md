@@ -5,6 +5,8 @@ news:
   - size: large
     title: Bal Wszystkich Świętych
   - size: large
+    title: Spotkanie z judaizmem
+  - size: large
     title: spotkania dla młodych 16-19
   - size: large
     title: Kurs Alpha 2022
