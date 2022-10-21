@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Dzieci 10-13
+  - size: large
     title: Bal Wszystkich Świętych
   - size: large
     title: Spotkanie z judaizmem
