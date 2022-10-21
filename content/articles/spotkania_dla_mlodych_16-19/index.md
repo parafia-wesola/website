@@ -4,7 +4,7 @@ title: spotkania dla młodych 16-19
 date: 2022-09-26T20:47:58.570Z
 eventDate: 2022-10-05T17:00:00.000Z
 author: parafia wesoła
-cover: plakat_2.png
+cover: spotkania_16-19.png
 ---
 <!--StartFragment-->
 
