@@ -16,4 +16,6 @@ Już dziś zapraszamy wszystkie dzieci na **Bal Wszystkich Świętych**! Koniecz
 * Przygotowaliśmy dla Was wiele atrakcji! 
 * Uwaga! Obowiązują przebrania. Wstęp wolny!
 
+[upoważnienie do odbioru dziecka](https://drive.google.com/file/d/1-jpDbZo3-nmEAydHVe6NjBdlj12BNm1m/view?usp=sharing)
+
 <!--EndFragment-->
