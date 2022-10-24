@@ -15,7 +15,9 @@ Już dziś zapraszamy wszystkie dzieci na **Bal Wszystkich Świętych**! Koniecz
 * duża sala w Domu Rekolekcyjnym
 * Przygotowaliśmy dla Was wiele atrakcji! 
 * Uwaga! Obowiązują przebrania. Wstęp wolny!
-* **Prosimy się zapisać**
+* **Prosimy zapisać dzieci wysyłając maila na adres:** [drjwitek@gmail.com](mailto:drjwitek@gmail.com)
+
+  <!--EndFragment-->
 
 [upoważnienie do odbioru dziecka](https://drive.google.com/file/d/1-jpDbZo3-nmEAydHVe6NjBdlj12BNm1m/view?usp=sharing)
 
