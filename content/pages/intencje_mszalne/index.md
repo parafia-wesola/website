@@ -2,23 +2,113 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**XXXI Niedziela zwykła, 30 października,**
+
+* 7.00   za parafian
+* 9.00   + za śp. Helenę i Wiktora TURSKICH
+* 10.30   intencja zbiorowa:
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->w 55. rocznicę ślubu Henryki i  Leszka BERNAŚ oraz o zdrowie dla Leszka,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->za Jagodę w 15. rocznicę urodzin,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->w 24. urodziny Weroniki z prośbą o Boże błogosławieństwo i dary Ducha Świętego,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->za Stanisławę i Mariana Harasimiuk w 60. rocznicę ślubu oraz o Boże błogosławieństwo dla ich dzieci i wnuków,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->za Paulinę w rocznicę chrztu świętego z prośbą o Boże błogosławieństwo i prowadzenie przez N.M.P.,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->o światło i dary Ducha Świętego dla Judyty i Dawida,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za dusze w czyśćcu cierpiące,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Zygmunta BILBINA, jego rodziców Justynę i Władysława, teściów Stefanię i Jakuba; stryjostwa Julię i Jana z prośbą o łaskę Bożą i błogosławieństwo w Królestwie Wiecznym u Boga Najwyższego,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Stefanię KALISZ.
+
+* 12.00   + za śp. Hannę ZWIERZYŃSKĄ DRIESEN  w 15. rocznicę śmierci
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za zmarłych z rodziny HRYCIUKÓW, KAZIMIERCZAKÓW, ŚNITKO i KOZIATEK
+
+**Poniedziałek, 31 października,**
+
+*  7.00 + za śp. Tadeusza - Jerzego oraz jego rodziców Helenę i Józefa OKOŃ
+* 18.00    + za śp. Zdzisława WIERBOWSKIEGO w 11. rocznicę śmierci oraz za śp. Janinę i Roberta            WIERZBOWSKICH
+
+**Wtorek, 1 listopada, Wszystkich Świętych*, uroczystość***
+
+* 7.00   
+* 9.00     + za zmarłych z rodziny OWCZAREK
+* 10.30    + za śp. Tadeusza i Zofię KOŚCIESZA
+* 12.00  Msza św. wypominkowa zbiorowa
+* 18.00  + za śp. Juliana KOŁODZIEJCZYKA w 2. rocznicę śmierci
+
+**Środa, 2 listopada, Wszystkich Wiernych Zmarłych, *wspomnienie***
+
+* 7.00    + za śp. za śp. Krystynę BURZEC
+* 10.30
+* 18.00    Msza św. wypominkowa oktawalna
+
+**Czwartek, 3 listopada,**
+
+* 7.00     + za śp. Mariannę, Edwarda, Mirosława, Wiesława, Mariannę i Jana z rodziny WEREDÓW
+* 18.00    Msza św. wypominkowa oktawalna
+
+**Piątek, 4 listopada, Św. Karola Boromeusza, biskupa, *wspomnienie***
+
+* 7.00   + za  dusze w czyśćcu cierpiące
+* 18.00 Msza św. wypominkowa oktawalna
+
+**Sobota, 5 listopada, Św. Jana Pawła II, papieża, *wspomnienie***
+
+* 7.00   
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00  Msza św. wypominkowa oktawalna
+* 18.00 w intencji Kół Żywego Różańca
+
+**XXXII Niedziela zwykła, 6 listopada,**
+
+* 7.00   za parafian
+* 9.00   + w 13. rocznicę śmierci Eugeniusza BORUCA, jego rodziców i zmarłych z rodziny
+* 10.30   intencja zbiorowa:
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->o światło i dary Ducha Świętego dla Judyty i Dawida,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Marka GRABSKIEGO w rocznicę śmierci,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Jerzego RAKOWSKIEGO,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Joannę SADLEJ i zmarłych z rodziny,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Ryszarda GĄSIOROWSKIEGO,
+
+<!--\[if !supportLists]-->·        <!--\[endif]-->za dusze w czyśćcu cierpiące.
+
+* 12.00   + za śp. Marka GRABSKIEGO  w 2. rocznicę śmierci i za zmarłych z rodziny
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   Msza św. wypominkowa oktawalna
+
+<!--EndFragment-->
+
 **XXX Niedziela zwykła, 23 października,**
 
 *  7.00   + za śp. Teresę OSIPACZ
 * 9.00   w 60. rocznicę ślubu Haliny i Zbigniewa MIKOS
 * 10.30   intencja zbiorowa:
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->o światło i dary Ducha Świętego dla Judyty i Dawida,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->o światło i dary Ducha Świętego dla Judyty i Dawida,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->o dary Ducha Świętego z okazji urodzin i imienin dla Sabiny,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->o dary Ducha Świętego z okazji urodzin i imienin dla Sabiny,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Józefa i Janinę KROPIWIEC,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->+ za śp. Józefa i Janinę KROPIWIEC,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Joannę SADLEJ i zmarłych z rodziny,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->+ za śp. Joannę SADLEJ i zmarłych z rodziny,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Katarzynę SKARŻYŃSKĄ,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->+ za śp. Katarzynę SKARŻYŃSKĄ,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Andrzeja WĘGIER.
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->+ za śp. Andrzeja WĘGIER.
 
 * 12.00 za parafian         
 * *15.00  Adoracja Najświętszego Sakramentu*
@@ -62,17 +152,17 @@ title: Intencje mszalne
 * 9.00   + za śp. Helenę i Wiktora TURSKICH
 * 10.30   intencja zbiorowa:
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->w 55 rocznicę ślubu Henryki i  Leszka BERNAŚ,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->w 55 rocznicę ślubu Henryki i  Leszka BERNAŚ,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->za Jagodę w 15. rocznicę urodzin,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->za Jagodę w 15. rocznicę urodzin,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->za Paulinę w rocznicę chrztu z prośbą o Boże błogosławieństwo i prowadzenie przez NMP,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->za Paulinę w rocznicę chrztu z prośbą o Boże błogosławieństwo i prowadzenie przez NMP,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->o światło i dary Ducha Św. dla Judyty i Dawida,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->o światło i dary Ducha Św. dla Judyty i Dawida,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->+ za śp. Stefanię KALISZ,
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->+ za śp. Stefanię KALISZ,
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->+ za duszę śp. Zygmunta BILBINA, jego rodziców Justyny i Władysława, teściów Stefanii i Jakuba, stryjostwa Julii i Jana z prośbą o łaskę i Boże błogosławieństwo w Królestwie Wiecznym u Boga Najwyższego.
+<!--\\[if !supportLists]-->·        <!--\\[endif]-->+ za duszę śp. Zygmunta BILBINA, jego rodziców Justyny i Władysława, teściów Stefanii i Jakuba, stryjostwa Julii i Jana z prośbą o łaskę i Boże błogosławieństwo w Królestwie Wiecznym u Boga Najwyższego.
 
 * 12.00   + za śp. Hannę ZWIERZYŃSKĄ DRIESEN  w 15. rocznicę śmierci
 * *15.00  Adoracja Najświętszego Sakramentu*
@@ -80,45 +170,43 @@ title: Intencje mszalne
 
 <!--EndFragment-->
 
-
-
 **XXIX Niedziela zwykła, 16 października,**
 
 *  7.00   za parafian
 *  9.00   + za śp. Irenę i Czesława WIŚNIEWSKICH oraz zmarłych z rodziny SAWICKICH
 * 10.30   intencja zbiorowa:
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->msza dziękczynna w 34. rocznicę ślubu Joanny i Andrzeja oraz z okazji urodzin wnuczki Zosi i wnuczka Filipa,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->msza dziękczynna w 34. rocznicę ślubu Joanny i Andrzeja oraz z okazji urodzin wnuczki Zosi i wnuczka Filipa,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->w 80. rocznicę urodzin Jadwigi GRYZ,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->w 80. rocznicę urodzin Jadwigi GRYZ,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->o miłosierdzie Boże dla Aleksandry i o dary Ducha Świętego dla niej,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->o miłosierdzie Boże dla Aleksandry i o dary Ducha Świętego dla niej,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->z prośbą o kanonizację bł. Stefana Wyszyńskiego,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->z prośbą o kanonizację bł. Stefana Wyszyńskiego,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->o światło i dary Ducha Świętego dla Judyty i Dawida,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->o światło i dary Ducha Świętego dla Judyty i Dawida,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->z okazji urodzin Renaty  z prośbą o Boże błogosławieństwo na dalsze lata,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->z okazji urodzin Renaty  z prośbą o Boże błogosławieństwo na dalsze lata,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->o Boże błogosławieństwo dla Euzebiusza z okazji urodzin,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->o Boże błogosławieństwo dla Euzebiusza z okazji urodzin,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Teresę i Włodzimierza TUSZEWSKICH z okazji imienin i w 2. rocznicę śmierci Teresy,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Teresę i Włodzimierza TUSZEWSKICH z okazji imienin i w 2. rocznicę śmierci Teresy,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Paulinę, Jana i Stanisława PEŁKÓW,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Paulinę, Jana i Stanisława PEŁKÓW,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Mieczysława DAMĘTKĘ,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Mieczysława DAMĘTKĘ,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Krystynę SZACHOWICZ,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Krystynę SZACHOWICZ,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Marię i Jana TORBICZ i wszystkich zmarłych z rodziny TORBICZÓW,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Marię i Jana TORBICZ i wszystkich zmarłych z rodziny TORBICZÓW,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Zbigniewa PRZESŁAWA,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Zbigniewa PRZESŁAWA,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Ewę i Piotra SIPORSKICH, Jana, Zofię, Juliana i Eugeniusza GRYZÓW, Krzysztofa PIASECKIEGO i rodziców, Tadeusza, Ryszarda i Urszulę GRYZÓW; Barbarę i Henryka KRASZEWSKICH, Elżbietę LACHOWICZ, za śp. Jadwigę KOŁODZIEJEK i zmarłych z rodziny,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Ewę i Piotra SIPORSKICH, Jana, Zofię, Juliana i Eugeniusza GRYZÓW, Krzysztofa PIASECKIEGO i rodziców, Tadeusza, Ryszarda i Urszulę GRYZÓW; Barbarę i Henryka KRASZEWSKICH, Elżbietę LACHOWICZ, za śp. Jadwigę KOŁODZIEJEK i zmarłych z rodziny,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za duszę śp. Franciszka, Władysławy, Marii WIELGO,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za duszę śp. Franciszka, Władysławy, Marii WIELGO,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Czesławę OLSZEWSKĄ w rocznicę śmierci oraz za śp. Jana OLSZEWSKIEGO.
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Czesławę OLSZEWSKĄ w rocznicę śmierci oraz za śp. Jana OLSZEWSKIEGO.
 
 * 12.00   + za śp. Wacławę, Władysława, Leszka i zmarłych z rodziny GAŁADYKÓW i            WYSOCKICH
 * *15.00  Adoracja Najświętszego Sakramentu*
@@ -161,19 +249,19 @@ title: Intencje mszalne
 * 9.00   w 60. rocznicę ślubu Haliny i Zbigniewa MIKOS
 * 10.30   intencja zbiorowa:
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->o światło i dary Ducha Świętego dla Judyty i Dawida,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->o światło i dary Ducha Świętego dla Judyty i Dawida,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Zygmunta GOSIEWSKIEGO w 3. rocznicę śmierci,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Zygmunta GOSIEWSKIEGO w 3. rocznicę śmierci,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Józefa i Janinę KROPIWIEC,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Józefa i Janinę KROPIWIEC,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Joannę SADLEJ i za zmarłych z rodziny,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Joannę SADLEJ i za zmarłych z rodziny,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Katarzynę SKARŻYŃSKĄ,
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Katarzynę SKARŻYŃSKĄ,
 
-<!--\\\[if !supportLists]-->·        <!--\\\[endif]-->+ za śp. Andrzeja WĘGIER.   
+<!--\\\\[if !supportLists]-->·        <!--\\\\[endif]-->+ za śp. Andrzeja WĘGIER.   
 
-<!--\\\[if !supportLists]-->12.0   <!--\\\[endif]-->za parafian
+<!--\\\\[if !supportLists]-->12.0   <!--\\\\[endif]-->za parafian
 
 * *15.00  Adoracja Najświętszego Sakramentu*
 * 18.00   + za śp. Mariannę ŚLIWOŃ w 8. rocznicę śmierci oraz za Michała Śliwoń w 6 miesięcy po śmierci\
