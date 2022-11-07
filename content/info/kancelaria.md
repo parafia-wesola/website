@@ -3,6 +3,8 @@ type: info
 title: kancelaria parafialna
 id: kancelaria_parafialna
 ---
+**W piątek, 11 listopada, kancelaria parafialne będzie nieczynna.**
+
 **KANCELARIA PARAFIALNA CZYNNA:**
 
 tel. 22 773 56 35\
