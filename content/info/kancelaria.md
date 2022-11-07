@@ -3,7 +3,7 @@ type: info
 title: kancelaria parafialna
 id: kancelaria_parafialna
 ---
-**W piątek, 11 listopada, kancelaria parafialne będzie nieczynna.**
+**W piątek, 11 listopada, kancelaria parafialna będzie nieczynna.**
 
 **KANCELARIA PARAFIALNA CZYNNA:**
 
