@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: "kalendarze adwentowe "
+  - size: large
     title: spotkania dla młodych 16-19
   - size: large
     title: wsparcie budowy kościoła
