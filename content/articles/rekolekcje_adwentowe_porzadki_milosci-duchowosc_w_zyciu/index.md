@@ -4,7 +4,7 @@ title: Rekolekcje Adwentowe "Porządki miłości-duchowość w życiu"
 date: 2022-12-02T14:51:19.875Z
 eventDate: 2022-12-03T23:00:00.000Z
 author: parafia wesoła
-cover: rekolekcje_adwentowe_2022_a3_297_420_mm_.png
+cover: na_facebooka.png
 ---
 **Rekolekcje poprowadzą Monika i Marcin Gajdowie**\
 Mieszkają w Bolechowie - małej wsi pod Goleniowem koło Szczecina. Od wielu lat pracują z człowiekiem i dla człowieka (pro homine) prowadząc działalność terapeutyczną, konferencyjną i rekolekcyjną. Są małżeństwem od 1991 roku i mają czworo dzieci. Od czerwca 2016 r Marcin jest duchownym Kościoła Katolickiego (diakon stały). Szeroko pojmowana służba ludziom na styku psychologii i duchowości to ich pasja, powołanie zawodowe i wielka przygoda życiowa.
