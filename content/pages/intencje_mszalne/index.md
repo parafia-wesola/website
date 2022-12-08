@@ -4,6 +4,75 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**II Niedziela Adwentu, 4 grudnia,**
+
+* 7.00   za parafian
+* 9.00   + za śp. Teresę MOMOT
+* 10.30   intencja zbiorowa:
+
+  * o dary Ducha Św. dla Kingi w 14 rocznicę urodzin
+  * o łaskę zdrowia dla Czesławy
+  * o światło i dary Ducha Św. dla Judyty i Dawida
+  * dziękując Bogu za rocznego Mateusza z prośbą o błogosławieństwo Boże i opiekę Matki Bożej
+  * za śp. Barbarę WĄSOWSKĄ w dniu imienin
+  * za śp. Czesława MIKOSA w 2 rocznicę śmierci i Włodzimierza MIKOSA w zbliżającą się rocznicę śmierci
+  * za śp. Ewę i Franciszka ROGALA w 1 rocznicę śmierci.
+  * za śp. Zbigniewa WEREDĘ
+  * za śp. Zbigniewa KASIURĘ
+  * za śp. Władysławę , Marię i Franciszka WIELGO
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Tadeusza ZALEWSKIEGO w 2 rocznicę śmierci oraz za zmarłych z rodziny ZALEWSKICH,          SZYMAŃSKICH i KRÓLAKÓW
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00  + za śp. Waldemara NOWIKOWA w 31 rocznicę śmierci
+
+**Poniedziałek, 5 grudnia,**
+
+* 6.45    + za śp. Piotra GUMIENNEGO  w miesiąc po pogrzebie
+* 10.30    o miłosierdzie Boże dla Olenki i Pawła oraz o potrzebne łaski dla całej rodziny
+* 18.00    + za śp. Mieczysława DAMĘTKA ( od Krzysztofa i Moniki Czenierowskich)
+
+**Wtorek, 6 grudnia,  Św. Mikołaja, biskupa,**
+
+*  6.45    + za śp. Henrykę SABAK
+* 10.30   
+* 18.00intencja wypominkowa
+
+**Środa, 7 grudnia, Św. Ambrożego, biskupa i doktora Kościoła, *wspomnienie***
+
+* 6.45    + za śp. Marka w 4 rocznicę śmierci
+* 10.30    za śp. Janinę i Bolesława EJSOMONT oraz śp. Krystynę i Władysława MATERA i śp. Stanisława DUTKIEWICZA
+* 18.00    + za śp. Stanisława, Annę, Jadwigę, Wiesława, Edwarda i Dariusza DOBOSZÓW
+
+**Czwartek, 8 grudnia, Niepokalane Poczęcie Najświętszej Maryi Panny, *uroczystość***
+
+*  6.45     + za śp. Janinę, Feliksę, Wiktora i Ryszarda WIELGUSÓW
+* 12.00 Godzina Łaski
+* 18.00    w dniu urodzin wnuka Krzysztofa – dziękczynna za błogosławiony dar rodzicielstwa – z prośbą o pomoc Bożą w wychowaniu dzieci na chwałę Boga oraz dla Krzysztofa i Moniki o dar dalszego pogłębiania ich miłości małżeńskiej
+
+**Piątek, 9 grudnia,**
+
+* 6.45   + za śp. Wiesława WINCENCIAKA
+* 18.00  + za śp. Mieczysława DAMĘTKĘ
+
+**Sobota, 10 grudnia, Najświętszej Maryi Panny Loretańskiej*, wspomnienie***
+
+* 6.45     + za śp. Leokadię i Juliusza RAUSCH, Antoniego WARDAWĘ , Annę MAŁASZEWSKĄ oraz Weronikę i      Bolesława CHOJNACKICH
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00  + za śp. Mariannę i Wiesława KIESLER
+
+**III Niedziela Adwentu, 11 grudnia,**
+
+* 7.00   + za śp. Barbarę SZMIDT, Marię i Zbigniewa SŁUŻEWSKICH oraz zmarłych z rodziny SZMIDT i       SŁUŻEWSKICH
+* 9.00    + za śp. Ryszarda ŁUPIŃSKIEGO, Mirosława MACHNACKIEGO oraz zmarłych z rodziny           WIŚNIEWSKICH
+* 10.30   za parafian
+* 12.00   + za śp. Barbarę WĄSOWSKĄ
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Jana SIOCH oraz Leokadię SIODKOWSKĄ
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **I Niedziela Adwentu, 27 listopada,**
 
 * 7.00   + za duszę śp. Hanny ZASIKOWKIEJ w 3 rocznicę śmierci
