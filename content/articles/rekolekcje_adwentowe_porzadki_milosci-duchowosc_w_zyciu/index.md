@@ -6,6 +6,12 @@ eventDate: 2022-12-04T06:00:00.000Z
 author: parafia wesoła
 cover: na_facebooka.png
 ---
+**tutaj można odsłuchać rekolekcji adwentowych:**
+
+**[dzień 3](https://youtu.be/6EIbYIgyf-U)**
+
+**[dzień 4](https://youtu.be/EYztoji8vt0)**
+
 **Rekolekcje poprowadzą Monika i Marcin Gajdowie**\
 Mieszkają w Bolechowie - małej wsi pod Goleniowem koło Szczecina. Od wielu lat pracują z człowiekiem i dla człowieka (pro homine) prowadząc działalność terapeutyczną, konferencyjną i rekolekcyjną. Są małżeństwem od 1991 roku i mają czworo dzieci. Od czerwca 2016 r Marcin jest duchownym Kościoła Katolickiego (diakon stały). Szeroko pojmowana służba ludziom na styku psychologii i duchowości to ich pasja, powołanie zawodowe i wielka przygoda życiowa.
 
