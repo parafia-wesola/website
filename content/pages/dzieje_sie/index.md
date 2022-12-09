@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Kolęda 2023
+  - size: large
     title: Rekolekcje Adwentowe "Porządki miłości-duchowość w życiu"
   - size: large
     title: "kalendarze adwentowe "
