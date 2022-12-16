@@ -4,6 +4,66 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**III Niedziela Adwentu, 11 grudnia,**
+
+*  7.00   + za śp. Barbarę SZMIDT, Marię i Zbigniewa SŁUŻEWSKICH oraz zmarłych z rodziny SZMIDT\
+             i SŁUŻEWSKICH
+* 9.00    + za śp. Ryszarda ŁUPIŃSKIEGO, Mirosława MACHNACKIEGO oraz zmarłych z rodziny           WIŚNIEWSKICH
+* 10.30   za parafian
+* 12.00   + za śp. Barbarę WĄSOWSKĄ
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Jana SIOCH oraz Leokadię SIODKOWSKĄ
+
+**Poniedziałek, 12 grudnia,**
+
+*   6.45    dziękczynna za 85 lat życia p. Ewy z prośbą o dalsze błogosławieństwo
+* 18.00    o światło i dary Ducha Św. dla Judyty i Dawida
+
+**Wtorek, 13 grudnia,  Św. Łucji, dziewicy i męczennicy, *wspomnienie***
+
+*  6.45               
+* 18.00+ za zmarłych z rodziny WACHOL i WYSOCKICH
+
+**Środa, 14 grudnia, Św. Jana od Krzyża, prezbitera i doktora Kościoła, *wspomnienie***
+
+* 6.45    . + za śp. Jerzego w 8. rocznicę śmierci
+* 18.00    + za śp. Pelagię i Stefana ŁASKAWIEC oraz Zofię, Halinę, Marię z domu ŁASKAWIEC
+
+**Czwartek, 15 grudnia,**
+
+*  6.45     + za śp. Jerzego WŁODARCZYKA w 1. rocznicę śmierci, Halinę WŁODARCZYK w 3 rocznicę śmierci oraz          Henryka WŁODARCZYKA w 5 rocznicę śmierci.
+* 18.00    + za śp. Mieczysława NIEMALEC w 27. rocznicę śmierci
+
+**Piątek, 16 grudnia,**
+
+* 6.45  
+* 18.00  za małżeństwa w kryzysie
+
+**Sobota, 17 grudnia,**
+
+* 6.45     + za śp. Eugeniusza NIEMYJSKIEGO w 20. rocznicę śmierci
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00  + za śp. Danutę KOPCIŃSKĄ w 3. rocznicę śmierci
+
+**IV Niedziela Adwentu, 18 grudnia,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Wacławę w 4. rocznicę śmierci, Albina i Tadeusza KOSYL i za zmarłych z rodziny
+* 10.30   intencja zbiorowa
+
+  * o światło i dary Ducha Św. dla Judyty i Dawida
+  * za śp. Annę SZTANDUR
+  * za śp. Janinę NIEROJEWSKĄ
+  * za śp. Wacława KOSTRZEWSKIEGO
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Mariannę ZWIERZYŃSKĄ w 6. rocznicę śmierci oraz za zmarłych z rodziny ZWIERZYŃSKICH
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   o Boże Miłosierdzie i dary Ducha Św. dla Judyty
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **II Niedziela Adwentu, 4 grudnia,**
 
 * 7.00   za parafian
