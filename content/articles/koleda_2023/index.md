@@ -26,6 +26,12 @@ cover: koleda_na_facebooka.png
 
 ***Czwartek***, 22 grudnia: ul. Głowackiego 124-168, Miła
 
+***Wtorek***, 27 grudnia: Zakątek, Różana, Dowcip, Apteczna, Szarych Szeregów, Akacjowa
 
+***Środa***, 28 grudnia: ul. Jaśminowa, Baśniowa, Kasztanowa, Boczna, Mała
+
+***Czwartek***, 29 grudnia: ul. Berenta, Spokojna, Górna, Kubusia Puchatka
+
+***Piątek***, 30 grudnia: ul. Konopnickiej, Modrzewiowa, Syrokomli
 
 <!--EndFragment-->
