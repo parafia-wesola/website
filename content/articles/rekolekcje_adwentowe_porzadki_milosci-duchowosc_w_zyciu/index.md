@@ -8,6 +8,10 @@ cover: na_facebooka.png
 ---
 **tutaj można odsłuchać rekolekcji adwentowych:**
 
+**[dzień 1](https://youtu.be/dG2XaEdf0Qc)**
+
+**[dzień 2](https://youtu.be/OeAcGm_YIYE)**
+
 **[dzień 3](https://youtu.be/6EIbYIgyf-U)**
 
 **[dzień 4](https://youtu.be/EYztoji8vt0)**
