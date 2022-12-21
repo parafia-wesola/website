@@ -4,6 +4,74 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**IV Niedziela Adwentu, 18 grudnia,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Wacławę w 4.  rocznicę śmierci, Albina i Tadeusza KOSYL i za zmarłych z rodziny
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Annę SZTANDUR
+  * za śp. Janinę NIEROJEWSKĄ
+  * za śp. Wacława KOSTRZEWSKIEGO
+  * za śp. Czesławę i Jana OLSZWSKICH
+  * za śp. Halinę WŁODARCZYK w 3 rocznicę śmierci oraz za Henryka WŁODARCZYKA w 5. rocznicę śmierci
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Mariannę ZWIERZYŃSKĄ w 6. rocznicę śmierci oraz za zmarłych z rodziny ZWIERZYŃSKICH
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   o Boże Miłosierdzie i dary Ducha Świętego dla Judyty
+
+**Poniedziałek, 19 grudnia,**
+
+*  6.45    w 35. rocznicę urodzin Radosława z prośbą o Boże błogosławieństwo, dary Ducha Świętego, powierzając opiece Matki Bożej
+* 18.00    + o życie wieczne dla śp. Jerzego PRZYGODY
+
+**Wtorek, 20 grudnia,**
+
+* 6.45    + za śp. Stanisława KORNILUKA w miesiąc po pogrzebie       
+* 18.00+ za śp. Jolantę ŁĘCZYCKĄ w 2. rocznicę śmierci – Msza dziękczynna za jej życie
+
+**Środa, 21 grudnia,**
+
+* 6.45    + za śp. Annę IWANEJKO w miesiąc po pogrzebie
+* 18.00    za światło i dary Ducha Świętego dla Judyty i Dawida
+
+**Czwartek, 22 grudnia,**
+
+* 6.45     + za śp. Witolda DĘBNIAKA z prośbą o życie wieczne
+* 18.00    za Helenę w 13. rocznicę urodzin
+
+**Piątek, 23 grudnia,**
+
+* 6.45   + za śp. Zbigniewa WEREDĘ w miesiąc po pogrzebie
+* 18.00    o światło i dary Ducha Świętego dla Judyty i Dawida
+
+**Sobota, 24 grudnia, Wigilia Narodzenia Pańskiego**
+
+* 6.45     + za śp. Ewę
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 24.00    Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością miłości miłosiernej we wszystkich rodzinach 
+
+**Niedziela Narodzenia Pańskiego , 25 grudnia, *uroczystość***
+
+* 9.00    + za śp. Eugenię GNIAZDOWSKĄ
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Eugeniusza STRUPIECHOWSKIEGO w 8. rocznicę śmierci
+  * za śp. Zygmunta KWIEKA w 50. rocznicę śmierci i za Kazimierę KWIEK z DOBRZYNIECKICH w 78. rocznicę śmierci
+  * za śp. Eugeniusza i Kazimierza KAŁASZA
+  * za śp. Henryka RAJZERA
+  * za śp. Agatę BORÓWEK
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Marię i Jerzego WĄSOWSKICH
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **III Niedziela Adwentu, 11 grudnia,**
 
 *  7.00   + za śp. Barbarę SZMIDT, Marię i Zbigniewa SŁUŻEWSKICH oraz zmarłych z rodziny SZMIDT\
