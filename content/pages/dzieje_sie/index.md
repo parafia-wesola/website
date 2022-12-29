@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Karnawałowy Bal Parafialny
+  - size: large
     title: Radosnych Świąt Bożego Narodzenia
   - size: large
     title: Kolęda 2023
