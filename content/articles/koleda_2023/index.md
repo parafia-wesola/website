@@ -34,4 +34,36 @@ cover: koleda_na_facebooka.png
 
 ***Piątek***, 30 grudnia: ul. Konopnickiej, Modrzewiowa, Syrokomli
 
+***Poniedziałek,*** 9 stycznia: ul. Wrzosowa, Czarnieckiego, Dwernickiego, Wiosenna, Ciasna
+
+***Wtorek*,** 10 stycznia: ul. Starzyńskiego, Kostki Napierskiego 
+
+***Środa*,** 11 stycznia: ul. Lipowa, Parkowa, Świerkowa, Orla
+
+**Czwartek,** 12 stycznia: ul. Żółkiewskiego
+
+***Piątek,*** 13 stycznia: ul. Chodkiewicza (domy+bloki)
+
+***Sobota*,** 14 stycznia: ul. Sikorskiego 1-44
+
+***Poniedziałek,*** 16 stycznia: ul. Sikorskiego 45-65a
+
+***Wtorek,*** 17 stycznia**:** ul. Sikorskiego 66-107a
+
+***Środa,*** 18 stycznia: ul. Sikorskiego108-126, Armii Krajowej 1-14a
+
+***Czwartek,*** 19 stycznia: Armii Krajowej 15-44
+
+***Piątek,*** 20 stycznia: Armii Krajowej 45-54a, Armii Krajowej 56a, Armii Krajowej 56b (bez osiedla 56)
+
+***Sobota,*** 21 stycznia: Armii Krajowej 56, Armii Krajowej 57-75
+
+***Wtorek,*** 24 stycznia:Armii Krajowej 76, Armii Krajowej 76a
+
+***Środa,*** 25 stycznia: Armii Krajowej 76b
+
+***Czwartek,*** 26 stycznia:Armii Krajowej 76c, Armii Krajowej 76d, Armii Krajowej 76e
+
+***Piątek*,** 27 stycznia:Armii Krajowej 77, 77a-119, Armii Krajowej 78
+
 <!--EndFragment-->
