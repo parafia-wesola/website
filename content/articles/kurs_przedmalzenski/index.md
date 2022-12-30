@@ -10,9 +10,7 @@ cover: 1.png
 
 Kurs przedmałżeński: pierwsze kroki do szczęśliwego małżeństwa
 
-* daty spotkań: 25.02, 04.03, 11.03, 25.03, 08.04, 15.04\
-  + całodzienne spotkanie, 20.03
-* kontakt i zapisy: kancelaria@parafiawesola.pl\
-  tel. 604 433 434
+* daty spotkań: 25.02, 04.03, 11.03, 25.03, 08.04, 15.04 i całodzienne spotkanie, 20.03
+* kontakt i zapisy: kancelaria@parafiawesola.pl, tel. 604 433 434
 
 <!--EndFragment-->
