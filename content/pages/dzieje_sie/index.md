@@ -7,6 +7,8 @@ news:
   - size: large
     title: Radosnych Świąt Bożego Narodzenia
   - size: large
+    title: Kurs przedmałżeński
+  - size: large
     title: Kolęda 2023
   - size: large
     title: Rekolekcje Adwentowe "Porządki miłości-duchowość w życiu"
