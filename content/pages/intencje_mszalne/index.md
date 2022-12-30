@@ -2,6 +2,70 @@
 type: text
 title: Intencje mszalne
 ---
+**Niedziela Narodzenia Pańskiego , 25 grudnia, *uroczystość***
+
+* 9.00    + za śp. Eugenię GNIAZDOWSKĄ
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Eugeniusza STRUPIECHOWSKIEGO w 8. rocznicę śmierci
+  * za śp. Zygmunta KWIEKA w 50. rocznicę śmierci i za Kazimierę KWIEK z DOBRZYNIECKICH w 78. rocznicę śmierci
+  * za śp. Eugeniusza i Kazimierza KAŁASZA
+  * za śp. Henryka RAJZERA
+  * za śp. Agatę BORÓWEK
+  * za śp. Stanisława ROGALĘ
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Marię i Jerzego WĄSOWSKICH
+
+**Poniedziałek, 26 grudnia, Św. Szczepana, pierwszego męczennika,  *święto***
+
+* 7.00    + za śp. Teresę MAKOWIECKĄ-KONOPKA
+* 9.00     + za śp. Zdzisława LEWANDOWSKIEGO i zmarłych z rodziny LEWANDOWSKICH, PAŹDZIORÓW,           KARASIÓW i CUDNYCH
+* 10.30    w 55. rocznicę ślubu Zofii i Eugeniusza BRALEWSKICH
+* 12.00    w 4. rocznicę urodzin Kasi SZYMCZYK          
+* 18.00    + za śp. Mariannę KIELEWSKĄ
+
+**Wtorek, 27 grudnia, Św. Jana Apostoła i Ewangelisty, *święto***
+
+*  7.00    + za śp. Wiktorię i Stanisława PRZESŁAW      
+* 18.00w 50. rocznicę urodzin Agnieszki
+
+**Środa, 28 grudnia, Św. Młodzianków, męczenników, *święto***
+
+* 7.00    + za śp. Zbigniewa KASIURĘ  w miesiąc po pogrzebie
+* 18.00    o Boże Miłosierdzie i dary Ducha Świętego dla Dawida
+
+**Czwartek, 29 grudnia, V dzień w oktawie Narodzenia Pańskiego**
+
+*  7.00     + za śp. Mieczysława WOJDAKA w 10. rocznicę śmierci
+* 18.00    + za śp. Zofię i Bronisława JASZCZYKÓW i zmarłych z rodziny JASZCZYKÓW i MURASZEWSKICH
+
+**Piątek, 30 grudnia, Świętej Rodziny: Jezusa, Maryi  i Józefa, *święto***
+
+* 7.00   + za śp. Annę SZTANDUR w miesiąc po pogrzebie
+* 18.00    + za śp. Eugeniusza i Stefana MROCZKÓW oraz za Wojciecha, Józefę, Stanisława i Józefa SZCZEPKÓW
+
+**Sobota, 31 grudnia, VII dzień w oktawie Narodzenia Pańskiego**
+
+* 7.00     + za śp. Reginę i Bolesława JURKIEWICZÓW
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00    Msza św. dziękczynna za miniony rok
+
+**Niedziela , 1 stycznia, Świętej Bożej Rodzicielki Maryi, *uroczystość***
+
+* 7.00       za parafian
+* 9.00    + za śp. Mieczysława GÓRSKIEGO oraz śp. Marię i Barbarę GÓRSKIE
+* 10.30   intencja zbiorowa:
+
+  * za śp. Mariana i Czesława GŁUCHOWSKICH
+* 12.00  
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Wandę LIPIŃSKĄ o życie wieczne
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **IV Niedziela Adwentu, 18 grudnia,**
