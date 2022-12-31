@@ -2,6 +2,68 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+ **Oktawa Narodzenia Pańskiego**
+
+**Niedziela , 1 stycznia, Świętej Bożej Rodzicielki Maryi, *uroczystość***
+
+* 9.00    + za śp. Mieczysława GÓRSKIEGO oraz śp. Marię i Barbarę GÓRSKIE
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha świętego dla Judyty i Dawida
+  * za śp. Mariana i Czesława GŁUCHOWSKICH
+  * za śp. Alicję DREWNIAK
+  * za dusze w czyśćcu cierpiące
+* 12.00  
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Wandę LIPIŃSKĄ o życie wieczne
+
+**Poniedziałek, 2 stycznia, Św. Bazylego Wielkiego i Grzegorza z Nazjanzu, biskupów i doktorów Kościoła,                 *wspomnienie***
+
+* 7.00    + za śp. Wacława i Halinę RYCHLIKÓW oraz śp. Grzegorza SOBIECHA        
+* 18.00    + za śp. Janinę NIEROJEWSKĄ w miesiąc po pogrzebie
+
+**Wtorek, 3 stycznia,**
+
+* 7.00    + za śp. Wacława KOSTRZEWSKIEGO  w miesiąc po pogrzebie         
+* 18.00msza wypominkowa
+
+**Środa, 4 stycznia,**
+
+* 7.00   
+* 18.00    o uzdrowienie i nawrócenie Karoliny i o przyjęcie Bożej Miłości
+
+**Czwartek, 5 stycznia,**
+
+*  7.00     w dniu imienin Edwarda z prośbą o Boże błogosławieństwo i opiekę Matki Bożej
+* 18.00    o uzdrowienie i nawrócenie Karoliny i o przyjęcie Bożej Miłości
+
+**Piątek, 6 stycznia, Objawienie Pańskie, *uroczystość***
+
+*  7.00  
+*  9.00    + za śp. Eugeniusza CZERWIŃSKIEGO  w 20. rocznicę śmierci
+* 10.30    + za śp. Stanisława KOWALSKIEGO w 16. rocznicę śmierci i zmarłych z jego rodziny
+* 12.00    + za śp. Eugeniusza BAŁABUCH w 2. rocznicę śmierci
+* 18.00    + za śp. Wandę NIEMALEC w 33. rocznicę śmierci oraz śp. Krzysztofa NIEMALEC w 31. rocznicę śmierci
+
+**Sobota, 7 stycznia,**
+
+* 7.00     + za śp. Bronisławę RYCHNOWSKĄ w 14. rocznicę śmierci
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00    K.Ż.R.
+
+**Niedziela , 8 stycznia, Chrzest Pański, *święto***
+
+* 7.00     + za śp. ks. Stefana WYSOCKIEGO  i  śp. Jerzego NOWOSIELSKIEGO
+* 9.00   + za śp. Adama PASIAKA w 1. rocznicę śmierci
+* 10.30   za parafian
+* 12.00   + za śp. Lucynę PAWŁOWSKĄ w 10. rocznicę śmierci o radość życia wiecznego
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   z okazji 9. rocznicy urodzin Michała
+
+<!--EndFragment-->
+
 **Niedziela Narodzenia Pańskiego , 25 grudnia, *uroczystość***
 
 * 9.00    + za śp. Eugenię GNIAZDOWSKĄ
