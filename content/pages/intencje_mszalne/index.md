@@ -4,6 +4,64 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela , 8 stycznia, Chrzest Pański, *święto***
+
+* 7.00     + za śp. ks. Stefana WYSOCKIEGO  i  śp. Jerzego NOWOSIELSKIEGO
+* 9.00   + za śp. Adama PASIAKA w 1. rocznicę śmierci
+* 10.30   za parafian
+* 12.00   + za śp. Lucynę PAWŁOWSKĄ w 10. rocznicę śmierci o radość życia wiecznego
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   z okazji 9. rocznicy urodzin Michała
+
+**Poniedziałek, 9 stycznia,**
+
+* 7.00                
+* 18.00    Msza św. dziękczynna za łaski otrzymane w roku 2022 dla Fabryki Chobot i o błogosławieństwo na następny rok
+
+**Wtorek, 10 stycznia,**
+
+* 7.00               
+* 18.00
+
+**Środa, 11 stycznia,**
+
+* 7.00   
+* 18.00    + za śp. Józefa w 15. rocznicę śmierci, za śp. Helenę CHYBOWSKĄ i Reginę PANDZIERSKĄ
+
+**Czwartek, 12 stycznia,**
+
+* 7.00     + za śp. Jerzego w 5. rocznicę śmierci
+* 18.00    + za śp. Henrykę i Jana SABAK
+
+**Piątek, 13 stycznia,**
+
+* 7.00    + za śp. Henryka RAJZERA w miesiąc po pogrzebie
+* 18.00    o uzdrowienie i nawrócenie Karoliny i przyjęcie Bożej miłości
+
+**Sobota, 14 stycznia,**
+
+* 7.00     + za śp. Agatę BORÓWEK w miesiąc po pogrzebie
+* 15.30   ślub : Tomasz Wojnicki i Dobrawa Wojnicka zd. Wierzbowska
+* *17.00   Adoracja Najświętszego Sakramentu*
+* 18.00    + za śp. Mieczysława PODLEŚNEGO
+
+**Niedziela , 15 stycznia,**
+
+* 7.00     za parafian
+* 9.00   o światło i dary Ducha Św. dla Judyty i Dawida
+* 10.30   intencja  zbiorowa:
+
+  * O światło i dary Ducha Św. dla Judyty i Dawida
+  * Za dusze w czyśćcu cierpiące
+  * za śp. Adama i zmarłych z rodziny MERA
+* 12.00   + za śp. Zbigniewa KAMIŃSKIEGO w 18. rocznicę śmierci oraz za jego rodziców
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   z okazji 40. rocznicy ślubu Anny i Wojciecha
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
  **Oktawa Narodzenia Pańskiego**
 
 **Niedziela , 1 stycznia, Świętej Bożej Rodzicielki Maryi, *uroczystość***
