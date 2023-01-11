@@ -7,6 +7,8 @@ news:
   - size: large
     title: Radosnych Świąt Bożego Narodzenia
   - size: large
+    title: Orszak Trzech Króli
+  - size: large
     title: Kurs przedmałżeński
   - size: large
     title: Kolęda 2023
