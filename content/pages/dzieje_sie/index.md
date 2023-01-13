@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Kurs Przedmałżeński
+  - size: large
     title: Karnawałowy Bal Parafialny
   - size: large
     title: Radosnych Świąt Bożego Narodzenia
@@ -20,6 +22,4 @@ news:
     size: medium
   - title: Adoracja w weekendy
     size: medium
-  - size: large
-    title: Kurs Przedmałżeński
 ---
