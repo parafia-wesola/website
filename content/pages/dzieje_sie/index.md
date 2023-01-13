@@ -9,8 +9,6 @@ news:
   - size: large
     title: Orszak Trzech Króli - fotorelacja
   - size: large
-    title: Kurs przedmałżeński
-  - size: large
     title: Kolęda 2023
   - size: large
     title: Rekolekcje Adwentowe "Porządki miłości-duchowość w życiu"
@@ -22,4 +20,6 @@ news:
     size: medium
   - title: Adoracja w weekendy
     size: medium
+  - size: large
+    title: Kurs Przedmałżeński
 ---
