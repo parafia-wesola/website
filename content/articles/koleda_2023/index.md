@@ -42,11 +42,13 @@ cover: koleda_na_facebooka.png
 
 **Czwartek,** 12 stycznia: ul. Żółkiewskiego
 
-***Piątek,*** 13 stycznia: ul. Chodkiewicza (bloki) \
-**bardzo przepraszamy, ale z powodu choroby jednego z księży, musimy przełożyć wizytę duszpasterską domach na inny termin. Kolęda w blokach pozostaje bez zmian.**
+***Piątek,*** 13 stycznia: ul. Chodkiewicza (bloki) 
 
-***Sobota*,** 14 stycznia: ul. Sikorskiego 1-44\
-**bardzo przepraszamy, ale z powodu choroby jednego z księży, musimy przełożyć wizytę duszpasterską na inny termin.**
+**bardzo przepraszamy, ale z powodu choroby jednego z księży, musimy przełożyć wizytę duszpasterską domach na czwartek, 19 stycznia. Kolęda w blokach pozostaje bez zmian.**
+
+##### ***Sobota*,** 14 stycznia: ul. Sikorskiego 1-44\
+\
+**bardzo przepraszamy, ale z powodu choroby jednego z księży, musimy przełożyć wizytę duszpasterską w domach o numerach 25-44 na środę, 25 stycznia,**
 
 ***Poniedziałek,*** 16 stycznia: ul. Sikorskiego 45-65a
 
@@ -62,7 +64,7 @@ cover: koleda_na_facebooka.png
 
 ***Wtorek,*** 24 stycznia:Armii Krajowej 76, Armii Krajowej 76a
 
-***Środa,*** 25 stycznia: Armii Krajowej 76b
+***Środa,*** 25 stycznia: Armii Krajowej 76b, Sikorskiego 
 
 ***Czwartek,*** 26 stycznia:Armii Krajowej 76c, Armii Krajowej 76d, Armii Krajowej 76e
 
