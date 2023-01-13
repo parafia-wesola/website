@@ -8,7 +8,7 @@ cover: 1.png
 ---
 <!--StartFragment-->
 
-Już w styczniu zaczynamy w naszej parafii kurs przedmałżeński. Zapraszamy wszystkie pary, też te, które nie mają jeszcze daty ślubu 
+Już w styczniu zaczynamy w naszej parafii **kurs przedmałżeński**. Zapraszamy wszystkie pary, też te, które nie mają jeszcze daty ślubu 
 
 * **daty spotkań**: 23 stycznia, 30 stycznia, 6 luty, 6 marca, 13 marca, 20 marca i dodatkowo dzień wyjazdowy 25 lutego
 * **gdzie?** Dom Rekolekcyjny, Piotra Skargi 2, Warszawa-Wesoła
