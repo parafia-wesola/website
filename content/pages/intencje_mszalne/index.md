@@ -4,6 +4,71 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela , 15 stycznia,**
+
+* 7.00     za parafian
+* 9.00   o światło i dary Ducha Świętego dla Judyty i Dawida
+* 10.30   intencja  zbiorowa:
+
+  * o światło i dary Ducha Św. dla Judyty i Dawida
+  * za dusze w czyśćcu cierpiące
+  * za śp. Adama i zmarłych z rodziny MERA
+  * za śp. Pawła PRUSKIEGO w dniu urodzin i imienin oraz za jego zmarłych rodziców
+* 12.00   + za śp. Zbigniewa KAMIŃSKIEGO w 18. rocznicę śmierci oraz za jego rodziców
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   z okazji 40. rocznicy ślubu Anny i Wojciecha
+
+**Poniedziałek, 16 stycznia,**
+
+* 7.00                
+* 18.00    dziękczynna w 70. rocznicę urodzin
+
+**Wtorek, 17 stycznia, Św. Antoniego, opata, *wspomnienie***
+
+* 7.00    o zdrowie dla Jadwigi  
+* 18.00o uzdrowienie i nawrócenie Karoliny i o przyjęcie Bożej Miłości
+
+**Środa, 18 stycznia,**
+
+* 7.00    + za śp. Elżbietę FIAŁKOWSKĄ w 2. rocznicę śmierci
+* 18.00    + za śp. Stanisława ZIELIŃSKIEGO w 5. rocznicę śmierci oraz za Janinę i Mariana ZIELIŃSKICH
+
+**Czwartek, 19 stycznia, Św. Józefa Sebastiana Pelczara, biskupa*, wspomnienie***
+
+* 7.00     dziękując za Sebastiana i Mariusza z prośbą o Miłosierdzie Boże i dary Ducha Świętego dla nich i ich rodzin
+* 18.00    + za śp. Stanisława FAJFER
+
+**Piątek, 20 stycznia,**
+
+* 7.00    o światło i dary Ducha Św. w życiu i pracy dla Pawła
+* 18.00    za małżeństwa w kryzysie
+
+**Sobota, 21 stycznia, Św. Agnieszki, dziewicy i męczennicy , *wspomnienie***
+
+* 7.00     + dziękczynna za śp. Eugeniusza LAJBOREK o życie wieczne w Niebie
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00    o uzdrowienie i nawrócenie Karoliny i przyjęcie Bożej Miłości
+* 19.00   Oficjum o jedność Chrześcijan
+
+**III Niedziela zwykła , 22 stycznia,**
+
+* 7.00     
+* 9.00   + w 15. rocznicę śmierci Józefa oraz za Mariannę, Wacława, Stanisława i Annę BOGUSZEWSKICH
+* 10.30   intencja  zbiorowa:
+
+  * za Agnieszkę z okazji urodzin z prośbą o Boże błogosławieństwo i o opiekę Matki Bożej
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za dusze w czyśćcu cierpiące
+  * za śp. Czesława PORĘBĘ
+  * za śp. Zofię PAWIŃSKĄ
+* 12.00   za parafian
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Lucynę ZALEWSKĄ w 1. rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela , 8 stycznia, Chrzest Pański, *święto***
 
 * 7.00     + za śp. ks. Stefana WYSOCKIEGO  i  śp. Jerzego NOWOSIELSKIEGO
