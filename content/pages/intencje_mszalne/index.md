@@ -4,6 +4,71 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**III Niedziela zwykła , 22 stycznia,**
+
+* 7.00    Dziękując Bogu za dziadków i pradziadków z obu stron, z prośbą o łaskę Nieba
+* 9.00   + w 15. rocznicę śmierci Józefa oraz za Mariannę, Wacława, Stanisława i Annę BOGUSZEWSKICH
+* 10.30   intencja  zbiorowa:
+
+  * za Agnieszkę z okazji urodzin z prośbą o Boże błogosławieństwo i o opiekę Matki Bożej
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * o szczęśliwy przebieg operacji Roberta
+  * za dusze w czyśćcu cierpiące
+  * za śp. Czesława PORĘBĘ
+  * za śp. Zofię PAWIŃSKĄ
+* 12.00   za parafian
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Lucynę ZALEWSKĄ w 1. rocznicę śmierci
+
+**Poniedziałek, 23 stycznia,**
+
+* 7.00     + za śp. Czesława PORĘBĘ  (intencja od brata Zenona z żoną) 
+* 18.00    o łaskę nawrócenia dla Pawła
+
+**Wtorek, 24 stycznia, Św. Franciszka Salezego, biskupa i doktora Kościoła, *wspomnienie***
+
+* 7.00    + za śp. Jana MIODUSZEWSKIEGO    w 5. rocznicę śmierci
+* 18.00+ za śp. Aleksandra i Stanisławę GŁÓWKĘ o życie wieczne
+
+**Środa, 25 stycznia, Nawrócenie Św. Pawła, apostoła, *święto***
+
+* 7.00    + za duszę śp. Marka RYTLA w 1. rocznicę śmierci
+* 18.00    Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością   Miłości Miłosiernej we wszystkich rodzinach 
+
+**Czwartek, 26 stycznia, Św. biskupów Tymoteusza  i Tytusa, *wspomnienie***
+
+* 7.00     + za śp. Czesława PORĘBĘ  ( intencja od bratanicy Agnieszki Gruca z rodziną)
+* 18.00    + za śp. Annę KRAJEWSKĄ w rocznicę śmierci
+
+**Piątek, 27 stycznia,**
+
+* 7.00    + za śp. Józefa KMIECIKA  w 1. rocznicę śmierci o spokój duszy
+* 18.00    + dziękczynna za śp. Eugeniusza LAJBOREK o życie wieczne w Niebie
+
+**Sobota, 28 stycznia, Św. Tomasza z Akwinu, prezbitera i doktora Kościoła , *wspomnienie***
+
+* 7.00     + za śp. Stanisława, Mariannę, Romana, Witolda i Waldemara
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00    + za śp. Alicję DREWNIAK w miesiąc po pogrzebie
+
+**IV Niedziela zwykła , 29 stycznia,**
+
+* 7.00     za parafian
+* 9.00   +  za śp. Stanisława i Alicję SIENKIEWICZ  i zmarłych z rodziny SIENKIEWICZÓW
+* 10.30   intencja  zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Genowefę i Józefa LECZKOWSKICH
+  * za śp. Izabelę, Marię, Jerzego oraz zmarłych z rodziny RÓŻYCKICH i TROCHIMIKÓW
+  * za dusze w czyśćcu cierpiące
+* 12.00   w 60. rocznicę ślubu Jana i Kazimiery MACIĄŻKÓW – dziękczynna z prośbą o Boże błogosławieństwo dla dzieci i wnuków
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Romana SKROBKA i zmarłych z rodziny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela , 15 stycznia,**
 
 * 7.00     za parafian
