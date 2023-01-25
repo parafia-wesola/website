@@ -46,8 +46,9 @@ cover: koleda_na_facebooka.png
 
 **bardzo przepraszamy, ale z powodu choroby jednego z księży, musimy przełożyć wizytę duszpasterską domach na czwartek, 19 stycznia. Kolęda w blokach pozostaje bez zmian.**
 
-##### ***Sobota*,** 14 stycznia: ul. Sikorskiego 1-44\
-**bardzo przepraszamy, ale z powodu choroby jednego z księży, musimy przełożyć wizytę duszpasterską w domach o numerach 25-44 na środę, 25 stycznia,**
+##### ***Sobota*,** 14 stycznia: ul. Sikorskiego 1-44 
+
+##### **bardzo przepraszamy, ale z powodu choroby jednego z księży, musimy przełożyć wizytę duszpasterską w domach o numerach 25-44 na środę, 25 stycznia,**
 
 ***Poniedziałek,*** 16 stycznia: ul. Sikorskiego 45-65a
 
