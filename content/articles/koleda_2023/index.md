@@ -47,7 +47,6 @@ cover: koleda_na_facebooka.png
 **bardzo przepraszamy, ale z powodu choroby jednego z księży, musimy przełożyć wizytę duszpasterską domach na czwartek, 19 stycznia. Kolęda w blokach pozostaje bez zmian.**
 
 ##### ***Sobota*,** 14 stycznia: ul. Sikorskiego 1-44\
-\
 **bardzo przepraszamy, ale z powodu choroby jednego z księży, musimy przełożyć wizytę duszpasterską w domach o numerach 25-44 na środę, 25 stycznia,**
 
 ***Poniedziałek,*** 16 stycznia: ul. Sikorskiego 45-65a
@@ -62,12 +61,40 @@ cover: koleda_na_facebooka.png
 
 ***Sobota,*** 21 stycznia: Armii Krajowej 56, Armii Krajowej 57-75
 
-***Wtorek,*** 24 stycznia:Armii Krajowej 76, Armii Krajowej 76a
+***Wtorek,*** 24 stycznia: Armii Krajowej 76, Armii Krajowej 76a
 
 ***Środa,*** 25 stycznia: Armii Krajowej 76b, Sikorskiego 
 
-***Czwartek,*** 26 stycznia:Armii Krajowej 76c, Armii Krajowej 76d, Armii Krajowej 76e
+***Czwartek,*** 26 stycznia: Armii Krajowej 76c, Armii Krajowej 76d, Armii Krajowej 76e
 
-***Piątek*,** 27 stycznia:Armii Krajowej 77, 77a-119, Armii Krajowej 78
+***Piątek*,** 27 stycznia: Armii Krajowej 77, 77a-119, Armii Krajowej 78
+
+***Wtorek*,** **31 stycznia:** ul. Armii Krajowej 120-145, 1 Praskiego Pułku 1-29
+
+***Środa*, 1 lutego:** 1 Praskiego Pułku 30-72
+
+***Sobota*, 4 lutego:** ul. Mokra, Wspólna, Za Dębami, Równa, Słowicza
+
+***Poniedziałek*, 6 lutego:** ul. Śliska
+
+***Wtorek*, 7 lutego:** ul. Długa
+
+***Środa*, 8 lutego:** ul. Niemcewicza, Narutowicza, Tuwima
+
+***Czwartek*, 9 lutego:** ul. Asnyka, Rejtana
+
+***Piątek*, 10 lutego:** ul. Słowackiego
+
+***Sobota,* 11 lutego:** ul. Mickiewicza (domy i bloki)
+
+***Poniedziałek*, 13 lutego:** ul. Żeromskiego, Norwida
+
+***Wtorek*, 14 lutego:** ul. Kościuszki, 1 Maja, Skłodowskiej Curie, Literatów, Matejki, Prusa
+
+***Środa,* 15 lutego:** ul. Broniewskiego, Staszica, Wrońskiego, Sienkiewicza, Kraszewskiego
+
+***Czwartek*, 16 lutego:** ul. Godebskiego, Reymonta
+
+***Piątek,* 17 lutego:** ul. Letnia
 
 <!--EndFragment-->
