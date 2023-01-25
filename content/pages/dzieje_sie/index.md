@@ -3,17 +3,11 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Kurs Przedmałżeński
-  - size: large
-    title: Karnawałowy Bal Parafialny
-  - size: large
-    title: Radosnych Świąt Bożego Narodzenia
+    title: Kolęda 2023
   - size: large
     title: Orszak Trzech Króli - fotorelacja
   - size: large
-    title: Kolęda 2023
-  - size: large
-    title: Rekolekcje Adwentowe "Porządki miłości-duchowość w życiu"
+    title: Orszak Trzech Króli - fotorelacja
   - size: large
     title: spotkania dla młodych 16-19
   - size: large
