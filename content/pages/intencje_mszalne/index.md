@@ -2,10 +2,6 @@
 type: text
 title: Intencje mszalne
 ---
-<!--StartFragment-->
-
-**III Niedziela zwykła , 22 stycznia,**
-
 **IV Niedziela zwykła, 29 stycznia,**
 
   7.00     za parafian
@@ -14,18 +10,18 @@ title: Intencje mszalne
 
 10.30 intencja zbiorowa:
 
-* o światło i dary Ducha Świętego dla Judyty i Dawida
-* + za śp. Genowefę i Józefa LECZKOWSKICH
-* + za śp. Izabelę, Marię, Jerzego oraz zmarłych z rodziny RÓŻYCKICH i TROCHIMIKÓW
-* + za śp. Mariana GŁUCHOWSKIEGO i Grzegorza BORKOWSKIEGO
-* + za śp. Władysławę, Józefa, Genowefę MOLSKIE
-* + za dusze w czyśćcu cierpiące
+* \    o światło i dary Ducha Świętego dla Judyty i Dawida
+* * za śp. Genowefę i Józefa LECZKOWSKICH
+* * za śp. Izabelę, Marię, Jerzego oraz zmarłych z rodziny RÓŻYCKICH i TROCHIMIKÓW
+* * za śp. Mariana GŁUCHOWSKIEGO i Grzegorza BORKOWSKIEGO
+* * za śp. Władysławę, Józefa, Genowefę MOLSKIE
+* * za dusze w czyśćcu cierpiące
 
-12.00 w 60. rocznicę ślubu Jana i Kazimiery MACIĄŻKÓW – dziękczynna z prośbą o Boże błogosławieństwo dla dzieci i wnuków
+    12.00 w 60. rocznicę ślubu Jana i Kazimiery MACIĄŻKÓW – dziękczynna z prośbą o Boże błogosławieństwo dla dzieci i wnuków
 
-15.00  Adoracja Najświętszego Sakramentu
+    15.00  Adoracja Najświętszego Sakramentu
 
-18.00 + za śp. Romana SKROBKA i zmarłych z rodziny
+    18.00 + za śp. Romana SKROBKA i zmarłych z rodziny
 
 **Poniedziałek, 30 stycznia,** 
 
@@ -80,18 +76,20 @@ title: Intencje mszalne
 * w 45. rocznicę ślubu Lucyny i Marka
 * o światło i dary Ducha Świętego dla Judyty i Dawida
 * dziękczynno-błagalna w rocznicę urodzin Jakuba KOTUNIAKA oraz w 27. rocznicę śmierci śp. Ryszarda KOTUNIAKA
-* + za śp. Czesława PORĘBĘ (intencja od  Alicji Kurzeja) 
-* + za śp. Adelę ZALEWSKĄ w miesiąc po pogrzebie 
-* + za śp. Ryszarda WOJCIECHOWSKIEGO
-* + za śp. Mariana Jarzyna
-* + za śp. Beatę JAMIOŁKOWSKĄ w 1. rocznicę śmierci
-* + za dusze w czyśćcu cierpiące
+* * za śp. Czesława PORĘBĘ (intencja od  Alicji Kurzeja) 
+* * za śp. Adelę ZALEWSKĄ w miesiąc po pogrzebie 
+* * za śp. Ryszarda WOJCIECHOWSKIEGO
+* * za śp. Mariana Jarzyna
+* * za śp. Beatę JAMIOŁKOWSKĄ w 1. rocznicę śmierci
+* * za dusze w czyśćcu cierpiące
 
-12.00 + za śp. Agatę BORÓWEK o życie wieczne
+    12.00 + za śp. Agatę BORÓWEK o życie wieczne
 
-15.00  Adoracja Najświętszego Sakramentu
+    15.00  Adoracja Najświętszego Sakramentu
 
-18.00
+    18.00
+
+
 
 
 
@@ -156,8 +154,6 @@ title: Intencje mszalne
 * 12.00   w 60. rocznicę ślubu Jana i Kazimiery MACIĄŻKÓW – dziękczynna z prośbą o Boże błogosławieństwo dla dzieci i wnuków
 * *15.00  Adoracja Najświętszego Sakramentu*
 * 18.00   + za śp. Romana SKROBKA i zmarłych z rodziny
-
-
 
 **Niedziela , 15 stycznia,**
 
