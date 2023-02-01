@@ -4,94 +4,71 @@ title: Intencje mszalne
 ---
 **IV Niedziela zwykła, 29 stycznia,**
 
-  7.00     za parafian
+* 7.00     za parafian
+* 9.00 +  za śp. Stanisława i Alicję SIENKIEWICZ  i zmarłych z rodziny SIENKIEWICZÓW
+* 10.30 intencja zbiorowa:
 
- 9.00 +  za śp. Stanisława i Alicję SIENKIEWICZ  i zmarłych z rodziny SIENKIEWICZÓW
-
-10.30 intencja zbiorowa:
-
-* \    o światło i dary Ducha Świętego dla Judyty i Dawida
-* * za śp. Genowefę i Józefa LECZKOWSKICH
-* * za śp. Izabelę, Marię, Jerzego oraz zmarłych z rodziny RÓŻYCKICH i TROCHIMIKÓW
-* * za śp. Mariana GŁUCHOWSKIEGO i Grzegorza BORKOWSKIEGO
-* * za śp. Władysławę, Józefa, Genowefę MOLSKIE
-* * za dusze w czyśćcu cierpiące
-
-    12.00 w 60. rocznicę ślubu Jana i Kazimiery MACIĄŻKÓW – dziękczynna z prośbą o Boże błogosławieństwo dla dzieci i wnuków
-
-    15.00  Adoracja Najświętszego Sakramentu
-
-    18.00 + za śp. Romana SKROBKA i zmarłych z rodziny
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Genowefę i Józefa LECZKOWSKICH
+  * za śp. Izabelę, Marię, Jerzego oraz zmarłych z rodziny RÓŻYCKICH i TROCHIMIKÓW
+  * za śp. Mariana GŁUCHOWSKIEGO i Grzegorza BORKOWSKIEGO
+  *  za śp. Władysławę, Józefa, Genowefę MOLSKIE 
+  *  za dusze w czyśćcu cierpiące 
+* 12.00 w 60. rocznicę ślubu Jana i Kazimiery MACIĄŻKÓW – dziękczynna z prośbą o Boże błogosławieństwo dla dzieci i wnuków
+* 15.00  Adoracja Najświętszego Sakramentu
+* 18.00 + za śp. Romana SKROBKA i zmarłych z rodziny
 
 **Poniedziałek, 30 stycznia,** 
 
- 7.00 + za śp.  Janinę, Feliksa, Wiktora i Ryszarda WIELGUS
-
-18.00 w dziękczynieniu Boga za wszelkie łaski i Jego Opatrzność
+* 7.00 + za śp.  Janinę, Feliksa, Wiktora i Ryszarda WIELGUS
+* 18.00 w dziękczynieniu Boga za wszelkie łaski i Jego Opatrzność
 
 **Wtorek, 31 stycznia, Św. Jana Bosko, prezbitera, *wspomnienie***
 
- 7.00 + za śp. Czesława PORĘBĘ - intencja od brata Stanisława
-
-18.00 + za śp. Stanisława FAJFER
+* 7.00 + za śp. Czesława PORĘBĘ - intencja od brata Stanisława
+* 18.00 + za śp. Stanisława FAJFER
 
 **Środa, 1 lutego,** 
 
- 7.00  
-
-18.00 + za śp. Edwarda GOLIJANEK w 3. rocznicę śmierci
+* 7.00  
+* 18.00 + za śp. Edwarda GOLIJANEK w 3. rocznicę śmierci
 
 **Czwartek, 2 lutego , Ofiarowanie Pańskie, święto**
 
- 7.00
-
-10.30 
-
-18.00  + za śp. Hannę CHACHULSKĄ w 1. rocznicę śmierci
+* 7.00
+* 10.30 o szczęśliwy przebieg operacji serca, bez skutków ubocznych dla Sebastiana
+* 18.00  + za śp. Hannę CHACHULSKĄ w 1. rocznicę śmierci
 
 **Piątek, 3 lutego,** 
 
-7.00    + za śp. Donatę, Stanisławę KONARSKĄ w 14. rocznicę śmierci oraz za śp. Tadeusza KONARSKIEGO  w 34. rocznicę śmierci
-
-18.00 + w 19. rocznicę śmierci śp. Sławomiry CZERWIŃSKIEJ
+* 7.00    + za śp. Donatę, Stanisławę KONARSKĄ w 14. rocznicę śmierci oraz za śp. Tadeusza KONARSKIEGO  w 34. rocznicę śmierci
+* 18.00 + w 19. rocznicę śmierci śp. Sławomiry CZERWIŃSKIEJ
 
 **Sobota, 4 lutego,** 
 
- 7.00
-
-15.00   Adoracja Najświętszego Sakramentu
-
-17.00  Nabożeństwo pierwszosobotnie
-
-18.00  w intencjach Kół Żywego Różańca
+* 7.00
+* 15.00   Adoracja Najświętszego Sakramentu
+* 17.00  Nabożeństwo pierwszosobotnie
+* 18.00  w intencjach Kół Żywego Różańca
 
 **V Niedziela zwykła, 5 lutego,**
 
-  7.00     za parafian
+* 7.00     za parafian
+* 9.00 +  za śp. Mariannę WIŚNIEWSKĄ  oraz za śp. Konstantego WIŚNIEWSKIEGO w 1. rocznicę śmierci
+* 10.30  intencja  zbiorowa:
 
- 9.00 +  za śp. Mariannę WIŚNIEWSKĄ  oraz za śp. Konstantego WIŚNIEWSKIEGO w 1. rocznicę śmierci
-
-10.30  intencja  zbiorowa:
-
-* w 45. rocznicę ślubu Lucyny i Marka
-* o światło i dary Ducha Świętego dla Judyty i Dawida
-* dziękczynno-błagalna w rocznicę urodzin Jakuba KOTUNIAKA oraz w 27. rocznicę śmierci śp. Ryszarda KOTUNIAKA
-* * za śp. Czesława PORĘBĘ (intencja od  Alicji Kurzeja) 
-* * za śp. Adelę ZALEWSKĄ w miesiąc po pogrzebie 
-* * za śp. Ryszarda WOJCIECHOWSKIEGO
-* * za śp. Mariana Jarzyna
-* * za śp. Beatę JAMIOŁKOWSKĄ w 1. rocznicę śmierci
-* * za dusze w czyśćcu cierpiące
-
-    12.00 + za śp. Agatę BORÓWEK o życie wieczne
-
-    15.00  Adoracja Najświętszego Sakramentu
-
-    18.00
-
-
-
-
+  * w 45. rocznicę ślubu Lucyny i Marka
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * dziękczynno-błagalna w rocznicę urodzin Jakuba KOTUNIAKA oraz w 27. rocznicę śmierci śp. Ryszarda KOTUNIAKA
+  * za śp. Czesława PORĘBĘ (intencja od  Alicji Kurzeja) 
+  * za śp. Adelę ZALEWSKĄ w miesiąc po pogrzebie 
+  * za śp. Ryszarda WOJCIECHOWSKIEGO
+  * za śp. Mariana Jarzyna
+  * za śp. Beatę JAMIOŁKOWSKĄ w 1. rocznicę śmierci
+  * za dusze w czyśćcu cierpiące
+* 12.00 + za śp. Agatę BORÓWEK o życie wieczne
+* 15.00  Adoracja Najświętszego Sakramentu
+* 18.00
 
 **Niedziela, 22 stycznia**
 
