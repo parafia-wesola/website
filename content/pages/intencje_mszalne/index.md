@@ -2,6 +2,70 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**V Niedziela zwykła, 5 lutego,**
+
+* 7.00     za parafian
+* 9.00   +  za śp. Mariannę WIŚNIEWSKĄ  oraz za śp. Konstantego WIŚNIEWSKIEGO w 1. rocznicę śmierci
+* 10.30   intencja  zbiorowa:
+
+  * za Lucynę i Marka w 45 rocznicę ślubu
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * dziękczynno-błagalna w rocznicę urodzin Jakuba KOTUNIAKA
+  * za śp. Ryszarda KOTUNIAKA, w 27 r. ś.
+  * za śp. Czesława PORĘBA (intencja od  Alicji Kurzeja)
+  * za śp. Adelę ZALEWSKĄ w miesiąc po pogrzebie
+  * za śp. Ryszarda WOJCIECHOWSKIEGO
+  * za śp. Mariana Jarzynę
+  * za śp. Beatę JAMIOŁKOWSKĄ w 1. rocznicę śmierci
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Agatę BORÓWEK o życie wieczne
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00  
+
+**Poniedziałek, 6 lutego, Świętych męczenników Pawła Miki i Towarzyszy, *wspomnienie***
+
+* 7.00 dziękczynna za posługę kapłanów z naszej parafii z prośbą o boże błogosławieństwo, opiekę Matki Bożej i dary Ducha Świętego dla nich.
+* 18.00 + za śp. Barbarę BOROWSKĄ w 23 rocznicę śmierci
+
+**Wtorek, 7 lutego,**
+
+* 7.00 za śp. Amelię WIELOGÓRSKĄ  23 r. ś.
+* 18.00    intencja wypominkowa
+
+**Środa, 8 lutego,**
+
+* 7.00   
+* 18.00    + o życie wieczne dla śp. Romana WYGANOWSKIEGO i zmarłych z rodziny
+
+**Czwartek, 9 lutego ,**
+
+* 7.00    + za śp. Czesława PORĘBA  w miesiąc po pogrzebie
+* 18.00    + za śp. Franciszka WIELGO w 24 rocznicę śmierci oraz za śp. Władysławę i Marię
+
+**Piątek, 10 lutego, Św. Scholastyki, dziewicy, *wspomnienie***
+
+* 7.00    + za śp. Zofię PAWIŃSKĄ w miesiąc po pogrzebie
+* 18.00   
+
+**Sobota, 11 lutego,**
+
+* 7.00     + za śp. Władysława MALINOWSKIEGO
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00    + za śp. Kazimierza CHOJECKIEGO w 20 rocznicę śmierci oraz za śp. Zofię, Andrzeja i Adama         CHOJECKICH
+
+**VI Niedziela zwykła, 12 lutego,**
+
+* 7.00 + za śp. Mariannę ZDANOWICZ w 5 rocznicę śmierci
+* 9.00  +  za śp. Teodorę i Stanisława BAREJÓW  oraz za zmarłych z rodziny BAREJÓW  i TARASZEWSKICH
+* 10.30   za parafian
+* 12.00 + za rodziców śp. Wacławę i Tadeusza GOSKÓW, siostrę Stanisławę, dziadków z obu stron i wszystkich zmarłych z rodzin KACZANÓW i ALEKSANDROWICZÓW
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00 + za śp. Mieczysławę i Jana ŁUKOMSKICH
+
+<!--EndFragment-->
+
 **IV Niedziela zwykła, 29 stycznia,**
 
 * 7.00     za parafian
@@ -12,8 +76,8 @@ title: Intencje mszalne
   * za śp. Genowefę i Józefa LECZKOWSKICH
   * za śp. Izabelę, Marię, Jerzego oraz zmarłych z rodziny RÓŻYCKICH i TROCHIMIKÓW
   * za śp. Mariana GŁUCHOWSKIEGO i Grzegorza BORKOWSKIEGO
-  *  za śp. Władysławę, Józefa, Genowefę MOLSKIE 
-  *  za dusze w czyśćcu cierpiące 
+  * za śp. Władysławę, Józefa, Genowefę MOLSKIE 
+  * za dusze w czyśćcu cierpiące 
 * 12.00 w 60. rocznicę ślubu Jana i Kazimiery MACIĄŻKÓW – dziękczynna z prośbą o Boże błogosławieństwo dla dzieci i wnuków
 * 15.00  Adoracja Najświętszego Sakramentu
 * 18.00 + za śp. Romana SKROBKA i zmarłych z rodziny
