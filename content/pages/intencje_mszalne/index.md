@@ -53,7 +53,7 @@ title: Intencje mszalne
 
 * 7.00     + za śp. Władysława MALINOWSKIEGO
 * *15.00   Adoracja Najświętszego Sakramentu*
-* 18.00    + za śp. Kazimierza CHOJECKIEGO w 20 rocznicę śmierci oraz za śp. Zofię, Andrzeja i Adama         CHOJECKICH
+* 18.00 + za śp. Kazimierza CHOJECKIEGO w 20 rocznicę śmierci oraz za śp. Zofię, Andrzeja i Adama         CHOJECKICH
 
 **VI Niedziela zwykła, 12 lutego,**
 
