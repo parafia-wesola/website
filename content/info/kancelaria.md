@@ -3,6 +3,8 @@ type: info
 title: kancelaria parafialna
 id: kancelaria_parafialna
 ---
+**W poniedziałek, 6 lutego 2023, kancelaria wyjątkowo będzie otwarta od godziny 17.00, przepraszamy za niedogodności.**
+
 **KANCELARIA PARAFIALNA CZYNNA:**
 
 tel. 22 773 56 35\
