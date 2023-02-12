@@ -2,6 +2,64 @@
 type: text
 title: Intencje mszalne
 ---
+**VI Niedziela zwykła, 12 lutego,**
+
+* 7.00     + za śp. Mariannę ZDANOWICZ w 5. rocznicę śmierci
+* 9.00   +  za śp. Teodorę i Stanisława BAREJÓW  oraz za zmarłych z rodziny BAREJÓW  i TARASZEWSKICH
+* 10.30   za parafian
+* 12.00   + za rodziców śp. Wacławę i Tadeusza GOSKÓW, siostrę Stanisławę, dziadków z obu stron i wszystkich zmarłych z rodzin KACZANÓW i ALEKSANDROWICZÓW
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Mieczysławę i Jana ŁUKOMSKICH
+
+**Poniedziałek, 13 lutego,**
+
+*  7.00    + za śp. Józefę Henrykę ZAWADZKĄ
+* 18.00    + za śp. Eugeniusza KAŁASZA w 21. rocznicę śmierci o wieczną radość
+
+**Wtorek, 14 lutego, Świętych Cyryla, mnicha, i Metodego, biskupa, patronów Europy, *święto***
+
+* 7.00     + za śp. Lidię PRZESMYCKĄ
+* 18.00    + za śp. Stanisławę i Aleksandra GŁÓWKĘ
+
+**Środa, 15 lutego, Bł. Michała Sopocki, prezbitera, *wspomnienie***
+
+* 7.00    + za śp. Ryszarda WOJCIECHOWSKIEGO  w miesiąc po pogrzebie
+* 18.00    + za śp. Pelagię i Stefana ŁASKAWIEC oraz za zmarłych: Zofię, Halinę i Marię  z domu ŁASKAWIEC
+
+**Czwartek, 16 lutego ,**
+
+* 7.00    + za śp. Czesława PORĘBĘ (intencja od bratanicy Kingi Pękala z rodziną)
+* 18.00    rezerwacja A. Gurba
+
+**Piątek, 17 lutego,**
+
+* 7.00    O zdrowie i błogosławieństwo dla pięcioletniego Józia
+* 18.00    za małżeństwa w kryzysie
+
+**Sobota, 18 lutego,**
+
+* 7.00     + za śp. Magdalenę ZIARKO (od rodziny Szyguła)
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00    + za śp. Wiesława SIUCIAKA w 6. rocznicę śmierci oraz za jego rodziców i teściów
+
+**VII Niedziela zwykła, 19 lutego,**
+
+* 7.00     za parafian
+* 9.00   dziękczynno-błagalna w dniu urodzin Kingi o prowadzenie Maryi
+* 10.30   intencja zbiorowa: 
+
+  * o światło i dary Ducha  Św. dla Judyty i Dawida
+  * o wszelkie łaski Boże dla Marty
+  * o Boże błogosławieństwo dla Patryka z okazji urodzin
+  * o dary Ducha Św. i wolę Bożą dla Bartka i Kuby oraz za śp. Barbarę
+  * z okazji rocznicy śmierci Eugeniusza KAŁASZA o wieczną radość
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Jana Stanisława KLIMM w 1. rocznicę śmierci oraz za zmarłych z rodziny KARPÓW i KLIMMÓW
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Roberta w 1. rocznicę śmierci
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **V Niedziela zwykła, 5 lutego,**
