@@ -2,6 +2,77 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**VII Niedziela zwykła, 19 lutego,**
+
+* 7.00     za parafian
+* 9.00   dziękczynno-błagalna w dniu urodzin Kingi o prowadzenie Maryi
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha  Św. dla Judyty i Dawida
+  * o wszelkie łaski Boże dla Marty
+  * o dary Ducha Św. i wolę Bożą dla Bartka i Kuby oraz za śp. Barbarę
+  * o Boże błogosławieństwo dla Patryka z okazji urodzin
+  * z okazji rocznicy śmierci Eugeniusza KAŁASZA o wieczną radość
+  * za śp. Elżbietę i Andrzeja MOLSKICH
+  * za śp. Henryka LEWANDOWSKIEGO
+  * za dusze w czyśćcu cierpiące.
+* 12.00   + za śp. Jana Stanisława KLIMM w 1. rocznicę śmierci oraz za zmarłych z rodziny KARPÓW i KLIMMÓW
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Roberta w 1. rocznicę śmierci dziękując za dar życia Roberta i prosząc dla niego o wieczną radość Nieba
+
+**Poniedziałek, 20  lutego,**
+
+* 7.00    + za śp. Mariana JARZYNĘ w miesiąc po pogrzebie
+* 18.00    + za śp. Elżbietę POTEREK w 2 rocznicę śmierci
+
+**Wtorek, 21 lutego,**
+
+* 7.00    
+* 18.00    + za śp. Czesława PORĘBĘ  (intencja od bratanka Lesława z rodziną)
+
+**Środa, 22 lutego, Środa Popielcowa**
+
+* 7.00   
+* 18.00    + za śp. Ludwikę  w 20 rocznicę śmierci oraz za Wiktora i Andrzeja TUMIŃSKICH
+
+**Czwartek, 23 lutego ,**
+
+* 7.00    + za śp. Czesława PORĘBĘ (intencja od siostry Marii PYCHA z Nowej Wsi )
+* 18.00    w intencji pokoju na Ukrainie w rocznicę wybuchu wojny
+
+**Piątek, 24 lutego,**
+
+* 7.00    
+* 18.00    W intencji śp. Piotra GRYZA w 1 rocznicę śmierci oraz za śp. Eugeniusza i Roberta GRYZÓW z prośbą o   życie wieczne dla nich.
+
+**Sobota, 25 lutego,**
+
+* 7.00     + za śp. Marcina GRUŻEWSKIEGO
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00  Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością   Miłości Miłosiernej we wszystkich rodzinach.
+
+**I Niedziela Wielkiego Postu, 26 lutego,**
+
+* 7.00     
+* 9.00   + za śp. Jana NIKODEMA w 10 rocznicę śmierci
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha  Św. dla Judyty i Dawida
+  * w 30 rocznicę urodzin Anny o opiekę Matki Bożej i dary Ducha Św.
+  * za śp. Barbarę i Franciszka GADOWSKICH oraz za śp. Zofię i Tadeusza TOKARSKICH
+  * za śp. Kazimierę LASKOWSKĄ
+  * za śp. Zofię KACPRZAK
+  * za śp. Magdalenę ZIARKO
+  * za śp. Jana i Helenę SULIKOWSKICH i zmarłych z rodziny
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   o Boże Miłosierdzie i dary Ducha Św. dla Anny
+
+<!--EndFragment-->
+
 **VI Niedziela zwykła, 12 lutego,**
 
 * 7.00     + za śp. Mariannę ZDANOWICZ w 5. rocznicę śmierci
