@@ -4,6 +4,80 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**I Niedziela Wielkiego Postu, 26 lutego,**
+
+* 7.00     + za śp. Henryka ZIĘBĘ, Teodora oraz Zygmunta BANASIEK w rocznicę śmierci
+* 9.00   + za śp. Jana NIKODEMA w 10. rocznicę śmierci
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha  Świętego dla Judyty i Dawida,
+  * w 30. rocznicę urodzin Anny o opiekę Matki Bożej i dary Ducha Świętego,
+  * za śp. Barbarę i Franciszka GADOWSKICH oraz za śp. Zofię i Tadeusza TOKARSKICH,
+  * za śp. Kazimierę LASKOWSKĄ,
+  * za śp. Zofię KACPRZAK,
+  * za śp. Magdalenę ZIARKO,
+  * za śp. Jana i Helenę SULIKOWSKICH i zmarłych z rodziny,
+  * za dusze w czyśćcu cierpiące.
+* 12.00   za parafian
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   o Boże Miłosierdzie i dary Ducha Świętego dla Anny
+
+**Poniedziałek, 27  lutego,**
+
+* 7.00    + za śp. Mariana IWANIAKA w 13. rocznicę śmierci
+* 18.00    o Boże błogosławieństwo w narzeczeństwie dla Aleksandry i Pawła i wypełnienie woli Bożej
+
+**Wtorek, 28 lutego,**
+
+* 7.00     + za śp. Czesława PORĘBĘ  (intencja od Moniki i Adriana Banaś z Nowej Wsi)
+* 18.00   
+
+**Środa, 1 marca,**
+
+* 7.00   
+* 18.00    + za śp. Rafała WOŹNIAKA  oraz  Apolinarego i Mirosławę MATUSZEWSKICH
+
+**Czwartek, 2 marca,**
+
+* 7.00    + za śp. Anielę MALINOWSKĄ
+* 18.00    + za śp. Jana SOSNOWSKIEGO w 4. rocznicę śmierci
+
+**Piątek, 3 marca,**
+
+* 7.00    intencja dziękczynna za życie + śp. Edwarda KUCHNIO
+* 18.00    o Boże błogosławieństwo i łaski  w 70. rocznicę urodzin Zdzisława KOŁOTY  oraz za całą rodzinę KOŁOTÓW
+
+**Sobota, 4 marca, Św. Kazimierza, królewicza*, święto***
+
+* 7.00     + za śp. Kazimierza, Helenę i Wiesława ROGALA
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00  intencja Kół Żywego Różańca
+* za śp. Jana RECHNIO w 7. rocznicę śmierci oraz Mariannę i Bolesława RECHNIO
+
+**II Niedziela Wielkiego Postu, 5 marca, Parafialne rekolekcje wielkopostne**
+
+* 7.00     za parafian
+* 9.00   + za śp. Przemysława KOWALCZYKA w 6. rocznicę śmierci
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha  Świętego dla Judyty i Dawida,
+  * za śp. Kazimierza JACKIEWICZA,
+  * za śp. Kazimierza, Zbigniewa i Józefa  ROGALA,
+  * za śp. Wandę MAMCZARZ, Stanisławę ZALEWSKĄ oraz wszystkich zmarłych z rodziny MAMCARZÓW,
+  * za śp. Marka GRABSKIEGO i zmarłych z rodziny,
+  * za śp. Zbigniewa REZULSKIEGO  w 25. rocznicę śmierci,
+  * za śp. Kazimierza KAŁASZĘ w dniu imienin o wieczną radość,
+  * za śp. Jadwigę, Józefa i Kazimierza BARSZCZÓW,
+  * za śp. Krzysztofa ŚLEDZIEWSKIEGO,
+  * za dusze w czyśćcu cierpiące.
+* 12.00   + za śp. Alicję WITKOWSKĄ w 2. rocznicę śmierci
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Zofię SOBÓL w 33. rocznicę śmierci oraz Andrzeja SOBÓL w 30. rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **VII Niedziela zwykła, 19 lutego,**
 
 * 7.00     za parafian
