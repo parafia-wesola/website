@@ -5,9 +5,9 @@ news:
   - size: large
     title: Rok Nowosielskiego
   - size: large
-    title: Rocznica wybuchu wojny w Ukrainie
-  - size: large
     title: posługa weekendu Tymoteusz
+  - size: large
+    title: Rocznica wybuchu wojny w Ukrainie
   - size: large
     title: Kolęda 2023
   - size: large
