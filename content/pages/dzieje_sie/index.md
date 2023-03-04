@@ -3,11 +3,13 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: TAK. POMAGAM! Zbiórka żywności Caritas
+  - size: large
+    title: posługa weekendu Tymoteusz
+  - size: large
     title: Droga do Jerozolimy
   - size: large
     title: Rok Nowosielskiego
-  - size: large
-    title: posługa weekendu Tymoteusz
   - size: large
     title: Kolęda 2023
   - size: large
