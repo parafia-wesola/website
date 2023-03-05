@@ -4,7 +4,7 @@ title: TAK. POMAGAM! Zbiórka żywności Caritas
 date: 2023-03-04T23:48:19.572Z
 eventDate: ""
 author: parafia wesoła
-cover: images.jpeg
+cover: tak-pomagam.png
 ---
 <!--StartFragment-->
 
