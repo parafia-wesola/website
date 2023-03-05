@@ -4,6 +4,73 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**II Niedziela Wielkiego Postu, 5 marca, Parafialne rekolekcje wielkopostne**
+
+*  7.00     za parafian
+* 9.00   + za śp. Przemysława KOWALCZYKA w 6. rocznicę śmierci
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha  Świętego dla Judyty i Dawida,
+  * za śp. Kazimierza JACKIEWICZA,
+  * za śp. Kazimierza, Zbigniewa i Józefa  ROGALA,
+  * za śp. Wandę MAMCZARZ, Stanisławę ZALEWSKĄ oraz wszystkich zmarłych z rodziny MAMCARZ,
+  * za śp. Marka GRABSKIEGO i zmarłych z rodziny,
+  * za śp. Zbigniewa REZULSKIEGO  w 25. rocznicę śmierci,
+  * za śp. Kazimierza KAŁASZĘ w dniu imienin o wieczną radość,
+  * za śp. Jadwigę, Józefa i Kazimierza BARSZCZÓW,
+  * za śp. Krzysztofa ŚLEDZIEWSKIEGO,
+  * za dusze w czyśćcu cierpiące.
+* 12.00   + za śp. Alicję WITKOWSKĄ w 2. rocznicę śmierci
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Zofię SOBÓL w 33. rocznicę śmierci oraz Andrzeja SOBÓL w 30. rocznicę śmierci
+
+**Poniedziałek, 6 marca, Parafialne rekolekcje wielkopostne**
+
+* 7.00  o łaskę sił dla Kingi oraz dla dzieci, wnuków i prawnuków z rodziny SADLEJ
+* 10.30
+* 19.00    + za śp. Czesława PORĘBĘ – intencja od siostrzeńca Marka z rodziną
+
+**Wtorek, 7 marca, Parafialne rekolekcje wielkopostne**
+
+* 7.00     w dniu 77. rocznicy urodzin Haliny GRYZ oraz za śp. Eugeniusza, Roberta i Piotra GRYZ
+* 10.30
+* 19.00    Msza św. wypominkowa
+
+**Środa, 8 marca, Parafialne rekolekcje wielkopostne**
+
+* 7.00    + za śp. Czesława PORĘBĘ ( intencja od bratanicy Edyty Sroka i od Kamila Poręby)
+* 10.30    + za śp. Piotra GAŁĘZĘ  w 10. rocznicę śmierci
+* 19.00    + za śp. Stanisławę ZALEWSKĄ
+
+**Czwartek, 9 marca,**
+
+* 7.00    + za śp. Grzegorza SOBIECHA w dniu urodzin oraz za śp. Wacława i Halinę RYCHLIK
+* 18.00    + za śp. Henrykę i Jana SABAK
+
+**Piątek, 10 marca,**
+
+* 7.00    + za śp. Czesława PORĘBĘ (intencja od bratanicy Grażyny Ciarach z rodziną)
+* 18.00    + za śp. Krzysztofa ŚLEDZIEWSKIEGO (od Agnieszki z mężem)
+
+**Sobota, 11 marca,**
+
+* 7.00     + za śp. Zofię KACPRZAK w miesiąc po pogrzebie
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00  + za śp. Władysława PIOTRAK  i Stanisławę PIOTRAK w 11. rocznicę śmierci oraz zmarłych z rodziny       PIOTRAK i GAŁĄZKA
+
+**III Niedziela Wielkiego Postu, 12 marca,**
+
+* 7.00     + za śp. Grzegorza SOBIECH w dniu jego imienin oraz za śp. Wacława i Halinę RYCHLIK
+* 9.00   + za śp. Krystynę BURZEC
+* 10.30   za parafian
+* 12.00   + za śp. Teodorę i Stanisława BAREJA oraz zmarłych z rodziny BAREJÓW  i TARASZEWSKICH
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Leszka GAŁADYKA w 5. rocznicę śmierci i jego rodziców: Wacławę i Władysława oraz za     zmarłych z tej rodziny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **I Niedziela Wielkiego Postu, 26 lutego,**
 
 * 7.00     + za śp. Henryka ZIĘBĘ, Teodora oraz Zygmunta BANASIEK w rocznicę śmierci
