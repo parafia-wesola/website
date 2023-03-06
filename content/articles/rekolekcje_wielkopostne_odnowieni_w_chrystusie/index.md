@@ -1,6 +1,6 @@
 ---
 type: article
-title: "Rekolekcje wielkopostne: odnowieni w Chrystusie"
+title: "Rekolekcje wielkopostne: Odnowieni w Chrystusie"
 date: 2023-03-06T23:23:34.472Z
 eventDate: ""
 author: parafia wesoła
