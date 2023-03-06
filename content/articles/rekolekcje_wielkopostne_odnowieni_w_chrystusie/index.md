@@ -10,13 +10,13 @@ cover: ulotka_przod.png
 
 **Transmisja:**
 
-**dzień 1:** [link do transmisji](https://youtube.com/live/N4GLn2nXf0U)
+**dzień 1 (niedziela):** [link do transmisji](https://youtube.com/live/N4GLn2nXf0U)
 
-**dzień 2:** [link do transmisji](https://youtube.com/live/kgycy_jBjhU)
+**dzień 2 (poniedziałek):** [link do transmisji](https://youtube.com/live/kgycy_jBjhU)
 
-**dzień 3:**
+**dzień 3 (wtorek):**
 
-**dzień 4:**
+**dzień 4 (środa):**
 
 𝗠𝘀𝘇𝗲 𝘀́𝘄𝗶𝗲̨𝘁𝗲 𝘇 𝗻𝗮𝘂𝗸𝗮̨ 𝗿𝗲𝗸𝗼𝗹𝗲𝗸𝗰𝘆𝗷𝗻𝗮̨
 
