@@ -14,9 +14,9 @@ cover: ulotka_przod.png
 
 **dzień 2 (poniedziałek):** [link do transmisji](https://youtube.com/live/kgycy_jBjhU)
 
-**dzień 3 (wtorek):**
+**dzień 3 (wtorek):** [link do transmisji](https://www.youtube.com/watch?v=nMWwvU3Cbhc)
 
-**dzień 4 (środa):**
+**dzień 4 (środa):** [link do transmisji](https://www.youtube.com/watch?v=crUnMBlOJBU)
 
 𝗠𝘀𝘇𝗲 𝘀́𝘄𝗶𝗲̨𝘁𝗲 𝘇 𝗻𝗮𝘂𝗸𝗮̨ 𝗿𝗲𝗸𝗼𝗹𝗲𝗸𝗰𝘆𝗷𝗻𝗮̨
 
