@@ -7,6 +7,8 @@ news:
   - size: large
     title: TAK. POMAGAM! Zbiórka żywności Caritas
   - size: large
+    title: Spotkanie dla młodych 10-13
+  - size: large
     title: posługa weekendu Tymoteusz
   - size: large
     title: Droga do Jerozolimy
