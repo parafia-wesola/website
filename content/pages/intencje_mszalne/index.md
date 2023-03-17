@@ -2,6 +2,72 @@
 type: text
 title: Intencje mszalne
 ---
+**III Niedziela Wielkiego Postu, 12 marca,**
+
+* 7.00     + za śp. Grzegorza SOBIECHA w dniu jego imienin oraz za śp. Wacława i Halinę RYCHLIK
+* 9.00   + za śp. Krystynę BURZEC
+* 10.30   za parafian
+* 12.00   + za śp. Teodorę i Stanisława BAREJÓW oraz zmarłych z rodziny BAREJÓW  i TARASZEWSKICH
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Leszka GAŁADYKA w 5. rocznicę śmierci i za jego rodziców: Wacławę i Władysława oraz za     zmarłych z tej rodziny
+
+**Poniedziałek, 13 marca,**
+
+* 7.00  + za śp. Magdalenę ZIARKO w miesiąc po pogrzebie
+* 18.00    + za śp. Eugeniusza BODZON oraz za śp. Janinę MIERNIK z domu BODZON
+
+**Wtorek, 14 marca,**
+
+* 7.00
+* 18.00    + za śp. Stanisławę i Zygmunta DUCKICH oraz za zmarłych z rodziny ŚWISTAKÓW
+
+**Środa, 15 marca,**
+
+* 7.00   
+* 18.00  + za spokój duszy śp. Julianny i Jana KAWALCÓW i zmarłych z rodziny KAWALCÓW i PIETRASZEWSKICH
+
+**Czwartek, 16 marca,**
+
+* 7.00  + za śp. Wandę LEWANDOWSKĄ w 4. rocznicę śmierci
+* 18.00  + za duszę śp. Ewy
+* 19.00  Oficjum o jedność Chrześcijan
+
+**Piątek, 17 marca,**
+
+* 7.00    
+* 18.00    za małżeństwa w kryzysie
+
+**Sobota, 18 marca,**
+
+* 7.00     + za śp. Natalię CHARAŃCZUK
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00  + za śp. Józefa BRZOSTOWSKIEGO oraz zmarłych z rodziny BRZOSTOWSKICH
+
+**IV Niedziela Wielkiego Postu, 19 marca,**
+
+* 7.00 + za śp. Zofię i Józefa RAWSKICH oraz zmarłych z rodzin: RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
+* 9.00   + za śp. Józefa BOBRUKA
+* 10.30   intencja zbiorowa
+
+  * o światło i dary Ducha Św. dla Judyty i Dawida
+  * z okazji imienin i urodzin ks. Zbigniewa, dużo łask Bożych życzy mama
+  * z okazji 85. rocznicy urodzin Zbigniewa MIKOSA
+  * z okazji imienin i urodzin o łaski dla ks. Zbigniewa (intencja od mamy)
+  * o błogosławieństwo Boże i opiekę Matki Bożej dla Szymona BAJDECKIEGO w 10. rocznicę urodzin
+  * za śp. Genowefę i Józefa LECZKOWSKICH
+  * za śp. Kornela KOWALCZYKA w 13. rocznicę odejścia do wieczności oraz za zmarłych z rodziny KOWALCZYKÓW a także za śp. Jana BILEWICZA  i zmarłych z rodziny BILEWICZÓW
+  * za śp. Mirosława ŻURAWIA
+  * za śp. Wiesława GALLEWICZA
+  * za śp. Hannę KIELAK
+  * za śp. Czesławę SOSNOWSKĄ w 12. rocznicę śmierci
+  * za śp. Romana KALUPĘ i  śp. Leonarda ŁUŃSKIEGO
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Józefę, Józefa, Stanisława i Wojciecha SZCZEPKÓW  oraz za śp.  Eugeniusza MROCZKA
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   dziękczynno-błagalna w rocznicę urodzin Izabeli i Andrzeja oraz ich wnuka Antoniego
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **II Niedziela Wielkiego Postu, 5 marca, Parafialne rekolekcje wielkopostne**
