@@ -2,6 +2,76 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**V Niedziela Wielkiego Postu, 26 marca,**
+
+* 7.00     + za śp. Ryszarda ŁUPIŃSKIEGO, Mirosława MACHNACKIEGO oraz zmarłych z rodziny WIŚNIEWSKICH
+* 9.00   + za śp. Janinę, Jadwigę, Kazimierza, Czesława, Edwarda i zmarłych z rodziny JAWOROWSKICH i JACZEWSKICH
+* 10.30   intencja zbiorowa
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Ryszarda w 6. rocznicę śmierci
+  * za śp. Teresę KIRYLUK w rocznicę śmierci i zmarłych z rodziny KIRYLUKÓW, WAWRYNIUKÓW, GŁUCHOWSKICH i PRZESMYCKICH
+  * w 19. rocznicę śmierci Pawła PRUSKIEGO i zmarłych z rodziny PRUSKICH, RADZISZEWSKICH i NIEWIAROWSKICH
+  * za śp. Wacława w 43. rocznicę śmierci, Kazimierę i Krzysztofa MACIĄŻKÓW oraz o zdrowie dla Jana
+  * za śp. Sławomira BOROWIŃSKIEGO
+  * za śp. Franciszka w 4. rocznicę śmierci
+  * za śp. Kazimierę i Romana BOROWYCH oraz Stanisława i Stanisławę BRALEWSKICH
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Irenę SZCZUCIŃSKĄ w 5. rocznicę śmierci oraz za całą rodzinę SZCZUCIŃSKICH
+
+**Poniedziałek, 27 marca,**
+
+* 7.00     + za śp. Ewę IWANIAK w 6. rocznicę śmierci
+* 18.00    + za śp. Franciszka i Kazimierę GOŁĘDOWSKICH
+
+**Wtorek, 28 marca,**
+
+* 7.00     + za śp. Hannę KIELAK w miesiąc po pogrzebie
+* 18.00    + za śp. Krystynę BATYCKĄ w 3. rocznicę śmierci
+
+**Środa, 29 marca,**
+
+* 7.00    o  błogosławieństwo Boże i łaskę wiary dla Oli i Piotrka z okazji urodzin
+* 18.00    intencja p. Teresy Skarżyńskiej
+
+**Czwartek, 30 marca,**
+
+* 7.00    + za śp. Czesława PORĘBĘ  (intencja od bratanka Mariusza z rodziną)
+* 18.00    + za duszę śp. Jerzego JADCZAKA w 17. rocznicę śmierci, za duszę  Haliny JADCZAK  oraz zmarłych\
+              z rodziny ZYSKOWSKICH  i  JADCZAKÓW
+
+**Piątek, 31 marca,**
+
+* 7.00   + ZA ŚP. Grzegorza MRÓZ
+* 18.00    + za śp. Henryka GRODZKIEGO w 10. rocznicę śmierci
+
+**Sobota, 1 kwietnia,**
+
+* 7.00     + w 6. rocznicę śmierci śp. Grzegorza SOBIECHA oraz za Wacława i Halinę RYCHLIK i za rodzinę PIĄTKOWSKICH
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00  w intencji Kół Żywego Różańca
+
+ **Niedziela Palmowa Męki Pańskiej, 2 kwietnia,**
+
+* 7.00     za parafian
+* 9.00   + za śp. Eugeniusza STRUPIECHOWSKIEGO
+* 10.30   intencja zbiorowa
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Zofię PASIAK
+  * za śp. Barbarę MAZURKIEWICZ – MATECKĄ
+  * za śp. Jerzego HORODECKIEGO                                                      
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Zbigniewa WEREDĘ (intencja od rodziny Płudowskich)
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Krzysztofa ŚLEDZIEWSKIEGO (od chrześniaka Daniela)
+
+<!--EndFragment-->
+
 **III Niedziela Wielkiego Postu, 12 marca,**
 
 * 7.00     + za śp. Grzegorza SOBIECHA w dniu jego imienin oraz za śp. Wacława i Halinę RYCHLIK
