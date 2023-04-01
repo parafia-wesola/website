@@ -16,7 +16,7 @@ cover: dodaj_naglowek.png
 
 [](<>)𝑾𝑰𝑬𝑳𝑲𝑰 𝑪𝒁𝑾𝑨𝑹𝑻𝑬𝑲\
 Nie ma mszy świętej o 7:00\
-10.00 Msza św. Krzyżma\
+10.00 Msza św. Krzyżma w katedrze\
 19.00 Liturgia Wieczerzy Pańskiej (transmisja na YouTube)\
 do godz. 24.00 Adoracja Najświętszego Sakramentu – Ciemnica
 
