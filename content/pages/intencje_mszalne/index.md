@@ -4,6 +4,69 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela Palmowa Męki Pańskiej, 2 kwietnia,**
+
+* 7.00     za parafian
+* 9.00   + za śp. Eugeniusza STRUPIECHOWSKIEGO
+* 10.30   intencja zbiorowa
+
+  *  światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Zofię PASIAK
+  * za śp. Barbarę MAZURKIEWICZ – MATECKĄ
+  * za śp. Jerzego HORODECKIEGO          
+  * za śp. Grzegorza SOBIECHA w 6. rocznicę śmierci oraz za zmarłych Wacława i Halinę RYCHLIK  i zmarłych z rodziny PIĄTKOWSKICH                                           
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Zbigniewa WEREDĘ (intencja od rodziny Płudowskich)
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Krzysztofa ŚLEDZIEWSKIEGO (od chrześniaka Daniela)
+
+**Poniedziałek, 3 kwietnia, Wielki Poniedziałek**
+
+* 7.00     + za śp. Zofię KACPRZAK (od rodziny Malców)
+* 18.00    + za śp. Władysławę WIELGO  w 22. rocznicę śmierci oraz za śp. Franciszka i Marię WIELGO
+
+**Wtorek, 4 kwietnia, Wielki Wtorek**
+
+* 7.00     + za śp. Stanisławę i Alfreda CZAPSKICH i ich rodziców
+* 18.00    msza wypominkowa
+
+**Środa, 5 kwietnia, Wielka Środa**
+
+* 7.00    + za śp. Zofię i Bronisława JASZCZYK  i zmarłych z rodziny MURASZEWSKICH
+* 18.00    + za śp. Jerzego JAKUBIUKA  w 4. rocznicę śmierci
+
+**Czwartek, 6 kwietnia, Wielki Czwartek Wieczerzy  Pańskiej**
+
+* *10.00 Msza Krzyżma (w katedrze)*
+* 19.00 Liturgia Wieczerzy Pańskiej
+* *Do 24.00 Adoracja Najświętszego Sakramentu w Ciemnicy*
+
+**Piątek, 7 kwietnia, Wielki Piątek Męki Pańskiej**
+
+* 9.00 Jutrznia
+* 19.00 Liturgia Męki Pańskiej
+* *Do 24.00 Adoracja Najświętszego Sakramentu w Grobie*
+
+**Sobota, 8 kwietnia, Wielka Sobota**
+
+* 9.00 Jutrznia
+* 21.00 Wigilia Paschalna
+
+            + za śp. Elżbietę i Zbigniewa, rodziców o. Adama, w rocznice śmierci
+
+**Niedziela Zmartwychwstania Pańskiego, 9 kwietnia, *uroczystość***
+
+* 7.00   + za śp. Romana KALUPĘ w miesiąc po pogrzebie
+*  9.00   + za śp. Wacławę, Albina, Tadeusza KOSYLÓW i  zmarłych z rodziny
+* 10.30   za parafian
+* 12.00   + za śp. Marię i Jerzego WĄSOWSKICH\
+  *Nie będzie Adoracji Najświętszego Sakramentu*
+* 18.00   + za śp. Tomasza w 4. rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **V Niedziela Wielkiego Postu, 26 marca,**
 
 * 7.00     + za śp. Ryszarda ŁUPIŃSKIEGO, Mirosława MACHNACKIEGO oraz zmarłych z rodziny WIŚNIEWSKICH
