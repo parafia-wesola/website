@@ -7,6 +7,8 @@ news:
   - size: large
     title: "Rekolekcje wielkopostne: Odnowieni w Chrystusie"
   - size: large
+    title: Spotkanie dla kobiet
+  - size: large
     title: TAK. POMAGAM! Zbiórka żywności Caritas
   - size: large
     title: Droga do Jerozolimy
