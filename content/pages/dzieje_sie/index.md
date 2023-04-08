@@ -3,7 +3,7 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Życzenia Wielkanocne
+    title: życzenia Wielkanocne
   - size: large
     title: Wielki Tydzień
   - size: large
