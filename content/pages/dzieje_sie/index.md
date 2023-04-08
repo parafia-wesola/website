@@ -3,8 +3,6 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Życzenia Wielkanocne
-  - size: large
     title: Wielki Tydzień
   - size: large
     title: "Rekolekcje wielkopostne: Odnowieni w Chrystusie"
