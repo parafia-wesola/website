@@ -4,13 +4,79 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela Zmartwychwstania Pańskiego, 9 kwietnia, *uroczystość***
+
+*  7.00    + za śp. Romana KALUPĘ w miesiąc po pogrzebie
+* 9.00   + za śp. Wacławę, Albina, Tadeusza KOSYLÓW i  zmarłych z rodziny
+* 10.30   za parafian
+* 12.00   + za śp. Marię i Jerzego WĄSOWSKICH
+* 18.00   + za śp. Tomasza w 4. rocznicę śmierci
+
+**Poniedziałek, 10 kwietnia*,  Poniedziałek w oktawie Wielkanocy***
+
+* 7.00     + za śp. Leonarda ŁUŃSKIEGO  w miesiąc po pogrzebie
+* 9.00    z okazji 23. rocznicy urodzin Bartka i 25. rocznicy urodzin Wiktorii
+* 10.30    za Justynę Łukomską z okazji urodzin
+* 12.00    + za śp. Marka GRABSKIEGO i zmarłych z rodziny
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00    + w rocznicę śmierci Teresy i Edwarda KRUPA i zmarłych z rodziny KRUPA
+
+**Wtorek, 11 kwietnia,  *Wtorek w oktawie Wielkanocy***
+
+* 7.00     + za śp. Wiesława GALLEWICZA  w miesiąc po pogrzebie
+* 18.00    + za śp. Łukasza, Ryszarda, Stanisławę i Zygmunta KUROWSKICH
+
+**Środa, 12 kwietnia,  *Środa w oktawie Wielkanocy***
+
+* 7.00    + za śp. Mirosława w 19. rocznicę śmierci
+* 18.00    + za śp. Mariana ZIELIŃSKIEGO i zmarłych z rodziny
+
+**Czwartek, 13 kwietnia, *Czwartek w oktawie Wielkanocy***
+
+* 7.00    + za śp. Mirosława ŻURAWIA  w miesiąc po pogrzebie
+* 18.00    + za śp. Czesława PORĘBĘ – intencja od bratanicy Bożeny Michalik
+
+**Piątek, 14 kwietnia, *Piątek w oktawie Wielkanocy***
+
+* 7.00     + za śp. Stanisława, Urszulę, Aleksandra WIĘCKOWSKICH oraz Bożenę REDYK
+* 18.00    + za śp. Czesława i Ryszarda KOTERBĘ oraz Barbarę i Wojciecha KOTERBĘ i zmarłych z rodziny       ROSIKÓW
+
+**Sobota, 15 kwietnia*,  Sobota w oktawie Wielkanocy***
+
+* 7.00        + za śp. Zofię PASIAK  w miesiąc po pogrzebie
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00      + w 18 rocznicę śmierci Stanisława POPOWSKIEGO
+
+**Niedziela, 16 kwietnia, II niedziela wielkanocna, czyli Miłosierdzia Bożego**
+
+* 7.00    za parafian 
+* 9.00   + za śp. Irenę i Bogdana BIAŁYCH i zmarłych z rodziny
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * dziękczynna za długie życie pełne łask Bożych Miry
+  * o szczęśliwe rozwiązanie dla Anetki
+  * za śp. Bolesława, Bronisława, Eugeniusza USZYŃSKICH
+  * za śp. Stefanię, Eugeniusza, Elżbietę, Grażynę Jaźwińskich
+  * za śp. Henryka SKIBNIEWSKIEGO
+  * za śp. Ewę JANASZEWSKĄ
+  * za śp. Wiesławę JANASZEWSKĄ
+  * za dusze w czyśćcu  cierpiące
+* 12.00   + za śp. Stanisława PEŁKĘ w 3. rocznicę śmierci i zmarłych z rodziny PEŁKÓW i LEWANDOWSKICH
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Mirosława JANICKIEGO  w 1. rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela Palmowa Męki Pańskiej, 2 kwietnia,**
 
 * 7.00     za parafian
 * 9.00   + za śp. Eugeniusza STRUPIECHOWSKIEGO
 * 10.30   intencja zbiorowa
 
-  *  światło i dary Ducha Świętego dla Judyty i Dawida
+  * światło i dary Ducha Świętego dla Judyty i Dawida
   * za śp. Zofię PASIAK
   * za śp. Barbarę MAZURKIEWICZ – MATECKĄ
   * za śp. Jerzego HORODECKIEGO          
