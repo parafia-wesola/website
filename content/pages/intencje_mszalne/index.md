@@ -36,7 +36,7 @@ title: Intencje mszalne
 
 **Środa, 19 kwietnia,**  
 
-* 7.00
+* 7.00 dziękczynna w intencji Karoliny z okazji 18-tej rocznicy urodzin, z podziękowaniem za otrzymane łaski oraz z prośbą o Boże błogosławieństwo, dary Ducha Świętego, zdrowie i opiekę Matki Bożej na dalsze lata życia. 
 * 18.00    + za śp. Helenę i Kazimierza LIPIŃSKICH
 
 **Czwartek, 20 kwietnia,**
