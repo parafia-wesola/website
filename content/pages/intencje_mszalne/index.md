@@ -4,6 +4,78 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 16 kwietnia, II niedziela wielkanocna, czyli Miłosierdzia Bożego**
+
+* 7.00    za parafian
+* 9.00   + za śp. Irenę i Bogdana BIAŁYCH i zmarłych z rodziny
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * dziękczynna za długie życie i  pełne łask Bożych Miry
+  * szczęśliwe rozwiązanie dla Anetki
+  * o zdrowie dla Piotrka i opiekę Bożą dla jego rodziców i siostry
+  * za śp. Bolesławę, Bronisława, Eugeniusza USZYŃSKICH
+  * za śp. Stefanię, Eugeniusza, Elżbietę, Grażynę Jaźwińskich
+  * za śp. Henryka SKIBNIEWSKIEGO
+  * za śp. Ewę JANASZEWSKĄ
+  * za śp. Wiesławę KĄDZIELSKĄ
+  * za dusze w czyśćcu  cierpiące
+* 12.00   + za śp. Stanisława PEŁKĘ w 3. rocznicę śmierci i zmarłych z rodziny PEŁKÓW i LEWANDOWSKICH
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Mirosława JANICKIEGO  w 1. rocznicę śmierci
+
+**Poniedziałek, 17 kwietnia*,***  
+
+* 7.00    + za śp. Marię SZREDER
+* 18.00    + za śp. Marka KAZIMIERCZAKA
+
+**Wtorek, 18 kwietnia,**
+
+* 7.00     + o wszelkie łaski potrzebne dla naszych kapłanów
+* 18.00    + za śp. Sylwestra KANIĘ
+
+**Środa, 19 kwietnia,**  
+
+* 7.00
+* 18.00    + za śp. Helenę i Kazimierza LIPIŃSKICH
+
+**Czwartek, 20 kwietnia,**
+
+* 7.00    + za śp. Czesława PORĘBĘ  (intencja od bratanka Tobiasza Poręby)
+* 18.00    + za śp. Sławomira BOROWIŃSKIEGO  w miesiąc po pogrzebie
+
+**Piątek, 21 kwietnia,**
+
+* 7.00     + za śp. Alicję ROMAŃCZUK
+* 18.00    za małżeństwa w kryzysie
+
+**Sobota, 22 kwietnia*,***  
+
+* 7.00
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00      + za śp. rodziców : Krystynę i Henryka KRASOWSKICH
+
+**Niedziela, 23 kwietnia, III niedziela wielkanocna**
+
+* 7.00    + za śp. Fredę WŁODARCZYK w 1. rocznicę śmierci
+* 9.00   + za śp. Annę, Teofila, Kamilę, Jana , zmarłych z rodziny WĄSOWSKICH i SKIBNIEWSKICH
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego  dla Judyty i Dawida
+  * w podziękowaniu za lata małżeństwa pradziadków Antosi w 60. rocznicę ślubu oraz dziadków: Jolanty i Andrzeja w 35. rocznicę a także Małgorzaty i Mieczysława w 34. rocznicę ślubu
+  * dziękczynno-błagalna w rocznicę urodzin Anny i Karoliny
+  * o zbawienie duszy Bronisławy i Wojciecha
+  * za śp. Czesława JAROSIEWICZA w 6 rocznicę śmierci oraz za śp. Hannę JAROSIEWICZ
+  * za śp. Zofię, Czesława i Mariana GŁUCHOWSKICH
+  * za dusze w czyśćcu  cierpiące
+* 12.00   za parafian
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   w 44. rocznicę ślubu Małgosi i Janusza  - dziękczynna i o błogosławieństwo Boże dla całej rodziny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela Zmartwychwstania Pańskiego, 9 kwietnia, *uroczystość***
 
 *  7.00    + za śp. Romana KALUPĘ w miesiąc po pogrzebie
