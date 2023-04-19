@@ -25,7 +25,7 @@ cover: 1.png
 
 **2. Projekt prof. Alicji Bugaj: Koncert słowno-muzyczny w hołdzie Jerzemu Nowosielskiemu pt. "Artysta w Kościele" (Tajemnica sztuki i tajemnica wiary)**
 
-* *07.05. 2023, godz. 19.15*
+* *07.05. 2023, godz. 19.15 **(NOWA DATA!)***
 
 **3. SPOTKANIA WOKÓŁ IKONY z p. Michałem Klingerem**
 
