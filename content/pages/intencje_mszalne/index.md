@@ -4,6 +4,76 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 23 kwietnia, III niedziela wielkanocna**
+
+* 7.00    + za śp. Fredę WŁODARCZYK w 1. rocznicę śmierci
+* 9.00   + za śp. Annę, Teofila, Kamilę, Jana , zmarłych z rodziny WĄSOWSKICH i SKIBNIEWSKICH
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w podziękowaniu za lata małżeństwa pradziadków Antosi w 60. rocznicę ślubu oraz dziadków: Jolanty i Andrzeja w 35. rocznicę a także Małgorzaty i Mieczysława w 34. rocznicę ślubu
+  * dziękczynno-błagalna w rocznicę urodzin Anny i Karoliny
+  * o zbawienie duszy Bronisławy i Wojciecha
+  * za śp. Czesława JAROSIEWICZA w 6. rocznicę śmierci oraz za śp. Hannę JAROSIEWICZ
+  * za śp. Zofię, Czesława i Mariana  GŁUCHOWSKICH
+  * za dusze w czyśćcu  cierpiące
+* 12.00   za parafian
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   w 44. rocznicę ślubu Małgosi i Janusza – dziękczynna i o błogosławieństwo Boże dla całej rodziny
+
+**Poniedziałek, 24 kwietnia*,* Św. Wojciecha, biskupa i męczennika, głównego patrona Polski,  *uroczystość***
+
+* 7.00    w intencji Eli i Mariusza z okazji rocznicy śluby oraz za ich dzieci
+* 18.00    + za śp. Magdalenę ZIARKO (intencja od rodziny GAPYS)
+
+**Wtorek, 25 kwietnia, Św. Marka Ewangelisty, *święto***
+
+* 7.00     + za śp. Czesława PORĘBA (intencja od bratowej Zofii Poręba z Żeleźnikowej Małej)
+* 18.00    Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością  Miłości Miłosiernej we wszystkich rodzinach
+
+**Środa, 26 kwietnia,**  
+
+* 7.00    + za śp. Jerzego HORODECKIEGO  w miesiąc po pogrzebie
+* 18.00    + za śp. Barbarę MAZURKIEWICZ-MALECKĄ w miesiąc po pogrzebie
+
+**Czwartek, 27 kwietnia,**
+
+*  7.00   
+* 18.00    + za śp. Elżbietę RUSINIAK w 9. rocznicę śmierci
+
+**Piątek, 28 kwietnia,**
+
+* 7.00     + za śp. Ewę JANASZEWSKĄ w miesiąc po pogrzebie
+* 18.00    o zdrowie i błogosławieństwo Boże dla Stanisława
+
+**Sobota, 29 kwietnia*,*  Św. Katarzyny Sieneńskiej, dziewicy i doktora Kościoła, patronki Europy, *święto***
+
+* 7.00  + za śp. Wiesławę KĄDZIELSKĄ  w miesiąc po pogrzebie
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00      o zdrowie dla całej rodziny KLIMKÓW, Beaty, Edwarda i Elwiry
+
+**Niedziela, 30 kwietnia, IV niedziela wielkanocna**
+
+* 7.00   
+* 9.00   + za śp. Krzysztofa RAKOWIECKIEGO, Pawła i zmarłych z rodziny
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Kazimierza SIATKOWSKIEGO
+  * za śp. Kazimierza KASZUBSKIEGO
+  * za śp. Barbarę PIWOWARCZYK
+  * za śp. Bronisławę ZASTAWNĄ, Jana i Aleksandra
+  * za śp. Andrzeja DRZEWIECKIEGO
+  * za śp. Teresę PANUFNIK
+  * za dusze w czyśćcu  cierpiące
+* 12.00   + za śp. Wojciecha, Józefę, Stefana, Józefa, Stanisława SZCZEPEK i Eugeniusza MROCZKA
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   o Boże błogosławieństwo i dary Ducha Świętego dla Judyty
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 16 kwietnia, II niedziela wielkanocna, czyli Miłosierdzia Bożego**
 
 * 7.00    za parafian
