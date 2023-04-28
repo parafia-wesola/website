@@ -3,15 +3,13 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Życzenia Wielkanocne
+    title: Pielgrzymko-wycieczka śladami Jerzego Nowosielskiego Kraków-Tychy
   - size: large
-    title: Wielki Tydzień
+    title: Życzenia Wielkanocne
   - size: large
     title: "Rekolekcje wielkopostne: Odnowieni w Chrystusie"
   - size: large
     title: Spotkanie dla kobiet
-  - size: large
-    title: Droga do Jerozolimy
   - size: large
     title: Rok Nowosielskiego
   - size: large
