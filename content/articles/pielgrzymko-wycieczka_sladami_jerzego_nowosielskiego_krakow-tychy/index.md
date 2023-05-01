@@ -19,6 +19,6 @@ cover: pielgrzymka_parafialna.png
   * śniadanie i obiadokolacja,
   * koszty zwiedzania
   * Ilość miejsc ograniczona, decyduje kolejność zapisów
-* **Zapisy** przez formularz zamieszczony na stronie: parafiawesola.pl i na facebooku.
+* **Zapisy** przez formularz [pod linkiem tutaj](https://forms.gle/bi9moVAXDkzXjGQh9)
 
 <!--EndFragment-->
