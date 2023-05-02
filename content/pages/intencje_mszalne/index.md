@@ -4,6 +4,84 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 30 kwietnia, IV niedziela wielkanocna**
+
+* 7.00    + za śp. Annę, Eugenię DĄBROWSKĄ w miesiąc po śmierci
+* 9.00   + za śp. Krzysztofa RAKOWIECKIEGO, Pawła i zmarłych z rodziny
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Kazimierza SIATKOWSKIEGO
+  * za śp. Kazimierza KASZUBSKIEGO
+  * za śp. Barbarę PIWOWARCZYK
+  * za śp. Bronisławę ZASTAWNĄ, Jana i Aleksandra
+  * za śp. Andrzeja DRZEWIECKIEGO
+  * za śp. Teresę PANUFNIK
+  * za dusze w czyśćcu  cierpiące
+* 12.00   + za śp. Wojciecha, Józefę, Stefana, Józefa,  Stanisława SZCZEPEK i Eugeniusza MROCZEK
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   o Boże błogosławieństwo i dary Ducha Świętego dla Judyty
+
+**Poniedziałek, 1 maja,**
+
+* 7.00    + za śp. Lucję w 6 rocznicę śmierci
+* 18.00    + za śp. Tadeusza ZDANOWICZA  w 5 rocznicę śmierci
+
+**Wtorek, 2 maja , Św. Atanazego, biskupa i doktora Kościoła,  *wspomnienie***
+
+* 7.00 + za śp. Leszka SPŁAWSKIEGO w 2 rocznicę śmierci
+* 18.00    wypominkowa
+
+**Środa, 3 maja,  Najświętszej Maryi Panny, Królowej Polski, głównej Patronki Polski, *uroczystość***
+
+* 7.00    + za śp. Zofię i Kazimierza DAWIDOWICZÓW
+* 10.30    + za śp. Mirosława i Maćka MORAWSKIEGO
+* 18.00    + za śp. ks. Antoniego RUTKOWSKIEGO , pierwszego proboszcza Parafii Opatrzności Bożej
+
+**Czwartek, 4 maja Św. Floriana, męczennika , patrona diecezji warszawsko-praskiej, *wspomnienie***
+
+* 7.00    + za śp. Czesława PORĘBĘ (intencja od Lidki Stanisz z rodziną, od Łukasza Poręby z rodziną oraz od          Adama i Heleny Porębów z rodziną)
+* 18.00    + za śp. Waldemara NOWIKOW
+
+**Piątek, 5 maja,**
+
+* 7.00     w 1 rocznicę urodzin Elwiry oraz w 5 rocznicę ślubu Klaudii i Pawła z prośbą o opiekę i błogosławieństwo Najświętszej Rodziny
+* 18.00    + za śp. Eugenię, Józefa BRZOSTOWSKICH oraz Mariana GNIAZDOWSKIEGO
+
+**Sobota, 6 maja, Św. Apostołów Filipa i Jakuba, *święto***
+
+* 7.00  + za śp. Czesława PORĘBĘ – intencja od Agnieszki i Przemysława Groń z Nowej Wsi
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00  w intencji Kół Żywego Różańca
+
+ **Niedziela,7 maja, V niedziela wielkanocna**
+
+* 7.00    za parafian
+* 9.00   + za śp. Wandę, Mariana i Jana SKIBNIEWSKICH
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * z okazji urodzin i imienin Zuzi – o błogosławieństwo Boże i dary Ducha Świętego
+  * za śp. Barbarę WĄSOWSKĄ
+  * za śp. Stanisławę i Stanisława KAŁASZA o wieczną radość
+  * za śp. Stanisławę i Jana HABER i zmarłych z rodziny z prośbą o łaskę nieba
+  * za śp. Mariannę i Stanisława REZULSKICH w ich rocznicę śmierci
+  * za śp. Mieczysława CZAROCKIEGO w 7 rocznicę śmierci oraz za Stefanię, Mariana, Mariannę i Michała PIEŃKOWSKICH
+  * za śp. Rozalię TROĆ i Edwarda CZARNOCKIEGO
+  * w 1 rocznicę śmierci Stanisława SODOWSKIEGO i zmarłych z rodziny MUCHÓW  i SODOWSKICH
+  * za śp. Kazimierza BRODECKIEGO w rocznicę śmierci oraz za zmarłych z rodziny BRODECKICH, PŁOSZAJSKICH i DĄBROWSKICH
+  * za śp. Bożenę KOSOWSKĄ oraz jej matkę, za śp. Zofię KOSEWSKĄ w rocznicę jej śmierci
+  * za śp. Stanisława ZWIERZYŃSKIEGO w 7 rocznicę śmierci
+  * za śp. Jana MACIĄŻEK
+  * za dusze w czyśćcu  cierpiące
+* 12.00   + w 6 rocznicę śmierci x prałata Stefana WYSOCKIEGO
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Stefanię i Stanisława SZYMAŃCZAKÓW
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 23 kwietnia, III niedziela wielkanocna**
 
 * 7.00    + za śp. Fredę WŁODARCZYK w 1. rocznicę śmierci
