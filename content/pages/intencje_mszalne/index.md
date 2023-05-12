@@ -4,6 +4,77 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela,7 maja, V niedziela wielkanocna**
+
+* 7.00    za parafian
+* 9.00   + za śp. Wandę, Mariana i Jana SKIBNIEWSKICH
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * z okazji urodzin i imienin Zuzi – o błogosławieństwo Boże i dary Ducha Świętego
+  * za śp. Barbarę WĄSOWSKĄ
+  * za śp. Stanisławę i Stanisława KAŁASZA o wieczną radość
+  * za śp. Stanisławę i Jana HABER i zmarłych z rodziny o łaskę Nieba
+  * za śp. Mariannę i Stanisława REZULSKICH w ich rocznicę śmierci
+  * za śp. Mieczysława CZARNOCKIEGO w 7. rocznicę śmierci oraz za Stefanię, Mariana, Mariannę i Michała PIEŃKOWSKICH
+  * za śp. Rozalię TROĆ i Edwarda CZARNOCKIEGO
+  * w 1. rocznicę śmierci Stanisława SODOWSKIEGO i zmarłych z rodziny MUCHÓW i SODOWSKICH
+  * za śp. Kazimierza BRODECKIEGO w rocznicę śmierci oraz za zmarłych z rodziny BRODECKICH, PŁOSZAJSKICH i DĄBROWSKICH
+  * za śp. Bożenę KOSOWSKĄ oraz jej matkę śp. Zofię KOSEWSKĄ w rocznicę jej śmierci
+  * za śp. Stanisława ZWIERZYŃSKIEGO w 7. rocznicę śmierci
+  * za śp. Jana MACIĄŻKA
+  * za śp. Stefana i Marię RACKICH, Annę WIECZOREK i Mirosławę KOZAK
+  * za dusze w czyśćcu  cierpiące
+* 12.00   + za ks. prałata Stefana WYSOCKIEGO w 6. rocznicę śmierci
+* *15.00  Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Stefanię i Stanisława SZYMAŃCZAKÓW
+
+**Poniedziałek, 8 maja, Św. Stanisława, biskupa i męczennika, głównego patrona Polski, *uroczystość***
+
+* 7.00    + za śp. Stanisławę i Aleksandra GŁÓWKA
+* 18.00    + za śp. Stanisława i Jana HABERÓW oraz zmarłych z rodziny
+
+**Wtorek, 9 maja,**
+
+* 7.00    + za śp. Stanisławę i Władysława PIOTRAK oraz Stanisława i Mariannę KĄCA
+* 18.00    + za śp. Zofię i Stanisława IZDEBSKICH
+
+**Środa, 10 maja,**  
+
+* 7.00    + za śp. Bożenę i Zbigniewa GMUR
+* 18.00    + za śp. Stanisławę i Kazimierza BEDNARSKICH, Halinę i Władysława GÓRECKICH oraz Ewę WOLNIEWICZ o spokój duszy
+
+**Czwartek, 11 maja,**
+
+* 7.00    + za śp. Kazimierza KASZUBSKIEGO w miesiąc po pogrzebie
+* 18.00    + za śp. Anielę, Jana  i Stanisława TALARKÓW
+
+**Piątek, 12 maja,**
+
+* 7.00     + za śp. Stanisławę
+* *16.00  ślub Małgorzaty Batyckiej i Mateusza Hajdockiego*
+* 18.00    + za śp. Krzysztofa  w 3. rocznicę śmierci
+
+**Sobota, 13 maja, Najświętszej Maryi Panny Łaskawej, głównej Patronki Stolicy, *uroczystość***
+
+* 7.00        w dniu urodzin Zofii ROMANIUK o błogosławieństwo Boże
+* 9..00, 10.30, 12.00, 13.30  w intencji dzieci przystępujących do pierwszej Komunii Świętej
+* *16.00   ślub Agnieszki Chmielińskiej i Pawła Norwa*
+* 18.00      + za śp. Tomasza BANKIEWICZA w 10. rocznicę śmierci
+
+ **Niedziela,14 maja, VI niedziela wielkanocna**
+
+* 7.00    + za śp. Bogumiła w 16. rocznicę śmierci
+*  9.00   + za śp. Teodorę i Stanisława BAREJÓW i zmarłych z rodziny BAREJÓW i TARASZEWSKICH
+* 10.30   za parafian
+* 12.00   + za śp. Andrzeja RYCHNOWSKIEGO w 1. rocznicę śmierci oraz śp. Stanisława RYCHNOWSKIEGO w 21. rocznicę śmierci
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Mieczysława GÓRSKIEGO w 78. rocznicę śmierci oraz za śp. Marię i Barbarę
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 30 kwietnia, IV niedziela wielkanocna**
 
 * 7.00    + za śp. Annę, Eugenię DĄBROWSKĄ w miesiąc po śmierci
