@@ -5,6 +5,8 @@ news:
   - size: large
     title: Pielgrzymko-wycieczka śladami Jerzego Nowosielskiego Kraków-Tychy
   - size: large
+    title: Spotkanie dla kobiet. Samarytanka - bezimienna
+  - size: large
     title: Koncert literacko muzyczny w hołdzie Jerzemu Nowosielskiemu
   - size: large
     title: Życzenia Wielkanocne
