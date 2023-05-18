@@ -4,6 +4,69 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela,14 maja, VI niedziela wielkanocna**
+
+* 7.00    + za śp. Bogumiła w 16. rocznicę śmierci
+* 9.00   + za śp. Teodorę i Stanisława BAREJÓW i zmarłych z rodziny BAREJÓW i TARASZEWSKICH
+* 10.30   za parafian
+* 12.00   + za śp. Andrzeja RYCHNOWSKIEGO w 1. rocznicę śmierci oraz śp. Stanisława RYCHNOWSKIEGO w 21. rocznicę śmierci
+* 12.30  rocznica 1. Komunii świętej
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Mieczysława GÓRSKIEGO w 28. rocznicę śmierci oraz za śp. Marię i Barbarę
+
+**Poniedziałek, 15 maja,**
+
+* 7.00    + za śp. Zofię i Józefa RAWSKICH oraz zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH
+* 18.00    + za śp. Zofię i Józefa RADZIKOWSKICH oraz o zdrowie dla Marii, Mariusza oraz ich dzieci i o nawrócenie rodziny
+
+**Wtorek, 16 maja, Św. Andrzeja Boboli, prezbitera i męczennika, patrona Polski i metropolii warszawskiej,                                *uroczystość***
+
+* 7.00    + za śp. Barbarę PIWOWARCZYK w miesiąc po pogrzebie
+* 18.00    + za śp. Irenę REMBIEJEWSKĄ w 20. rocznicę śmierci
+
+**Środa, 17 maja,**  
+
+* 7.00    + za śp. Andrzeja DRZEWIECKIEGO  w miesiąc po pogrzebie
+* 18.00    + za śp. Sylwestra KANIĘ
+
+**Czwartek, 18 maja,**
+
+* 7.00    + za śp. Teresę PANUFNIK w miesiąc po pogrzebie
+* 18.00    + za śp. Marcela SZCZUCIŃSKIEGO w 11. rocznicę śmierci oraz zmarłych z rodziny GODZIMIERSKICH
+
+**Piątek, 19 maja,**
+
+* 7.00     + za śp. Zofię KACPRZAK – intencja od rodziny Kacprzaków
+* 18.00    za małżeństwa w kryzysie
+
+**Sobota, 20 maja,**
+
+* 7.00        + za śp. Janinę i Władysława DĄBROWSKICH oraz za śp. Genowefę i Władysława JANKE
+* 15.00      *Adoracja Najświętszego Sakramentu*
+* 18.00      + za śp. Jadwigę i Eugeniusza, Tadeusza GUTOWSKICH oraz zmarłych z rodziny
+
+ **Niedziela, 21 maja, VII niedziela wielkanocna ,Wniebowstąpienie Pańskie*, uroczystość***
+
+* 7.00    za parafian
+* 9.00   + za śp. Janusza KURKA
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Sabinę SZULAKOWSKĄ w 10. rocznicę śmierci i zmarłych z rodziny SZULAKOWSKICH i ZDZIEBORSKICH
+  * za śp. Ewę GAŁĄZKĘ w 1 rocznicę śmierci oraz za zmarłych z rodziny SOKOŁÓW Marię i Teodora
+  * za śp. Wacława ŚMIETAŃSKIEGO
+  * za śp. Zofię STODOLSKĄ  oraz  Wandę i Zygmunta JAŹWIŃSKICH
+  * za śp. Henryka KUPISZA  w 30. rocznicę śmierci
+  * za śp. Jana i Antoninę LECHÓW
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Zofię i Tadeusza KOŚCIESZA
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Grzegorza CHACHLIŃSKIEGO
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela,7 maja, V niedziela wielkanocna**
 
 * 7.00    za parafian
