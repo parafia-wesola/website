@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: "Spotkanie dla nastolatków 10-13 "
+  - size: large
     title: Pielgrzymko-wycieczka śladami Jerzego Nowosielskiego Kraków-Tychy
   - size: large
     title: Spotkanie dla kobiet. Samarytanka - bezimienna
