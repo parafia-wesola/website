@@ -4,6 +4,86 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 21 maja, VII niedziela wielkanocna, Wniebowstąpienie Pańskie*, uroczystość***
+
+* 7.00    za parafian
+*  9.00   + za śp. Janusza KURKA
+* 10.30   intencja zbiorowa:
+
+  * O światło i dary Ducha Świętego dla Judyty i Dawida
+  * O światło Ducha św. i opiekę Aniołów Stróżów dla Kristiny i Bartosza na wspólna drogę życia
+  * O opiekę Matki Nieustającej Pomocy dla Henryka i Danuty oraz całej rodziny o Boże błogosławieństwo, a także dla Pawła z rodziną, Tomasz z rodziną i Roberta z rodziną
+  * za śp. Tadeusza, Adelę i Jana o radość życia wiecznego w kolejne rocznicę śmierci
+  * za śp. Sabinę SZULAKOWSKĄ w 10. rocznicę śmierci oraz zmarłych z rodziny SZULAKOWSKICH i ZDZIEBORSKICH
+  * za śp. Ewę GAŁĄZKĘ w 1. rocznicę śmierci oraz za zmarłych z rodziny SOKOŁÓW Marię i Teodora
+  * za śp. Wacława ŚMIETAŃSKIEGO
+  * za śp. Zofię STODOLSKĄ  oraz  Wandę i Zygmunta JAŹWIŃSKICH
+  * za śp. Henryka KUPISZA  w 30. rocznicę śmierci
+  * za śp. Jana i Antoninę LECHÓW
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Zofię i Tadeusza KOŚCIESZA
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Grzegorza CHACHLIŃSKIEGO
+
+**Poniedziałek, 22 maja,**
+
+* 7.00    o łaskę zdrowia dla Weroniki GUTKOWSKIEJ
+* 18.00    + za śp. Bolesławę, Apolonię i Jana z rodziny SAŁAŃSKICH
+
+**Wtorek, 23 maja,**
+
+* 7.00    + za śp. Waleriana i Elizabeth SAWICKICH
+* 18.00    + za śp. Markusa BOROWSKIEGO w 10. rocznicę śmierci
+
+**Środa, 24 maja,  Najświętszej Maryi Panny, Wspomożycielki Wiernych, *wspomnienie***
+
+* 7.00    + za śp. Jana MACIĄŻKA w miesiąc po pogrzebie
+* 18.00    + za śp. Annę KRAJEWSKĄ  z okazji dnia matki oraz w intencji wszystkich matek
+
+**Czwartek, 25 maja,**
+
+* 7.00    + za śp. Halinę LEWTAK  pół roku po śmierci
+* 18.00    Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+
+**Piątek, 26 maja, Św. Filipa Neri , prezbitera, *wspomnienie***
+
+* 7.00     + za śp. Teodozję z okazji Dnia Matki
+* 18.00    za wszystkie Matki (PKPS)
+
+**Sobota, 27 maja,**
+
+* 7.00        + za śp. Juliana i Czesławę DĘBOWCZYK
+* 15.00      *Adoracja Najświętszego Sakramentu*
+* 18.00      + za śp. Jana LECZKOWSKIEGO
+* 21.30     *Msza wigilii uroczystości Zesłania Ducha Świętego*
+
+ **Niedziela, 28 maja, Niedziela Zesłania Ducha Świętego *, uroczystość***
+
+* 7.00    + za śp. Józefa BOCHEŃSKIEGO w 10 r. ś. oraz za śp. Kazimierę BOCHEŃSKĄ i Helenę SMOLEŃ
+* 9.00   w 19. rocznicę urodzin Mateusza o Boże błogosławieństwo i dary Ducha Świętego
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Mariannę i Józefa oraz Stanisława w 75. r. ś. i Janusza WAWRZYNIECKICH w 30. r. ś.
+  * za śp. Zygmunta BILBINA i jego rodziców i teściów w 10. rocznicę odejścia do wieczności
+  * za śp. Józefa w 30. rocznicę śmierci oraz Janinę, Kazimierę, Jana i Adama CHACIŃSKICH
+  * za śp. Krzysztofa POPIOŁKA
+  * za śp. Elżbietę GŁOWACKĄ
+  * za śp. Marię i Jana TORBICZÓW
+  * za śp. Janinę i Józefa KROPIWCÓW
+  * za śp. Jana MACIĄŻKA
+  * za sp. Andrzeja JURZYŃSKIEGO
+  * o niebo dla Tadeusza PIETRZAKA
+  * za śp. Mirosława, Barbarę, Apolinarego MATUSZEWSKICH
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Antoniego i Bronisławę KUBICKICH i zmarłych z rodziny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela,14 maja, VI niedziela wielkanocna**
 
 * 7.00    + za śp. Bogumiła w 16. rocznicę śmierci
