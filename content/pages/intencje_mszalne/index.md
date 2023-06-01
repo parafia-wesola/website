@@ -4,6 +4,83 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 28 maja, Niedziela Zesłania Ducha Świętego *, uroczystość***
+
+* 7.00    + za śp. Józefa BOCHEŃSKIEGO w 10. rocznicę śmierci oraz duszę śp. Kazimiery BOCHEŃSKIEJ i Heleny SMOLEŃ
+* 9.00   w 19. rocznicę urodzin Mateusza o Boże błogosławieństwo i dary Ducha Świętego
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w 35. rocznicę święceń kapłańskich ks. Zbignierwa
+  * za śp. Mariannę i Józefa oraz Stanisława w 75. rocznicę śmierci i Janusza WAWRZYNIECKICH w 30. rocznicę śmierci
+  * za śp. Zygmunta BILBINA  w 10. rocznicę odejścia do wieczności oraz jego rodziców i teściów
+  * za śp. Józefa w 30. rocznicę śmierci oraz Janinę, Kazimierę, Jana i Adama CHACIŃSKICH
+  * za śp. Krzysztofa POPIOŁKA
+  * za śp. Elżbietę GŁOWACKĄ
+  * za śp. Marię i Jana TORBICZ
+  * za śp. Janinę i Józefa KROPIWIEC
+  * za śp. Jana MACIĄŻKA
+  * za sp. Andrzeja JURZYŃSKIEGO
+  * o niebo dla Tadeusza PIETRZAKA
+  * za śp. Mirosława, Barbarę, Apolinarego MATUSZEWSKICH
+  * za śp. Maję SIENKIEWICZ, zmarłą tragicznie w ostatnich dniach
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Antoniego i Bronisławę KUBICKICH i zmarłych z rodziny
+
+**Poniedziałek, 29 maja, Najświętszej Maryi Panny, Matki Kościoła*, święto***
+
+* 7.00    + za śp. Wacława ŚMIETAŃSKIEGO w miesiąc po pogrzebie
+* 18.00    + za śp. Elżbietę GŁOWACKĄ (intencja od koleżanki Haliny)
+
+**Wtorek, 30 maja,**
+
+* 7.00    + za śp. Bartosza o życie wieczne
+* 18.00    + za śp. Czesława PORĘBĘ ( intencja od Wojciecha Poręby z rodziną z Żeleźnikowej Małej)
+
+**Środa, 31 maja,  Nawiedzenie Najświętszej Maryi Panny, *święto***
+
+* 7.00    o potrzebne łaski i wypełnienie woli Pana Boga w życiu Tereski
+* 18.00    w 3 rocznicę ślubu o błogosławieństwo Boże i zdrowie dla Natalii, Marcina i córki
+
+**Czwartek, 1 czerwca, Jezusa Chrystusa, Najwyższego i Wiecznego Kapłana, *święto***
+
+* 7.00    o zdrowie dla Marii NIEMIEC oraz Anny GOTFRYD
+* 18.00    + za śp. Krzysztofa ŚLEDZIEWSKIEGO (Ani z rodziną)
+
+**Piątek, 2 czerwca,**
+
+* 7.00     dla Ewy o odzyskanie łaski wiary, o siłę i pocieszenie
+* 18.00    + za zmarłych: Paulinę, Jana, Stanisława PEŁKÓW, Juliannę i Stanisława PEŁKÓW, Annę i Stanisława         SZULIM oraz Czesława SZEWCZAKA
+
+**Sobota, 3 czerwca, Świętych męczenników Karola Lwangi i Towarzysz, *wspomnienie***
+
+* 7.00        o zdrowie dla Marii NIEMIEC i Anny GOTFRYD
+* 15.00      *Adoracja Najświętszego Sakramentu*
+* 18.00      w intencji Kół Żywego Różańca
+
+ **Niedziela, 4 czerwca, Najświętszej Trójcy *, uroczystość***
+
+* 7.00    + za śp. Celinę i Ryszarda WIERZBICKICH i zmarłych z rodziny WIERZBICKICH, GOŁASZEWSKICH, KRYTUŃSKICH
+* 9.00   +za śp. Teresę MOMOT
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * z okazji urodzin i imienin Roberta dużo łask Bożych i darów Ducha Świętego (od mamy)
+  * w 35. rocznicę ślubu Ewy i Jarosława dziękując Bogu za udane życie z prośbą o dalsze błogosławieństwo
+  * za śp. Wacława w 6. rocznicę śmierci
+  * w rocznicę śmierci Jerzego i Teresy PIETRZAKÓW
+  * za śp. Maję SIENKIEWICZ, zmarłą tragicznie w ostatnich dniach
+  * za dusze w czyśćcu cierpiące
+* 12.00   w intencji Parafii i parafian
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Jerzego WITKOWSKIEGO w 12. rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 21 maja, VII niedziela wielkanocna, Wniebowstąpienie Pańskie*, uroczystość***
 
 * 7.00    za parafian
