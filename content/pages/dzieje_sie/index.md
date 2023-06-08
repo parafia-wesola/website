@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Procesja Bożego Ciała
+  - size: large
     title: Pielgrzymko-wycieczka śladami Jerzego Nowosielskiego Kraków-Tychy
   - size: large
     title: Koncert literacko muzyczny w hołdzie Jerzemu Nowosielskiemu
