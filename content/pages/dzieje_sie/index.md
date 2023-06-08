@@ -3,17 +3,13 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Procesja Bożego Ciała
+  - size: large
     title: "Spotkanie dla nastolatków 10-13 "
   - size: large
     title: Pielgrzymko-wycieczka śladami Jerzego Nowosielskiego Kraków-Tychy
   - size: large
-    title: Spotkanie dla kobiet. Samarytanka - bezimienna
-  - size: large
     title: Koncert literacko muzyczny w hołdzie Jerzemu Nowosielskiemu
-  - size: large
-    title: Życzenia Wielkanocne
-  - size: large
-    title: "Rekolekcje wielkopostne: Odnowieni w Chrystusie"
   - size: large
     title: Rok Nowosielskiego
   - size: large
