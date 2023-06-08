@@ -3,9 +3,7 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Procesja Bożego Ciała
-  - size: large
-    title: "Spotkanie dla nastolatków 10-13 "
+    title: Boże Ciało
   - size: large
     title: Pielgrzymko-wycieczka śladami Jerzego Nowosielskiego Kraków-Tychy
   - size: large
