@@ -4,6 +4,73 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 4 czerwca, Najświętszej Trójcy *, uroczystość***
+
+* 7.00    + za śp. Celinę i Ryszarda WIERZBICKICH i zmarłych z rodziny WIERZBICKICH, GOŁASZEWSKICH, KRYTUŃSKICH
+* 9.00   +za śp. Teresę MOMOT
+* 10.30   intencja zbiorowa:
+
+  * za przyjmujących chrzest św. Jana i Stanisława Kostrzewskich
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * z okazji urodzin i imienin Roberta z prośbą o łaski Boże i dary Ducha Świętego (od mamy)
+  * w 35. rocznicę ślubu Ewy i Jarosława dziękując Bogu za udane życie z prośbą o dalsze błogosławieństwo
+  * za śp. Wacławę w 6. rocznicę śmierci
+  * w rocznicę śmierci Jerzego i Teresy PIETRZAKÓW
+  * za śp. Maję SIENKIEWICZ, zmarłą tragicznie w ostatnich dniach
+  * w rocznicę śmierci śp. Borysa
+  * za dusze w czyśćcu cierpiące
+* 12.00   w intencji Parafii i parafian
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Jerzego WITKOWSKIEGO w 12. rocznicę śmierci
+
+**Poniedziałek, 5 czerwca, Św. Bonifacego, biskupa i męczennika*, wspomnienie***
+
+* 7.00    za Paulinę , Adama i Helenkę o wzmacnianie w wierze oraz za Bogusia tragicznie zmarłego
+* 18.00    + za śp. Zofię i Stanisława IZDEBSKICH
+
+**Wtorek, 6 czerwca,**
+
+* 7.00    + za śp. Zofię STODOLSKĄ  w miesiąc po pogrzebie oraz za śp. Wandę i Zygmunta JAŹWIŃSKICH
+* 18.00    msza wypominkowa
+
+**Środa, 7 czerwca,**  
+
+* 7.00    + za śp. Zofię KACPRZAK (od rodziny Gwardiaków)
+* 18.00    w 10. rocznicę urodzin Bartka z prośba o łaskę Bożą i błogosławieństwo
+
+**Czwartek, 8 czerwca, Najświętszego Ciała i Krwi Chrystus, *uroczystość***
+
+* 7.00   
+* 9.00    + za śp. Henrykę SABAK
+* 10.30    w intencji parafian
+* *Nie ma Mszy o 12.00 !*
+* 18.00    + za śp. Zofię STODOLSKĄ oraz za śp. Wandę i Zygmunta JAŹWIŃSKICH
+
+**Piątek, 9 czerwca,**
+
+* 7.00     + za śp. Krzysztofa POPIOŁEK w miesiąc po pogrzebie
+* 18.00    + za śp. Genowefę, Wacławę i zmarłych z rodziny GADOMSKICH
+
+**Sobota, 10 czerwca,**
+
+* 7.00        + za śp. Ryszarda ŁUPIŃSKIEGO w 21. rocznicę śmierci, Mirosława MACHNACKIEGO i zmarłych z rodziny WIŚNIEWSKICH
+* 15.00      *Adoracja Najświętszego Sakramentu*
+* 16.00      Msza jubileuszowa w 40. rocznicę powstania Wspólnoty *Zwiastowanie* (w kaplicy DR)
+* 18.00      + za śp. Teresę SKARZYŃSKĄ o radość życia wiecznego oraz o błogosławieństwo Boże dla rodziny
+
+ **Niedziela, 11 czerwca,**
+
+* 7.00    + za śp. Wandę i Wiesława ŚMIGIELSKICH oraz Janinę, Władysławę i Pawła zmarłych z rodziny ŚMIGIELSKICH  i  KRYCHNIAKÓW
+* 9.00   +za śp. Rafała KIELEWSKIEGO
+* 10.30   za parafian
+* 12.00   + w 7. rocznicę śmierci Stanisława i Marianny ZWIERZYŃSKICH o łaskę zbawienia
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Helenę  i Stanisława MOMOT
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 28 maja, Niedziela Zesłania Ducha Świętego *, uroczystość***
 
 * 7.00    + za śp. Józefa BOCHEŃSKIEGO w 10. rocznicę śmierci oraz duszę śp. Kazimiery BOCHEŃSKIEJ i Heleny SMOLEŃ
