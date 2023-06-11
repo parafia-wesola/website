@@ -4,6 +4,70 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 11 czerwca,**
+
+* 7.00    + za śp. Wandę i Wiesława ŚMIGIELSKICH oraz Janinę , Władysławę i Pawła zmarłych z rodziny ŚMIGIELSKICH  i  KRYCHNIAKÓW
+* 9.00   +za śp. Rafała KIELEWSKIEGO
+* 10.30   za parafian
+* 12.00   + w 7. rocznicę śmierci śp. Stanisława i Marianny ZWIERZYŃSKICH o łaskę zbawienia
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Helenę  i Stanisława MOMOT
+
+**Poniedziałek, 12 czerwca,**
+
+* 7.00    + za śp. Elżbietę GŁOWACKĄ w miesiąc po pogrzebie
+* 18.00    + za śp. Antoniego DUKA i  za śp. Helenę (od rodziny Heleny)
+
+**Wtorek, 13 czerwca, Św. Antoniego z Padwy, prezbitera i doktora Kościoła, *wspomnienie***
+
+* 7.00    + za śp. zmarłych z rodziny DRZEWIECKICH, ILIŃSKICH i ROZWADOWSKICH o życie wieczne
+* 18.00    + za śp. Zofię i Stanisława KACPRZAKÓW (od rodziny Zarzyckich)
+
+**Środa, 14 czerwca, Bł. Michała Kozala, biskupa i męczennika , *wspomnienie***
+
+* 7.00    + za śp. Ryszarda KRAKOWIAKA w 22. rocznicę śmierci
+* 18.00    + za śp. Antoniego MIAŁKOWSKIEGO  w 5. rocznicę śmierci
+
+**Czwartek, 15 czerwca,**
+
+* 7.00    o błogosławieństwo Boże dla rodziny ŁĘCZYCKICH  i  GOŁASZEWSKICH
+* 18.00    + za śp. Stanisławę ZALEWSKĄ
+
+**Piątek, 16 czerwca, Najświętszego Serca Pana Jezusa, *uroczystość***
+
+* 7.00     w 50. rocznicę ślubu Edwarda i Elżbiety
+* 18.00    za małżeństwa w kryzysie
+
+**Sobota, 17 czerwca, Niepokalanego Serca Najświętszej Maryi Panny, *wspomnienie***
+
+* 7.00        + za śp. Reginę i Bolesława JURKIEWICZÓW
+* 15.00      *Adoracja Najświętszego Sakramentu*
+* 18.00      o dar wiecznej radości w Niebie ze wszystkimi świętymi i otworzenie bram Nieba dla: śp. Jadwigi LACHOWSKIEJ w 23. rocznicę śmierci, śp. Władysława LACHOWSKIEGO  z okazji imienin, śp. Andrzeja GALIŃSKIEGO w 8. rocznicę śmierci oraz zmarłych z rodziny LACHOWSKICH, RYDZEWSKICH  i GALIŃSKICH
+
+**XI Niedziela zwykła, 18 czerwca,**
+
+* 7.00    za parafian
+* 9.00   + za śp. Janinę, Jadwigę, Kazimierza, Czesława, Edwarda i zmarłych z rodziny JAWOROWSKICH \
+             i JACZEWSKICH
+* 10.30   intencja zbiorowa::
+
+  * O światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Oskara w 13 rocznicę śmierci oraz o Boże błogosławieństwo dla rodziny Dominiki, jego rodziców oraz całej rodziny RAJSKICH
+  * za śp. Teresę OSIPACZ
+  * za śp. Czesławę i Jana OLSZEWSKICH  oraz Czesławę i Piotra KIELCZYKÓW
+  * za śp. Alicję STASIAK
+  * za śp. Włodzimierza GÓRSKIEGO
+  * za śp. Teresę SKARŻYŃSKĄ
+  * za śp. Maję SIENKIEWICZ
+  * za dusze w czyśćcu cierpiące
+* 12.00   w intencji Katarzyny i Macieja w 4. rocznicę ślubu i ich córek Leny i Zofii
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Zofię i Józefa ZIELIŃSKICH oraz śp. Bolesława ZIELIŃSKIEGO
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 4 czerwca, Najświętszej Trójcy *, uroczystość***
 
 * 7.00    + za śp. Celinę i Ryszarda WIERZBICKICH i zmarłych z rodziny WIERZBICKICH, GOŁASZEWSKICH, KRYTUŃSKICH
