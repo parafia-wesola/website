@@ -4,6 +4,83 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XI Niedziela zwykła, 18 czerwca,**
+
+* 7.00    za parafian
+* 9.00   + za śp. Janinę , Jadwigę, Kazimierza, Czesława, Edwarda i zmarłych z rodziny JAWOROWSKICH  i JACZEWSKICH
+* 10.30   intencja zbiorowa::
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za Marka w dniu urodzin
+  * za śp. Oskara w 13. rocznicę śmierci oraz o Boże błogosławieństwo dla rodziny Dominiki, jego rodziców oraz całej rodziny RAJSKICH
+  * za śp. Teresę OSIPACZ
+  * za śp. Czesławę i Jana OLSZEWSKICH  oraz Czesławę i Piotra KIELCZYKÓW
+  * za śp. Alicję STASIAK
+  * za śp. Włodzimierza GÓRSKIEGO
+  * za śp. Teresę SKARŻYŃSKĄ
+  * za śp. Maję SIENKIEWICZ
+  * za śp. Jana CHRZANOWSKIEGO
+  * za dusze w czyśćcu cierpiące
+* 12.00   w intencji Katarzyny i Macieja w 4. rocznicę ślubu i ich córek Leny i Zofii
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Zofię i Józefa ZIELIŃSKICH oraz śp. Bolesława ZIELIŃSKIEGO
+
+**Poniedziałek, 19 czerwca,**
+
+* 7.00    + za śp. Andrzeja KOSECKIEGO w 2. rocznicę śmierci
+* 18.00    w 30. rocznicę ślubu Agnieszki i Dariusza oraz Anny i Krzysztofa, dziękując za wspólnie przeżyte lata,    z prośbą o dalsze błogosławieństwo dla nich i dla dzieci
+
+**Wtorek, 20 czerwca,**
+
+* 7.00    + za śp. Czesława PORĘBĘ od siostrzenicy Iwony Machnik z rodziną
+* 18.00    w 25 rocznicę ślubu Magdaleny i Tomasza
+
+**Środa, 21 czerwca, Św. Alojzego Gonzagi, zakonnika , *wspomnienie***
+
+* 7.00    + za śp. Bronisława LIPIŃSKIEGO w 16. rocznicę śmierci, za jego żonę Anastazję i za jego rodziców
+* 18.00    + za śp. Wiktora z okazji Dnia Ojca
+
+**Czwartek, 22 czerwca,**
+
+* 7.00    + za śp. Joannę SADLEJ w 1. rocznicę śmierci
+* 18.00    o Boże błogosławieństwo dla Emilii, Artura i Jasia
+
+**Piątek, 23 czerwca,**
+
+* 7.00    + za śp. Stanisławę BEDNARSKĄ  w 2. rocznicę śmierci, Kazimierza BEDNARSKIEGO oraz Tadeusza i       Jana RASZTAWICKICH
+* 18.00    + za śp. Marysię MĄDRY
+
+ **Sobota, 24 czerwca, Narodzenie Św. Jana Chrzciciela, *uroczystość***
+
+* 7.00       + za śp. Jana GRYZA
+* 16.00      ślub: Małgorzata Nagórka i Przemysław Laskowski
+* 18.00      o Boże błogosławieństwo i dary Ducha Świętego dla Joanny
+
+**XII Niedziela zwykła, 25 czerwca,**
+
+* 7.00    podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością   miłości miłosiernej we wszystkich rodzinach
+* 9.00   + za śp. Jana KIELEWSKIEGO
+* 10.30   intencja zbiorowa::
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * dziękując Bogu za chrześniaka Mariusza, z prośbą o Boże błogosławieństwo dla niego i całej rodziny
+  * za śp. rodziców: Tadeusza i Apolonię i zmarłych z rodziny
+  * za śp. Małgorzatę SZAJKOWSKĄ  w 1. rocznicę śmierci
+  * za śp. Witolda, Stefana, Bogusława KARASIŃSKICH, Annę i Władysława OSOWIECKICH oraz Janinę KRAWCZYK
+  * za śp. Jana MACIĄŻKA  (intencja od brata Wiesława z rodziną)
+  * za śp. Krzysztofa POPIOŁKA (od rodziny Mateńko)
+  * za śp. Jana JAWICZA, Jana i Janinę TORBICZÓW oraz Janinę KROPIWIEC
+  * za śp. Jerzego i Teresę POPRAWSKICH w 50. rocznicę śmierci oraz śp. Władysława ORLIKOWSKIEGO
+  * za śp. Krystynę SZCZUROWSKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Rafała MAKARUKA w 9. rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 11 czerwca,**
 
 * 7.00    + za śp. Wandę i Wiesława ŚMIGIELSKICH oraz Janinę , Władysławę i Pawła zmarłych z rodziny ŚMIGIELSKICH  i  KRYCHNIAKÓW
