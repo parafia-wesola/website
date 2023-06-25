@@ -4,6 +4,87 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XII Niedziela zwykła, 25 czerwca,**
+
+* 7.00    podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością   miłości miłosiernej we wszystkich rodzinach
+* 9.00   + za śp. Jana KIELEWSKIEGO
+* 10.30   intencja zbiorowa::
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * dziękując Bogu za chrześniaka Mariusza, z prośbą o Boże błogosławieństwo dla niego i całej rodziny
+  * za Lucynę i Zbyszka w 34. rocznicę ślubu
+  * za śp. rodziców: Tadeusza i Apolonię i zmarłych z rodziny
+  * za śp. Małgorzatę SZAJKOWSKĄ  w 1. rocznicę śmierci
+  * za śp. Witolda, Stefana, Bogusława KARASIŃSKICH, Annę i Władysława OSOWIECKICH oraz Janinę KRAWCZYK
+  * za śp. Jana MACIĄŻKA  (intencja od brata Wiesława z rodziną)
+  * za śp. Krzysztofa POPIOŁKA (od rodziny Mateńko)
+  * za śp. Jana JAWICZA, Jana i Janinę TORBICZÓW oraz Janinę KROPIWIEC
+  * za śp. Jerzego i Teresę POPRAWSKICH w 50. rocznicę śmierci oraz śp. Władysława ORLIKOWSKIEGO
+  * za śp. Krystynę SZCZUROWSKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00   za dzieci przyjmujące chrzest: Annę Marie Olędzką, Tadeusza Wierzbowskiego i Mię Danutę Gloster,\
+             oraz za całą parafię
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Rafała MAKARUKA w 9. rocznicę śmierci
+
+**Poniedziałek, 26 czerwca,**
+
+* 7.00    + za śp. Andrzeja JURZYŃSKIEGO w miesiąc po pogrzebie
+* 18.00    + za śp. Jacka, Wandę i Ludomira LEWANDOWSKICH
+
+**Wtorek, 27 czerwca,**
+
+* 7.00    + za śp. Czesława PORĘBĘ (od Jadwigi i Artura Cenyra z Nowej Wsi)
+* 18.00    + za zmarłych z rodziny NOWIKOW, SAMOCIUKÓW,  JAKONIUKÓW  i  WASZKIEWICZÓW
+
+**Środa, 28 czerwca, Św. Ireneusza, biskupa i męczennika, *wspomnienie***
+
+* 7.00    za Pawła o błogosławieństwo w nauce
+* 18.00    + za śp. Roberta WIERZBOWSKIEGO oraz Janinę i Zdzisława WIERZBOWSKICH
+
+**Czwartek, 29 czerwca, Świętych Apostołów Piotra i Pawła, *uroczystość***
+
+* 7.00    + za śp. Stanisławę i Władysława PIOTRAK oraz zmarłych z rodziny PIOTRAKÓW i SEKULARÓW
+* 18.00   W dniu imienin mego wnuka Pawła - z prośbą o pomoc Ducha Świętego w rozeznawaniu swego powołania w jaki sposób i gdzie ma służyć Panu Bogu, Dawcy wszystkich jego talentów.
+
+**Piątek, 30 czerwca,**
+
+* 7.00    + za śp. Alicję STASIAK w miesiąc po pogrzebie
+* 18.00    W dniu imienin mojej synowej Lucyny - dziękczynna za łaskę zdrowia, z prośbą o pomoc Bożą\
+              w każdym jej działaniu dla chwały Bożej i bliźnich
+
+ **Sobota, 1 lipca,**
+
+* 7.00       + za śp. Władysławę PODLEŚNĄ w rocznicę śmierci
+* *15.00      Adoracja Najświętszego Sakramentu*
+* *17.00      Nabożeństwo pierwszo-sobotnie*
+* 18.00      w intencji Kół Żywego Różańca
+
+**XIII Niedziela zwykła, 2 lipca**
+
+* 8.00    za parafian
+* 10.00   intencja zbiorowa::
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * błagalno-dziękczynna w 6. rocznicę ślubu Karoliny i Jakuba oraz ich synów: Antoniego i Krzysztofa
+  * za śp. Grzegorza CHACHLIŃSKIEGO w 1. rocznicę śmierci
+  * za śp. Czesławę i Piotra KIELCZYKÓW oraz Czesławę , Jana i Mariana OLSZEWSKICH
+  * za śp. Teresę SKARZYŃSKĄ
+  * za śp. Maję SIENKIEWICZ
+  * za śp. Izydora WIŚNIEWSKIEGO
+  * za śp. Jana CHRZANOWSKIEGO
+  * za śp. Janinę ANSILEWSKĄ
+  * o dar wiecznej radości w Niebie dla śp. Piotra GRYZA z okazji imienin
+  * za sp. Janinę CZARNECKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Eugeniusza MROCZKA i Stanisława SZCZEPKA
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Kazimierza STORCZYKA w 1. rocznicę śmierci oraz jego rodziców i teściów
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XI Niedziela zwykła, 18 czerwca,**
 
 * 7.00    za parafian
