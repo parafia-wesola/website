@@ -3,11 +3,9 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Procesja Bożego Ciała
+    title: Spotkanie dla kobiet - warsztaty odzyskaj swój czas
   - size: large
     title: Pielgrzymko-wycieczka śladami Jerzego Nowosielskiego Kraków-Tychy
-  - size: large
-    title: Koncert literacko muzyczny w hołdzie Jerzemu Nowosielskiemu
   - size: large
     title: Rok Nowosielskiego
   - size: large
