@@ -4,6 +4,69 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XIII Niedziela zwykła, 2 lipca ,**
+
+* 8.00    za parafian
+* 10.00   intencja zbiorowa::
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * błagalno-dziękczynna w 6. rocznicę ślubu Karoliny i Jakuba oraz ich synów: Antoniego i Krzysztofa
+  * za śp. Grzegorza CHACHLIŃSKIEGO w 1. rocznicę śmierci
+  * za śp. Czesławę i Piotra KIELCZYKÓW oraz Czesławę, Jana i Mariana OLSZEWSKICH
+  * za śp. Teresę SKARZYŃSKĄ
+  * za śp. Maję SIENKIEWICZ
+  * za śp. Izydora WIŚNIEWSKIEGO
+  * za śp. Jana CHRZANOWSKIEGO
+  * za śp. Janinę ANSILEWSKĄ
+  * o dar wiecznej radości w Niebie dla śp. Piotra GRYZA z okazji imienin
+  * za śp. Janinę CZARNECKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Eugeniusza MROCZKA i Stanisława SZCZEPKA
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Kazimierza STORCZYKA w 1. rocznicę śmierci oraz jego rodziców i teściów
+
+**Poniedziałek, 3 lipca, Św. Tomasza, Apostoła*, święto***
+
+* 7.00    + za śp. Ewę w 3. rocznicę śmierci
+* 18.00    + za śp. Lilię i Tadeusza ROGOZIŃSKICH oraz za zmarłych z rodziny ROGOZIŃSKICH i GŁOWACKICH
+
+**Wtorek, 4 lipca,**
+
+* 7.00    w 1. urodziny Teresy i 3. urodziny Franka
+* 18.00    msza wypominkowa
+
+**Środa, 5 lipca,**
+
+* 7.00    + za śp. Halinę i Wacława RYCHLIKÓW oraz Janusza, Bogdana i Krzysztofa RYCHLIKÓW
+* 18.00    + za śp. Zbigniewa FUCHS i zmarłych z rodziny FUCHS i STAŃCZAK
+
+**Czwartek, 6 lipca, Bł. Marii Teresy Ledóchowskiej, dziewicy, *wspomnienie***
+
+* 7.00    + za śp. Włodzimierza GÓRSKIEGO w miesiąc po pogrzebie
+* 18.00    + za śp. Stanisława FAJFERA
+
+**Piątek, 7 lipca,**
+
+* 7.00    + za śp. Teresę SKARZYŃSKĄ  w miesiąc po pogrzebie
+* 18.00    + za śp. Janinę WIĘCH  w 5. rocznicę śmierci
+
+**Sobota, 8 lipca, Św. Jana z Dukli, prezbitera, *wspomnienie***
+
+* 7.00       o potrzebne łaski dla kapłanów
+* 18.00      dziękując Bogu za syna Sebastiana i prosząc o Boże błogosławieństwo i opiekę Matki Bożej
+
+**XIV Niedziela zwykła, 9 lipca ,**
+
+* 8.00    + za śp. Zofię, Jana, Eugeniusza, Stanisława i zmarłych z rodziny BALISZEWSKICH i           TURSKICH
+* 10.00   za parafian oraz za dzieci przyjmujące chrzest: Polę Sokół i Annę Julię Gepner
+* 12.00   o Boże błogosławieństwo i dary Ducha Świętego dla Anny
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Wacławę, Władysława, Leszka, oraz zmarłych z rodziny GAŁADYKÓW i WYSOCKICH, aby jak najszybciej mogli oglądać Boże oblicze i cieszyć się wieczną radością
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XII Niedziela zwykła, 25 czerwca,**
 
 * 7.00    podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością   miłości miłosiernej we wszystkich rodzinach
