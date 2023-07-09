@@ -2,6 +2,68 @@
 type: text
 title: Intencje mszalne
 ---
+**XIV Niedziela zwykła, 9 lipca ,**
+
+* 8.00    + za śp. Zofię, Jana, Eugeniusza, Stanisława i zmarłych z rodziny BALISZEWSKICH i TURSKICH
+* 10.00   za parafian oraz za dzieci przyjmujące chrzest: Polę Sokół i Annę Julię Gepner
+* 12.00   o Boże błogosławieństwo i dary Ducha Świętego dla Anny
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Wacławę, Władysława, Leszka, oraz zmarłych z rodziny GAŁADYKÓW i WYSOCKICH,\
+              aby jak najszybciej mogli oglądać Boże oblicze i cieszyć się wieczną radością
+
+**Poniedziałek, 10 lipca,**
+
+* 7.00    + za śp. Jadwigę STELMACH w 2 rocznicę śmierci
+* 18.00    + za śp. Adelę ZALEWSKĄ o wieczne szczęście w Niebie
+
+**Wtorek, 11 lipca, Św. Benedykta, opata, patrona Europy, *święto***
+
+* 7.00    + za śp. Wojciecha ŚMIETAŃSKIEGO (od przyjaciół Bereda)
+* 18.00    + za śp. Magdalenę ZIARKO
+
+**Środa, 12 lipca, . Brunona Bonifacego z Kwerfurtu, biskupa i męczennika, *wspomnienie***
+
+* 7.00    + za śp. Maję SIENKIEWICZ w miesiąc po pogrzebie
+* 18.00    o Boże błogosławieństwo dla Stasia w przeddzień 13 urodzin
+
+**Czwartek, 13 lipca, Świętych pustelników Andrzeja Świerada i Benedykta, *wspomnienie***
+
+* 7.00    + za śp. Izydora WIŚNIEWSKIEGO  w miesiąc po pogrzebie
+* 18.00    + za śp. Mirosława i Maćka MORAWSKIEGO
+
+**Piątek, 14  lipca,**
+
+* 7.00    + za śp. Franciszkę MAŚLENIK w 1 rocznicę śmierci ( od córki z wnukami)
+* 18.00    + za śp. Eugeniusza w 15 rocznicę śmierci i za śp. Roberta GRYZA 3 rocznicę śmierci
+
+**Sobota, 15 lipca, Św. Bonawentury, biskupa i doktora Kościoła, *wspomnienie***
+
+* 7.00       o Boże błogosławieństwo dla Damiana i żony
+* 18.00      + za śp. Czesławę i Juliana DĘBOWCZYKÓW
+
+**XV Niedziela zwykła, 16 lipca ,**
+
+* 8.00    + za śp. Mariannę SOBCZAK w 1 rocznicę śmierci, Tadeusza SOBCZAKA , Janinę i Władysława      SOBCZAKÓW , Ewę i Walentego ŁOMŻÓW oraz śp. Leona ŁOMŻĘ
+* 10.00   intencja zbiorowa::
+
+  * za Jakuba w 21 rocznicę urodzin
+  * w 47 rocznicę ślubu Zofii i Ryszarda
+  * dziękujemy Panu Bogu za 44 lata życia naszego brata Janusza „Janka” Maciąga. Cieszymy się z jego obecności w Kościele Chrystusowym. Niech nadal podąża ścieżką Bożych przykazań ku wiecznemu szczęściu w Niebie.
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Jana MACIĄŻKA (od siostry Marianny z rodziną)
+  * za śp. Anielę KIRYLUK w 27 rocznicę śmierci i zmarłych z rodziny KIRYLUKÓW
+  * za śp. Jadwigę ZALEWSKĄ w 20 rocznicę śmierci i zmarłych z rodziny ZALEWSKICH i BOGUSZEWSKICH
+  * za śp. Marię KRZYŚPIAK
+  * za śp. Elżbietę RYKOWSKĄ
+  * za śp. Janinę GÓRKO w 34 rocznicę śmierci
+  * za śp. Franciszka, Władysławę, Marie WIELGO
+  * za dusze w czyśćcu cierpiące
+* 12.00   w 10 rocznicę ślubu Magdaleny i Krzysztofa ,dziękczynna, o Boże błogosławieństwo dla nich i dla ich dzieci
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Jadwigę DĄBKOWSKĄ  w 1 rocznicę śmierci
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **XIII Niedziela zwykła, 2 lipca ,**
