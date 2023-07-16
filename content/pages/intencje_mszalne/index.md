@@ -2,6 +2,83 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**XV Niedziela zwykła, 16 lipca**  
+
+* 8.00    + za śp. Mariannę SOBCZAK w 1 rocznicę śmierci, Tadeusza SOBCZAKA , Janinę i Władysława      SOBCZAKÓW , Ewę i Walentego ŁOMŻÓW oraz śp. Leona ŁOMŻĘ
+* 10.00   intencja zbiorowa::
+
+  * za Jakuba w 21 rocznicę urodzin
+  * w 47 rocznicę ślubu Zofii i Ryszarda
+  * dziękczynna za dar naszych kapłanów (od parafian)
+  * dziękczynna za 70 lat pożycia małżeńskiego
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Jana MACIĄŻKA (od siostry Marianny z rodziną)
+  * za śp. Anielę KIRYLUK w 27 rocznicę śmierci i zmarłych z rodziny KIRYLUKÓW
+  * w 20 rocznicę śmierci śp. Jadwigi ZALEWSKIEJ i zmarłych z rodziny ZALEWSKICH i BOGUSZEWSKICH
+  * za śp. Marię KRZYŚPIAK
+  * za śp. Elżbietę RYKOWSKĄ
+  * za śp. Janinę GÓRKO w 34 rocznicę śmierci
+  * za śp. Franciszka, Władysławę, Marię WIELGO
+  * za śp. Barbarę
+  * za śp. Janinę, Włodzimierza NIEPOŃ i zmarłych z rodziny
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Jadwigę DĄBKOWSKĄ  w 1 rocznicę śmierci
+
+**Poniedziałek, 17 lipca**
+
+* 7.00     + za śp. Krystynę SZCZUROWSKĄ w miesiąc po pogrzebie
+* 18.00    + za śp. Jerzego w dniu urodzin
+
+**Wtorek, 18  lipca, 20 lipca**
+
+* 7.00    + za śp. Jana CHRZANOWSKIEGO w miesiąc po pogrzebie
+* 18.00    + za śp. Pawła HARAŃCZUKA
+
+**Środa, 19 lipca,**
+
+* 7.00    + za śp. Janinę SZUBA , Stefana , Jana i Stanisława
+* 18.00    + za śp. Janinę i Tadeusza KRZYŻANOWSKICH oraz Helenę PAŁDYNĘ
+
+**Czwartek, 20 lipca**
+
+* 7.00    + za śp. Janinę ANSILEWSKĄ   w miesiąc po pogrzebie
+* 18.00    + za śp. Czesława PORĘBĘ ( intencja od bratanka Pawła z rodziną)
+
+**Piątek, 21  lipca,**
+
+* 7.00    + za śp. Czesława PORĘBĘ  (intencja od brata Krzysztofa z rodziną)
+* 18.00    za małżeństwa w kryzysie
+
+**Sobota, 22 lipca, Św. Marii Magdaleny, *święto***
+
+* 7.00       + za śp. Janinę CZARNECKĄ w miesiąc po pogrzebie
+* 18.00      + za śp. Stanisława, Stefana, Kazimierę, Teresę i Jana BAKIERÓW
+
+**XVI Niedziela zwykła, 23 lipca ,**
+
+* 8.00    + za śp. Annę GRYKIEŃ i Michała MULICĘ
+* 10.00   intencja zbiorowa:
+
+  * intencja dziękczynna za Magdalenę i Krzysztofa z okazji 10 rocznicy ślubu z prośbą o Boże błogosławieństwo dla nich i ich dzieci
+  * światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Kazimierza  w 5 rocznicę śmierci
+  * za śp. Krystynę SIOCH
+  * za śp. Czesławę i Romana DAWIDOWICZÓW  oraz Jadwigę  i Wacława KUPSKICH
+  * za śp. Czesławę  i Jana OLSZEWSKICH oraz  Czesławę i Piotra KIELCZYKÓW
+  * za śp. Annę GAWRYŚ oraz Stefana i Marka GAWRYSIÓW
+  * za śp. Genowefę BĘŚ
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian\
+             chrzest: Apolonia, Leonard Stanisław, Nela
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   dziękczynna w 2 rocznicę ślubu Ani i Mateusza z prośbą o dalsze prowadzenie
+
+<!--EndFragment-->
+
 **XIV Niedziela zwykła, 9 lipca ,**
 
 * 8.00    + za śp. Zofię, Jana, Eugeniusza, Stanisława i zmarłych z rodziny BALISZEWSKICH i TURSKICH
