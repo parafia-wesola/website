@@ -4,6 +4,79 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XVI Niedziela zwykła, 23 lipca ,**
+
+*  8.00    + za śp. Annę GRYKIEŃ i Michała MULICĘ
+* 10.00   intencja zbiorowa:
+
+  * intencja dziękczynna za Magdalenę i Krzysztofa z okazji 10 rocznicy ślubu z prośbą o Boże błogosławieństwo dla nich i ich dzieci
+  * intencja dziękczynna za Janusza MACIĄGA z okazji urodzin, niech nadal podąża drogą Bożych przykazań ku wiecznemu szczęściu w niebie
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Kazimierza  w 5 rocznicę śmierci
+  * za śp. Krystynę SIOCH
+  * za śp. Czesławę i Romana DAWIDOWICZÓW  oraz Jadwigę  i Wacława KUPSKICH
+  * za śp. Czesławę  i Jana OLSZEWSKICH oraz  Czesławę i Piotra KIELCZYK
+  * za śp. Annę GAWRYŚ oraz Stefana i Marka GAWRYŚ
+  * za śp. Genowefę BĘŚ
+  * za śp. Krzysztofa ŚLEDZIEWSKIEGO, Teresę KOLTERMAN oraz zm. z rodzin ŚLWDZIEWSKICH, BEREDÓW i SZULICHÓW.
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian\
+             chrzest: Apolonia, Leonard Stanisław, Nela
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   dziękczynna w 2 rocznicę ślubu Ani i Mateusza z prośbą o dalsze prowadzenie
+
+**Poniedziałek, 24 lipca, Św. Kingi, dziewicy, *wspomnienie***
+
+* 7.00     + za duszę śp. Czesława PORĘBY od chrześniaka Jacka z rodziną
+* 18.00    w 5 rocznicę ślubu Marii i Michała, dziękczynna z prośbą o odnowienie miłości małżeńskiej oraz o Boże błogosławieństwo dla całej rodziny
+
+**Wtorek, 25  lipca, Św. Jakuba, apostoła, *święto***
+
+* 7.00    Intencja dziękczynna z prośbą o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+* 18.00    dziękczynna za Iwa z prośbą o Boże błogosławieństwo i opiekę dla niego i całej rodziny
+
+**Środa, 26 lipca, Świętych Joachima i Anny, rodziców Najświętszej  Maryi Panny, *wspomnienie***
+
+* 7.00    Przez wstawiennictwo Św. Joachima i Anny o Boże błogosławieństwo dla Anny i jej rodziny
+* 18.00    w intencji syna Jakuba i synowej Anny – dziękczynna za piękne życie rodzinne, z prośbą o pomoc Bożą w rozpoczynających się dniach starości
+
+**Czwartek, 27 lipca**
+
+* 7.00    + za śp. Pelagię i Kazimierza STRADOWSKICH w kolejną rocznicę śmierci
+* 18.00    + za śp. Ludomira LEWANDOWSKIEGO  w 1 rocznicę śmierci
+
+**Piątek, 28  lipca,**
+
+* 7.00    + za śp. Leokadię
+* 18.00    w 33 rocznicę ślubu Urszuli i Sławomira, o wszelkie potrzebne łaski i opiekę Matki Bożej
+
+**Sobota, 29 lipca, Świętych Marty, Marii i Łazarza, *wspomnienie***
+
+* 7.00       + za śp. Janinę
+* 18.00      + za śp. Adama GADOMSKIEGO w 2 rocznicę śmierci
+
+**XVII Niedziela zwykła, 30 lipca ,**
+
+* 8.00    za parafian
+* 10.00   intencja zbiorowa:
+
+  * o błogosławieństwo Boże i opiekę Matki Bożej dla Szymona i Sary w 1 rocznicę  ślubu
+  * światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Barbarę WIĄCEK, Marzenę DASZYŃSKĄ i Helenę PAŁDYNA
+  * za śp. Zygmunta GRĘZAKA   w 1 rocznicę śmieci
+  * za śp. Annę BOCHYŃSKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Marię WĄSOWSKĄ w 3 rocznicę śmierci
+
+           Chrzest (po Eucharystii): Julian, Ignacy
+
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   dziękczynna – w 45 rocznicę ślubu Danuty i Wojciecha
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XV Niedziela zwykła, 16 lipca**  
 
 * 8.00    + za śp. Mariannę SOBCZAK w 1 rocznicę śmierci, Tadeusza SOBCZAKA , Janinę i Władysława      SOBCZAKÓW , Ewę i Walentego ŁOMŻÓW oraz śp. Leona ŁOMŻĘ
