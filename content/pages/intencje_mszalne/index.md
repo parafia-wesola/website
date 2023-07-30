@@ -4,6 +4,68 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XVII Niedziela zwykła, 30 lipca**
+
+* 8.00    za parafian
+* 10.00   intencja zbiorowa:
+
+  * o błogosławieństwo Boże i opiekę Matki Bożej dla Szymona i Sary w 1. rocznicę  ślubu
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Barbarę WIĄCEK, Marzenę DASZYŃSKĄ i Helenę PAŁDYNA
+  * za śp. Zygmunta GRĘZAKA  w 1. rocznicę śmieci
+  * za śp. Annę BOCHYŃSKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Marię WĄSOWSKĄ w 3. rocznicę śmierci
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   dziękczynna – w 45. rocznicę ślubu Danuty i Wojciecha
+
+**Poniedziałek, 31 lipca, Św. Ignacego z Loyoli, prezbitera, *wspomnienie***
+
+* 7.00     + za śp. Marię KRZYŚPIAK  w miesiąc po pogrzebie
+* 18.00    + za śp. Henryka WRZEŚNIEWSKIEGO w 4. rocznicę śmierci
+
+**Wtorek, 1 sierpnia, Św. Alfonsa Marii Liguoriego, biskupa i doktora Kościoła, *wspomnienie***
+
+* 7.00    + za śp. Elżbietę RYKOWSKĄ w miesiąc po pogrzebie
+* 18.00    intencja wypominkowa
+
+**Środa, 2 sierpnia,**
+
+* 7.00    + za śp. Mariannę, Stanisława, Romana, Witolda i Waldemara KĄCA
+* 18.00    + za śp. Barbarę i Eugeniusza KOŁODZIEJCZYK oraz Stefana i Kazimierę CIEŚLA
+
+**Czwartek, 3 sierpnia**
+
+* 7.00    dziękczynna za dar życia Magdy, za rodziców, Teresę i Krzysztofa, za brata Bartka  oraz za całą rodzinę z prośbą o błogosławieństwo Boże i opiekę Matki Bożej.
+* 18.00    + za śp. Jadwigę OLĘDZKĄ w 5. rocznicę śmierci oraz za zmarłych z rodziny OLĘDZKICH, BACHORKÓW, OLIFIERKÓW i  RADZIWONÓW                                                                          
+
+**Piątek, 4 sierpnia, Św. Jana Marii Vianneya, prezbitera, *wspomnienie***
+
+* 7.00    dziękczynna za wszystkie Boże dary
+* 18.00    + za śp. Elżbietę i Wacława KOBZA  w rocznicę śmierci
+
+**Sobota, 5 sierpnia,**
+
+* 7.00       + za śp. Amelię WIELGÓRSKĄ  i Henrykę ZAWADZKĄ
+* 18.00      K.Ż.R.
+
+**XVIII Niedziela zwykła, 6 sierpnia , Przemienienie Pańskie, *święto***
+
+* 8.00    za parafian
+* 10.00   intencja zbiorowa:
+
+  * dziękczynno-błagalna w 42. rocznicę ślubu Izabeli i Andrzeja KOTUNIAKÓW, oraz w 3. rocznicę urodzin Krzysztofa,  a także za Annę, Jakuba, Karolinę i Antoniego KOTUNIAKÓW
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Stanisławę, Stanisława, Eugeniusza KAŁASZA i całą rodzinę KAŁASZA
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Jana MACIĄŻKA
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Grzegorza DREWNOWSKIEGO w 5. rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XVI Niedziela zwykła, 23 lipca ,**
 
 *  8.00    + za śp. Annę GRYKIEŃ i Michała MULICĘ
