@@ -4,6 +4,62 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XVIII Niedziela zwykła, 6 sierpnia, Przemienienie Pańskie, *święto***
+
+* 8.00    za parafian
+* 10.00   intencja zbiorowa:
+
+  * dziękczynno-błagalna w 42. rocznicę ślubu Izabeli i Andrzeja KOTUNIAKÓW oraz w 3. rocznicę urodzin Krzysztofa,  a także za Annę, Jakuba, Karolinę i Antoniego KOTUNIAKÓW
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Stanisławę, Stanisława, Eugeniusza KAŁASZA i całą rodzinę KAŁASZA
+  * za śp. Jana Łukomskiego
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Jana MACIĄŻKA (od Bogusława Kilak z rodziną)
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Grzegorza DREWNOWSKIEGO w 5. rocznicę śmierci
+
+**Poniedziałek, 7 sierpnia,**
+
+* 7.00     w 13. rocznicę ślubu  Joanny i Karola MĘDRZYCKICH
+* 18.00    w 30. rocznicę ślubu Marty i Janka
+
+**Wtorek, 8 sierpnia, Św. Dominika, prezbitera, *wspomnienie***
+
+* 7.00    + za śp. Jadwigę i Stanisława
+* 18.00    + za śp. Karolinę i Józefa ROSIK
+
+**Środa, 9 sierpnia, Św. Teresy Benedykty od Krzyża, dziewicy i męczennicy, patronki Europy, *święto***
+
+* 7.00    + za śp. Krystynę i Romana KWIATKOWSKICH oraz śp. Annę i Adama LITWINÓW
+* 18.00    w 53. rocznicę ślubu Teresy i Marka
+
+**Czwartek, 10 sierpnia, Św. Wawrzyńca, diakona i męczennika*, święto***
+
+* 7.00    + za śp. Stanisława BAKIERA w 9. rocznicę śmierci oraz zmarłych z rodziny BAKIERA i ROGALA
+* 18.00    + za śp. Bernarda MICHALIKA  o spokój duszy (od żony i syna z rodziną)                                         
+
+**Piątek, 11 sierpnia, Św. Klary, dziewicy,  *wspomnienie***
+
+* 7.00    + za śp. Laetitię LINARD – SZUTA o pokój jej duszy oraz o pocieszenie i opiekę Matki Najświętszej dla jej rodziny
+* 18.00   
+
+**Sobota, 12 sierpnia,**
+
+* 7.00
+* 18.00      + o życie wieczne dla Heleny i Wiesława WYGANOWSKICH
+
+**XIX Niedziela zwykła, 13 sierpnia ,**
+
+* 8.00    + za śp. Wandę, Mariana, Jana SKIBNIEWSKICH
+* 10.00   za parafian
+* 12.00   + za śp. Tereskę SKARŻYŃSKĄ (od przyjaciół Agnieszki i Adama Żurawskich)
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   o Boże błogosławieństwo i dary Ducha Świętego dla Dawida
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XVII Niedziela zwykła, 30 lipca**
 
 * 8.00    za parafian
