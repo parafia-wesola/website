@@ -4,6 +4,71 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XIX Niedziela zwykła, 13 sierpnia**
+
+* 8.00    + za śp. Wandę, Mariana, Jana SKIBNIEWSKICH
+* 10.00   za parafian
+* 12.00   + za śp. Teresę SKARŻYŃSKĄ
+
+           Chrzest: Bianka Sztuka
+
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   o Boże błogosławieństwo i dary Ducha Świętego dla Dawida
+
+**Poniedziałek, 14sierpnia, Św. Maksymiliana Marii Kolbego, prezbitera i męczennika, *wspomnienie***
+
+* 7.00     + za śp. Genowefę BĘŚ w miesiąc po pogrzebie
+* 18.00    o Boże błogosławieństwo i wszelkie łaski potrzebne dla modlących się Margaretek oraz dla wspólnoty rodzin szensztackich modlących się za kapłanów
+
+**Wtorek, 15 sierpnia, Wniebowzięcie Najświętszej Maryi Panny, Matki Bożej Zwycięskiej, głównej patronki diecezji warszawsko-praskiej, *uroczystość***
+
+* 8.00    o Boże błogosławieństwo dla Damiana i żony
+* 10.00    + za śp. Feliksa WĄSOWSKIEGO w 3 rocznicę śmierci
+* 12.00    + za śp. Ludwika, Mariannę, Danutę i Gustawa
+* 18.00    + za śp. Jana ŚLEDZIEWSKIEGO
+
+**Środa, 16 sierpnia**
+
+* 7.00    + za śp. Bożenę i Zbigniewa GMURÓW
+* 18.00    + za śp. Krystynę i Feliksa PIEŃKOWSKICH
+
+**Czwartek, 17 sierpnia, Św. Jacka, prezbitera, *wspomnienie***
+
+* 7.00    + za śp. Annę BOCHYŃSKĄ w miesiąc po pogrzebie
+* 18.00    + za śp. Czesława PORĘBĘ                                                                
+
+**Piątek, 18 sierpnia**
+
+* 7.00    + za śp. Romana w 32 rocznicę śmierci
+* 16.00    za Mikołaja i Ewę w dniu ślubu
+* 18.00    za małżeństwa w kryzysie
+
+**Sobota, 19 sierpnia**
+
+* 7.00      
+* 15.00      za Aleksandrę i Davida w dniu ślubu
+* 18.00      + za śp. Eugenię i Józefa BRZOSTOWSKICH
+
+**XX Niedziela zwykła, 20 sierpnia**
+
+* 8.00    za parafian
+* 10.00   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Władysławę, Józefa i Genowefę MOLSKICH
+  * za śp. Piotra , Eugeniusza i Roberta GRYZ
+  * za sp. Mariusza BIELINSKIEGO
+  * za śp. Ryszarda Nierojewskiego
+  * za śp. Jadwigę Prus
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Jana WIERZEJSKIEGO w 2 r. ś., zmarłe rodzeństwo, szwagrów i rodziców
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Anielę i Aleksandra STRUPIECHOWSKICH oraz za śp. Eugeniusza, Zofię, Mirosławę i Mariannę WĄSOWSKICH
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XVIII Niedziela zwykła, 6 sierpnia, Przemienienie Pańskie, *święto***
 
 * 8.00    za parafian
