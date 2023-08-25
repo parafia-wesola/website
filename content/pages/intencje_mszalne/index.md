@@ -4,6 +4,73 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XX Niedziela zwykła, 20 sierpnia ,**
+
+* 8.00    za parafian
+* 10.00   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Władysławę, Józefa i Genowefę MOLSKICH
+  * za śp. Piotra , Eugeniusza i Roberta GRYZ
+  * za śp. Mariusza BIELIŃSKIEGO
+  * za śp. Ryszarda NIEROJEWSKIEGO
+  * za śp. Jadwigę PRUS
+  * za dusze śp. Leokadii i Stanisława KUPIEL
+  * za dusze w czyśćcu cierpiące
+* 12.00   + w 2 rocznicę śmierci śp. Jana WIERZEJSKIEGO , zmarłe rodzeństwo, szwagrów i rodziców
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Anielę i Aleksandra STRUPIECHOWSKICH oraz za śp. Eugeniusza, Zofię, Mirosławę i Mariannę WĄSOWSKICH
+
+**Poniedziałek, 21 sierpnia, Św. Piusa X, papieża, *wspomnienie***
+
+* 7.00    
+* 18.00    + za śp. Tadeusza w 2 rocznicę śmierci oraz Helenę i Łukasza SIWEK oraz Mariannę i Czesława        SÓWKA
+
+**Wtorek, 22 sierpnia, Najświętszej Maryi Panny, Królowej, *wspomnienie***
+
+* 7.00    
+* 18.00    + za śp. Zofię i Ryszarda WOLFRAMÓW oraz zmarłych z ich rodzin
+
+**Środa, 23 sierpnia,**
+
+* 7.00    + o radość Nieba dla zmarłej bratanicy Anny
+* 18.00    + za śp. Stanisława FAJFER i za dusze w czyśćcu cierpiące
+
+**Czwartek, 24 sierpnia, Św. Bartłomieja , apostoła, *święto***
+
+* 7.00    w intencji Stasia i Leona w rocznicę chrztu i za ich rodziców chrzestnych
+* 18.00    o zdrowie dla Joli                                                        
+
+**Piątek, 25 sierpnia,**
+
+* 7.00    Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+* 18.00    + za śp. Eugeniusza BAŁABUCHA i zmarłych z rodziny BAŁABUCH i SAŁAŃSKICH
+
+**Sobota, 26 sierpnia, Najświętszej Maryi Panny Częstochowskiej, *uroczystość***
+
+* 7.00       + za duszę śp. Czesława PORĘBY od teściów chrześniaka Jacka
+* 18.00      PKPS
+
+**XXI Niedziela zwykła, 27 sierpnia ,**
+
+* 8.00   
+* 10.00   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w 45 rocznicę ślubu Joanny i Pawła MANTORSKICH
+  * + za śp. Józefę, Stanisława, Józefa, Wojciecha, Stefana SZCZEPEK i Eugeniusza MROCZKA
+  * za duszę śp. Marii GÓRSKIEJ w 13 rocznicę śmierci oraz za dusze śp. Barbary i Mieczysława
+  * za śp. Wacława GŁOWACKIEGO i zmarłych z rodziny
+  * za śp. Mariusza BIELIŃSKIEGO, Edwarda KUŚMIRKA oraz Jarosława KACPRZESKIEGO
+  * za dusze w czyśćcu cierpiące
+* 12.00   ZA PARAFIAN
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Helenę SMOLEŃ w 20 rocznicę śmierci i dusze śp. Józefa i Kazimiery BOCHEŃSKICH
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XIX Niedziela zwykła, 13 sierpnia**
 
 * 8.00    + za śp. Wandę, Mariana, Jana SKIBNIEWSKICH
