@@ -4,6 +4,80 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXI Niedziela zwykła, 27 sierpnia**
+
+* 8.00     
+
+  * z okazji 40 urodzin Barbary i Mariusza OSICA o Boże błogosławieństwo i opiekę Matki Bożej
+  * o łaskę zdrowia dla członków rodzin SKUPÓW, PERZANOWSKICH i KONONOWICZÓW
+* 10.00   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w 45. rocznicę ślubu Joanny i Pawła MANTORSKICH
+  * za śp. Józefę, Stanisława, Józefa, Wojciecha, Stefana SZCZEPEK i Eugeniusza MROCZKA
+  * za duszę śp. Marii GÓRSKIEJ w 13. rocznicę śmierci oraz za dusze śp. Barbary i Mieczysława
+  * za śp. Wacława GŁOWACKIEGO i zmarłych z rodziny
+  * za śp. Mariusza BIELIŃSKIEGO, Edwarda KUŚMIRKA oraz Jarosława KACPRZESKIEGO
+  * za śp. Małgorzatę MIZERSKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00   ZA PARAFIAN
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Helenę SMOLEŃ w 20. rocznicę śmierci i dusze śp. Józefa i Kazimiery BOCHEŃSKICH
+
+**Poniedziałek, 28 sierpnia, Św. Augustyna,, biskupa i doktora Kościoła, *wspomnienie***
+
+* 7.00    
+* 18.00    za śp. Lecha BERNAŚ (od rodziny Segesów)
+
+**Wtorek, 29 sierpnia, Męczeństwo Św. Jana Chrzciciela, *wspomnienie***
+
+* 7.00    + za śp. Krzysztofa w 1. rocznicę śmierci
+* 18.00   
+
+**Środa, 30 sierpnia,**
+
+* 7.00   
+* 18.00    + za śp. Władysławę i Piotra
+
+**Czwartek, 31 sierpnia, Św. Bartłomieja , apostoła, *święto***
+
+* 7.00   
+* 18.00    + za śp. Hannę Gadomską w 2. rocznicę śmierci                                  
+
+**Piątek, 1 września,**
+
+* 7.00
+* 18.00    + za śp. Henrykę SABAK
+
+**Sobota, 2 września,**
+
+* 7.00      
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00      K.Ż.R.
+
+**XXII Niedziela zwykła, 3 września ,**
+
+* 7.00   za parafian
+* 9.00    w 64. rocznicę ślubu Barbary i Mariana
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za Małgorzatę i Jacka KALINOWSKICH w 21 rocznicę ślubu
+  * w 70 rocznicę urodzin Elżbiety JACKIEWICZ z podziękowaniem za otrzymane łaski
+  * za śp. Małgorzatę Mizerską
+  * za śp. Wacława WETOSZKA
+  * za śp. Antoninę KRUSZEWSKĄ w 1 rocznicę śmierci oraz za śp. Józefa KRUSZEWSKIEGO
+  * za śp. Lecha BERNAŚ
+  * za śp. Zbigniewa MIKULSKIEGO
+  * za dusze w czyśćcu cierpiące
+* 12.00   Msza św. w intencji dzieci rozpoczynających rok szkolny
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za zmarłych z rodzin JAŹWINSKICH, USZYŃSKICH, SKIBNIEWSKICH i KUTYŁOWSKICH
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XX Niedziela zwykła, 20 sierpnia ,**
 
 * 8.00    za parafian
@@ -58,7 +132,7 @@ title: Intencje mszalne
 
   * o światło i dary Ducha Świętego dla Judyty i Dawida
   * w 45 rocznicę ślubu Joanny i Pawła MANTORSKICH
-  * + za śp. Józefę, Stanisława, Józefa, Wojciecha, Stefana SZCZEPEK i Eugeniusza MROCZKA
+  * * za śp. Józefę, Stanisława, Józefa, Wojciecha, Stefana SZCZEPEK i Eugeniusza MROCZKA
   * za duszę śp. Marii GÓRSKIEJ w 13 rocznicę śmierci oraz za dusze śp. Barbary i Mieczysława
   * za śp. Wacława GŁOWACKIEGO i zmarłych z rodziny
   * za śp. Mariusza BIELIŃSKIEGO, Edwarda KUŚMIRKA oraz Jarosława KACPRZESKIEGO
