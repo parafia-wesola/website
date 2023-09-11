@@ -4,6 +4,64 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXIII Niedziela zwykła, 10 września,**
+
+* 7.00   + za śp. Ryszarda ŁUPIŃSKIEGO , Mirosława MACHNACKIEGO i zmarłych z rodziny WIŚNIEWSKICH
+* 9.00   + za śp. Mariannę KIELEWSKĄ i Józefa KIELEWSKIEGO
+* 10.30   za parafian
+* 12.00   w 15. rocznicę urodzin Janka
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   w 14. rocznicę urodzin Mateusza i 40. rocznicę urodzin Emilii
+
+**Poniedziałek, 11 września,**
+
+* 7.00    + za śp. Ryszarda Jana Nierojewskiego
+* 18.00    + za śp. ciocię Małgorzatę JANICZEK oraz za śp. rodziców: Apolonię i Mikołaja KOWALSKICH
+
+**Wtorek, 12 września,**
+
+* 7.00    o błogosławieństwo Boże i opiekę Matki Bożej dla Michała w dniu urodzin
+* 18.00  + za śp. Leontynę MAKARUK w 2. rocznicę śmierci
+
+**Środa, 13 września, św. Jana Chryzostoma, *wspomnienie***
+
+* 7.00    + za śp. Jadwigę PRUS w miesiąc po pogrzebie
+* 18.00    + za zmarłych z rodziny DĘBNIAKÓW i STUDNIARSKICH o życie wieczne                                                                                                        
+
+**Czwartek, 14 września, Podwyższenie Krzyża Świętego, *święto***
+
+* 7.00    o błogosławieństwo Boże dla Damiana i żony
+* 18.00    w 35. rocznicę urodzin wnuczki Ewy – dziękczynna za wszystko, czego Bóg w niej dokonał, z gorącą prośbą o rozpoznanie, jak dalej żyć na chwałę Boga
+
+**Piątek, 15 września, Najświętszej Maryi Panny Bolesnej, *wspomnienie***
+
+* 7.00    + za śp. Czesława POREBĘ (od chrześniaka Krzysztofa z rodziną)
+* 18.00    za małżeństwa w kryzysie
+
+**Sobota, 16 września, św. męczenników Korneliusza, papieża i Cypriana, biskupa, *wspomnienie***
+
+* 7.00    + za duszę panu Bogu znaną
+* 15.00   ślub: Janusz Fortuniak i Anna Stelęgowska
+* *16.00   Adoracja Najświętszego Sakramentu*
+* 18.00    + za śp. Jana PAWŁOWSKIEGO w 11. rocznicę śmierci o radość życia wiecznego
+
+**XXIV Niedziela zwykła, 17 września ,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Janinę, Jadwigę, Kazimierza, Czesława i Edwarda, zmarłych z rodziny JAWOROWSKI i JACZEWSKICH
+* 10.30   intencje zbiorowe:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida,
+  * za śp. Aleksandra Zastawnego, Bronisławę i Jana,
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Emiliana KUŹMĘ
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00  
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXI Niedziela zwykła, 27 sierpnia**
 
 * 8.00     
