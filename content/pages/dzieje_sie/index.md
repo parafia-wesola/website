@@ -3,9 +3,7 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Spotkanie dla kobiet - warsztaty odzyskaj swój czas
-  - size: large
-    title: Pielgrzymko-wycieczka śladami Jerzego Nowosielskiego Kraków-Tychy
+    title: Kurs Alpha 2023
   - size: large
     title: Rok Nowosielskiego
   - size: large
