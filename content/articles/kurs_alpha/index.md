@@ -1,6 +1,6 @@
 ---
 type: article
-title: Kurs Alpha
+title: Kurs Alpha 2023
 date: 2023-09-14T21:41:53.538Z
 eventDate: 2023-10-02T17:45:00.000Z
 author: parafia wesoła
