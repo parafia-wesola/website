@@ -18,14 +18,16 @@ Drodzy Rodzice!
 
             Liczymy więc na Waszą otwartość, aktywną postawę i współpracę.
 
- 
+***Nieprzekraczalny termin zgłaszania dzieci na przygotowanie do 1 Komunii to 15 października 2023.*** 
 
-**ZAPRASZAMY:**
+#### Aby wypełnić Kartę Zgłoszeniową [kliknij tutaj](https://docs.google.com/forms/d/e/1FAIpQLSfKoRNP0TFFngUccfmP0CRMM3PkaVtkfmEx_3n-ykQKxPe7gQ/viewform?usp=sf_link)
+
+
+
+**NAJBLIŻSZE SPOTKANIA:**
 
 * wszystkich rodziców (bez dzieci) na pierwsze **spotkanie organizacyjne w piątek, 22 września** **2023 r**., do Domu Rekolekcyjnego (wejście główne do Dużej Kaplicy), ul. Ks. P. Skargi 2, 05-075 Warszawa-Wesoła, **o godz. 18.30**.
 * na wspólną (rodzice i dzieci) **Eucharystię**, w **niedzielę,** **1 października** **2023** r., o **godz. 12.00**.
-
-
 
 <h4 style="text-align:center;">PROGRAM PRZYGOTOWAŃ</h4>
 
@@ -38,12 +40,8 @@ Drodzy Rodzice!
   9 lutego 2024\
   8 marca 2024\
   22 marca 2024 (spotkanie organizacyjne dla rodziców)
-
-
 * **Wspólne Eucharystie:** każda pierwsza niedziela miesiąca od października do kwietnia, godz. 12.00. Po Mszy św. krótkie spotkanie dla wszystkich rodzin. 
 * **Ewangelizacyjny weekend Tymoteusz:** 20-21 kwietnia 2024
-
-
 
 ***Nieprzekraczalny termin zgłaszania dzieci na przygotowanie do 1 Komunii to 15 października 2023.*** 
 
