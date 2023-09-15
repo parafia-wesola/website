@@ -8,6 +8,8 @@ cover: baner-komunijny-drewniany-i-komunia-swieta-90cm-sznurek.webp
 ---
 <!--StartFragment-->
 
+# LIST DO RODZICÓW
+
 Drodzy Rodzice!
 
             Rozpoczynamy nowy rok szkolny, którego zwieńczeniem dla wielu z Waszych dzieci będzie przystąpienie do Pierwszej Komunii św. **11 maja 2024 r**. Niniejszym chcielibyśmy, jako Parafia pw. Opatrzności Bożej w Wesołej, zaproponować Wam współpracę w procesie przygotowania do tego wydarzenia.
@@ -18,15 +20,30 @@ Drodzy Rodzice!
 
             Liczymy więc na Waszą otwartość, aktywną postawę i współpracę.
 
-***Nieprzekraczalny termin zgłaszania dzieci na przygotowanie do 1 Komunii to 15 października 2023.*** 
+
+
+# **ZAPISY** 
 
 #### Aby wypełnić Kartę Zgłoszeniową [kliknij tutaj](https://docs.google.com/forms/d/e/1FAIpQLSfKoRNP0TFFngUccfmP0CRMM3PkaVtkfmEx_3n-ykQKxPe7gQ/viewform?usp=sf_link)
 
+***Nieprzekraczalny termin zgłaszania dzieci na przygotowanie do 1 Komunii to 15 października 2023.***
 
+
+
+# FINANSE
+
+Prosimy o przekazanie kwoty 100 zł. na zakup materiałów pomocniczych i pamiatek, które dzieci otrzymają w trakcie przygotowania. Można to zrobić przelewem na konto parafii albo przekazać w kancelarii parafialnej lub katechecie.
+
+**Dane do przelewu:**
+
+Rzymsko-katolicka Parafia pw. Opatrzności Bożej ul. Piotra Skargi 2; 05-075 Warszawa-Wesoła\
+28 8019 1010 2002 0007 0714 0001
+
+# KALENDARZ
 
 **NAJBLIŻSZE SPOTKANIA:**
 
-* wszystkich rodziców (bez dzieci) na pierwsze **spotkanie organizacyjne w piątek, 22 września** **2023 r**., do Domu Rekolekcyjnego (wejście główne do Dużej Kaplicy), ul. Ks. P. Skargi 2, 05-075 Warszawa-Wesoła, **o godz. 18.30**.
+* wszystkich rodziców (bez dzieci) zapraszamy na pierwsze **spotkanie organizacyjne w piątek, 22 września** **2023 r**., do Domu Rekolekcyjnego (wejście główne do Dużej Kaplicy), ul. Ks. P. Skargi 2, 05-075 Warszawa-Wesoła, **o godz. 18.30**.
 * na wspólną (rodzice i dzieci) **Eucharystię**, w **niedzielę,** **1 października** **2023** r., o **godz. 12.00**.
 
 <h4 style="text-align:center;">PROGRAM PRZYGOTOWAŃ</h4>
@@ -41,9 +58,12 @@ Drodzy Rodzice!
   8 marca 2024\
   22 marca 2024 (spotkanie organizacyjne dla rodziców)
 * **Wspólne Eucharystie:** każda pierwsza niedziela miesiąca od października do kwietnia, godz. 12.00. Po Mszy św. krótkie spotkanie dla wszystkich rodzin. 
-* **Ewangelizacyjny weekend Tymoteusz:** 20-21 kwietnia 2024
+* **Ewangelizacyjny weekend Tymoteusz:** ***20-21 kwietnia 2024***
+* **Próby** (bezpośrednie przygotowanie do celebracji)
 
-***Nieprzekraczalny termin zgłaszania dzieci na przygotowanie do 1 Komunii to 15 października 2023.*** 
+  24 i 25 kwietnia 2024\
+  8 i 9 maja 2024
+* **Spowiedź:** 10 maja 2024
 
 W razie pytań prosimy o kontakt na adres: *[komunia.parafiawesola@gmail.com](mailto:komunia.parafiawesola@gmail.com)*
 
