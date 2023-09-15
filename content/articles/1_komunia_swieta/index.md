@@ -20,7 +20,7 @@ Drodzy Rodzice!
 
             Liczymy więc na Waszą otwartość, aktywną postawę i współpracę.
 
-# **ZAPISY**
+# ZAPISY
 
 #### Aby wypełnić Kartę Zgłoszeniową [kliknij tutaj](https://docs.google.com/forms/d/e/1FAIpQLSfKoRNP0TFFngUccfmP0CRMM3PkaVtkfmEx_3n-ykQKxPe7gQ/viewform?usp=sf_link)
 
