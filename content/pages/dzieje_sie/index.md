@@ -5,7 +5,7 @@ news:
   - size: large
     title: Kurs Alpha 2023
   - size: large
-    title: 1 Komunia Święta
+    title: 1 Komunia Święta 2023-2024
   - size: large
     title: Rok Nowosielskiego
   - size: large
