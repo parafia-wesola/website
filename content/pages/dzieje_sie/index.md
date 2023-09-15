@@ -5,6 +5,8 @@ news:
   - size: large
     title: Kurs Alpha 2023
   - size: large
+    title: 1 Komunia Święta
+  - size: large
     title: Rok Nowosielskiego
   - size: large
     title: spotkania dla młodych 16-19
