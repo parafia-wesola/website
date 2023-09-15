@@ -1,6 +1,6 @@
 ---
 type: article
-title: 1 Komunia Święta
+title: 1 Komunia Święta 2023-2024
 date: 2023-09-15T08:30:50.319Z
 eventDate: ""
 author: parafia wesoła
