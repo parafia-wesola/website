@@ -20,15 +20,11 @@ Drodzy Rodzice!
 
             Liczymy więc na Waszą otwartość, aktywną postawę i współpracę.
 
-
-
-# **ZAPISY** 
+# **ZAPISY**
 
 #### Aby wypełnić Kartę Zgłoszeniową [kliknij tutaj](https://docs.google.com/forms/d/e/1FAIpQLSfKoRNP0TFFngUccfmP0CRMM3PkaVtkfmEx_3n-ykQKxPe7gQ/viewform?usp=sf_link)
 
 ***Nieprzekraczalny termin zgłaszania dzieci na przygotowanie do 1 Komunii to 15 października 2023.***
-
-
 
 # FINANSE
 
@@ -46,7 +42,7 @@ Rzymsko-katolicka Parafia pw. Opatrzności Bożej ul. Piotra Skargi 2; 05-075 Wa
 * wszystkich rodziców (bez dzieci) zapraszamy na pierwsze **spotkanie organizacyjne w piątek, 22 września** **2023 r**., do Domu Rekolekcyjnego (wejście główne do Dużej Kaplicy), ul. Ks. P. Skargi 2, 05-075 Warszawa-Wesoła, **o godz. 18.30**.
 * na wspólną (rodzice i dzieci) **Eucharystię**, w **niedzielę,** **1 października** **2023** r., o **godz. 12.00**.
 
-<h4 style="text-align:center;">PROGRAM PRZYGOTOWAŃ</h4>
+**REGULARNE SPOTKANIA:**
 
 * **Piątkowe spotkania dla rodziców i dzieci, godz. 18.30:**\
   \
