@@ -22,13 +22,14 @@ Drodzy Rodzice!
 
 # ZAPISY
 
-#### Aby wypełnić Kartę Zgłoszeniową [kliknij tutaj](https://docs.google.com/forms/d/e/1FAIpQLSfKoRNP0TFFngUccfmP0CRMM3PkaVtkfmEx_3n-ykQKxPe7gQ/viewform?usp=sf_link)
+***Nieprzekraczalny termin zgłaszania dzieci na przygotowanie do 1 Komunii to 15 października 2023.***\
+***Rodziców dzieci nie mieszkających na terenie naszej parafii i nie uczących się w szkole na terenie naszej parafii, prosimy przed wypełnieniem formularza o kontakt z nami.*** 
 
-***Nieprzekraczalny termin zgłaszania dzieci na przygotowanie do 1 Komunii to 15 października 2023.***
+#### Aby wypełnić Kartę Zgłoszeniową [kliknij tutaj](https://docs.google.com/forms/d/e/1FAIpQLSfKoRNP0TFFngUccfmP0CRMM3PkaVtkfmEx_3n-ykQKxPe7gQ/viewform?usp=sf_link)
 
 # FINANSE
 
-Prosimy o przekazanie kwoty 100 zł. na zakup materiałów pomocniczych i pamiatek, które dzieci otrzymają w trakcie przygotowania. Można to zrobić przelewem na konto parafii albo przekazać w kancelarii parafialnej lub katechecie.
+Prosimy o przekazanie kwoty 100 zł. na zakup materiałów pomocniczych i pamiątek, które dzieci otrzymają w trakcie przygotowania. Można to zrobić przelewem na konto parafii albo przekazać w kancelarii parafialnej lub katechecie.
 
 **Dane do przelewu:**
 
