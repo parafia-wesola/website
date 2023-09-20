@@ -26,7 +26,7 @@ Drodzy Rodzice!
 ***Rodziców dzieci nie mieszkających na terenie naszej parafii i nie uczących się w szkole na terenie naszej parafii, prosimy przed wypełnieniem formularza o kontakt z nami.*** 
 
 * #### Aby wypełnić Kartę Zgłoszeniową *[kliknij tutaj](https://docs.google.com/forms/d/e/1FAIpQLSfKoRNP0TFFngUccfmP0CRMM3PkaVtkfmEx_3n-ykQKxPe7gQ/viewform?usp=sf_link)* (formularz google)
-* #### **Jeśli wolą Państwo wypełnić formularz w innej formie, *[prosimy pobrać ten plik Excela](https://kulturajezyka.pl/wp-content/uploads/2023/09/Komunia-2023-2024-formularz-zgloszeniowy-ONLINE.xlsx)*, uzupełnić go, a następnie odesłać na adres: [komunia.parafiawesola@gmail.com](mailto:komunia.parafiawesola@gmail.com)**
+* #### Jeśli wolą Państwo wypełnić formularz w innej formie, *[prosimy pobrać ten plik Excela](https://kulturajezyka.pl/wp-content/uploads/2023/09/Komunia-2023-2024-formularz-zgloszeniowy-ONLINE.xlsx)*, uzupełnić go, a następnie odesłać na adres: [komunia.parafiawesola@gmail.com](mailto:komunia.parafiawesola@gmail.com)
 
 
 
