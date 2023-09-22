@@ -2,6 +2,75 @@
 type: text
 title: Intencje mszalne
 ---
+**XXIV Niedziela zwykła, 17 września,**
+
+* 7.00   + za parafian
+* 9.00    + za śp. Janinę, Jadwigę, Kazimierza, Czesława, Edwarda zmarłych z rodziny JAWOROWSKI i JACZEWSKICH
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w 40. urodziny Karoliny i szczęśliwe rozwiązanie
+  * o Boże błogosławieństwo dla Stefana LANGE z okazji urodzin
+  * za śp. Aleksandra ZASTAWNEGO, Bronisławę i Jana
+  * za śp. Lecha BERNAŚ w miesiąc po śmierci
+  * za zmarłych z rodziny KOZIOŁ
+  * za śp. Letitia Szuta - Linard
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Emiliana KUŹMĘ
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   za nowonarodzonego Krzysia o łaskę uzdrowienia oraz o Boże błogosławieństwo w jego życiu i życiu jego rodziny
+
+**Poniedziałek, 18 września, Św. Stanisława Kostki, zakonnika, patrona Polski, *święto***
+
+* 7.00     o Boże błogosławieństwo i opiekę Matki Bożej dla Ani
+* 18.00    + za śp. rodziców: Krystynę i Henryka KRASOWSKICH
+
+**Wtorek, 19 września,**
+
+* 7.00    o łaskę zdrowia i opiekę Matki Bożej dla Elżbiety
+* 18.00    + za śp. Kazimierza BARSZCZ z prośbą o życie wieczne
+
+**Środa, 20 września, Św. męczenników Andrzeja Kim Taegon, prezbitera, Pawła Chong Hasang i Towarzyszy,                                                                                                                                   *wspomnienie***
+
+* 7.00   
+* 18.00    + za śp. ciocię Małgorzatę JANICZEK oraz za śp. rodziców: Apolonię i Mikołaja KOWALSKICH
+
+**Czwartek, 21 września, Św. Mateusza, apostoła i ewangelisty, *święto***
+
+* 7.00    + za śp. Jacka KUCZYŃSKIEGO w 40. rocznicę śmierci
+* 18.00    + za śp. Kazimierę i Franciszka GOŁĘDOWSKICH
+
+**Piątek, 22 września,**
+
+* 7.00    + za śp. Małgorzatę Teresę MIZERSKĄ  w miesiąc po pogrzebie
+* 18.00    z podziękowaniem za otrzymane łaski z prośbą o dalsze błogosławieństwo i zdrowie dla braci Jarosława i Tomasza
+* 18.00    o pojednanie osób Bogu wiadomych
+
+**Sobota, 23 września, Św. Pio z Pietrelciny *,*prezbitera*,  wspomnienie***
+
+* 7.00       + za śp. Lecha BERNAŚ w miesiąc po pogrzebie
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00      +  za śp. Janusza PODNIESIŃSKIEGO w 3. rocznicę śmierci i za Bolesława i Helenę PODNIESIŃSKICH
+
+**XXIV Niedziela zwykła, 24 września ,**
+
+* 7.00   + za śp. Mariannę i Wiesława TATAREK
+* 9.00    + za śp. Irenę i Czesława WIŚNIEWSKICH i zmarłych z rodziny WIŚNIEWSKICH i SAWICKICH
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w rocznicę ślubu Marty i Roberta o dary Ducha Świętego (od mamy)
+  * w 35. rocznicę ślubu Doroty i Roberta
+  * w 1 rocznicę ślubu Agnieszki i Dawida KUROPATWÓW oraz o Boże błogosławieństwo dla ich córki Neli
+  * za śp. Czesława o zbawienie duszy, w rocznicę śmierci (od żony)
+  * za śp. Marka i Kazimierza RYTLA w 23. rocznicę śmierci
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian -  msza posłania
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + o życie wieczne dla Marianny WYGANOWSKIEJ i zmarłych z rodziny
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **XXIII Niedziela zwykła, 10 września,**
