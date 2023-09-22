@@ -28,8 +28,6 @@ Drodzy Rodzice!
 * #### Aby wypełnić Kartę Zgłoszeniową *[kliknij tutaj](https://docs.google.com/forms/d/e/1FAIpQLSfKoRNP0TFFngUccfmP0CRMM3PkaVtkfmEx_3n-ykQKxPe7gQ/viewform?usp=sf_link)* (formularz google)
 * #### Jeśli wolą Państwo wypełnić formularz w innej formie, *[prosimy pobrać ten plik Excela](https://kulturajezyka.pl/wp-content/uploads/2023/09/Komunia-2023-2024-formularz-zgloszeniowy-ONLINE.xlsx)*, uzupełnić go, a następnie odesłać na adres: [komunia.parafiawesola@gmail.com](mailto:komunia.parafiawesola@gmail.com)
 
-
-
 # FINANSE
 
 Prosimy o przekazanie kwoty 100 zł. na zakup materiałów pomocniczych i pamiątek, które dzieci otrzymają w trakcie przygotowania. Można to zrobić przelewem na konto parafii albo przekazać w kancelarii parafialnej lub katechecie.
@@ -49,7 +47,6 @@ Rzymsko-katolicka Parafia pw. Opatrzności Bożej ul. Piotra Skargi 2; 05-075 Wa
 **REGULARNE SPOTKANIA:**
 
 * **Piątkowe spotkania dla rodziców i dzieci, godz. 18.30:**\
-  \
   20 października 2023\
   17 listopada 2023\
   15 grudnia 2023\
@@ -57,12 +54,16 @@ Rzymsko-katolicka Parafia pw. Opatrzności Bożej ul. Piotra Skargi 2; 05-075 Wa
   9 lutego 2024\
   8 marca 2024\
   22 marca 2024 (spotkanie organizacyjne dla rodziców)
+* **Spotkania dla dzieci w kościele, godz. 16.15:** \
+  Różaniec w październiku (1/tydzień)\
+  Droga Krzyżowa (obowiązkowa obecność na 3 nabożeństwach)\
+  23 listopada\
+  22 lutego
 * **Wspólne Eucharystie:** każda pierwsza niedziela miesiąca od października do kwietnia, godz. 12.00. Po Mszy św. krótkie spotkanie dla wszystkich rodzin. 
 * **Ewangelizacyjny weekend Tymoteusz:** ***20-21 kwietnia 2024***
-* **Próby** (bezpośrednie przygotowanie do celebracji)
-
-  24 i 25 kwietnia 2024\
-  8 i 9 maja 2024
+* **Próby** (bezpośrednie przygotowanie do celebracji)\
+  23 i 24 kwietnia 2024\
+  7 i 8 maja 2024
 * **Spowiedź:** 10 maja 2024
 
 W razie pytań prosimy o kontakt na adres: *[komunia.parafiawesola@gmail.com](mailto:komunia.parafiawesola@gmail.com)*
