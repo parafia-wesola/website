@@ -2,6 +2,80 @@
 type: text
 title: Intencje mszalne
 ---
+**XXV Niedziela zwykła, 24 września,**
+
+* 7.00   + za śp. Mariannę i Wiesława TATAREK
+* 9.00    + za śp. Irenę i Czesława WIŚNIEWSKICH i zmarłych z rodziny WIŚNIEWSKICH i SAWICKICH
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w rocznicę ślubu Marty i Roberta o dary Ducha Świętego (od mamy)
+  * w 35. rocznicę ślubu Doroty i Roberta
+  * w 1. rocznicę ślubu Agnieszki i Dawida KUROPATWÓW oraz o Boże błogosławieństwo dla ich córki Neli
+  * za śp. Czesława o zbawienie duszy, w rocznicę śmierci (od żony)
+  * za śp. Marka i Kazimierza RYTLA w 23. rocznicę śmierci
+  * za dusze w czyśćcu cierpiące
+  * za nowo ochrzczonych: Grzegorza i Krzysztofa
+* 12.00   za parafian -  Msza św. posłania
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Mariannę WYGANOWSKĄ o życie wieczne oraz za zmarłych z rodziny
+
+**Poniedziałek, 25 września,**
+
+* 7.00     Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+* 18.00    + za śp. Kazimierza, Annę, Bronisława JACKIEWICZÓW
+* 18.00    + za śp. Elżbietę HABER i zmarłych z rodziny
+
+**Wtorek, 26 września,**
+
+* 7.00    o pokój duszy i łaskę Nieba dla śp. Mariusza i o łaskę uzdrowienia duszy i ciała dla Anny
+* 18.00    + za śp. Romana i Tomasza BANKIEWICZÓW oraz zmarłych z rodziny
+
+**Środa, 27 września, Św. Wincentego á Paulo, prezbitera, *wspomnienie***
+
+* 7.00    + za śp. Annę BOCHYŃSKĄ (od chrześniaka Mateusza z rodziną)
+* 18.00    + za śp. Wandę MARCZYŃSKĄ
+* 18.00    + za śp. Renatę KSIĘŻOPOLSKĄ
+
+**Czwartek, 28 września, Św. Wacława, męczennika, *wspomnienie***
+
+* 7.00    + za śp. Czesława PORĘBĘ (intencja od Ewy Drożdż z rodziną z Żeleźnikowej Małej)
+* 18.00    + za śp. ciocię Małgorzatę JANICZEK oraz za śp. rodziców Apolonię i Mikołaja KOWALSKICH
+
+**Piątek, 29 września, Rocznica poświęcenia Bazyliki Katedralnej w Warszawie-Pradze, *święto***
+
+* 7.00    + za śp. Zbigniewa MIKULSKIEGO  w miesiąc po pogrzebie
+* 18.00    + za śp. Bożenę MASZKIEWICZ i jej mamę Helenę
+
+**Sobota, 30 września, Św. Hieronima*,* prezbitera i doktora Kościoła*,  wspomnienie***
+
+* 7.00       + za śp. Stanisława GÓRSKIEGO w 7. rocznicę śmierci, jego rodziców i zmarłych z rodziny
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00      +  za śp. Mirosława KAZIMIERCZAKA
+* 18.00      + za śp. Ryszarda GADOMSKIEGO (intencja od Jana z rodziną)
+
+**XXVI Niedziela zwykła, 1 października**
+
+* 7.00   za parafian
+* 9.00    w 13. rocznicę urodzin Zosi, Msza św. dziękczynna
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * Dzień seniora
+  * w 1. rocznicę ślubu o Boże błogosławieństwo dla Edyty i Grzegorza
+  * za Izę i Grzegorza w rocznicę ślubu oraz o błogosławieństwo Boże dla całej rodziny
+  * Dziękczynna Bogu za dzieci Oleńkę i Sebastiana z rodzicami z prośbą o błogosławieństwo Boże i opiekę Matki Bożej na każdy dzień
+  * za śp. Jerzego w 16. rocznicę śmierci
+  * za śp. Zdzisława GADOMSKIEGO
+  * za śp. Piotra POŁETKA
+  * o życie wieczne dla śp. Piotra GRYZA
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Pawła i Krzysztofa RAKOWIECKICH oraz zmarłych z rodziny
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + o łaskę Nieba i szczęście wieczne dla śp. Tomasza BARAN, jego rodziców Marię i Jana
+
+<!--EndFragment-->
+
 **XXIV Niedziela zwykła, 17 września,**
 
 * 7.00   + za parafian
