@@ -54,11 +54,11 @@ Rzymsko-katolicka Parafia pw. Opatrzności Bożej ul. Piotra Skargi 2; 05-075 Wa
   9 lutego 2024\
   8 marca 2024\
   22 marca 2024 (spotkanie organizacyjne dla rodziców)
-* **Spotkania dla dzieci w kościele, godz. 16.15:** \
-  Różaniec w październiku (1/tydzień)\
-  Droga Krzyżowa (obowiązkowa obecność na 3 nabożeństwach)\
-  23 listopada\
-  22 lutego
+* **Spotkania dla dzieci w kościele:** \
+  Różaniec w październiku (1/tydzień), godz. 17.15\
+  Droga Krzyżowa (obowiązkowa obecność na 3 nabożeństwach), godz. 16.45\
+  23 listopada, godz. 16.15\
+  22 lutego, godz. 16.15
 * **Wspólne Eucharystie:** każda pierwsza niedziela miesiąca od października do kwietnia, godz. 12.00. Po Mszy św. krótkie spotkanie dla wszystkich rodzin. 
 * **Ewangelizacyjny weekend Tymoteusz:** ***20-21 kwietnia 2024***
 * **Próby** (bezpośrednie przygotowanie do celebracji)\
