@@ -814,7 +814,7 @@ title: Intencje mszalne
 **XIII Niedziela zwykła, 2 lipca ,**
 
 * 8.00    za parafian
-* 10.00   intencja zbiorowa::
+* 10.00   intencja zbiorowa:
 
   * o światło i dary Ducha Świętego dla Judyty i Dawida
   * błagalno-dziękczynna w 6. rocznicę ślubu Karoliny i Jakuba oraz ich synów: Antoniego i Krzysztofa
