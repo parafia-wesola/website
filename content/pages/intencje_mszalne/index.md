@@ -2,8 +2,6 @@
 type: text
 title: Intencje mszalne
 ---
-
-
 **XXVI Niedziela zwykła, 1 października**
 
 * 7.00   za parafian
