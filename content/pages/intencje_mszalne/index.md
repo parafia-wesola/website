@@ -2,6 +2,78 @@
 type: text
 title: Intencje mszalne
 ---
+
+
+**XXVI Niedziela zwykła, 1 października**
+
+* 7.00   za parafian
+* 9.00    w 13. rocznicę urodzin Zosi, Msza św. dziękczynna
+* 10.30   intencja zbiorowa:
+
+  * za **seniorów**, oraz za osoby zaangażowane w Polski Komitet Pomocy Społecznej, z okazji 65-lecia utworzenia PKPS
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w 1. rocznicę ślubu o Boże błogosławieństwo dla Edyty i Grzegorza
+  * za Izę i Grzegorza w rocznicę ślubu oraz o błogosławieństwo Boże dla całej rodziny
+  * dziękczynna Bogu za dzieci Oleńkę i Sebastiana z rodzicami, z prośbą o błogosławieństwo Boże i opiekę Matki Bożej na każdy dzień
+  * w 20. rocznicę ślubu Doroty i Pawła MACIĄŻKÓW, w 31. rocznicę ślubu Małgorzaty i Mirosława oraz w 3. rocznicę ślubu Aleksandry i Rafała TRYNIECKICH
+  * za śp. Jerzego w 16. rocznicę śmierci
+  * za śp. Zdzisława GADOMSKIEGO
+  * za śp. Piotra POŁETKA
+  * o życie wieczne dla śp. Piotra GRYZA
+  * za śp. Franciszka, Władysławę  i Marię WIELGO
+  * za śp. Halinę MERA  i zmarłych z rodziny MERA
+  * za śp. Marię TORBICZ w 15. rocznicę śmierci
+  * za dusze w czyśćcu cierpiące
+* 10.30    o szczęśliwy przebieg operacji i nawrócenie dla Krzysztofa
+* 12.00   + za śp. Pawła i Krzysztofa RAKOWIECKICH oraz zmarłych z rodziny
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + o łaskę Nieba i szczęście wieczne dla śp. Tomasza BARAN, jego rodziców Marii i Jana
+
+**Poniedziałek, 2 października, Świętych Aniołów Stróżów, wspomnienie**
+
+* 7.00     w 13. rocznicę uratowania życia Edwarda z prośbą o Boże błogosławieństwo
+* 18.00    + za śp. ciocię Małgorzatę JANICZEK oraz za śp. Apolonię i Mikołaja KOWALSKICH          
+
+**Wtorek, 3 października, ŚWIĘTYCH ARCHANIOŁÓW Michała, Gabriela i Rafała, święto**
+
+* 7.00   Dziękczynienie i o potrzebne łaski w walce z pożądliwością
+* 18.00  Msza św. gregoriańska za śp. Jana WANTUSIAKA (1/30)
+* 18.00    Msza św. wypominkowa
+
+**Środa, 4 października, Św. Franciszka z Asyżu, *wspomnienie***
+
+* 7.00    W intencji dziękczynnej i błagalnej za wstawiennictwem Matki Bożej Niepokalanie Poczętej
+* 18.00    + za śp. Jana WANTUSIAKA (2/30)
+* 18.00    +  za śp. Danutę KOPCIŃSKĄ w dniu urodzin
+
+**Czwartek, 5 października, Św. Faustyny Kowalskiej, dziewicy, *wspomnienie***
+
+* 7.00   
+* 18.00    + za śp. Mariusza BIELIŃSKIEGO
+* 18.00   + za śp. Jana WANTUSIAKA (3/30)
+
+**Piątek, 6 października,**
+
+* 7.00    + za śp. Jana WANTUSIAKA (4/30)
+* 18.00    + za śp. Małgorzatę MIZERSKĄ prośba o życie wieczne
+
+**Sobota, 7 października, Najświętszej Panny Różańcowej*,  wspomnienie***
+
+* 7.00 + za śp. Jana WANTUSIAKA (5/30)
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00  w intencjach Kół Żywego Różańca        
+
+**XXVII Niedziela zwykła, 8 październik**  
+
+* 7.00   + za śp. Jana WANTUSIAKA (6/30)
+* 9.00    + za śp. Barbarę GÓRSKĄ w 48. rocznicę śmierci oraz za śp. Marię i Mieczysława
+* 10.30   za parafian
+* 12.00   + za śp. Ludwika, Mariannę, Danutę i Gustawa
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + o życie wieczne dla Mariana WYGANOWSKIEGO i zmarłych z rodziny
+
+<!--EndFragment-->
+
 **XXV Niedziela zwykła, 24 września,**
 
 * 7.00   + za śp. Mariannę i Wiesława TATAREK
