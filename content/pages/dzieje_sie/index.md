@@ -7,6 +7,8 @@ news:
   - size: large
     title: 1 Komunia Święta 2023-2024
   - size: large
+    title: Deklaracja wsparcia - program stypendialny 2023-2024 na Filipinach
+  - size: large
     title: Rok Nowosielskiego
   - size: large
     title: spotkania dla młodych 16-19
