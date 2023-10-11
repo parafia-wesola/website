@@ -2,6 +2,78 @@
 type: text
 title: Intencje mszalne
 ---
+**XXVII Niedziela zwykła, 8 października**
+
+* 7.00   + za śp. Jana WANTUSIAKA (6/30)
+* 9.00    + za śp. Barbarę GÓRSKĄ w 48. rocznicę śmierci oraz za śp. Marię i Mieczysława
+* 10.30   za parafian
+* 12.00   + za śp. Ludwika, Mariannę, Danutę i Gustawa
+* 12.00  dziękczynna za dar życia Piotra oraz z prośbą o łaski potrzebne do trwania na drodze zgodnej z wolą Bożą
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Mariana WYGANOWSKIEGO z prośbą o życie wieczne oraz za zmarłych z rodziny
+* 18.00   + za śp. Beatę SADRZAK
+
+**Poniedziałek, 9 października,**
+
+* 7.00     + za śp. Jana WANTUSIAKA (7/30)
+* 18.00    + za śp. ciocię Małgorzatę JANICZEK oraz za śp. rodziców Apolonię i Mikołaja KOWALSKICH
+
+**Wtorek, 10 października,**
+
+* 7.00    + za śp. Czesława PORĘBĘ ( intencja od Waldemara Poręby z rodziną z Żeleźnikowej Małej)
+* 18.00   + za śp. Mariusza BIELIŃSKIEGO (od Agnieszki Zborek)
+* 18.00   + za śp. Janinę KRASUSKĄ (od Alicji z rodziną)
+* Poza parafią  + za śp. Jana WANTUSIAKA (8/30)
+
+**Środa, 11 października,**
+
+* 7.00    + za śp. Zdzisława Ryszarda GADOMSKIEGO  w miesiąc po pogrzebie
+* 18.00    + za śp. Stanisława FAJFER
+* 18.00    + za śp. Jana WANTUSIAKA (9/30)
+
+**Czwartek, 12 października,**
+
+* 7.00   + za śp. Janinę KRASUSKĄ (od rodziny)
+* 18.00    w 18. rocznicę urodzin Macieja o Boże błogosławieństwo i opiekę Matki Bożej z prośbą o zdrowie
+* 18.00   + za śp. Jana WANTUSIAKA (10/30)
+
+**Piątek, 13 października, Bł. Honorata Koźmińskiego, prezbitera, *wspomnienie***
+
+* 7.00    + za śp. Bartka w dniu urodzin o Niebo dla niego z prośbą o wstawiennictwo Matki Bożej Niepokalanie      Poczętej
+* 18.00    + za śp. Paulinę, Jana i Stanisława PEŁKÓW oraz za śp. Danutę WRÓBLEWSKĄ
+* 18.00    + za śp. Krystynę KOZAK, jej rodziców oraz zmarłych z rodziny GRZYBOWSKICH, KRUPSKICH i     BIEGAŁÓW
+* Poza parafią  + za śp. Jana WANTUSIAKA (11/30)
+
+**Sobota, 14 października,**
+
+* 7.00   + za śp. Piotra POŁETKA  w miesiąc po pogrzebie
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00  + o spokój duszy śp. Jadwigi LACHOWSKIEJ oraz Władysława, Andrzeja i zmarłych z rodziny LACHOWSKICH, RYDZEWSKICH i GALIŃSKICH
+* Poza parafią  + za śp. Jana WANTUSIAKA (12/30)
+
+**XXVIII Niedziela zwykła, 15 października**
+
+* 7.00   za parafian
+* 9.00    + za śp. Rafała i zmarłych z rodziny KIELEWSKICH, WĄSOWSKICH i SKIBNIEWSKICH
+* 10.30   intencja zbiorowa:
+
+  * w 35. rocznicę ślubu Joanny i Andrzeja
+  * w 93. rocznicę urodzin Elwiry BIELECKIEJ
+  * o Boże błogosławieństwo dla Damiana i żony
+  * w 1. rocznicę urodzin Jakuba KAŃTORA o Boże błogosławieństwo i opiekę Matki Bożej
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Czesławę i Jana OLSZEWSKICH
+  * za śp. Tadeusza SZYMAŃSKIEGO
+  * za śp. Wiesława BAŃBURSKIEGO
+  * za śp. Henryka KĘPSKIEGO
+  * za śp. Janinę KRASUSKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Jana WANTUSIAKA (13/30)
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Jadwigę MŁYNARSKĄ w 4. rocznicę śmierci oraz śp. Czesława MŁYNARSKIEGO w 12. rocznicę      śmierci
+
+<!--EndFragment-->
+
 **XXVI Niedziela zwykła, 1 października**
 
 * 7.00   za parafian
