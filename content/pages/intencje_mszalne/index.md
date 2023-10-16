@@ -2,6 +2,89 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**XXVIII Niedziela zwykła, 15 października**
+
+* 7.00   za parafian
+* 9.00    + za śp. Rafała i zmarłych z rodziny KIELEWSKICH, WĄSOWSKICH i SKIBNIEWSKICH
+* 10.30   intencja zbiorowa:
+
+  * w 35. rocznicę ślubu Joanny i Andrzeja, za wnuków oraz o łaski Boże dla dzieci
+  * w 93. rocznicę urodzin Elwiry BIELECKIEJ
+  * o Boże błogosławieństwo dla Damiana i żony
+  * w 1. rocznicę urodzin Jakuba KAŃTORA o Boże błogosławieństwo i opiekę Matki Bożej
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * dziękczynna z prośbą o błogosławieństwo dla Euzebiusza z okazji urodzin
+  * za śp. Teresę i Włodzimierza TUSZEWSKICH z okazji imienin i rocznicy śmierci Teresy
+  * za śp. Elżbietę KALISZEWSKĄ w 16. rocznicę śmierci, jej ojca Henryka GOWINA
+  * za śp. Czesławę i Jana OLSZEWSKICH
+  * za śp. Tadeusza SZYMAŃSKIEGO
+  * za śp. Wiesława BAŃBURSKIEGO
+  * za śp. Henryka KĘPSKIEGO
+  * za śp. Janinę KRASUSKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Jana WANTUSIAKA (13/30)
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Jadwigę MŁYNARSKĄ w 4. rocznicę śmierci oraz śp. Czesława MŁYNARSKIEGO w 12. rocznicę      śmierci
+
+**Poniedziałek, 16 października, Św. Jadwigi Śląskiej, *wspomnienie***
+
+* 7.00     + za śp. Jana WANTUSIAKA (14/30)
+* 18.00    + za śp. ciocię Małgorzatę JANICZEK oraz za śp. rodziców Apolonię i Mikołaja KOWALSKICH
+* 18.00    za Adriana o ratunek u Boga
+
+**Wtorek, 17 października, Św. Ignacego Antiocheńskiego, biskupa i męczennika, *wspomnienie***
+
+* 7.00    + za śp. Janinę KRASUSKĄ (od koleżanek i kolegów)
+* 18.00   + za śp. Mariannę, Bolesława i Jana RECHNIO
+* 18.00   + za śp. Ryszarda GADOMSKIEGO ( od rodziny Kalbarczyków i Wieczorków)
+* Poza parafią  + za śp. Jana WANTUSIAKA (15/30)
+
+**Środa, 18 października, Św. Łukasza, Ewangelisty, *święto***
+
+* 7.00    + za śp. Jana WANTUSIAKA (16/30)
+* 18.00    dziękczynienie i o potrzebne łaski dla żony i dzieci
+
+**Czwartek, 19 października,**
+
+* 7.00   + za śp. Jana WANTUSIAKA (17/30)
+* 18.00    + za śp. Zygmunta GĄSIEWSKIEGO w 4. rocznicę śmierci
+
+**Piątek, 20 października, Św. Jana Kantego, prezbitera, *wspomnienie***
+
+* 7.00    + za zmarłego Andrzeja CWOJDZIŃSKIGO w 3. rocznicę śmierci o udział w radości życia wiecznego
+* 18.00    za małżeństwa w kryzysie
+* Poza parafią  + za śp. Jana WANTUSIAKA (18/30)
+
+**Sobota, 21 października,**
+
+* 7.00   + za śp. Iwonę w 5. rocznicę śmierci
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00  + za śp. Jerzego WĄSOWSKIEGO w 3. rocznicę śmierci
+
+**XXIX Niedziela zwykła, 22 października**
+
+* 7.00   + za śp. Kazimierę, Waleriana oraz Adelajdę i Bolesława
+* 9.00     + za śp. Jana KIELEWSKIEGO
+* 10.30    intencja zbiorowa:
+
+  * w rocznicę urodzin i imienin Sabiny o wszelkie łaski Boże
+  * w 61. rocznicę ślubu Haliny i Zbigniewa MIKOS
+  * w 50. rocznicę ślubu Marii i Józefa
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Stanisława Jerzego, Wandę, Stanisława SADOWSKIEGO, Mariannę i Stefana MUCHÓW, Piotra KSIĄŻKA o wieczny odpoczynek
+  * za śp. Józefa KROPIWCA
+  * za śp. Barbarę BONK
+  * za zmarłych z rodziny BOROWSKICH
+  * za dusze w czyśćcu cierpiące
+* 12.00    za parafian
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00    + za śp. Mariannę w 9. rocznicę śmierci i Michała ŚLIWONIA 2 lata po śmierci
+* 18.00    + za śp. Antoniego SITARZ w 27. rocznicę śmierci i Janinę SITARZ w 20. rocznicę śmierci
+
+<!--EndFragment-->
+
 **XXVII Niedziela zwykła, 8 października**
 
 * 7.00   + za śp. Jana WANTUSIAKA (6/30)
