@@ -4,6 +4,89 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXIX Niedziela zwykła, 22 października**
+
+* 7.00   + za śp. Kazimierę, Waleriana oraz Adelajdę i Bolesława
+* 9.00    + za śp. Jana KIELEWSKIEGO
+* 10.30   intencja zbiorowa:
+
+  * w rocznicę urodzin i imienin Sabiny o wszelkie łaski Boże
+  * w 61. rocznicę ślubu Haliny i Zbigniewa MIKOS
+  * w 50. rocznicę ślubu Marii i Józefa
+  * w 27. rocznicę ślubu Magdaleny i Piotra z prośbą o Boże błogosławieństwo dla nich i dla ich dzieci
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Stanisława Jerzego, Wandę, Stanisława SADOWSKIEGO, Mariannę i Stefana MUCHÓW, Piotra KSIĄŻKA o wieczny odpoczynek
+  * za śp. Józefa KROPIWCA
+  * za śp. Barbarę BONK
+  * za zmarłych z rodziny BOROWSKICH
+  * za śp. Zygmunta BARAN
+  * za śp. Zofię STRUPIECHOWSKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* 12.00   + za śp. Jana WANTUSIAKA (20/30)
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Mariannę w 9. rocznicę śmierci i Michała ŚLIWOŃ w 2. rocznicę śmierci, + za śp. Antoniego          SITARZA w 27. rocznicę śmierci i Janinę SITARZ w 20. rocznicę śmierci
+
+**Poniedziałek, 23 października,**
+
+* 7.00     + za śp. Jana WANTUSIAKA (21/30)
+* 18.00    + za śp. ciocię Małgorzatę JANICZEK oraz za śp. rodziców Apolonię i Mikołaja KOWALSKICH
+
+**Wtorek, 24 października,**
+
+* 7.00    + za śp. Jana WANTUSIAKA (22/30)
+* 18.00   + za śp. Stanisławę i Alfreda CZAPSKICH i ich rodziców
+
+**Środa, 25 października,**
+
+* 7.00    + za śp. Tadeusza SZYMAŃSKIEGO w miesiąc po pogrzebie
+* 18.00    podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością   Miłości Miłosiernej we wszystkich rodzinach
+* 18.00    + za śp. Jana WANTUSIAKA (23/30)
+
+**Czwartek, 26 października,**
+
+* 7.00   + za śp. Jana WANTUSIAKA (24/30)
+* 18.00    + za śp. Halinę JADUCH w 2.rocznicę śmierci
+
+**Piątek, 27 października,**
+
+* 7.00    + za śp. Jana WANTUSIAKA (25/30)
+* 18.00    + za śp. Adelę, Wacława i Danutę REDO
+
+**Sobota, 28 października, Świętych Apostołów Szymona i Judy Tadeusza, *święto***
+
+* 7.00   + za śp. Wiktora w 6.rocznicę śmierci
+* 7.00       w rocznicę ślubu Magdy i Piotra
+* Poza parafią: + za śp. Jana WANTUSIAKA (26/30)
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00  + za śp. Tadeusza ZALEWSKIEGO i zmarłych z rodziny ZALEWSKICH, SZYMAŃSKICH i KRÓLAKÓW
+
+**XXX Niedziela zwykła, 29 października**
+
+* 7.00   za parafian
+* 9.00    + w 16. rocznicę śmierci śp. Hanny ZWIERZYŃSKIEJ-DRIESEN i zmarłych z rodziny ZWIERZYŃSKICH
+* 10.30   intencja zbiorowa:
+
+  * w 55. rocznicę ślubu Henryki i Leszka BERNAŚ
+  * za Jagodę w 16. rocznicę urodzin
+  * o potrzebne łaski dla kapłanów tej parafii
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Zygmunta BILBINA, Jakuba, Stefanię, Jana, i Julię NALBACHÓW
+  * za śp. Wojciecha SADLEJA
+  * za śp. Sabinę GÓRSKĄ
+  * za śp. Zofię STRUPIECHOWSKĄ
+  * za sp. Zdzisława SAWICKIEGO
+  * za śp. Zofię KONNAK
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za Tadeusza i Zofię KOŚCIESZA
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Ryszarda MOŚCICKIEGO w 1. rocznicę śmierci o życie wieczne w Niebie
+* 18.00   + za śp. Jana WANTUSIAKA (27/30)
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXVIII Niedziela zwykła, 15 października**
 
 * 7.00   za parafian
