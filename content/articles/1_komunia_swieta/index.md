@@ -65,6 +65,12 @@ Rzymsko-katolicka Parafia pw. Opatrzności Bożej ul. Piotra Skargi 2; 05-075 Wa
   23 i 24 kwietnia 2024\
   7 i 8 maja 2024
 * **Spowiedź:** 10 maja 2024
+* **Celebracje 1 Komunii Świętej (11 maja 2024)**
+
+  * 9.00 Szkoły Moraczewskich
+  * 10.30 SP 171 a
+  * 12.00 SP 171 b
+  * 13.30 ASP 12 i inne szkoły
 
 W razie pytań prosimy o kontakt na adres: *[komunia.parafiawesola@gmail.com](mailto:komunia.parafiawesola@gmail.com)*
 
