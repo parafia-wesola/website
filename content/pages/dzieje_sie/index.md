@@ -3,11 +3,13 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
-    title: Kurs Alpha 2023
+    title: Spotkanie dla kobiet
   - size: large
     title: 1 Komunia Święta 2023-2024
   - size: large
     title: Deklaracja wsparcia - program stypendialny 2023-2024 na Filipinach
+  - size: large
+    title: Kurs Alpha 2023
   - size: large
     title: Rok Nowosielskiego
   - size: large
