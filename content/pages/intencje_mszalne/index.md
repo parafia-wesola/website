@@ -4,6 +4,93 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXX Niedziela zwykła, 29 października**
+
+* 7.00   za parafian
+* 9.00    + w 16. rocznicę śmierci śp. Hanny ZWIERZYŃSKIEJ-DRIESEN i zmarłych z rodziny ZWIERZYŃSKICH
+* 10.30   intencja zbiorowa:
+
+  * w 55. rocznicę ślubu Henryki i Leszka BERNAŚ
+  * za Jagodę w 16. rocznicę urodzin
+  * o zdrowie duszy i ciała dla Małgosi ŁUKASIK
+  * o potrzebne łaski dla kapłanów tej parafii
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Zygmunta BILBINA, Jakuba, Stefanię, Jana, i Julię NALBACHÓW
+  * za śp. Wojciecha SADLEJA
+  * za śp. Sabinę GÓRSKĄ
+  * za śp. Zofię STRUPIECHOWSKĄ
+  * za sp. Zdzisława SAWICKIEGO
+  * za śp. Zofię KONNAK
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Tadeusza i Zofię KOŚCIESZA
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Ryszarda MOŚCICKIEGO w 1. rocznicę śmierci o życie wieczne w Niebie
+* 18.00   + za śp. Jana WANTUSIAKA (27/30)
+
+**Poniedziałek, 30 października,**
+
+* 7.00     + za śp. ciocię Małgorzatę JANICZEK oraz za śp. rodziców Apolonię i Mikołaja KOWALSKICH
+* 18.00    + w 13.rocznicę śmierci śp. Łukasza KRZYSZTOFIKA
+* 18.00    + za śp. Jana WANTUSIAKA 28/30
+
+**Wtorek, 31 października,**
+
+* 7.00    + za śp. Wiesława BAŃBURSKIEGO w miesiąc po pogrzebie
+* 18.00   + za śp. Zdzisława WIERZBOWSKIEGO oraz Janinę i Roberta WIERZBOWSKICH
+* Poza parafią + za śp. Jana WANTUSIAKA 29/30
+
+**Środa, 1 listopada, Wszystkich Świętych, *uroczystość***
+
+* 7.00    + za śp. Annę BOCHYŃSKĄ (od rodz. Joanny Kasprzyckiej)
+* 9.00     + za śp. Krystynę i Mariana KRASNODĘBSKICH
+* 10.30    + w 3.rocznicę śmierci śp. Juliana KOŁODZIEJCZYKA
+* 10.30    + w 11.rocznicę śmierci Czesława ORCIUCHA oraz 7.rocznicę śmierci Teresy ORCIUCH
+* 12.00    Msza św. w intencjach wypominkowych
+* 18.00    + za zmarłych z rodziny KAZIMIERCZAKÓW, HRYCIUKÓW, SITKO oraz KOZIATEK
+* 18.00   + za śp. Jana WANTUSIAKA 30/30
+
+**Czwartek, 2 listopada, Wszystkich Wiernych Zmarłych, *wspomnienie***
+
+* 7.00   za dusze w czyśćcu cierpiące
+* 10.30
+* 18.00    Msza św. w intencjach wypominkowych
+
+**Piątek, 3 listopada,**
+
+* 7.00    + za śp. Barbarę BONK w miesiąc po pogrzebie
+* 18.00    Msza św. w intencjach wypominkowych
+
+**Sobota, 4 listopada, Św. Karola Boromeusza, biskupa, *wspomnienie***
+
+* 7.00   + za śp. Mirosława, Wiesława, Mariannę, Edwarda, Mariannę i Jana z rodziny WEREDÓW
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00  K.Ż. R. 
+* 18. Msa św. w intencjach wypominkowych
+
+**XXXI Niedziela zwykła, 5 listopada**
+
+* 7.00   za parafian
+* 9.00    + za śp. Krystynę BURZEC
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  *  okazji 18.rocznicy urodzin Kuby o błogosławieństwo Boże i opiekę Matki Bożej
+  * za śp. Wiktorię BUCZYŃSKĄ w 9.rocznicę śmierci
+  * w 3.rocznicę śmierci Marka GRABSKIEGO i za zmarłych z rodziny
+  * za śp. Jerzego RAKOWSKIEGO
+  * za śp. Wojciecha KOPACZA
+  * za śp. Zygmunta BARANA
+  * za śp. Janinę KOSZEWSKĄ
+  * za śp. Władysława KONDRASA
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Eugeniusza BORUCA w 14.rocznicę śmierci, jego rodziców i zmarłych z rodziny BORUCÓW
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   Msza św. w intencjach wypominkowych
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXIX Niedziela zwykła, 22 października**
 
 * 7.00   + za śp. Kazimierę, Waleriana oraz Adelajdę i Bolesława
