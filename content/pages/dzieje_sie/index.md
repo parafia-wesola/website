@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Sobota ogrodowa
+  - size: large
     title: 1 Komunia Święta 2023-2024
   - size: large
     title: Rok Nowosielskiego
