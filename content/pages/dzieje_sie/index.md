@@ -9,8 +9,6 @@ news:
   - size: large
     title: Rok Nowosielskiego
   - size: large
-    title: spotkania dla młodych 16-19
-  - size: large
     title: wsparcie budowy kościoła
   - title: Pomoc dla Ukrainy
     size: medium
