@@ -4,7 +4,7 @@ title: "Spotkanie dla 10-13 latków: „W niebie mój dom” czyli jak mnie koch
 date: 2023-11-04T15:22:53.104Z
 eventDate: 2023-11-25T13:00:00.000Z
 author: parafia wesoła
-cover: depositphotos_48113605-stock-photo-father-and-son-lying-on.jpg
+cover: mlodzi_10-13.png
 ---
 <!--StartFragment-->
 
