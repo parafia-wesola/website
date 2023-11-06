@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Bal wszystkich świętych - zdjęcia
+  - size: large
     title: "Spotkanie dla 10-13 latków: „W niebie mój dom” czyli jak mnie kocha Tata"
   - size: large
     title: Sobota ogrodowa
