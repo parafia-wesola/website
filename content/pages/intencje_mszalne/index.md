@@ -4,6 +4,80 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**XXXI Niedziela zwykła, 5 listopada**
+
+* 7.00   za parafian
+* 9.00    + za śp. Krystynę BURZEC
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * z okazji 18.rocznicy urodzin Kuby o błogosławieństwo Boże i opiekę Matki Bożej
+  * o uzdrowienie Doroty z choroby nowotworowej
+  * za śp. Wiktorię BUCZYŃSKĄ w 9.rocznicę śmierci
+  * w 3.rocznicę śmierci Marka GRABSKIEGO i za zmarłych z rodziny
+  * za śp. Jerzego RAKOWSKIEGO
+  * za śp. Wojciecha KOPACZA
+  * za śp. Zygmunta BARANA
+  * za śp. Janinę KOSZEWSKĄ
+  * za śp. Władysława KONDRASA
+  * za śp. Ryszarda GADOMSKIEGO
+  * za śp. Teodorę RADZISZEWSKĄ w 34.rocznicę śmierci i za zmarłych z rodziny RADZISZEWSKICH
+  * za śp. Wojciecha Górskiego
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Eugeniusza BORUCA w 14.rocznicę śmierci, jego rodziców i zmarłych z rodziny BORUCÓW
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   Msza św. w intencjach wypominkowych
+
+**Poniedziałek, 6 listopada,**
+
+* 7.00     + za śp. Henryka KĘPSKIEGO w miesiąc po pogrzebie
+* 18.00    Msza św. w intencjach wypominkowych
+
+**Wtorek, 7 listopada,**
+
+* 7.00    za małżonków o Boże błogosławieństwo w rocznicę ślubu
+* 18.00   Msza św. w intencjach wypominkowych
+* 18.00    za Oskara w 40.rocznicę urodzin
+
+**Środa, 8 listopada,**
+
+* 7.00    + za śp. Janinę KRASUSKĄ w miesiąc po pogrzebie
+* 18.00    Msza św. w intencjach wypominkowych
+
+**Czwartek, 9 listopada, Rocznica poświęcenia Bazyliki Laterańskiej, *święto***
+
+* 7.00   + za śp. Wojciecha SADLEJA w miesiąc po pogrzebie
+* 7.00     + za śp. Wiesława BAŃBURSKIEGO (Msza gregoriańska 1/30)
+* 18.00    + za śp. Halinę JADCZAK w 2.rocznicę śmierci, męża Jerzego oraz zmarłych z rodziny ZYSKOWSKICH\
+              i JADCZAKÓW
+
+**Piątek, 10 listopada, Św. Leona Wielkiego, papieża i doktora Kościoła*, wspomnienie***
+
+* 7.00    + za śp. Alicję KUCZYŃSKĄ w 3. rocznicę śmierci
+* 7.00     + za śp. Wiesława BAŃBURSKIEGO (2/30)
+* 18.00    + za śp. ciocię Małgorzatę JANICZEK oraz za śp. rodziców Apolonię i Mikołaja KOWALSKICH
+
+**Sobota, 11 listopada, Św. Marcina z Tours, biskupa, *wspomnienie***
+
+* 7.00       7.00   + za śp. Wiesława BAŃBURSKIEGO (3/30)
+* 10.30      Msza w intencji Ojczyzny z okazji Dnia Niepodległości
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      za śp. Antoniego JANISZEWSKIEGO w 20.rocznicę śmierci
+
+**XXXII Niedziela zwykła, 12 listopada**
+
+* 7.00   + za śp. Stanisława NAZARUKA
+*  9.00    + za śp. Juliannę i Eugeniusza BAREJÓW
+* 10.30   za parafian (Msza grekokatolicka)
+* 12.00   + za śp. Jana GRYZA
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Annę i Józefa JURCZAKÓW oraz śp. Stefanię i Stanisława PIOTROWSKICH
+* 18.00   + za śp. Wiesława BAŃBURSKIEGO (4/30)
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXX Niedziela zwykła, 29 października**
 
 * 7.00   za parafian
@@ -74,7 +148,7 @@ title: Intencje mszalne
 * 10.30   intencja zbiorowa:
 
   * o światło i dary Ducha Świętego dla Judyty i Dawida
-  *  okazji 18.rocznicy urodzin Kuby o błogosławieństwo Boże i opiekę Matki Bożej
+  * okazji 18.rocznicy urodzin Kuby o błogosławieństwo Boże i opiekę Matki Bożej
   * za śp. Wiktorię BUCZYŃSKĄ w 9.rocznicę śmierci
   * w 3.rocznicę śmierci Marka GRABSKIEGO i za zmarłych z rodziny
   * za śp. Jerzego RAKOWSKIEGO
