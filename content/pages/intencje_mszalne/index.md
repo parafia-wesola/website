@@ -2,6 +2,76 @@
 type: text
 title: Intencje mszalne
 ---
+**XXXII Niedziela zwykła, 12 listopada**
+
+* 7.00   + za śp. Stanisława NAZARUKA
+* 9.00    + za śp. Juliannę i Eugeniusza BAREJÓW
+* 10.30   za parafian (Msza grekokatolicka)
+* 12.00   + za śp. Jana GRYZA\
+             (w modlitwie wiernych: w intencji dziękczynnej za opiekę podczas operacji i w procesie leczenia Oli)
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Annę i Józefa JURCZAKÓW oraz śp. Stefanię i Stanisława PIOTROWSKICH
+* 18.00   + za śp. Wiesława BAŃBURSKIEGO (4/30)
+
+**Poniedziałek, 13 listopada, Świętych Benedykta, Jana, Mateusza, Izaaka i Krystyna, pierwszych męczenników Polski, *wspomnienie***
+
+* 7.00     + za śp. Stanisława WYSOKIŃSKIEGO od rodziny Wysokińskich, Adamiaków i Zdunków
+* 7.00     + za śp. Wiesława BAŃBURSKIEGO (5/30)
+* 18.00    + za śp. Stanisława FAJFERA
+
+**Wtorek, 14 listopada,**
+
+* 7.00    + za śp. Tadeusza-Jerzego OKOŃ oraz rodziców Helenę i Józefa
+* 18.00   O Boże błogosławieństwo dla Jolanty i dzieci
+* 18.00    + za śp. Wiesława BAŃBURSKIEGO (6/30)
+
+**Środa, 15 listopada,**
+
+* 7.00    o Boże błogosławieństwo dla Damiana i żony
+* 18.00    + za zmarłych z rodziny WACHOL i WYSOCKICH
+* 18.00    + za śp. Wiesława BAŃBURSKIEGO (7/30)
+
+**Czwartek, 16 listopada, Najświętszej Maryi Panny Ostrobramskiej, Matki Miłosierdzia, *wspomnienie***
+
+* 7.00    + za śp. Annę BOCHYŃSKĄ (intencja od Anny Jakubiec z rodziną)
+* 18.00    + za śp. Grażynę i Marka OLSZEWSKICH, Jadwigę CHMIELEWSKĄ, Karola i Aleksandrę       SZATAŃSKICH, Andrzeja CZERWIŃSKIEGO oraz Eugeniusza i Mirosława JANICKICH
+* 18.00    + za śp. Wiesława BAŃBURSKIEGO (8/30)
+
+ **Piątek, 17 listopada, Św. Elżbiety Węgierskiej, zakonnicy*, wspomnienie***
+
+* 7.00    + za śp. Sabinę Stanisławę GÓRSKĄ w miesiąc po pogrzebie
+* 7.00     + za śp. Wiesława BAŃBURSKIEGO (9/30)
+* 18.00    za małżeństwa w kryzysie
+
+**Sobota, 18 listopada, Bł. Karoliny Kózkówny, dziewicy i męczennicy, *wspomnienie***
+
+* 7.00        + za śp. Mariusza BIELIŃSKIEGO (intencja od posługi liturgicznej)
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      za śp. Mariana ZBIEĆ w 38.rocznicę śmierci
+* poza parafią: +  za śp. Wiesława BAŃBURSKIEGO (10/30)
+
+**XXXIII Niedziela zwykła, 19 listopada**
+
+* 7.00   za parafian
+* 9.00    + za śp. Rafała KIELEWSKIEGO
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w 18.rocznicę urodzin Janka z prośba o Boże błogosławieństwo 
+  * w rocznicę ślubu Krystyny i Kazimierza WALAS
+  * za Asię z okazji urodzin o dary Ducha św. i opiekę Niepokalanej na każdy dzień
+  * dziękując za naszych kapłanów prosimy o mądrość, wytrwałość i potrzebne łaski w dalszej drodze dla nich
+  * za śp. Stanisława PEŁKĘ i zmarłych z rodziny PEŁKÓW i LEWANDOWSKICH
+  * za śp. Wojciecha GÓRSKIEGO
+  * za śp. Alicję BORÓWEK
+  * za dusze w czyśćcu cierpiące
+* 12.00   w 18.rocznicę urodzin Justyny MARCINIUK z prośbą o dary Ducha Świętego
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Zbigniewa WEREDĘ w 1.rocznicę śmierci ( intencja od Zofii i Anny Wierzejskich)
+* poza parafią: +  za śp. Wiesława BAŃBURSKIEGO (11/30)
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **XXXI Niedziela zwykła, 5 listopada**
