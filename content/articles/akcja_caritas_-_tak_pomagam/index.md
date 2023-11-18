@@ -4,7 +4,7 @@ title: Akcja Caritas - TAK POMAGAM
 date: 2023-11-18T11:03:27.176Z
 eventDate: 2023-12-07T23:00:00.000Z
 author: parafia wesoła
-cover: 21_tak_pomagam_caritas-m.jpg
+cover: caritas.png
 ---
 **TAK - POMAGAM**, zbiórka żywności i chemii gospodarczej dla najbardziej potrzebujących w naszej parafii odbędzie się **8-9 grudnia** w sklepach KM Zielona i Biedronka Wesoła.
 Zespół Caritas Wesoła zaprasza do prostego uczynku miłosierdzia przez wzięcie dwugodzinnego dyżuru w sklepie przy zbiórce darów.
