@@ -16,6 +16,4 @@ news:
     title: Pomoc dla Ukrainy
   - title: Adoracja w weekendy
     size: medium
-  - title: Adoracja w weekendy
-    size: medium
 ---
