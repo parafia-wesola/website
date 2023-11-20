@@ -2,6 +2,84 @@
 type: text
 title: Intencje mszalne
 ---
+**XXXIII Niedziela zwykła, 19 listopada**
+
+* 7.00   za parafian
+* 9.00    + za śp. Rafała KIELEWSKIEGO
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w 18.rocznicę urodzin Janka z prośba o Boże błogosławieństwo
+  * w rocznicę ślubu Krystyny i Kazimierza WALAS
+  * za Asię z okazji urodzin o dary Ducha Świętego i opiekę Niepokalanej na każdy dzień
+  * dziękując za naszych kapłanów prosimy o mądrość, wytrwałość i potrzebne łaski w dalszej drodze dla nich
+  * za śp. Stanisława PEŁKĘ i zmarłych z rodziny PEŁKÓW i LEWANDOWSKICH
+  * za śp. Wojciecha GÓRSKIEGO
+  * za śp. Alicję BORÓWEK
+  * za dusze w czyśćcu cierpiące
+* 12.00   w 18.rocznicę urodzin Justyny MARCINIUK z prośbą o dary Ducha Świętego
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Zbigniewa WEREDĘ w 1.rocznicę śmierci ( intencja od Zofii i Anny Wierzejskich)
+* Poza parafią: +  za śp. Wiesława BAŃBURSKIEGO (11/30)
+
+**Poniedziałek, 20 listopada, Św. Rafała Kalinowskiego, prezbitera, *wspomnienie***
+
+* 7.00     + za śp. Zofię STRUPIECHOWSKĄ w miesiąc po pogrzebie
+* 7.00     + za śp. Wiesława BAŃBURSKIEGO (12/30)
+* 18.00    + za śp. Ryszarda KUROWSKIEGO w 20.rocznicę śmierci
+
+**Wtorek, 21 listopada, Ofiarowanie Najświętszej Maryi Panny, *wspomnienie***
+
+* 7.00    w dniu urodzin Andrzeja z prośbą o potrzebne łaski za wstawiennictwem MB niepokalanie poczętej
+* 18.00   + za śp. Zdzisława SAWICKIEGO w miesiąc po pogrzebie
+* Poza parafią + za śp. Wiesława BAŃBURSKIEGO (13/30)
+
+**Środa, 22 listopada, Św. Cecylii, dziewicy i męczennicy, *wspomnienie***
+
+* 7.00    + za śp. Zofię KONNAK w miesiąc po pogrzebie
+* 7.00    + za śp. Wiesława BAŃBURSKIEGO (14/30)
+* 18.00    + za śp. Hannę LEWTAK w 1.rocznicę śmierci
+
+**Czwartek, 23 listopada,**
+
+* 7.00    + za śp. Wojciecha KOPACZA w miesiąc po pogrzebie
+* 18.00    + za śp. Marysię MĄDRY oraz Cecylię, Antoniego i Mariana i zmarłych z rodziny
+* 18.00    + za śp. Wiesława BAŃBURSKIEGO (15/30)
+
+**Piątek, 24 listopada, Świętych męczenników Andrzeja Dung-Lac, prezbitera, i Towarzyszy*, wspomnienie***
+
+* 7.00    + za śp. Zygmunta BARAN w miesiąc po pogrzebie
+* 18.00    + za śp. Wiesława BAŃBURSKIEGO (16/30)
+* 18.00    + za śp. Tadeusza SZYMAŃSKIEGO
+
+**Sobota, 25 listopada,**
+
+* 7.00       podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach
+* 7.00       + za śp. Wiesława BAŃBURSKIEGO (17/30)
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      za śp. Franciszka i Antoninę PANUFNIK
+
+**XXXIV Niedziela zwykła, 26 listopada, Jezusa Chrystusa, Króla Wszechświata, *uroczystość***
+
+* 7.00   za parafian
+* 9.00    + za śp. Edwarda w 2.rocznicę śmierci oraz Janinę, Jadwigę, Kazimierza, Czesława zmarłych z rodziny       JAWOROSKICH i ABARAMCZYKÓW
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * dziękczynno-błagalna z okazji imienin Andrzeja KOTUNIAKA
+  * za śp. Aleksandra ŁUNIEWSKIEGO w 2.rocznicę śmierci
+  * za śp. Hannę Bogusławę ZASIKOWSKĄ
+  * za śp. Mieczysława BARSZCZA w 3.rocznicę śmierci
+  * za śp. Pawła GRYGLASA
+  * za śp. Zdzisławę i Zdzisława SOBCZYKÓW
+  * za dusze w czyśćcu cierpiące
+* poza parafią + za śp. Wiesława BAŃBURSKIEGO (18/30)
+* 12.00   + za śp. Barbarę WĄSOWSKĄ w 2.rocznicę śmierci
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Anastazję LIPIŃSKĄ w 10.rocznicę śmierci, jej męża Bronisława i ich rodziców
+
+<!--EndFragment-->
+
 **XXXII Niedziela zwykła, 12 listopada**
 
 * 7.00   + za śp. Stanisława NAZARUKA
