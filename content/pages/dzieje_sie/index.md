@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Kolęda 2023-2024
+  - size: large
     title: Akcja Caritas - TAK POMAGAM
   - size: large
     title: "Spotkanie dla 10-13 latków: „W niebie mój dom” czyli jak mnie kocha Tata"
