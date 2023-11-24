@@ -5,6 +5,8 @@ news:
   - size: large
     title: Kolęda 2023-2024
   - size: large
+    title: Spotkanie dla kobiet - bohaterki Nowego Testamentu i ja
+  - size: large
     title: Akcja Caritas - TAK POMAGAM
   - size: large
     title: "Spotkanie dla 10-13 latków: „W niebie mój dom” czyli jak mnie kocha Tata"
