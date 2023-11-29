@@ -2,6 +2,85 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**XXXIV Niedziela zwykła, 26 listopada, Jezusa Chrystusa, Króla Wszechświata, *uroczystość***
+
+* 7.00   za parafian
+* 9.00    + za śp. Edwarda w 2.rocznicę śmierci oraz Janinę, Jadwigę, Kazimierza, Czesława zmarłych z rodziny       JAWOROWSKICH i ABARAMCZYKÓW
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * dziękczynno-błagalna z okazji imienin Andrzeja KOTUNIAKA
+  * o błogosławieństwo św. Rity dla Moniki, Norberta, Krysi i Tomasza oraz wnucząt Julii, Marii i o zdrowie dla babci Mai i Grażyny
+  * za śp. Aleksandra ŁUNIEWSKIEGO w 2.rocznicę śmierci
+  * za śp. Hannę Bogusławę ZASIKOWSKĄ w 4.rocznicę śmierci
+  * za śp. Mieczysława BARSZCZA w 3.rocznicę śmierci
+  * za śp. Pawła GRYGLASA
+  * za śp. Zdzisławę i Zdzisława SOBCZYKÓW
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Barbarę WĄSOWSKĄ w 2.rocznicę śmierci
+* *15.00   Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Anastazję LIPIŃSKĄ w 10.rocznicę śmierci, jej męża Bronisława i ich rodziców
+
+           W modlitwie wiernych: + za śp. Wiesława BAŃBURSKIEGO (25/30 poza parafią)
+
+**Poniedziałek, 27 listopada,**
+
+* 7.00    + za śp. Janinę KOSZEWSKĄ w miesiąc po pogrzebie
+* 7.00    + za śp. Wiesława BAŃBURSKIEGO (19/30)
+* 18.00    + za śp. Zofię STRUPIECHOWSKĄ
+
+**Wtorek, 28 listopada,**
+
+* 7.00    + za śp. Stanisława WYSOKIŃSKIEGO w miesiąc po pogrzebie
+* Poza parafią + za śp. Wiesława BAŃBURSKIEGO (20/30)
+* 18.00   + za śp. Zdzisława MROZA
+
+**Środa, 29 listopada,**
+
+* 7.00    + za śp. Zygmunta BARANA
+* Poza parafią + za śp. Wiesława BAŃBURSKIEGO (21/30)
+* 18.00    za Izabelę BUCZYŃSKĄ w dzień 75.urodzin
+* 18.00    + za śp. Laurę w 8.rocznicę śmierci oraz za śp. Zygmunta JANCZEWSKIEGO i Irenę PERYCZKO
+
+**Czwartek, 30 listopada, Św. Andrzeja, apostoła, *święto***
+
+* 7.00    + za śp. Zygmunta Barana
+* 18.00    + za śp. Wiesława BAŃBURSKIEGO (22/30)
+* 18.00    w 70.rocznicę urodzin Alicji
+
+**Piątek, 1 grudnia,**
+
+* 7.00    + za śp. Zygmunta BARAN
+* 7.00     + za śp. Wiesława BAŃBURSKIEGO (23/30)
+* 18.00    + za śp. Grzegorza KOZAKIEWICZA w 9.rocznicę śmierci
+
+**Sobota, 2 grudnia,**
+
+* 7.00       + za śp. Zygmunta BARANA
+* 7.00       + za śp. Wiesława BAŃBURSKIEGO (24/30)
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      w intencji Kół Żywego Różańca
+
+**I Niedziela Adwentu, 3 grudnia,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Tadeusza ZALEWSKIEGO w 3.rocznicę śmierci, zmarłych z rodziny ZALEWSKICH,           SZYMAŃSKICH i KRÓLAKÓW
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Leokadię SIATKOWSKĄ i śp. Jana SIOCHA
+  * za śp. Czesława MIKOSA w 3.rocznicę śmierci
+  * za śp. Włodzimierza MIKOSA w zbliżającą się rocznicę śmierci
+  * za śp. Lecha CHAJEC                     
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Waldemara NOWIKOW  w 32.rocznicę śmierci
+* 18.00   + za śp. Mariannę, Wiesława KIESLER oraz śp. Wandę KIESLER-SIDOR
+* 18.00   + za śp. Wiesława BAŃBURSKIEGO (25/30)
+
+<!--EndFragment-->
+
 **XXXIII Niedziela zwykła, 19 listopada**
 
 * 7.00   za parafian
