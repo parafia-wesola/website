@@ -20,8 +20,10 @@ cover: koleda.png
 
  **Czwartek, 14 grudnia**: ul. Słowackiego, Norwida
 
-**Piątek, 15 grudnia**: ul. Godebskiego
+**Piątek, 15 grudnia**: ul. Literatów, Reymonta, Grabiny
 
-**Sobota, 16 grudnia**: ul. Staszica, Wrońskiego, Sienkiewicza, Literatów, Grabiny, Kraszewskiego, Reymonta
+**Sobota, 16 grudnia**: ul. Letnia, Staszica, Wrońskiego, Sienkiewicza, Kraszewskiego
+
+**Poniedziałek, 18 grudnia**: ul. Godebskiego
 
 <!--EndFragment-->
