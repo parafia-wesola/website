@@ -8,7 +8,7 @@ cover: koleda.png
 ---
 <!--StartFragment-->
 
-**Poniedziałek, 4 grudnia**: ul. Niemcewicz, Rejtana, 1 Maja
+**Poniedziałek, 4 grudnia**: ul. Niemcewicza, Rejtana, 1 Maja
 
 **Wtorek, 5 grudnia**: ul. Asnyka, Narutowicza, Tuwima, Skłodowskiej - Curie
 
