@@ -31,8 +31,6 @@ poniedziałek - środa 18.00 - 18.45
 niedziela: 15 min przed każdą Mszą św.\
 poniedziałek-środa: od 10.15 i od 18.00
 
-![🔹](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1.5/16/1f539.png) 𝑷𝒓𝒐𝒘𝒂𝒅𝒛𝒊 𝒐. 𝑻𝒐𝒎𝒂𝒔𝒛 𝑩𝒊ł𝒌𝒂
-
-dominikanin, malarz, poeta, kaznodzieja Dominikańskiego Ośrodka Kaznodziejskiego, Obecnie mieszka w Łodzi, gdzie prowadzi galerię sztuki ZIELONA 13, w której realizuje m.in. własny projekt kuratorski „Wiara Widząca”, mający na celu rozpoznanie współczesnych zjawisk z pogranicza sztuki i wiary. Opiekun duchowy Wspólnoty Twórców Chrześcijańskich VERA ICON.
+![🔹](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1.5/16/1f539.png) 𝑷𝒓𝒐𝒘𝒂𝒅𝒛𝒊 𝒐. 𝑻𝒐𝒎𝒂𝒔𝒛 𝑩𝒊ł𝒌𝒂: dominikanin, malarz, poeta, kaznodzieja Dominikańskiego Ośrodka Kaznodziejskiego, Obecnie mieszka w Łodzi, gdzie prowadzi galerię sztuki ZIELONA 13, w której realizuje m.in. własny projekt kuratorski „Wiara Widząca”, mający na celu rozpoznanie współczesnych zjawisk z pogranicza sztuki i wiary. Opiekun duchowy Wspólnoty Twórców Chrześcijańskich VERA ICON.
 
 <!--EndFragment-->
