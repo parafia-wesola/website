@@ -24,6 +24,6 @@ cover: koleda.png
 
 **Sobota, 16 grudnia**: ul. Letnia, Staszica, Wrońskiego, Sienkiewicza, Kraszewskiego
 
-**Poniedziałek, 18 grudnia**: ul. Godebskiego
+**Poniedziałek, 18 grudnia**: ul. Godebskiego, Konarskiego
 
 <!--EndFragment-->
