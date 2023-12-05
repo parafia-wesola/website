@@ -4,6 +4,75 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**I Niedziela Adwentu, 3 grudnia,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Tadeusza ZALEWSKIEGO w 3.rocznicę śmierci, zmarłych z rodziny ZALEWSKICH, SZYMAŃSKICH i KRÓLAKÓW
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * o szczęśliwą operację i opiekę Matki Bożej dla Mateusza
+  * za śp. Leokadię SIATKOWSKĄ i śp. Jana SIOCHA
+  * za śp. Czesława MIKOSA w 3.rocznicę śmierci
+  * za śp. Włodzimierza MIKOSA w zbliżającą się rocznicę śmierci
+  * za śp. Lecha CHAJEC                     
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Waldemara NOWIKOW  w 32.rocznicę śmierci
+* 18.00   + za śp. Mariannę, Wiesława KIESLER oraz śp. Wandę KIESLER-SIDOR
+* 18.00   + za śp. Wiesława BAŃBURSKIEGO (25/30)\
+             w modlitwie wiernych: za śp. ks. Stefana Wysockiego oraz za śp. Jerzego Nowosielskiego
+
+**Poniedziałek, 4 grudnia,**
+
+* 6.45    + za śp. Wiesława KONDRASA w miesiąc po pogrzebie
+* 6.45    + za śp. Wiesława BAŃBURSKIEGO (26/30)
+* 18.00    + za śp. Teresę MOMOT w 2.rocznicę śmierci
+
+**Wtorek, 5 grudnia,**
+
+* 6.45    + za śp. Wojciecha GÓRSKIEGO w miesiąc po pogrzebie
+* 18.00   msza wypominkowa
+* 18.00    + za śp. Wiesława BAŃBURSKIEGO (27/30)
+
+**Środa, 6 grudnia,**
+
+* 6.45    + za śp. Alicję BORÓWEK w miesiąc po pogrzebie
+* 6.45    + za śp. Wiesława BAŃBURSKIEGO (28/30)
+* 18.00    dziękując za dar życia Majki prosimy o zdrowie i błogosławieństwo dla niej
+
+**Czwartek, 7 grudnia, Św. Ambrożego, biskupa i doktora Kościoła, *wspomnienie***
+
+* 6.45    + za śp. Wojciecha GÓRSKIEGO
+* 6.45    + za śp. Wiesława BAŃBURSKIEGO (29/30)
+* 18.00    + za śp. Marka w 5.rocznicę śmierci
+
+**Piątek, 8 grudnia, Niepokalane Poczęcie Najświętszej Maryi Panny, *uroczystość***
+
+* 6.45    + za śp. Wojciecha GÓRSKIEGO
+* 12.00 Godzina łaski (w kaplicy Doku rekolekcyjnego)
+* 18.00    + za śp. Wiesława BAŃBURSKIEGO (30/30)
+* 18.00    w dniu 34. urodzin wnuka Krzysztofa dziękczynna za łaskę pięknej Rodziny z prośbą o dalszą pomoc Trójcy Świętej i Matki Bożej w wychowywaniu dzieci i pogłębianiu miłości małżeńskiej
+
+**Sobota, 9 grudnia,**
+
+* 6.45       + za śp. Wojciecha GÓRSKIEGO
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      + za śp. Artura NIERADKO w 6.rocznicę śmierci
+* 18.00      + za śp. Leszka SZULCA w 20.rocznicę śmierci
+
+**II Niedziela Adwentu, 10 grudnia, Rekolekcje parafialne dzień 1**
+
+* 7.00   z podziękowaniem za otrzymane łaski, z prośbą o dalsze Boże błogosławieństwo, opiekę Maryi i dar zdrowia dla Janusza DUBEJKO
+* 9.00    + za śp. Wacławę KOSYL w 5.rocznicę śmierci oraz Albina i Tadeusza KOSYLÓW i zmarłych z rodziny
+* 10.30   za parafian
+* 12.00   + za śp. Barbarę WĄSOWSKĄ
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Marię i Stanisława HEJAKÓW
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **XXXIV Niedziela zwykła, 26 listopada, Jezusa Chrystusa, Króla Wszechświata, *uroczystość***
 
 * 7.00   za parafian
