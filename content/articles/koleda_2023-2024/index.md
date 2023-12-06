@@ -24,6 +24,20 @@ cover: koleda.png
 
 **Sobota, 16 grudnia**: ul. Letnia, Staszica, Wrońskiego, Sienkiewicza, Kraszewskiego
 
-**Poniedziałek, 18 grudnia**: ul. Godebskiego, Konarskiego
+**Poniedziałek, 18 grudnia**: ul. Godebskiego, Konarskiego, Lotników
+
+**Wtorek, 19 grudnia**: ul. Mokra, Wspólna, Za Dębami, Równa
+
+**Środa, 20 grudnia**: Słowicza, Śliska
+
+**Czwartek, 21 grudnia**: Długa
+
+**Środa, 27 grudnia:** Lipowa, Parkowa, Świerkowa
+
+**Czwartek, 28 grudnia**: Orla, Kostki-Napierskiego, Starzyńskiego
+
+**Sobota, 30 grudnia:** Żółkiewskiego, Wrzosowa, Czarnieckiego, Dwernickiego, Wiosenna, Ciasna
+
+
 
 <!--EndFragment-->
