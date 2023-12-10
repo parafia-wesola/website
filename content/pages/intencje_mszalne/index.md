@@ -4,6 +4,70 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**II Niedziela Adwentu, 10 grudnia, Rekolekcje parafialne dzień 1**
+
+* 7.00   z podziękowaniem za otrzymane łaski, z prośbą o dalsze Boże błogosławieństwo, opiekę Maryi i dar zdrowia dla Janusza DUBEJKO
+* 9.00    + za śp. Wacławę KOSYL w 5. rocznicę śmierci oraz Albina i Tadeusza KOSYLÓW i zmarłych z rodziny
+* 10.30   za parafian
+* 12.00   + za śp. Barbarę WĄSOWSKĄ
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Marię i Stanisława HEJAKÓW
+
+**Poniedziałek, 11 grudnia, Rekolekcje parafialne dzień 2**
+
+* 6.45    + za śp. Pawła Tadeusza GRYGLASA w miesiąc po pogrzebie
+* 10.30  
+* 19.00    + za śp. Wojciecha SADLEJA o dar Nieba (intencja od rodziny Choińskich)
+
+**Wtorek, 12 grudnia, Rekolekcje parafialne dzień 3**
+
+* 6.45    + za śp. Janinę i Bolesława EJSMONT oraz za śp. Krystynę i Władysława MATERA oraz za Stanisława        DUDKIEWICZA
+* 10.30    za Bartosza o uwolnienie z nałogu
+* 19.00    dziękując za bliźnich, prosimy o nawrócenie dla grzeszników
+
+**Środa, 13 grudnia, Św. Łucji, dziewicy i męczennicy, *wspomnienie,* Rekolekcje parafialne dzień 4**
+
+* 6.45   
+* 10.30   + za śp. Piotra DRZEWIECKIEGO i zmarłych z rodziny o życie wieczne
+* 19.00    dziękując za dar życia Tereski, prosimy o dar Nieba dla niej i abyśmy w każdej chwili pamiętali, dokąd           zmierzamy
+
+**Czwartek, 14 grudnia, Św. Jana od Krzyża, prezbitera i doktora Kościoła, *wspomnienie***
+
+* 6.45    + za śp. Jerzego w 9. rocznicę śmierci
+* 18.00    + za śp. Stefana i Pelagię ŁASKAWIEC oraz za zmarłych Zofię, Marię, Halinę z domu ŁASKAWIEC
+
+**Piątek, 15 grudnia,**
+
+* 6.45    błogosławieństwo Boże dla Damiana i jego żony
+* 18.00    za małżeństwa w kryzysie
+
+**Sobota, 16 grudnia,**
+
+* 6.45       + za śp. Reginę i Bolesława JURKIEWICZÓW
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      + za śp. Mieczysława NIEMALEC w 28. rocznicę śmierci
+
+**III Niedziela Adwentu, 17 grudnia**
+
+* 7.00   za parafian
+* 9.00    + za śp. Ryszarda ŁUPIŃSKIEGO, Mirosława MACHNACKIEGO i zmarłych z rodziny WIŚNIEWSKICH
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * o Boże błogosławieństwo i opiekę Matki Bożej dla Zdzisławy z okazji 80. rocznicy urodzin
+  * o zbawienie duszy Zofii, Bolesława, Mieczysława i Anny
+  * za śp. Agatę, Andrzeja i Ludwika TORBICZÓW oraz zmarłych z rodziny
+  * za śp. Franciszka, Ewę, Stanisława ROGALA i zmarłych z rodziny GUŁASIÓW
+  * za duszę Ryszarda GADOMSKIEGO
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Macieja PACHOCKIEGO w 18.rocznicę śmierci i jego rodziców Marię i Zygmunta, za śp. CISZEWSKICH, KRZYŚPIAKÓW, Bogdana, rodziców i dziadków KWIETUŃSKICH, NIECIECKICH
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   O Boże błogosławieństwo i dary Ducha Świętego dla Judyty
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **I Niedziela Adwentu, 3 grudnia,**
 
 * 7.00   za parafian
