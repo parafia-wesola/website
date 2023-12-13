@@ -8,6 +8,14 @@ cover: koleda.png
 ---
 <!--StartFragment-->
 
+* ### Dla osiedla w Centrum Wesołej (od ul. Chodkiewicza do ul. Piotra Skargi) 
+
+można zgłosić chęć przyjęcia księdza przez formularz,  mailowo lub telefonicznie do kancelarii parafialnej. W przyszłym roku kolędę od drzwi do drzwi rozpoczniemy od domów w centrum Wesołej.
+
+[formularz zapisu na kolędę](https://forms.gle/y7QiJ8JMhGNkqcg28)
+
+* ### **Dla osiedli Groszówka, Zielona, Wola Grzybowska:**
+
 **Poniedziałek, 4 grudnia**: ul. Niemcewicza, Rejtana, 1 Maja
 
 **Wtorek, 5 grudnia**: ul. Asnyka, Narutowicza, Tuwima, Skłodowskiej - Curie
@@ -37,7 +45,5 @@ cover: koleda.png
 **Czwartek, 28 grudnia**: Orla, Kostki-Napierskiego, Starzyńskiego
 
 **Sobota, 30 grudnia:** Żółkiewskiego, Wrzosowa, Czarnieckiego, Dwernickiego, Wiosenna, Ciasna
-
-
 
 <!--EndFragment-->
