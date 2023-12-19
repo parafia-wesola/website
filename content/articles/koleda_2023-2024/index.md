@@ -8,7 +8,7 @@ cover: koleda.png
 ---
 <!--StartFragment-->
 
-* ### Dla osiedla w Centrum Wesołej (od ul. Chodkiewicza do ul. Piotra Skargi) 
+* ### Dla osiedla w Centrum Wesołej (od ul. Chodkiewicza do ul. Piotra Skargi)
 
 można zgłosić chęć przyjęcia księdza przez formularz,  mailowo lub telefonicznie do kancelarii parafialnej. W przyszłym roku kolędę od drzwi do drzwi rozpoczniemy od domów w centrum Wesołej.
 
@@ -45,5 +45,11 @@ można zgłosić chęć przyjęcia księdza przez formularz,  mailowo lub telefo
 **Czwartek, 28 grudnia**: Orla, Kostki-Napierskiego, Starzyńskiego
 
 **Sobota, 30 grudnia:** Żółkiewskiego, Wrzosowa, Czarnieckiego, Dwernickiego, Wiosenna, Ciasna
+
+**Środa, 3 stycznia:** Modrzewiowa, Syrokomli, Głowackiego 94b-106
+
+**Czwartek, 4 stycznia:** Głowackiego 108-140
+
+**Piątek, 5 stycznia:** Głowackiego 142-168, Sikorskiego 34a-55
 
 <!--EndFragment-->
