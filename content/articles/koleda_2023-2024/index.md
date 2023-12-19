@@ -52,4 +52,6 @@ można zgłosić chęć przyjęcia księdza przez formularz,  mailowo lub telefo
 
 **Piątek, 5 stycznia:** Głowackiego 142-168, Sikorskiego 34a-55
 
+**Sobota, 13 stycznia:** Sikorskiego 56-126
+
 <!--EndFragment-->
