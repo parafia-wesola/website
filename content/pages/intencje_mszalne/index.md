@@ -4,6 +4,77 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**III Niedziela Adwentu, 17 grudnia,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Ryszarda ŁUPIŃSKIEGO, Mirosława MACHNACKIEGO i zmarłych z rodziny WIŚNIEWSKICH
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * o Boże błogosławieństwo i opiekę Matki Bożej dla Zdzisławy z okazji 80. rocznicy urodzin
+  * o zbawienie duszy Zofii, Bolesława, Mieczysława i Anny
+  * za śp. Agatę, Andrzeja i Ludwika TORBICZÓW oraz zmarłych z rodziny
+  * za śp. Franciszka, Ewę, Stanisława ROGALA i zmarłych z rodziny GUŁASIÓW
+  * za duszę Ryszarda GADOMSKIEGO
+  * za śp. Henryka w 6 rocznicę śmierci, za śp. Halinę WŁODARCZYK w 4. rocznicę śmierci
+  * za sp. Franciszka, Władysławę i Marię WIELGO
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Macieja PACHOCKIEGO w 18.rocznicę śmierci i jego rodziców Marię i Zygmunta, za zmarłych z                     rodziny SKRZECZKOWSKICH
+* 12.00   + za śp. CISZEWSKICH, KRZYŚPIAKÓW, Bogdana, rodziców i dziadków KWIETUŃSKICH, NIECIECKICH
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   O Boże błogosławieństwo i dary Ducha Świętego dla Judyty
+
+**Poniedziałek, 18 grudnia,**
+
+* 6.45    + za śp. Elżbietę KIESZKOWSKĄ w 22.rocznicę śmierci 
+* 18.00    + za śp. Danutę KOPCINSKĄ  w 4.rocznicę śmierci
+
+**Wtorek, 19 grudnia,**
+
+* 6.45    
+* 18.00    o Boże prowadzenie dla Magdy i Andrzeja
+
+**Środa, 20 grudnia,**
+
+* 6.45    + za śp. Witolda DĘBNIAKA i zmarłych z rodziny o życie wieczne
+* 18.00   + w 3.rocznicę śmierci Jolanty o łaskę Nieba
+
+**Czwartek, 21 grudnia,**
+
+* 6.45    + za śp. Lecha CHAJEC w miesiąc po pogrzebie
+* 18.00    + za śp. Leokadię i Juliusza RAUSCH, Stanisława CHOJNACKIEGO, Antoniego WARDAWY, Annę      MAŁASZEWSKĄ, oraz Weronikę i Bolesława CHOJNACKICH
+
+**Piątek, 22 grudnia,**
+
+* 6.45   
+* 18.00    za Helenę w 14.rocznicę urodzin
+
+**Sobota, 23 grudnia,**
+
+* 6.45       + za duszę śp. Jerzego KUBASA
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      + za śp. Marię WEJROCH-KOWALSKĄ i za Witolda KOWALSKIEGO o życie wieczne
+
+**IV Niedziela Adwentu, 24 grudnia,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Ewę
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * o światło Ducha Świętego dla Oli i Pawła
+  * za śp. Zygmunta KWIEKA w 51.rocznicę śmierci
+  * za śp. Danutę NAJDĘ
+  * za śp. Czesława ZARĘBĘ
+  * za śp. Marka GRABSKIEGO i Zygmunta BARAN
+  * za dusze w czyśćcu cierpiące
+* 12.00   za Kasię i Michała w 15.rocznicę ślubu o błogosławieństwo Boże dla nich i dla rodziny
+* 24.00   ***Pasterka*** – Msza św. w nocy z **Uroczystości Narodzenia Pańskiego** - za parafian
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **II Niedziela Adwentu, 10 grudnia, Rekolekcje parafialne dzień 1**
 
 * 7.00   z podziękowaniem za otrzymane łaski, z prośbą o dalsze Boże błogosławieństwo, opiekę Maryi i dar zdrowia dla Janusza DUBEJKO
