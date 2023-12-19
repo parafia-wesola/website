@@ -100,7 +100,7 @@ title: Intencje mszalne
 
 * 6.45   
 * 10.30   + za śp. Piotra DRZEWIECKIEGO i zmarłych z rodziny o życie wieczne
-* 19.00    dziękując za dar życia Tereski, prosimy o dar Nieba dla niej i abyśmy w każdej chwili pamiętali, dokąd           zmierzamy
+* 19.00    dziękując za dar życia Tereski, prosimy o dar Nieba dla niej i abyśmy w każdej chwili pamiętali, dokąd zmierzamy
 
 **Czwartek, 14 grudnia, Św. Jana od Krzyża, prezbitera i doktora Kościoła, *wspomnienie***
 
