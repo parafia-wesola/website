@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: "Życzenia bożonarodzeniowe "
+  - size: large
     title: Kolęda 2023-2024
   - size: large
     title: Rekolekcje Adwentowe 'Bramo niebieska'
