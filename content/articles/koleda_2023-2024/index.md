@@ -54,4 +54,14 @@ można zgłosić chęć przyjęcia księdza przez formularz,  mailowo lub telefo
 
 **Sobota, 13 stycznia:** Sikorskiego 56-126
 
+**Poniedziałek, 15 stycznia:** Armii Krajowej 76, 76a, 76b, 76c
+
+**Wtorek, 16 stycznia:** Armii Krajowej 76d, 76e, 78
+
+**Środa, 17 stycznia:** Armii Krajowej 77 - 99
+
+**Czwartek, 18 stycznia:** Armii Krajowej 100 - 145
+
+**Piątek, 19 stycznia:** 1 Praskiego Pułku 35 - 72
+
 <!--EndFragment-->
