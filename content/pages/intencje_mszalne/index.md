@@ -2,6 +2,77 @@
 type: text
 title: Intencje mszalne
 ---
+**IV Niedziela Adwentu, 24 grudnia,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Ewę
+* 10.30   intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * o światło Ducha Świętego dla Oli i Pawła
+  * za śp. Zygmunta KWIEKA w 51.rocznicę śmierci
+  * za śp. Danutę NAJDĘ
+  * za śp. Czesława ZARĘBĘ
+  * o Niebo dla Marka GRABSKIEGO i Zygmunta BARANA oraz za dusze w czyśćcu cierpiące
+  * w rocznicę śmierci Jana i Czesława OLSZEWSKICH
+  * za dusze w czyśćcu cierpiące
+* 12.00   za Kasię i Michała w 15.rocznicę ślubu o błogosławieństwo Boże dla nich i dla rodziny
+
+**Wigilia Narodzenia Pańskiego**
+
+* 24.00   *Pasterka* za parafian
+
+**Poniedziałek, 25 grudnia, Narodzenie Pańskie, *uroczystość***
+
+* 9.00    podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością   Miłości Miłosiernej we wszystkich rodzinach
+* 10.30    + za śp. Zofię, Kazimierza, Andrzeja i Adama CHOJECKICH
+* 12.00    + za śp. Marię i Jerzego WĄSOWSKICH
+* 18.00    + za śp. Eugenię BRZOSTOWSKĄ
+
+**Wtorek, 26 grudnia, Św. Szczepana, pierwszego męczennika, *święto***
+
+* 7.00
+* 9.00     + za śp. Zdzisława LEWANDOWSKIEGO i zmarłych z rodziny LEWANDOWSKICH, PAŹDZIORÓW,           KARASIÓW i LUDNYCH   
+* 10.30    + za śp. Marię KUŹMĘ
+* 12.00    + za śp. Eugeniusza STRUPIECHOWSKIEGO o życie wieczne
+* 18.00    w 5.rocznicę urodzin Katarzyny
+
+**Środa, 27 grudnia, Św. Jana, apostoła i ewangelisty, *święto***
+
+* 7.00    + za śp. Janinę SZUBĘ, Stefana, Jana i Stanisława
+* 18.00   + za śp. Mariannę KIELEWSKĄ
+
+**Czwartek, 28 grudnia, Świętych Młodzianków, męczenników, *święto***
+
+* 7.00   
+* 18.00    + za śp. Wiktorię i Stanisława PRZESŁAWÓW
+
+**Piątek, 29 grudnia, V dzień w oktawie Narodzenia Pańskiego**
+
+* 7.00    + za śp. Mieczysława WOJDAKA  w 11.rocznicę śmierci         
+* 18.00    + za śp. Bronisława i Zofię JASZCZYK oraz zmarłych z rodziny JASZCZYKÓW
+
+**Sobota, 30 grudnia, VI dzień w oktawie Narodzenia Pańskiego**
+
+* 7.00      
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      + za śp. Eugeniusza MROCZKA oraz Stefana, Wojciecha, Józefę, Stanisława i Józefa SZCZEPEK
+
+**I Niedziela po Narodzeniu Pańskim, 31 grudnia, Świętej Rodziny: Jezusa, Maryi i Józefa, *święto***
+
+* 7.00   za parafian
+* 9.00    o Boże błogosławieństwo i dary Ducha Świętego dla Dawida
+* 10.30   intencja zbiorowa:
+
+  * za śp. Zofię, Czesława i Mariana GŁUCHOWSKICH
+  * za śp. Józefa SOSNOWSKIEGO w 3.rocznicę śmierci
+  * za śp. Eugeniusza i Kazimierza KAŁASZA
+* 12.00   dziękując Bogu za to co mamy, prosimy o potrzebne łaski dla tych mniej widocznych ze Wspólnoty *Chemin Neuf*
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   dziękczynna za miniony rok
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **III Niedziela Adwentu, 17 grudnia,**
