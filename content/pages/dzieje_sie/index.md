@@ -5,6 +5,8 @@ news:
   - size: large
     title: "Życzenia bożonarodzeniowe "
   - size: large
+    title: Bal Parafialny 2024
+  - size: large
     title: Kolęda 2023-2024
   - size: large
     title: Kurs przedmałżeński
