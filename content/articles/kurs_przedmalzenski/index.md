@@ -4,7 +4,7 @@ title: Kurs przedmałżeński
 date: 2023-12-27T22:36:16.697Z
 eventDate: 2024-02-04T23:00:00.000Z
 author: parafia wesoła
-cover: 1.png
+cover: kurs_przedmalzenski_wpis_na_facebooku_.png
 ---
 <!--StartFragment-->
 
