@@ -2,6 +2,80 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**I Niedziela po Narodzeniu Pańskim, 31 grudnia, Świętej Rodziny: Jezusa, Maryi i Józefa, *święto***
+
+* 7.00   za parafian
+* 9.00    o Boże błogosławieństwo i dary Ducha Świętego dla Dawida
+* 10.30   intencja zbiorowa:
+
+  * Chrzest Maksymilian MIECZKOWSKI
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Zofię, Czesława i Mariana GŁUCHOWSKICH
+  * za śp. Józefa SOSNOWSKIEGO w 3.rocznicę śmierci
+  * za śp. Eugeniusza i Kazimierza KAŁASZÓW
+  * za dusze w czyśćcu cierpiące
+* 12.00   dziękując Bogu za to co mamy, prosimy o potrzebne łaski dla tych mniej widocznych ze Wspólnoty *Chemin Neuf*
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   dziękczynna za miniony rok
+
+**Poniedziałek, 1 stycznia, Świętej Bożej Rodzicielki Maryi, *uroczystość***
+
+* 9.00    + za śp. Mieczysława, Marię i Barbarę
+* 10.30    intencja zbiorowa:
+* 12.00   
+* 18.00    + za śp. Czesława PORĘBĘ
+
+**Wtorek, 2 stycznia,**
+
+* 7.00
+* 18.00    Msza wypominkowa
+
+**Środa, 3 stycznia,**
+
+* 7.00    + za dusze śp. Wacława i Haliny RYCHLIK oraz za duszę śp. Grzegorza SOBIECHA 
+* 18.00   + za śp. Adelę ZALEWSKĄ w 1.rocznicę śmierci o zbawienie i życie wieczne
+
+**Czwartek, 4 stycznia,**
+
+* 7.00   
+* 18.00    dziękczynna za uzdrowienie z nałogu i z prośbą o nawrócenie rodziny
+
+**Piątek, 5 stycznia,**
+
+* 7.00    w dniu imienin Edwarda o Boże błogosławieństwo i opiekę Matki Bożej           
+* 18.00    + za śp. Wandę w 34.rocznicę śmierci i śp. Mieczysława NIEMALEC
+
+**Sobota, 6 stycznia, Objawienie Pańskie, *uroczystość***
+
+* 7.00       + w 21.rocznicę śmierci Eugeniusza CZERWIŃSKIEGO
+* 9.00       + za śp. Genowefę, Danutę, Konstantego i zmarłych z rodziny GADOMSKICH
+* 10.30      + za śp. Eugeniusza BAŁABUCHA w 3.rocznicę śmierci
+* 12.00      dziękczynna za 45-letnie pożycia małżeńskie Ewy i Piotra
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      w intencji Kół Żywego Różańca
+
+**Niedziela, 7 stycznia, Chrzest Pański, *święto***
+
+* 7.00    za parafian
+* 9.00    w 10.rocznicę urodzin Michała
+* 10.30    intencja zbiorowa:
+
+  * o  światło i dary Ducha Świętego dla Judyty i Dawida
+  * o zaprzestanie grzechu aborcji w Polsce oraz o błogosławieństwo dla naszej Ojczyzny
+  * za śp. Teresę i Władysława ZASIKOWSKICH rodziców
+  * za śp. Zofię PAWIŃSKĄ i zmarłych z rodziny MOSZCZYŃSKICH I PAWIŃSKICH
+  * za śp. Krzysztofa RUPIŃSKIEGO
+  * za brata śp. Piotra JAŹWIŃSKIEGO w dniu jego 23.rocznicy śmierci
+  * za dusze w czyśćcu cierpiące
+* 12.00   + do Miłosierdzia Bożego za duszę śp. Stanisława KOWALSKIEGO w 17.rocznicę śmierci i za zmarłych\
+             z rodziny WITKÓW i KOWALSKICH
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   dziękując za dotychczasową drogę, prosimy o światło i prawdę na naszą obłudę i pychę
+
+<!--EndFragment-->
+
 **IV Niedziela Adwentu, 24 grudnia,**
 
 * 7.00   za parafian
