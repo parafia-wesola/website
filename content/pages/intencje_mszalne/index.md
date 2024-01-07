@@ -4,6 +4,68 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 7 stycznia, Chrzest Pański, *święto***
+
+* 7.00    za parafian
+* 9.00    w 10.rocznicę urodzin Michała
+* 10.30    intencja zbiorowa:
+
+  * o  światło i dary Ducha Świętego dla Judyty i Dawida
+  * o zaprzestanie grzechu aborcji w Polsce oraz o błogosławieństwo dla naszej Ojczyzny
+  * za śp. Teresę i Władysława ZASIKOWSKICH rodziców
+  * za śp. Zofię PAWIŃSKĄ i zmarłych z rodziny MOSZCZYŃSKICH I PAWIŃSKICH
+  * za śp. Krzysztofa RUPIŃSKIEGO
+  * za brata śp. Piotra JAŹWIŃSKIEGO w dniu jego 23.rocznicy śmierci
+  * za dusze w czyśćcu cierpiące
+* 12.00   + do Miłosierdzia Bożego za duszę śp. Stanisława KOWALSKIEGO w 17.rocznicę śmierci i za zmarłych\
+             z rodziny WITKÓW i KOWALSKICH
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   dziękując za dotychczasową drogę, prosimy o światło i prawdę na naszą obłudę i pychę
+
+**Poniedziałek, 8 stycznia,**
+
+* 7.00    o całkowite zaprzestanie grzechu aborcji w Polsce oraz o błogosławieństwo dla naszej Ojczyzny
+* 18.00    + za śp. Lucynę PAWŁOWSKĄ w 11.rocznicę śmierci
+
+**Wtorek, 9 stycznia,**
+
+* 7.00    + o życie wieczne dla Anny i Aleksandra
+* 18.00    o całkowite zaprzestanie grzechu aborcji w Polsce oraz o błogosławieństwo dla naszej Ojczyzny
+
+**Środa, 10 stycznia,**
+
+* 7.00    o całkowite zaprzestanie grzechu aborcji w Polsce oraz o błogosławieństwo dla naszej Ojczyzny
+* 18.00   + za śp. Józefa, Arkadiusza i Helenę DYBOWSKICH, rodzinę SKNADAJÓW oraz za Andrzeja i Mariana   WÓJCIKÓW
+
+**Czwartek, 11 stycznia,**
+
+* 7.00    o całkowite zaprzestanie grzechu aborcji w Polsce oraz o błogosławieństwo dla naszej Ojczyzny         
+* 18.00    + za śp. Stanisława FAJFERA i za dusze w czyśćcu cierpiące
+
+**Piątek, 12 stycznia,**
+
+* 7.00    o całkowite zaprzestanie grzechu aborcji w Polsce oraz o błogosławieństwo dla naszej Ojczyzny         
+* 18.00    + za śp. Tomasza
+
+**Sobota, 13 stycznia,**
+
+*  7.00
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      o całkowite zaprzestanie grzechu aborcji w Polsce oraz o błogosławieństwo dla naszej Ojczyzny
+
+**Niedziela, 14 stycznia,**
+
+* 7.00    + za mamę śp. Wandę JAŹWIŃSKĄ w dniu jej 1.rocznicy śmierci oraz za tatę Zygmunta JAŹWIŃSKIEGO  
+* 9.00    + za śp. Mieczysława PODLEŚNEGO
+* 10.30    za parafian
+* 12.00   + za śp. Tadeusza GRYGLASA (intencja od Barbary z rodziną)
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   o całkowite zaprzestanie grzechu aborcji w Polsce oraz o błogosławieństwo dla naszej Ojczyzny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **I Niedziela po Narodzeniu Pańskim, 31 grudnia, Świętej Rodziny: Jezusa, Maryi i Józefa, *święto***
 
 * 7.00   za parafian
