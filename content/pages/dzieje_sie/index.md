@@ -3,15 +3,13 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Spotkanie dla kobiet - bohaterki Nowego Testamentu i ja "Złamana i złapana"
+  - size: large
     title: "Życzenia bożonarodzeniowe "
   - size: large
     title: Kolęda 2023-2024
   - size: large
     title: Kurs przedmałżeński
-  - size: large
-    title: Rekolekcje Adwentowe 'Bramo niebieska'
-  - size: large
-    title: Spotkanie dla kobiet - bohaterki Nowego Testamentu i ja
   - size: large
     title: Akcja Caritas - TAK POMAGAM
   - size: large
