@@ -4,6 +4,63 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela, 14 stycznia,**
+
+* 7.00    + za mamę śp. Wandę JAŹWIŃSKĄ w dniu jej 1.rocznicy śmierci oraz za tatę Zygmunta JAŹWIŃSKIEGO
+* 9.00    + za śp. Mieczysława PODLEŚNEGO
+* 10.30    za parafian
+* 12.00   + za śp. Tadeusza GRYGLASA (intencja od  Barbary z rodziną)
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   o całkowite zaprzestanie grzechu aborcji w Polsce oraz o błogosławieństwo dla naszej Ojczyzny
+
+**Poniedziałek, 15 stycznia,**
+
+* 7.00    + za śp. Stanisława, Mariannę, Romana, Waldemara i Witolda
+* 18.00    o całkowite zaprzestanie grzechu aborcji oraz o błogosławieństwo dla naszej Ojczyzny
+
+**Wtorek, 16 stycznia,**
+
+* 7.00    + za śp. Elżbietę
+* 18.00    + za śp. Józefę WOŹNICA i Lucynę ZALEWSKĄ w 2.rocznicę śmierci
+
+**Środa, 17 stycznia, Św. Antoniego, opata, *wspomnienie***
+
+* 7.00   
+* 18.00   w 41.rocznicę ślubu Anny i Wojciecha
+
+**Czwartek, 18 stycznia,**
+
+* 7.00    + za śp. Wacława OLĘDZKIEGO w 6.rocznicę śmierci, za śp. Jadwigę OLĘDZKĄ i zmarłych z rodziny       OLĘDZKICH i MAZURÓW
+* 18.00    + za śp. Stanisława ZIELIŃSKIEGO w 6.rocznicę śmierci oraz za śp. Janinę i Mariana ZIELIŃSKICH                      
+
+**Piątek, 19 stycznia, Św. Józefa Sebastiana Pelczara, biskupa, *wspomnienie***
+
+* 7.00   
+* 18.00    w intencji małżeństw w kryzysie
+
+**Sobota, 20 stycznia,**
+
+* 7.00
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      intencja dziękczynna za otrzymane łaski i z prośbą o dalsze Boże prowadzenie i opiekę Maryi dla Piotrka, Zosi, Ani i Rafała
+
+**III Niedziela zwykła, 21 stycznia,**
+
+* 7.00    za parafian
+* 9.00    + za śp. Józefa w 16.rocznicę śmierci i zmarłych: Mariannę, Wacława, Stanisława, Annę BOGUSZEWSKICH
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida,
+  * za śp. Pawła PRUSKIEGO z okazji urodzin i imienin, i za jego zmarłych rodziców
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Tadeusza GRYGLASA (intencja od rodziny Roguskich)
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   za Edytę z okazji ślubu
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 7 stycznia, Chrzest Pański, *święto***
 
 * 7.00    za parafian
