@@ -10,9 +10,9 @@ cover: koleda.png
 
 * ### Dla osiedla w Centrum Wesołej (od ul. Chodkiewicza do ul. Piotra Skargi)
 
-można zgłosić chęć przyjęcia księdza przez formularz,  mailowo lub telefonicznie do kancelarii parafialnej. W przyszłym roku kolędę od drzwi do drzwi rozpoczniemy od domów w centrum Wesołej.
+od 15 stycznia będziemy kontaktować się z rodzinami, które zgłosiły chęć przyjęcia księdza. Tę część wizyty duszpasterskiej rozpoczniemy w sobotę, 20 stycznia.
 
-[formularz zapisu na kolędę](https://forms.gle/y7QiJ8JMhGNkqcg28)
+
 
 * ### **Dla osiedli Groszówka, Zielona, Wola Grzybowska:**
 
