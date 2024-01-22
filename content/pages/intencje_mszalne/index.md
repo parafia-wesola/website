@@ -4,6 +4,70 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**III Niedziela zwykła, 21 stycznia,**
+
+* 7.00    za parafian
+* 9.00    + za śp. Józefa w 16.rocznicę śmierci i zmarłych: Mariannę, Wacława, Stanisława, Annę BOGUSZEWSKICH
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida,
+  * dziękczynna za szczęśliwe rozwiązanie Kasi i o Boże błogosławieństwo dla rodziny
+  * za śp. Pawła PRUSKIEGO z okazji urodzin i imienin, i za jego zmarłych rodziców
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Tadeusza GRYGLASA (intencja od rodziny Roguskich)
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   za Edytę z okazji ślubu
+
+**Poniedziałek, 22 stycznia,**
+
+* 7.00    dziękczynna za Sebastiana i Mariusza z prośba o miłosierdzie Boże i opiekę Niepokalanej na każdy dzień dla nich i całych rodzin.
+* 18.00    + w 10.rocznicę śmierci Beaty GUTOWSKIEJ oraz za zmarłych z rodziny GUTOWSKICH i PIETRUSZYŃSKICH
+
+**Wtorek, 23 stycznia,**
+
+* 7.00   
+* 18.00    + za śp. Leokadię, Felicję i Marię
+
+**Środa, 24 stycznia,**
+
+* 7.00   
+* 18.00   + za śp. Aleksandra i Stanisławę GŁÓWKA
+
+**Czwartek, 25 stycznia, Nawrócenie św. Pawła, *święto***
+
+* 7.00    + za śp. Marka RYTLA w 2.rocznicę śmierci
+* 18.00    w intencji rodzin. Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu, jaśniejącej światłością Miłości Miłosiernej we wszystkich rodzinach.           
+
+**Piątek, 26 stycznia,**
+
+* 7.00   + za śp. Halinę GRYZ
+* 18.00    + o życie wieczne dla zmarłego niedawno Wojtka i o Boże prowadzenie dla jego rodziców i siostry
+
+**Sobota, 27 stycznia,**
+
+* 7.00       + za śp. Janinę, Feliksa, Wiktora i Ryszarda
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      + o życie wieczne dla Jerzego PRZYGODY
+
+**IV Niedziela zwykła, 28 stycznia,**
+
+* 7.00    
+*  9.00    + za śp. Anielę, Jana i Stanisława TALARKÓW
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za babcie i dziadków, seniorów PKPS
+  * za śp. Józefa i Genowefę LECZKOWSKICH
+  * za śp. Izabelę, Marię, Jerzego i zmarłych z rodziny RÓŻYCKICH i TROCHIMIUKÓW
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   za Martynę w dniu 20.urodzin o pomoc Bożą w rozeznaniu powołania i na dalszą drogę życia
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **Niedziela, 14 stycznia,**
 
 * 7.00    + za mamę śp. Wandę JAŹWIŃSKĄ w dniu jej 1.rocznicy śmierci oraz za tatę Zygmunta JAŹWIŃSKIEGO
