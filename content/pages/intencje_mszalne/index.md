@@ -2,6 +2,70 @@
 type: text
 title: Intencje mszalne
 ---
+**IV Niedziela zwykła, 28 stycznia,**
+
+* 7.00    
+* 9.00    + za śp. Anielę, Jana i Stanisława TALARKÓW
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * dziękczynna za urodzenie Kasi i Boże błogosławieństwo dla rodziny
+  * za babcie i dziadków seniorów PKPS
+  * za śp. Józefa i Genowefę LECZKOWSKICH
+  * za śp. Izabelę, Marię, Jerzego i zmarłych z rodziny RÓŻYCKICH i TROCHIMIUKÓW
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   za Martynę w dniu 20.urodzin o pomoc Bożą w rozeznaniu powołania i na dalszą drogę życia
+
+**Poniedziałek, 29 stycznia,**
+
+* 7.00    + za śp. Krzysztofa RUPIŃSKIIEGO w miesiąc po pogrzebie   
+* 18.00    + za śp. Stanisławę i Benedykta WINCIOREK
+
+**Wtorek, 30 stycznia,**
+
+* 7.00   
+* 18.00    + za śp. Magdalenę ZIARKO w 1.rocznicę śmierci
+
+**Środa, 31 stycznia,**
+
+* 7.00   
+* 18.00   w intencji dziękczynnej i błagalnej o zdrowie dla Mariana i Andrzeja oraz o uzdrowienie z ciężkiej choroby Teresy
+
+**Czwartek, 1 lutego,**
+
+* 7.00    dziękując Bogu za wnuków Bartka i Kubę z prośbą o światło i dary Ducha Świętego i opiekę Niepokalanej na każdy dzień
+* 18.00    + za śp. Mariannę ZARADZKĄ           
+
+**Piątek, 2 lutego, Ofiarowanie Pańskie, *święto***
+
+* 7.00    + za śp. Renatę Stanisławę i Tadeusza KONARSKICH
+* 10.30    za Marię ROSIK z okazji imienin
+* 18.00
+
+**Sobota, 3 lutego,**
+
+* 7.00       + za śp. Sławomira CZERWIŃKIEGO w 20.rocznicę śmierci
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      K.Ż.R.
+
+**V Niedziela zwykła, 4 lutego,**
+
+* 7.00    za parafian
+* 9.00    + za rodziców śp. Mariannę i Konstantego WIŚNIEWSKICH
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * błagalno-dziękczynna w rocznicę urodzin Jakuba oraz za śp. Ryszarda w 28.rocznicę śmierci
+  * za śp. Halinę GRYZ
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Annę KRAJEWSKĄ
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Helenę ORZECHOWSKĄ
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **III Niedziela zwykła, 21 stycznia,**
