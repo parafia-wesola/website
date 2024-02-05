@@ -2,6 +2,62 @@
 type: text
 title: Intencje mszalne
 ---
+**V Niedziela zwykła, 4 lutego,**
+
+* 7.00    za parafian
+* 9.00    + za rodziców śp. Mariannę i Konstantego WIŚNIEWSKICH
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * błagalno-dziękczynna w rocznicę urodzin Jakuba oraz za śp. Ryszarda w 28.rocznicę śmierci
+  * za śp. Halinę GRYZ
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Annę KRAJEWSKĄ
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Helenę ORZECHOWSKĄ
+
+**Poniedziałek, 5 lutego, Św. Agaty, dziewicy i męczennicy, *wspomnienie***
+
+* 7.00   
+* 18.00    + za śp. Henryka i Jana SABAKÓW oraz za dusze czyśćcowe
+
+**Wtorek, 6 lutego, Świętych męczenników Pawła Miki i Towarzyszy, *wspomnienie***
+
+* 7.00    o jasność umysłu i dary Ducha Świętego dla Ani podczas egzaminu
+* 18.00    msza wypominkowa
+
+**Środa, 7 lutego,**
+
+* 7.00   
+* 18.00   + w 30.rocznicę śmierci Wiktorii, Łukasza i Bogdana SALAMOŃCZYKÓW oraz zmarłych z rodziny       WYSOCKICH
+
+**Czwartek, 8 lutego,**
+
+* 7.00   
+* 18.00    + za śp. Stanisława CHOJNACKIEGO w 1.rocznicę śmierci
+
+**Piątek, 9 lutego,**
+
+* 7.00   
+* 18.00    + za śp. Franciszka w 25.rocznicę śmierci oraz za Władysławę i Marię WIELGO
+
+**Sobota, 10 lutego, Św. Scholastyki, dziewicy, *wspomnienie***
+
+* 7.00      
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      + o życie wieczne dla śp. Romana PIECHOCKIEGO
+
+**VI Niedziela zwykła, 11 lutego,**
+
+* 7.00    + za śp. Mariannę ZDANOWICZ w 6.rocznicę śmierci
+* 9.00    + za śp. Jana Nikodema i Zbigniewa TOMCZUKÓW
+* 10.30    za parafian
+* 12.00   + za śp. Teodorę i Stanisława BAREJÓW oraz zmarłych z rodziny BAREJÓW i TARASZEWSKICH
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   + o życie wieczne dla Romana WYGANOWSKIEGO i zmarłych z rodziny
+
+<!--EndFragment-->
+
 **IV Niedziela zwykła, 28 stycznia,**
 
 * 7.00    
