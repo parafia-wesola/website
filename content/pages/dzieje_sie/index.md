@@ -5,11 +5,9 @@ news:
   - size: large
     title: Tymoteusz-posługa
   - size: large
+    title: Droga Krzyżowa
+  - size: large
     title: Spotkanie dla kobiet - Jestem córką Króla
-  - size: large
-    title: Kolęda 2023-2024
-  - size: large
-    title: Kurs przedmałżeński
   - size: large
     title: 1 Komunia Święta 2023-2024
   - size: large
