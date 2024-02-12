@@ -5,6 +5,8 @@ news:
   - size: large
     title: Tymoteusz-posługa
   - size: large
+    title: Rekolekcje wielkopostne 2024
+  - size: large
     title: Droga Krzyżowa
   - size: large
     title: Spotkanie dla kobiet - Jestem córką Króla
