@@ -2,6 +2,70 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**VI Niedziela zwykła, 11 lutego,**
+
+* 7.00    + za śp. Mariannę ZDANOWICZ w 6.rocznicę śmierci
+* 9.00    + za śp. Jana Nikodema i Zbigniewa TOMCZUK
+* 10.30    za parafian
+* 12.00   + za śp. Teodorę i Stanisława BAREJÓW oraz zmarłych z rodziny BAREJÓW i TARASZEWSKICH
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   + o życie wieczne dla Romana WYGANOWSKIEGO i zmarłych z rodziny
+
+**Poniedziałek, 12 lutego,**
+
+* 7.00   
+* 18.00    + za śp. Danutę NAJDĘ w miesiąc po pogrzebie
+
+**Wtorek, 13 lutego,**
+
+* 7.00   
+* 18.00    + w 22.rocznicę śmierci Eugeniusza KAŁASZA
+
+**Środa, 14 lutego, Środa popielcowa**
+
+* 7.00    + za śp. Czesława ZARĘBĘ w miesiąc po pogrzebie
+* 10.30
+* 18.00   + za śp. Stanisławę i Aleksandra GŁÓWKA
+
+**Czwartek, 15 lutego,**
+
+* 7.00   
+* 18.00    + o życie wieczne dla Tomasza PAZIO
+
+**Piątek, 16 lutego,**
+
+* 7.00   
+* 18.00    w intencji małżeństw w kryzysie
+
+**Sobota, 17 lutego,**
+
+* 7.00       + za śp. Halinę GRYZ w miesiąc po pogrzebie           
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      + za śp. Wiesława SIUCIAKA w 7.rocznicę śmierci oraz zmarłych z rodziny SIUCIAKÓW\
+  i SZCZYGŁÓW
+
+**I Niedziela Wielkiego Postu, 18 lutego,**
+
+* 7.00    za parafian
+* 9.00    + za śp. Helenę Longinę ORZECHOWSKĄ
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w intencji Bogu wiadomej
+  * za tatę śp. Zygmunta JAŹWIŃSKIEGO w dniu jego 1.rocznicy śmierci oraz za mamę Wandę JAŹWIŃSKĄ
+  * za śp. Henrykę ŻOŁĄDEK
+  * za śp. Eugeniusza KAŁASZA w 22.rocznicę śmierci
+  * za śp. Teodora BANASZKA, Zygmunta BANASZKA i Henryka ZIĘBĘ
+  * za śp. Krzysztofa ŚLEDZIEWSKIEGO i zmarłych z rodziny ŚLEDZIEWSKICH, BEREDÓW, SZULICHÓW, STANKIEWICZÓW i Teresę KOLTERMAN
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Jana Stanisława KLIMMA w 2.rocznicę śmierci i za jego mamę Marię
+* *15.00    Adoracja Najświętszego Sakramentu*
+* 18.00   + za śp. Mariannę PIERZYNOWSKĄ i śp. Jacka KRÓLAKA
+
+<!--EndFragment-->
+
 **V Niedziela zwykła, 4 lutego,**
 
 * 7.00    za parafian
