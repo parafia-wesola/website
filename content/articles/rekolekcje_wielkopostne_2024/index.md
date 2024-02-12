@@ -6,7 +6,7 @@ eventDate: ""
 author: parafia wesoła
 cover: rekolekcje_wielkopostne-facebook.png
 ---
-<h4 style="text-align:center;">Rekolekcje Wielkopostne 18-21 lutego</h4>
+##### <h4 style="text-align:center;">Rekolekcje Wielkopostne 18-21 lutego</h4>
 <h4 style="text-align:center;">W mocy Słowa</h4>
 
 * Głosi: **o. Marcin Borządek**, brat ze Wspólnoty *Chemin Neuf*, proboszcz z Mistowa, znany już w naszej parafii, wraz ze **Wspólnotą *Głos Pana*** ze Skierniewic.  
