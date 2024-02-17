@@ -3,9 +3,11 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Rekolekcje wielkopostne 2024
+  - size: large
     title: Tymoteusz-posługa
   - size: large
-    title: Rekolekcje wielkopostne 2024
+    title: Spotkanie dla młodych w wieku 10-13 lat Nie jestem sam
   - size: large
     title: Droga Krzyżowa
   - size: large
