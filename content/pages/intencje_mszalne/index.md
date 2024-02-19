@@ -4,6 +4,81 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**I Niedziela Wielkiego Postu, 18 lutego, *Rekolekcje parafialne***
+
+* 7.00    za parafian
+* 9.00    + za śp. Helenę Longinę ORZECHOWSKĄ
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w intencji Bogu wiadomej
+  * za tatę śp. Zygmunta JAŹWIŃSKIEGO w dniu jego 1.rocznicy śmierci oraz za mamę Wandę JAŹWIŃSKĄ
+  * za śp. Henrykę ŻOŁĄDEK
+  * za śp. Eugeniusza KAŁASZA w 22.rocznicę śmierci
+  * za śp. Teodora BANASZKA, Zygmunta BANASZKA i Henryka ZIĘBĘ
+  * za śp. Krzysztofa ŚLEDZIEWSKIEGO i zmarłych z rodziny ŚLEDZIEWSKICH, BEREDÓW, SZULICHÓW, STANKIEWICZÓW i Teresę KOLTERMAN
+  * za śp. Jana, jego rodziców i rodziców CHOCIŃSKICH
+  * za śp. Elżbietę POTEREK w 3.rocznicę śmierci oraz  Jerzego, Zygmunta i Reginę POTEREK
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Jana Stanisława KLIMMA w 2.rocznicę śmierci i za jego mamę Marię
+* *15.00    Adoracja Najświętszego Sakramentu      17.15 Gorzkie Żale*
+* 18.00   + za śp. Mariannę PIERZYNOWSKĄ i śp. Jacka KRÓLAKA
+
+**Poniedziałek, 19 lutego, *Rekolekcje parafialne***
+
+* 7.00   
+* 10.30  + za śp. Rafała WOŹNIAKA o miłosierdzie Boże dla niego i dla zmarłych z jego rodziny.
+* 19.00    + za śp. Stanisławę SPOCZYŃSKĄ oraz za zmarłych z rodzin WÓDCZYŃSKICH, POTĘGÓW,     SPOCZYŃSKICH i IWASZKÓW
+
+**Wtorek, 20 lutego, *Rekolekcje parafialne***
+
+* 7.00   
+* 10.30  o pokój i braterstwo między ludźmi w Polsce
+* 19.00    + za śp. Pelagię i Stefana ŁASKAWIEC, Zofię, Halinę, Marię z domu ŁASKAWIEC oraz zmarłych z rodziny            ŁASKAWIEC i MAJ
+
+**Środa, 21 lutego, *Rekolekcje parafialne***
+
+* 7.00    + za śp. Przemysława KOWALCZYKA w 6.rocznicę śmierci
+* 10.30
+* 19.00    za Edytę z okazji ślubu
+
+**Czwartek, 22 lutego, Katedry św. Piotra, apostoła, *święto***
+
+* 7.00   
+* 18.00    + za śp. Annę KLIMM w 19.rocznicę śmierci i śp. Jana KLIMMA w 2.rocznicę śmierci
+
+**Piątek, 23 lutego,**
+
+* 7.00   
+* 18.00    + o życie wieczne dla Lidii KIRKOR
+
+**Sobota, 24 lutego,**
+
+* 7.00       + za śp. Zofię, Józefa RAWSKICH oraz zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH i CHROSTOWSKICH      
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      + za śp. Piotra GRYZA w 2.rocznicę śmierci, za śp. Halinę, za śp. Eugeniusza  i Roberta GRYZÓW oraz wszystkich zmarłych z tej rodziny
+
+**II Niedziela Wielkiego Postu, 25 lutego,**
+
+* 7.00    Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością             Miłości Miłosiernej we wszystkich rodzinach
+* 9.00    + za śp. Kazimierę LASKOWSKĄ i zmarłych z rodziny LASKOWSKICH i KSIĄŻEK
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w 80.rocznicę urodzin Mirosława o Boże błogosławieństwo i zdrowie
+  * za śp. Marcina, Lucjana GRUŻEWSKICH i Danielę GRUŻEWSKĄ
+  * za śp. Tadeusza DOMAŃSKIEGO
+  * za śp. Zdzisławę SZPUNAR
+  * za śp. Mirosławę i Apolinarego MATUSZEWSKICH
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00    Adoracja Najświętszego Sakramentu      17.15 Gorzkie Żale*
+* 18.00   o Boże błogosławieństwo i dary Ducha Świętego dla Anny
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **VI Niedziela zwykła, 11 lutego,**
 
 * 7.00    + za śp. Mariannę ZDANOWICZ w 6.rocznicę śmierci
