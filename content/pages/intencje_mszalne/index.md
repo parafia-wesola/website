@@ -2,6 +2,78 @@
 type: text
 title: Intencje mszalne
 ---
+**II Niedziela Wielkiego Postu, 25 lutego,**
+
+* 7.00    Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością             Miłości Miłosiernej we wszystkich rodzinach
+* 9.00    + za śp. Kazimierę LASKOWSKĄ i zmarłych z rodziny LASKOWSKICH i KSIĄŻEK
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w 80.rocznicę urodzin Mirosława o Boże błogosławieństwo i zdrowie
+  * za śp. Marcina, Lucjana GRUŻEWSKICH i Danielę GRUŻEWSKĄ
+  * za śp. Tadeusza DOMAŃSKIEGO
+  * za śp. Zdzisławę SZPUNAR
+  * za śp. Mirosławę i Apolinarego MATUSZEWSKICH
+  * za śp. Jana i Helenę SULIKOWSKICH i zmarłych z rodziny
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* *17.15   Gorzkie Żale*
+* 18.00   o Boże błogosławieństwo i dary Ducha Świętego dla Anny
+
+**Poniedziałek, 26 lutego,**
+
+* 7.00    + za śp. Jerzego i Krzysztofa TOMASZEWSKICH oraz Hannę i Zdzisława GAWĘDZKICH
+* 18.00    + za śp. Aleksandra i Stanisławę GŁÓWKA
+
+**Wtorek, 27 lutego,**
+
+* 7.00
+* 18.00    + za śp. Zdzisławę SZPUNAR (od rodziny Surmaków  i Kuźniarów)
+
+**Środa, 28 lutego,**
+
+* 7.00   
+* 19.00    + za śp. Tadeusza DOMAŃSKIEGO
+
+**Czwartek, 29 lutego,**
+
+* 7.00   
+* 18.00    + za śp. Zbigniewa REZULSKIEGO w 28.rocznicę śmierci
+
+**Piątek, 1 marca,**
+
+* 7.00    za śp. Henrykę ŻOŁĄDEK w miesiąc po pogrzebie
+* 18.00   
+
+**Sobota, 2 marca,**
+
+* 7.00       + za śp. Kazimierza, Helenę i Wiesław ROGALÓW
+* *15.00      Adoracja Najświętszego Sakramentu*
+* *17.00      Nabożeństwo 1-sobotnie*
+* 18.00      K.Ż.R.
+
+**III Niedziela Wielkiego Postu, 3 marca,**
+
+* 7.00    za parafian
+* 9.00    + za śp. Kamilę, Jana, Annę i Teofila oraz zmarłych z rodziny SKIBNIEWSKICH i WĄSOWSKICH
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Kazimierza JACKIEWICZA
+  * za śp. Mirosława ŻURAWIA
+  * za śp. Tadeusza i Zofię TOKARSKICH oraz Barbarę i Franciszka GADOMSKICH
+  * za śp. Ryszarda TROCIUKA
+  * za śp. Jana SOSNOWSKIEGO w 5.rocznicę śmierci
+  * za śp. Zbigniewa PIETRZAKA
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Kazimierza RATYŃSKIEGO w 25.rocznicę śmierci i Zofię RATYŃSKĄ
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* *17.15   Gorzkie Żale*
+* 18.00   + za śp. Zofię w 34.rocznicę śmierci oraz za śp. Andrzeja SOBOLA
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **I Niedziela Wielkiego Postu, 18 lutego, *Rekolekcje parafialne***
