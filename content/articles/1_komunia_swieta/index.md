@@ -8,6 +8,8 @@ cover: baner-komunijny-drewniany-i-komunia-swieta-90cm-sznurek.webp
 ---
 <!--StartFragment-->
 
+### [link do ankiety](https://docs.google.com/forms/d/e/1FAIpQLSdaLh-dvqBgTxV5HVUInWoHOrH9j-7rhHbeHLBlpsJyAN-99g/viewform?usp=sf_link)
+
 # LIST DO RODZICÓW
 
 Drodzy Rodzice!
