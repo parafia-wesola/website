@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Spotkanie dla kobiet - o relacji z własnym ciałem
+  - size: large
     title: Tymoteusz-posługa
   - size: large
     title: Spotkanie dla młodych w wieku 10-13 lat Nie jestem sam
@@ -16,6 +18,4 @@ news:
     title: Pomoc dla Ukrainy
   - title: Adoracja w weekendy
     size: medium
-  - size: large
-    title: Spotkanie dla kobiet - o relacji z własnym ciałem
 ---
