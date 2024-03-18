@@ -2,6 +2,87 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**V Niedziela Wielkiego Postu, 17 marca**
+
+* 7.00   za parafian
+* 9.00    + za śp. Józefa BOBRUKA
+* 10.30    intencja zbiorowa:
+
+  * Dziękczynno-błagalna w rocznicę urodzin Izabeli i Andrzeja oraz ich wnuka Antoniego
+  * w dniu urodzin ks. Zbigniewa prośba o opiekę Matki Bożej Nieustającej Pomocy
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Mariannę, Stanisława MIKOS i zmarłych z rodziny MIKOSÓW oraz za Zbigniewa z okazji urodzin i imienin
+  * za śp. Martę i Wiktora DZIAŁAKOWSKICH i zmarłych z rodziny
+  * za śp. Genowefę i Józefa LECZKOWSKICH
+  * za śp. Tadeusza MACHAŁOWSKIEGO
+  * za śp. Kornela KOWALCZYKA w 14.rocznicę odejścia do wieczności oraz za zmarłych z rodziny KOWALCZYKÓW
+  * za śp.. Czesławę i Piotra KIELCZYKÓW
+  * za śp. Franciszka, Władysławę i Marię WIELGO
+  * za śp. Józefa KROPIWCA i Józefę KARPIŃSKĄ
+  * za śp. Czesławę w 39 rocznicę śmierci oraz za Stefanię, Władysława, Waldemara, Wiesława WALASEK
+  * za śp. Andrzeja w 5 rocznicę śmierci oraz za sp. Ludwikę i Wiktora TUMIŃSKICH
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Józefę, Wojciecha, Stefana i Stanisława SZCZEPEK oraz Józefa i Eugeniusza MROCZEK
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* *17.15   Gorzkie Żale*
+* 18.00   w intencji mego syna Zbyszka i jego żony Lucyny – dziękczynna za ich życie w obecności Pana Boga, z           prośbą o dalszą moc duchową i fizyczną w pracy na chwałę Pana i dobra bliźnich 
+
+**Poniedziałek, 18 marca,**
+
+* 7.00    + za śp. Weronikę BADOWSKĄ
+* 18.00    + za śp. Józefa i Katarzynę KUŁAKOWSKICH  i zmarłych z rodziny KUŁAKOWSKICH
+
+**Wtorek, 19 marca, Św. Józefa, Oblubieńca Najświętszej Maryi Panny, *uroczystość***
+
+* 7.00    o opiekę Św. Józefa dla rodziny PIOTRAKÓW i ZALEWSKICH
+* 18.00    + za śp. Józefa i Eugenię BRZOSTOWSKICH
+
+**Środa, 20 marca,**
+
+* 7.00    dziękczynna w 90.rocznicę urodzin Józefa JAGIELSKIEGO
+* 18.00    + za śp. Stanisławę i Zygmunta DUCKICH i zmarłych z rodziny
+
+**Czwartek, 21 marca,**
+
+* 7.00    + w 3.rocznicę śmierci Heleny Barbary REDEK
+* 18.00    dziękczynno-błagalna z okazji imienin Izabeli z prośbą o potrzebne łaski
+
+**Piątek, 22 marca,**
+
+* 7.00    w 30.rocznicę urodzin Juliusza o wiarę i dary Ducha Świętego
+* 18.00    + za śp. Bogdana i Irenę i zmarłych z rodziny       
+
+**Sobota, 23 marca,**
+
+* 7.00       + za śp. Zbigniewa PIETRZAKA w miesiąc po pogrzebie
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      + za śp. Janinę WIERZBOWSKĄ oraz Zdzisława i Roberta WIERZBOWSKICH
+
+ **Niedziela Palmowa Męki Pańskiej, 24 marca,**
+
+* 7.00   + za śp. Zofię, Józefa RAWSKICH oraz zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH\
+            i CHROSTOWSKICH
+*   9.00    + za śp. Janinę, Jadwigę, Kazimierza, Czesława, Edwarda oraz zmarłych z rodziny JAWOROWSKICH\
+              i JACZEWSKICH
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Krystynę KUBIAK w 5.rocznicę śmierci
+  * za śp. Czesława KRASZEWSKIEGO w 7.rocznicę śmierci
+  * za śp. Jerzego HORODECKIEGO w 1.rocznicę śmierci
+  * za śp. Józefa PIKUŁĘ
+  * za śp. Jana JAWICZA, Zofię i Pawła CZELEJÓW oraz zmarłych z rodziny JAWICZ i CZELEJ
+  * za sp. Barbarę MAZURKIEWICZ w 1.rocznicę śmierci
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* *17.15   Gorzkie Żale*
+* 18.00   w 18.rocznicę urodzin Wiktora KOWALCZYKA
+
+<!--EndFragment-->
+
 **IV Niedziela Wielkiego Postu, 10 marca,**
 
 * 7.00    
