@@ -2,6 +2,74 @@
 type: text
 title: Intencje mszalne
 ---
+**IV Niedziela Wielkiego Postu, 10 marca,**
+
+* 7.00    
+* 9.00    + za śp. Krystynę BURZEC
+* 10.30    za parafian, chrzest Alicji Pańkowskiej i Hanny Klimm
+* 12.00   + za śp. Teodorę i Stanisława BAREJÓW oraz zmarłych z rodziny BAREJÓW i TARASZEWSKICH
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* *17.15   Gorzkie Żale*
+* 18.00   + w 3.rocznicę śmierci Alicji WITKOWSKIEJ
+
+**Poniedziałek, 11 marca,**
+
+* 7.00    + za śp. Władysława i Stanisławę PIOTRAKÓW oraz zmarłych z rodziny PIOTRAKÓW i GAŁĄZKÓW
+* 18.00    + za śp. Piotra i Czesławę KIELCZYK
+
+**Wtorek, 12 marca,**
+
+* 7.00    + za duszę śp. Grzegorza SOBIECHA w dniu jego imienin oraz za śp. Wacława, Halinę, Janusza, Bogdana\
+              i Krzysztofa RYCHLIKÓW
+* 18.00    + za śp. Kazimierę i Franciszka GOŁĘDOWSKICH
+
+**Środa, 13 marca,**
+
+* 7.00    + za śp. Zdzisława SZPUNARA  w miesiąc po pogrzebie
+* 18.00    + za śp. Tadeusza DOMAŃSKIEGO w miesiąc po pogrzebie
+
+**Czwartek, 14 marca,**
+
+* 7.00   
+* 18.00    + za śp. Piotra WOCIALA
+
+**Piątek, 15 marca,**
+
+* 7.00    + za śp. Ryszarda TROCIUKA w miesiąc po pogrzebie
+* 18.00    w intencji małżeństw w kryzysie
+* 21.00    w intencji uczestników  Ekstremalnej Drogi Krzyżowej, aby w ciszy nocy usłyszeli głos Chrystusa, przyjęli Jego słowa i stawali się pięknymi ludźmi            
+
+**Sobota, 16 marca,**
+
+* 7.00      
+* *15.00      Adoracja Najświętszego Sakramentu*
+* 18.00      + za śp. Ewę
+
+**V Niedziela Wielkiego Postu, 17 marca,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Józefa BOBRUKA
+* 10.30    intencja zbiorowa:
+
+  * dziękczynno-błagalna w rocznicę urodzin Izabeli i Andrzeja oraz ich wnuka Antoniego
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Mariannę, Stanisława MIKOS i zmarłych z rodziny MIKOSÓW oraz za Zbigniewa z okazji urodzin\
+    i imienin
+  * za śp. Martę i Wiktora DZIAŁAKOWSKICH i zmarłych z rodziny
+  * za śp. Genowefę i Józefa LECZKOWSKICH
+  * za śp. Tadeusza MACHAŁOWSKIEGO
+  * za śp. Kornela KOWALCZYKA w 14.rocznicę odejścia do wieczności oraz za zmarłych z rodziny KOWALCZYKÓW
+  * za śp.. Czesławę i Piotra KIELCZYKÓW
+  * za śp. Franciszka, Władysławę i Marię PIELGO
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Józefę, Wojciecha, Stefana i Stanisława SZCZEPEK oraz Józefa i Eugeniusza MROCZEK
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* *17.15   Gorzkie Żale*
+* 18.00   w intencji syna Zbyszka i jego żony Lucyny – dziękczynna za ich życie w obecności Pana Boga,\
+             z prośbą o dalszą moc duchową i fizyczną w pracy na chwałę Pana i dobra bliźnich
+
+<!--EndFragment-->
+
 **III Niedziela Wielkiego Postu, 3 marca,**
 
 * 7.00    za parafian
