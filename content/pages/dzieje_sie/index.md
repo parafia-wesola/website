@@ -3,6 +3,8 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: Triduum Paschalne 2024
+  - size: large
     title: Tymoteusz-posługa
   - size: large
     title: Droga Krzyżowa
