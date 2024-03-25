@@ -4,7 +4,7 @@ title: Triduum Paschalne 2024
 date: 2024-03-24T21:59:39.111Z
 eventDate: ""
 author: parafia wesoła
-cover: strona_www.png
+cover: triduum_2024.png
 ---
 <h4 style="text-align:center;">Triduum Paschalne i Wielkanoc</h4>
 
