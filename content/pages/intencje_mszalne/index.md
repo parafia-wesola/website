@@ -4,6 +4,77 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**Niedziela Palmowa Męki Pańskiej, 24 marca,**
+
+* 7.00   + za śp. Zofię, Józefa RAWSKICH oraz zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH\
+            i CHROSTOWSKICH
+* 9.00    + za śp. Janinę, Jadwigę, Kazimierza, Czesława, Edwarda oraz zmarłych z rodziny JAWOROWSKICH\
+              i JACZEWSKICH
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za Ojczyznę
+  * za śp. Krystynę KUBIAK w 5.rocznicę śmierci
+  * za śp. Czesława KRASZEWSKIEGO w 7.rocznicę śmierci
+  * za śp. Jerzego HORODECKIEGO w 1.rocznicę śmierci
+  * za śp. Józefa PIKUŁĘ
+  * za śp. Jana JAWICZA, Zofię i Pawła CZELEJÓW oraz zmarłych z rodziny JAWICZ i CZELEJ
+  * za śp. Barbarę MAZURKIEWICZ w 1.rocznicę śmierci
+  * za śp. Leszka BERNASIA pół roku po śmierci
+  * za śp. Mariana KIRYLUK i 1.rocznicę śmierci i śp. Celinę i Anielę KIRYLUK
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* *17.15   Gorzkie Żale*
+* 18.00   w 18.rocznicę urodzin Wiktora KOWALCZYKA
+
+**Wielki Poniedziałek, 25 marca,**
+
+* 7.00    + za śp. Tadeusza MACHAŁOWSKIEGO w miesiąc po pogrzebie
+* 18.00    Podziękowanie i prośba o przyjęcie i stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością   Miłości Miłosiernej we wszystkich rodzinach
+
+**Wielki Wtorek, 26 marca,**
+
+* 7.00    + za śp. Ryszarda
+* 18.00    + za śp. Irenę SZCZUCIŃSKĄ w 6.rocznicę śmierci
+* *18.30 – 22.00    Wieczór spowiedzi*
+
+**Wielka Środa, 27 marca,**
+
+* 7.00    + za śp. Franciszka, Zofię, Sławomira, Marię, Jadwigę i Czesława
+* 18.00    + za śp. Stanisławę i Alfreda CZAPSKICH i ich rodziców
+
+**Wielki Czwartek Wieczerzy Pańskiej, 28 marca,**
+
+* 19.00   Liturgia Wieczerzy Pańskiej
+
+**Wielki Piątek Męki Pańskiej, 29 marca,**
+
+* 19.00    Liturgia Męki Pańskiej  
+
+**Wielka Sobota, 30 marca,**
+
+* 21.00   Wigilia Paschalna
+
+**Niedziela Zmartwychwstania Pańskiego, 31 marca,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Marię i Jerzego WĄSOWSKICH
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za sp. Krystynę ZASŁONKĘ
+  * za śp. Halinę ZYZDRÓJ
+  * za śp. Barbarę WOJTYŁĘ
+  * za dusze w czyśćcu cierpiące
+* 12.00   + w 20.rocznicę śmierci Pawła PRUSKIEGO oraz jego rodziców z obydwu stron
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   + za śp. Krystiana OSMÓLSKIEGO w 4.rocznicę śmierci
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **V Niedziela Wielkiego Postu, 17 marca**
 
 * 7.00   za parafian
