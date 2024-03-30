@@ -14,6 +14,6 @@ W Noc Paschalną ta dobra Nowina brzmi z mocą! I ona jest źródłem nowej nadz
 
 Wszystkim Parafianom i Przyjaciołom Parafii z całego serca życzymy, by tegoroczna Wielkanoc otwierała Wasze serca na Tego, który zmartwychwstał, by każdy z nas z Nim mógł zmartwychwstać… do życia pełnią Życia! Do życia, które ma smak i sens już tu na tej ziemi, a zapowiada pełnię, do której droga już jest otwarta! 
 
-O. Adam z Ekipą Parafii pw. Opatrzności Bożej w Warszawie-Wesołej  
+O. Adam, o. Clement, s. Kasia, Agnieszka i Marek i ks. Krzysztof
 
 <!--EndFragment-->
