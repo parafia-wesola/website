@@ -4,7 +4,7 @@ title: "ŻYCZENIA WIELKANOCNE "
 date: 2024-03-30T11:17:53.564Z
 eventDate: ""
 author: parafia wesoła
-cover: resurrection2recadree.jpg
+cover: zdjecie_zyczenia.jpg
 ---
 <!--StartFragment-->
 
