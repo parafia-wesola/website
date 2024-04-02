@@ -5,6 +5,8 @@ news:
   - size: large
     title: "ŻYCZENIA WIELKANOCNE "
   - size: large
+    title: Spotkanie dla kobiet - Zasłuchana i zapracowana
+  - size: large
     title: Triduum Paschalne 2024
   - size: large
     title: Tymoteusz-posługa
