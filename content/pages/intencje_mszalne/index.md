@@ -2,6 +2,69 @@
 type: text
 title: Intencje mszalne
 ---
+**II Niedziela wielkanocna – Miłosierdzia Bożego, 7 kwietnia, *uroczystość***
+
+* 7.00   za parafian
+* 9.00    + za śp. Barbarę FIGURSKĄ oraz Pelagię MACIĄŻEK
+* 10.30    intencja zbiorowa:
+
+  * w 18 urodziny Wiktora
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * w rocznicę chrztu Kamila z prośbą o Boże błogosławieństwo
+  * za śp. Zbigniewa i Radosława FUCHS oraz zmarłych z rodziny FUCHS i STAŃCZAK
+  * za śp. Janinę KROPIWIEC i Reginę KOZAK  oraz zmarłych z rodziny KROPIWIEC i OSTAPIUK
+  * za śp. Barbarę PODNIESIŃSKĄ
+  * za śp. Barbarę WOJTYŁĘ, ukochaną mamę i babcię
+  * za dusze w czyśćcu cierpiące
+* 12.00   + w kolejne rocznice śmierci Stanisławy, Wacławy i Tadeusza GOSKÓW oraz zmarłych z rodziny      KACZAWÓW
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   + za śp. Ryszarda ROLĘ
+* 18.00  + za śp. Elżbietę i Zbigniewa STROJNYCH (w rocznice śmierci)
+* *19.15   Wieczór uwielbienia Bożego Miłosierdzia*
+
+**Poniedziałek, 8 kwietnia, Zwiastowanie Pańskie, *uroczystość***
+
+* 7.00    dziękując za dar stworzenia prosimy o wytrwałość w walce z  pożądliwością
+* 18.00    + za śp. Władysławę WIELGO w 23.rocznicę śmierci oraz za Franciszka i Marię
+* 18.00    Msza w intencji Wspólnoty Zwiastowanie (w święto patronalne)
+
+**Wtorek, 9 kwietnia,**
+
+* 7.00    dziękując za  małżeństwo prosimy o uzdrowienie relacji małżeńskich
+* 18.00    + za śp. Barbarę PIWOWARCZYK w 1.rocznicę śmierci
+
+**Środa, 10kwietnia,**
+
+* 7.00    + za śp. Zofię
+* 18.00    + za śp. Stanisława PEŁKĘ w 4.rocznicę śmierci i zmarłych z rodziny PEŁKÓW i LEWANDOWSKICH
+
+**Czwarte, 11 kwietnia,**
+
+* 7.00     dziękując za bliźnich prosimy o światło dla rozeznających swoje powołanie
+* 18.00   + za śp. Łukasza, Ryszarda, Stanisława i Zygmunta KUROWSKICH
+
+**Piątek, 12 kwietnia,**
+
+* 7.00     za śp. Mirosława
+* 18.00    + za śp. Teresę i Jerzego PIETRZAKÓW o łaskę życia wiecznego
+
+**Sobota, 13 kwietnia,**
+
+* 7.00       + za śp. Krystynę ZASŁONKĘ w miesiąc po pogrzebie
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00    + za śp. Stanisława FAJFERA i dusze w czyśćcu cierpiące
+
+**III Niedziela wielkanocna, 14 kwietnia,**
+
+* 7.00   podziękowanie za 6.rocznicę ślubu Ewy i Krzysztofa z prośbą o Boże błogosławieństwo dla rodziny
+* 9.00    + za śp. Wacławę, Albina i Tadeusza KOSYLÓW oraz zmarłych z rodziny
+* 10.30    za parafian
+* 12.00   w 22.rocznicę urodzin Mateusza
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   + o życie wieczne dla śp. Marcina PIOTROWSKIEGO w 3.rocznicę śmierci
+
+<!--EndFragment-->
+
 <!--StartFragment-->
 
 **Niedziela Palmowa Męki Pańskiej, 24 marca,**
