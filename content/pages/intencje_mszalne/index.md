@@ -2,6 +2,70 @@
 type: text
 title: Intencje mszalne
 ---
+<!--StartFragment-->
+
+**III Niedziela wielkanocna, 14 kwietnia,**
+
+* 7.00   podziękowanie za 6.rocznicę ślubu Ewy i Krzysztofa z prośbą o Boże błogosławieństwo dla rodziny
+* 9.00    + za śp. Wacławę, Albina i Tadeusza KOSYLÓW oraz zmarłych z rodziny
+* 10.30    za parafian
+* 12.00   w 22.rocznicę urodzin Mateusza
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   + o życie wieczne dla śp. Marcina PIOTROWSKIEGO w 3.rocznicę śmierci
+
+**Poniedziałek, 15 kwietnia,**
+
+* 7.00    + za śp. Teresę i Zdzisława PANUFNIK
+* 18.00    + za śp. Stanisława POPOWSKIEGO w 19.rocznicę śmierci
+
+**Wtorek, 16 kwietnia,**
+
+* 7.00    + za śp. Halinę KOZDRÓJ w miesiąc po pogrzebie
+* 18.00    + za śp. Mirosława JANICKIEGO w 2.rocznicę śmierci
+
+**Środa, 17 kwietnia,**
+
+* 7.00    dziękując za to, że możemy tu stać, prosimy o mądrość i wytrwałość w nawracaniu się
+* 18.00    + za śp. Marka KAZIMIERCZAKA
+
+**Czwartek, 18 kwietnia,**
+
+* 7.00     + o łaskę Nieba dla śp. Mariusza
+* 18.00   + za śp. Bogumiłę i Andrzeja BAKIERÓW
+
+**Piątek, 19 kwietnia,**
+
+* 7.00     + o spokój duszy dla śp. księdza Zbigniewa WOJCIECHOWSKIEGO
+* 18.00    w intencji małżeństw w kryzysie
+
+**Sobota, 20 kwietnia,**
+
+* 7.00       w 50.rocznicę ślubu Marii i Kazimierza RADZIKOWSKICH jako podziękowanie za otrzymane łaski\
+  z prośbą o Boże błogosławieństwo
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00    w 45.rocznicę ślubu Małgorzaty i Janusza SKŁADANEK
+
+**IV Niedziela wielkanocna – Dobrego Pasterza, 21 kwietnia,**
+
+* 7.00   za parafian
+* 9.00   
+* 10.30    intencja zbiorowa:
+
+  * dziękczynno-błagalna w rocznicę urodzin Anny i Karoliny
+  * o światło i dary Ducha Świętego dla Dawida i Judyty
+  * za śp. Jerzego GROMKA w 7.rocznicę śmierci
+  * za śp. Stefanię WIECZOREK, Stanisława i Władysława
+  * za śp. Wojciecha KLIMASZEWSKIEGO w 9.rocznicę śmierci i zmarłych z rodziny KLIMASZEWSKICH, NIZIOŁKÓW i SĘKALI
+  * za śp. Ryszarda DUSZYŃSKIEGO
+  * za śp. Anielę JAGIELSKĄ
+  * za śp. Annę SZCZYPÓR
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Wojciecha, Stanisława, Józefę i Stefana SZCZEPEK oraz Eugeniusza MROCZKA
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   + w 2.rocznicę śmierci Michała ŚLIWONIA
+
+<!--EndFragment-->
+
 **II Niedziela wielkanocna – Miłosierdzia Bożego, 7 kwietnia, *uroczystość***
 
 * 7.00   za parafian
