@@ -4,6 +4,78 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**IV Niedziela wielkanocna – Dobrego Pasterza, 21 kwietnia,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Kazimierę i Marka RYTLÓW oraz za zmarłych z rodziny
+* 10.30    intencja zbiorowa:
+
+  * dziękczynno-błagalna w rocznicę urodzin Anny i Karoliny
+  * o światło i dary Ducha Świętego dla Dawida i Judyty
+  * za śp. Jerzego GROMKA w 7.rocznicę śmierci
+  * za śp. Stefanię WIECZOREK, Stanisława i Władysława
+  * za śp. Wojciecha KLIMASZEWSKIEGO w 9.rocznicę śmierci i zmarłych z rodziny KLIMASZEWSKICH, NIZIOŁKÓW i SĘKALI
+  * za śp. Ryszarda DUSZYŃSKIEGO
+  * za śp. Anielę JAGIELSKĄ
+  * za śp. Annę SZCZYPÓR
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Wojciecha, Stanisława, Józefę i Stefana SZCZEPEK oraz Eugeniusza MROCZKA
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   + w 2.rocznicę śmierci Michała ŚLIWONIA
+
+**Poniedziałek, 22 kwietnia,**
+
+* 7.00    + za śp. Barbarę WOJTYŁĘ  w miesiąc po pogrzebie
+* 18.00    + za śp. Krystynę, Henryka i Zygmunta KRASOWSKICH
+
+**Wtorek, 23 kwietnia, Św. Wojciecha, biskupa i męczennika, głównego patrona Polski, *uroczystość***
+
+* 7.00    o szczęśliwa operacje dla osoby Bogu wiadomej
+* 18.00    + za śp. Wojciecha i Barbarę KOTERBA oraz za śp. Czesławę i Ryszarda KOTERBA
+
+**Środa, 24 kwietnia,**
+
+* 7.00    + za sp. Jadwigę i Józefa SZANIKOWSKICH
+* 18.00    + w 2.rocznicę śmierci Stanisława SADOWSKIEGO i zmarłych z rodziny MUCHÓW i SADOWSKICH
+
+**Czwartek, 25 kwietnia, Św. Marka , ewangelisty, *święto***
+
+* 7.00
+* 18.00   Podziękowanie i prośba o stałą obecność Najświętszej Rodziny z Nazaretu jaśniejącej światłością Miłości       Miłosiernej we wszystkich rodzinach
+
+**Piątek, 26 kwietnia,**
+
+* 7.00   
+* 18.00    w 27.rocznicę ślubu Elżbiety i Mariusza Olczaków o Boże błogosławieństwo dla całej rodziny
+
+**Sobota, 27 kwietnia,**
+
+* 7.00   + za śp. Barbarę PODNIESIŃSKĄ w miesiąc po pogrzebie
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00    + za śp. Jana ŚLEDZIEWSKIEGO
+
+**V Niedziela wielkanocna, 28 kwietnia,**
+
+* 7.00   za Martynę w dniu urodzin o potrzebne łaski, Boże prowadzenie i Boże błogosławieństwo
+*  9.00    + za śp. Tadeusza ZDANOWICZA  w 6.rocznicę śmierci
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Dawida i Judyty
+  * za śp. Janinę ZIELIŃSKĄ oraz za Stanisława i Mariana ZIELIŃSKICH
+  * za śp. Kazimierza SIATKOWSKIEGO
+  * za śp. Irenę i Stanisława CEGŁA, Józefę i Stefana DĄBROWSKICH oraz za śp. Alicję i Zbigniewa SZYMAŃSKICH
+  * za śp. Elżbietę BERCZYŃSKĄ
+  * za śp. Zofię, Czesława i Mariana GŁOCHOWSKICH
+  * za śp. Marka GRABSKIEGO i za zmarłych z rodziny
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   + za śp. Krzysztofa, Pawła RAKOWIECKICH i za zmarłych rodziców i teściów
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **III Niedziela wielkanocna, 14 kwietnia,**
 
 * 7.00   podziękowanie za 6.rocznicę ślubu Ewy i Krzysztofa z prośbą o Boże błogosławieństwo dla rodziny
