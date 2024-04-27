@@ -3,13 +3,11 @@ type: newsfeed
 title: Dzieje się
 news:
   - size: large
+    title: droga światła
+  - size: large
     title: Dar serca - renowacja witraży w kościele
   - size: large
     title: "ŻYCZENIA WIELKANOCNE "
-  - size: large
-    title: posługa weekendu Tymoteusz
-  - size: large
-    title: Spotkanie dla kobiet - Zasłuchana i zapracowana
   - size: large
     title: 1 Komunia Święta 2023-2024
   - size: large
