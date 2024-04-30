@@ -4,6 +4,83 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**V Niedziela wielkanocna, 28 kwietnia,**
+
+* 7.00   za Martynę w dniu urodzin o potrzebne łaski, Boże prowadzenie i Boże błogosławieństwo
+* 9.00    + za śp. Tadeusza ZDANOWICZA  w 6.rocznicę śmierci
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Dawida i Judyty
+  * w dniu 65.rocznicy urodzin Pawła dziękując Bogu za dar życia
+  * za śp. Janinę ZIELIŃSKĄ oraz za Stanisława i Mariana ZIELIŃSKICH
+  * za śp. Kazimierza SIATKOWSKIEGO
+  * za śp. Irenę i Stanisława CEGŁA, Józefę i Stefana DĄBROWSKICH oraz za śp. Alicję i Zbigniewa SZYMAŃSKICH
+  * za śp. Elżbietę BERCZYŃSKĄ
+  * za śp. Zofię, Czesława i Mariana GŁOCHOWSKICH
+  * za śp. Marka GRABSKIEGO i za zmarłych z rodziny
+  * za śp. Bronisławę ZASTAWNĄ w 13.rocznicę śmierci, Aleksandra i Jana  i śp. Adama GADOMSKIEGO
+  * za dusze w czyśćcu cierpiące
+* 12.00   za parafian
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   + za śp. Krzysztofa i Pawła RAKOWIECKICH oraz za zmarłych rodziców i teściów\
+  ( w modlitwie wiernych za Agnieszkę i Jacka w 15 r. ślubu )
+
+**Poniedziałek, 29 kwietnia, Św. Katarzyny Sieneńskiej, dziewicy i doktora Kościoła, patronki Europy*, święto***
+
+* 7.00   
+* 18.00    w 35.rocznicę ślubu Jolanty i Bogdana
+
+**Wtorek,  30 kwietnia,**
+
+* 7.00   
+* 18.00    o  błogosławieństwo Boże dla Elżbiety i Andrzeja w 41.rocznicę ślubu
+
+**Środa, 1 maja,**
+
+* 7.00    + za śp. Łucję
+* 18.00    + za śp. Bronisława KIERUZALA w 20.rocznicę śmierci
+
+**Czwartek, 2 maja, Św. Atanazego , biskupa i doktora Kościoła, *wspomnienie***
+
+* 7.00
+* 18.00   + za śp. ks. Antoniego RUTKOWSKIEGO w rocznicę śmierci, pierwszego proboszcza parafii Opatrzności Bożej
+
+ **Piątek, 3 maja, Najświętszej Maryi Panny, Królowej Polski, głównej patronki Polski, *uroczystość***
+
+* 7.00    + za śp. Mirosława i Macieja MORAWSKICH
+* 10.30    + za śp. Barbarę WĄSOWSKĄ
+* 18.00    w intencji dziękczynnej
+
+**Sobota, 4 maja, Św. Floriana, męczennika, patrona diecezji warszawsko-praskiej, *wspomnienie***
+
+* 7.00   o światło i dary Ducha Świętego dla Judyty
+* 7.00     w intencji K.Ż.R.
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00    w intencji młodzieży przyjmującej Sakrament Bierzmowania
+
+**VI Niedziela wielkanocna, 5 maja,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Józefa i Eugenię BRZOSTOWSKICH oraz śp. Mariana GNIAZDOWSKIEGO
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Dawida i Judyty
+  * dziękuje Bogu Henryka za przeżyte lata i prosi o błogosławieństwo dla całej rodziny
+  * w 7.rocznicę śmierci ks. prałata Stefana
+  * za śp. Zofię STODOLSKĄ w dniu jej 1.rocznicy śmierci
+  * za śp. Stanisławę i całą rodzinę KAŁASZA
+  * za sp. Bożenkę KOSEWSKĄ i jej matkę Zofię KOSEWSKĄ w 2.rocznicę śmierci
+  * za śp. Marcina PRZYBYŁKA
+  * o niebo dla Stanisławy i Jana HABRÓW oraz za dusze w czyśćcu cierpiące
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Waldemara NOWIKOW
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   o zdrowie i pomyślny przebieg operacji dla Beaty
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **IV Niedziela wielkanocna – Dobrego Pasterza, 21 kwietnia,**
 
 * 7.00   za parafian
@@ -57,7 +134,7 @@ title: Intencje mszalne
 **V Niedziela wielkanocna, 28 kwietnia,**
 
 * 7.00   za Martynę w dniu urodzin o potrzebne łaski, Boże prowadzenie i Boże błogosławieństwo
-*  9.00    + za śp. Tadeusza ZDANOWICZA  w 6.rocznicę śmierci
+* 9.00    + za śp. Tadeusza ZDANOWICZA  w 6.rocznicę śmierci
 * 10.30    intencja zbiorowa:
 
   * o światło i dary Ducha Świętego dla Dawida i Judyty
