@@ -4,6 +4,73 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**VI Niedziela wielkanocna, 5 maja,**
+
+* 7.00   za parafian
+* 9.00    + za śp. Józefa i Eugenię BRZOSTOWSKICH oraz śp. Mariana GNIAZDOWSKIEGO
+* 10.30    intencja zbiorowa:
+
+  * o światło i dary Ducha Świętego dla Dawida i Judyty
+  * Henryka dziękuje Bogu za przeżyte lata i prosi o błogosławieństwo dla całej rodziny
+  * w 7.rocznicę śmierci ks. prałata Stefana
+  * za śp. Zofię STODOLSKĄ w dniu jej 1.rocznicy śmierci
+  * za śp. Stanisławę i całą rodzinę KAŁASZA
+  * za śp. Bożenę KOSEWSKĄ i jej matkę Zofię KOSEWSKĄ w 2.rocznicę śmierci
+  * za śp. Marcina PRZYBYŁEK
+  * o niebo dla Stanisławy i Jana HABER oraz za dusze w czyśćcu cierpiące
+  * za śp. Apolonię i Franciszka
+  * za śp. Irenę OBRĘPALSKĄ
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Waldemara NOWIKOW
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   o zdrowie i pomyślny przebieg operacji dla Beaty oraz o zdrowie dla Magdy
+
+**Poniedziałek, 6 maja, Św. Apostołów Filipa i Jakuba*, święto***
+
+* 7.00    + za śp. Ryszarda DUSZYŃSKIEGO w miesiąc po pogrzebie
+* 18.00    + za śp. Tadeusza DOMAŃSKIEGO
+
+**Wtorek,  7 maja,**
+
+* 7.00    + za śp. Stanisławę i Władysława oraz Mariannę i Stanisława
+* 18.00    msza wypominkowa
+
+**Środa, 8 maja, Św. Stanisława, biskupa i męczennika, głównego patrona Polski, *uroczystość***
+
+* 7.00    + za śp. Stanisławę i Aleksandra GŁÓWKA
+* 18.00    + za śp. Stanisława i Stefanię SZYMAŃCZAK
+* 18.00    w 20.rocznicę ślubu Kostka i Emilki CZARTORYSKICH
+
+**Czwartek, 9 maja,**
+
+* 7.00    + za śp. Anielę JAGIELSKĄ w miesiąc po pogrzebie
+* 18.00   + za śp. Mieczysława CZARNOCKIEGO w 8.rocznicę śmierci, za Stefanię, Mariana, Mariannę i Michała       PIEŃKOWSKICH oraz Rozalię TROĆ i Edwarda CZARNOCKIEGO
+
+**Piątek, 10 maja,**
+
+* 7.00    + za śp. Annę SZCZYPIÓR w miesiąc po pogrzebie
+* 18.00    + za śp. Stanisława i Zofię IZDEBSKICH
+
+**Sobota, 11 maja, Św. Floriana,**
+
+* 7.00     + za śp. Stanisława WYSOKIŃSKIEGO
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00    + za śp. Annę BRANICKĄ w 1.rocznicę śmierci
+
+**VII Niedziela wielkanocna, 5 maja, Wniebowstąpienie Pańskie, *uroczystość***
+
+* 7.00   + za śp. Zofię i Józefa RAWSKICH oraz za zmarłych z rodziny RAWSKICH, SOBOCIŃSKICH\
+            i CHROSTOWSKICH
+* 9.00    + za śp. Wandę, Mariana i Jana SKIBNIEWSKICH
+* 10.30    za parafian
+* 12.00   + za śp. Mieczysława w 29.rocznicę śmierci oraz za śp. Marię i Barbarę
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   + za śp. Stanisława WYSOKIŃSKIEGO
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **V Niedziela wielkanocna, 28 kwietnia,**
 
 * 7.00   za Martynę w dniu urodzin o potrzebne łaski, Boże prowadzenie i Boże błogosławieństwo
