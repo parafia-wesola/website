@@ -4,6 +4,71 @@ title: Intencje mszalne
 ---
 <!--StartFragment-->
 
+**VII Niedziela wielkanocna, 12 maja, Wniebowstąpienie Pańskie, *uroczystość***
+
+* 7.00   
+* 9.00    + za śp. Wandę, Mariana i Jana SKIBNIEWSKICH
+* 10.30    za parafian
+* 12.00   *w kaplicy:* + za śp. Mieczysława w 29.rocznicę śmierci oraz za śp. Marię i Barbarę
+* 12.30   *w kościele:* za dzieci przeżywające Rocznicę Pierwszej Komunii św.
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   + za śp. Stanisława WYSOKIŃSKIEGO
+
+**Poniedziałek, 13 maja,**
+
+* 7.00    + za śp. Annę SZCZYPIÓR (od Beaty i Łukasza z rodziną z Rawy Wyżnej)
+* 18.00    + za śp. Barbarę PODNIESIŃSKĄ (od rodziny Kudelskich)
+
+**Wtorek,  14 maja, Św. Macieja, apostoła, *święto***
+
+* 7.00    + za śp. Bogumiłę
+* 18.00    Jubileusz 50-lecia Koła Różańcowego z Woli Grzybowskiej, za żyjących i zmarłych oraz za śp. ks. prałata    Stefana
+
+**Środa, 15 maja,**
+
+* 7.00    + za śp. Annę SZCZYPIÓR (od Marii i Stefana Bogdał z rodziną z Nowego Targu)
+* 18.00    + za śp. Irenę RĘBIEJEWSKĄ w 21.rocznicę śmierci
+
+**Czwartek, 16 maja, Św. Andrzeja Boboli, prezbitera i męczennika, patrona Polski i metropolii warszawskiej,                    *uroczystość***
+
+* 7.00    + za śp. Annę SZCZYPIÓR (od Marcina z Rawy Wyżnej)
+* 18.00   + za śp. Ryszarda DUSZYŃSKIEGO
+
+**Piątek, 17 maja,**
+
+* 7.00    + za śp. Annę SZCZYPIÓR
+* 18.00    w intencji małżeństw w kryzysie
+
+**Sobota, 18 maja,**
+
+* 7.00       + za śp. Elżbietę BERCZYŃSKĄ w miesiąc po pogrzebie
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00    + za śp. Marcela SZCZUCIŃSKIEGO w 12.rocznicę śmierci
+
+ **Niedziela Zesłania Ducha Świętego, 19 maja, *uroczystość***
+
+* 7.00   za parafian
+* 9.00    + za śp. Stanisława i Teodorę BAREJÓW oraz za zmarłych z rodziny BAREJÓW i TARASZEWSKICH
+* 10.30    intencja zbiorowa:
+
+  * o szczęśliwe rozwiązanie i błogosławieństwo Św. Rodziny w 30.rocznicę urodzin Klaudii
+  * o światło i dary Ducha Świętego dla Judyty i Dawida
+  * za śp. Maję SIENKIEWICZ
+  * za śp. Annę, Stefana i Marka GAWRYSIÓW
+  * za śp. Jerzego PUCHALSKIEGO
+  * za śp.. Bohdana GADOMSKIEGO
+  * za śp. Mirosławę ŻURAWSKĄ
+  * za śp. Dominika WEREMIUKA
+  * za śp. Mariannę i Stanisława REZULSKICH w rocznicę śmierci
+  * za dusze w czyśćcu cierpiące
+* 12.00   + za śp. Janusza KURKA i jego zmarłych rodziców
+* *15.00    Adoracja Najświętszego Sakramentu*     
+* 18.00   + za śp. Zofię i Tadeusza KOŚCIESZÓW
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 **VI Niedziela wielkanocna, 5 maja,**
 
 * 7.00   za parafian
